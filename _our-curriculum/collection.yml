@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - SAP Programme.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
@@ -11,3 +10,4 @@ collections:
       - Ldrship Character Development/The YLEAD Seminar.md
       - Ldrship Character Development/RVMUN.md
       - Civic Literacy and Global Awareness Development.md
+      - SAP Programme.md
