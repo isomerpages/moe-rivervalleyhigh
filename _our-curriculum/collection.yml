@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Civic Literacy and Global Awareness Development.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
@@ -10,3 +9,4 @@ collections:
       - Ldrship Character Development/Co Curricular Activities Curriculum.md
       - Ldrship Character Development/The YLEAD Seminar.md
       - Ldrship Character Development/RVMUN.md
+      - Civic Literacy and Global Awareness Development.md
