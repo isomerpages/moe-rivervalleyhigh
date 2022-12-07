@@ -53,4 +53,15 @@ Lim Zhi Yan (2017)</center>
 <center>Lai Sin Yee (Class of 2018)<br>
 Tan Yu Jia (Class of 2015)</center>
 
+_The LHLA-OBS is presented to up to three outstanding students in the Bicultural Special Programme (Chinese) \[BSP(C)\]. The award underpins the strategic importance of developing a core group of students who are able to engage China as well as relate to the West._
+
+---- 
+
+<center><b>NSF of the Year 2018</b><br>
+Christopher Goh Zhen Fung (Class of 2016)</center>
+
+<center><b>NSF of the Year 2019</b><br>
+CFC Chia Zhen You (Class of 2016)</center>
+
+
 	
