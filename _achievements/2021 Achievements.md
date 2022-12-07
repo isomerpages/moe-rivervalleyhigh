@@ -19,8 +19,8 @@ description: ""
 | **Designing with TI Graphing**<br>**Calculators Competition** | **Silver Award**<br>Valeska Loh Yuan Ru (21J20)<br><br>**Bronze Award**<br>Damian Liew Cho Xiang (4C) |
 | **Future Economic Forum Conference** | **Best Position Paper Outstanding Delegate**<br>Joey Peh (20J14)<br><br>**Outstanding Delegate**<br>Samuel Luther Ang (20J20)<br><br>**Honourable Mention**<br>Jeremiah He Shuo (20J16)<br>Tan Liang Rong (20J20)<br><br>**Verbal Commendation**<br>Vanessa Tan (20J12) |
 | **Global Geopolitics Conference** | On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br>**2nd Placing for Best Delegation**<br>River Valley High School<br><br>**Best Delegate**<br>Tan Liang Rong (20J20)<br><br>**Best Position Paper**<br>Tang Jiaxi (20J18)<br><br>**Outstanding Delegate**<br>Ngieng Xin Yi (21J17)<br>Goh Jun Yu (4B) |
-|  |  |
-|  |  |
+| **NUS STEP Environment Camp 2021** | **3rd Prize for Environment Poster:**  <br>Lai Xin Ling (21J02)  <br>Zeng Chuwen (21J08)  <br>Tan Wen Rong (21J08)  <br>Ng Kai Wen Karin (21J19)  <br>Chen Zhe  (21J08) |
+| **NUS Geography Challenge** | **Gold Medal**<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E) |
 |  |  |
 |  |  |
 |  |  |
