@@ -122,3 +122,19 @@ third_nav_title: Scholarship Recipients
 
 **李欣融**<br>
 **Winnis Lee Xin Rong**<br clear=left>
+
+#### 2020 Singapore Industry  Scholarships
+
+**Jay Lee Chor Yow** <br>
+**Dilys Chow Yun Hui** <br>
+**Beh Ming Jun** <br>
+**Yeo Yih Tng** <br>
+**Lim Si Ying**
+
+#### 2020 Land Transport Authority Scholarship
+
+**Chan Kah Leong**  
+
+#### 2020 Federation of Chinese Clan Association Scholarship
+
+**Pek Ning Xuan**
