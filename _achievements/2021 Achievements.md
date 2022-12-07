@@ -90,9 +90,9 @@ description: ""
 | **British Physics Olympiad 2020** | **1 Top  Gold Award** <br>Yang Jingxiang (21J11)<br><br>**3 Bronze I Awards**  <br>Low Voon Bin Robin (20J07)  <br>Lee Chong Rui (20J08)  <br>Ho Wan Sing (20J12)  <br><br>**6 Bronze II Awards**  <br>Kuo Ruey Shiuan (21J08)  <br>Daniel Guan Jiaxiang (21J10)  <br>Liang Shuang (21J18)  <br>Liew Song Ying (20J08)  <br>Wang Yuchen (20J12)  <br>Yang Yujun (20J15)<br><br>**9 Commendation Awards**  <br>Lin Jianping (21J01)  <br>Soh Jun Peng Jayron (21J01)  <br>Chai Hao Yuan (21J08)  <br>Ryan Ang Zhi Xiang (21J08)  <br>Joyden Choo Le Ian (21J10)  <br>Daryl Nah (21J11)  <br>Wang Jingtao (21J11)  <br>Tang Yuheng (21J17)  <br>So Jun Ming Randall (21J18) |
 | **Singapore University of Technology & Design: 3D Printing & Design Innovation Challenge 2020** | **Local School Student Category**<br>**(Theme: Educational Tools)**<br>**Top Prize ($5000)**<br>Da Ruolin (20J06)<br>Yang Yujun (20J15)<br><br>**Runner Up ($2500)**<br>Cheng Jiajun (19J07) |
 | **Build On, ASEAN Online Hackathon**<br>**(Organised by Amazon Web Services)** | **Carousell (Singapore) (Junior) Category:**<br>**1st Runner Up**<br>Rayner Sim Zhi Heng (4A)<br>Damian Liew Cho Xiang (4C)<br>Samuel Then Shi Jie (21J11) |
-|  |  |
-|  |  |
-|  |  |
+| **Young Defence Scientists**<br>**Programme Science &**<br>**Technology Camp Competition** | **Champion (Team)**<br>Chen Qingyuan (3C)<br>Sia Hao Rui (3I)<br>Ong Yi Qian (3I)<br>Chan Xing Yu, James (3I) |
+| **\[E\] Other Involvements** |  |
+| **National University of Singapore  (NUS) Electrical & Computer Engineering Principles & Practice I (EE1111) Module**<br>**(offered by NUS** <br>**Department of Electrical &** <br>**Computer Engineering,** <br>**Faculty of Engineering)** |  |
 |  |  |
 |  |  |
 |  |  |
