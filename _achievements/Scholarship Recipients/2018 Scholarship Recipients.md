@@ -28,3 +28,20 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 
 #### Singapore Armed Forces Overseas Scholarship
 
+<img src="/images/Eugene_chia.jpg" style="width:49%" align=left><br><br><br>
+
+**Eugene Chia Guole**<br clear=left>
+
+#### Public Service Commission Scholarship
+
+<img src="/images/PSC_scholar.jpg" style="width:60%" align=left>
+
+**Jocelyn Wong**<br>
+**Tan Seet Ynn**<br>
+**Tseng Fan Shuen**<br>
+**Stefan Liew Jing Rui**<br>
+**Nicolle Ng Hui Min**<br>
+**Eugene Chia Guole**<br clear=left>
+
+#### Ministry of Defence Scholarship
+
