@@ -59,10 +59,10 @@ description: ""
 | **Young Defence Scientists  <br>Programme Scholarship** | Khow Willard (3A)<br>Chan Xing Yu, James (3I) |
 | **Defence Science & Technology  <br>Agency Junior College Scholarship** | Gan Chee Joon (21J08)<br>Siow Jia Wei (21J11) |
 | **Centre For Strategic** <br>**Infocomm Technologies**<br>**(CSIT) Computing Scholarship** | **2 JC1 students won the CSIT Computing Scholarship, a new award which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry. The scholarship includes an annual allowance of $1,000, tenable for two years as well as a course certification and learning programme allowance of $1,000**<br>Zhou Zehao (21J15)<br>Joshua Chin Wei Jie (21J15) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **\[B\] International Programmes** |  |
+| **Shanghai International Youth  <br>Science & Technology Expo  <br>(Online) 2020**<br>**\[上海国际青少年科技博览会 (云端展会)\]** | **3 Excellent Display Awards \[优秀展示奖\] (Team)**<br>Lee Kang Tian (4B)<br>Wong Kang Lim (4C)<br>Lee Jing Peng (4I)<br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)<br>Jonathan Chew Jian Pin (20J10)<br>Chua Yong Liang (20J10)<br><br>**Most Popular Sci-Tech Innovation Work Award**<br>**\[青少年创新成果展人气奖\] (Team)**<br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13) |
+| **Singapore International  <br>Science Challenge** | **Outstanding Young Scientist Award** <br>Jonathan Chew Jian Pin (20J10) <br> <br>**Overall 1st Runner Up (Field Challenge and Design & Build Challenge)** <br>Jonathan Chew Jian Pin (20J10) |
+| **International Elementz**<br>**Science Fair**<br>**(organised by Anderson** <br>**Serangoon Junior College)** | **3 Gold Awards (1 Individual + 2 Teams)**<br>Chelsea Chan Li Xin (20J05)<br>Sampson Bong<br>Shung Hoong (20J06)<br>Chua Yong Liang (20J10)<br>Jonathan Chew Jian Pin (20J10)<br>Wang Zixun (20J15)<br><br>**1 Silver Award (1 Team)**  <br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br>**1 Bronze Award (1 Individual)**<br>Tricia Boo Koh Wei Ping (20J10)<br><br>**1 Commendation Award (1 Team)**<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08) |
 |  |  |
 |  |  |
 |  |  |
