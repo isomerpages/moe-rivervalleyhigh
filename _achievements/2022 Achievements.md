@@ -38,8 +38,8 @@ description: ""
 
 | Name of Competition / Event | Achievement / Name of Recipient |
 |:---:|---|
-|  |  |
-|  |  |
+| 22nd Singapore Biology Olympiad | Ang Cheng Ze (21J13) Merit<br>Belle Tey Jing Yi (21J05) Merit<br>Ee En Xi Clarissa (21J13) Merit<br>Gong Yongjia (21J04) Merit<br>Lee Jun Wei Travis (21J13) Merit<br>Lee Xin Bei (21J06) Merit<br>Tay Yu Xun (21J03) Merit<br>Wang Jia Xin (21J02) Merit<br>Zhu Qi (21J03) Merit<br>Zixuan Yeo (21J06) Merit |
+| 33rd Singapore Chemistry Olympiad |  |
 |  |  |
 |  |  |
 |  |  |
