@@ -19,12 +19,12 @@ description: ""
 | SUTD Sustainable Design Hack 2022 | **Honourable Mention:**<br> Alysa Chua Yu Xuan (21J05)<br> Tan Sze Hui (21J16)<br> Chloe Tan Zhi Ying (21J18) |
 | NUS STEP Environment Camp 2021 | **3rd Prize for Environment Poster:**<br>Lai Xin Ling (21J02)<br>Zeng Chuwen (21J08)<br>Tan Wen Rong 21J08<br>Ng Kai Wen Karin 21J19 |
 | 2021全国中学生编采比赛（推广学习华文委员会，《联合早报》学生报《逗号》，新民中学和民情联系组（Reach）联办）<br><bR>获得2021年编采比赛的奖项（金奖、一二三等奖、表扬奖）<br><bR>低年级组《迈相新生活　相往新声命》<br><br>高年级组《40年的交响曲》 | 叶睿宁 （中二A）<br>陈姿君 （中二A）<br>林钰琳 （中二F）<br>林子滏 （中二F）<br>陈筱柔 （中二I）<br><br><br><br>薛茹惠 （中四B）<br>吴俊宇 （中四B）<br>许锦峰 （中四B）<br>李康田 （中四B）<br>陈可欣 （中四E） |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| The Lee Kuan Yew Award for All-Round Excellence (Secondary Section) | Gan Xi Yee (22J08) |
+| The Lee Hsien Loong Award for Outstanding<br>Bicultural Students (Bicultural Studies Programme) | Yeo Wei Shain (20J18) |
+| Singapore Mathematical Society Essay Competition | **Category C Honourable Mention**  <br>Krystal Pek Ke Yun (21J11)  <br>Li Yutong (21J11)  <br>Liao Li Jing (21J17) |
+| 第十四届 “怡和轩华文书籍奖“ Ee Hoe Hean Book Prize 2022 | 优秀奖  <br>张卉昕 Cindy Zhang Huixin (22J16)  <br>表扬奖  <br>颜熙愉 Gan Xi Yee (22J08)  <br>表扬奖  <br>唐筱彤 Tang Xiao Tong, Chris (22J14) |
+| 第十八届特选中学幼苗论文计划18th SAP  <br>Mentorship Programme | 最佳呈献奖  <br>陈子贤 Jordan Tan Zi Xian (3B)  <br>苏明慧 Soh Ming Hui (3H)  <br>陈崇宁 Tan Chong Ning (3H)  <br>郭靖偲 Quek Jing Si Karis (3H)  <br>陈思谨 Chen SiJin (3H) |
+| 2022年《我来报新闻》挑战赛Young Reporter News Challenge | 入围  <br>郑苡宣 Tay Yi Xuan Zelia (1E)  <br>林慕溪 Lim Mu Xi (1E)  <br>张慧欣 Zhang Huixin (4I)  <br>周劲豪 Chew Jin Hao (4I) |
 |  |  |
 |  |  |
 |  |  |
