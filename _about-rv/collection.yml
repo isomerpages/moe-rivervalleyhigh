@@ -2,6 +2,7 @@ collections:
   about-rv:
     output: true
     order:
+      - Contact Info/.keep
       - Educational Institution/.keep
       - Educational Institution/A World Class Educational Institution.md
       - Educational Institution/Academic Departments.md
