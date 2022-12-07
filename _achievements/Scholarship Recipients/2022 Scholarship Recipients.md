@@ -53,7 +53,30 @@ Tay Ru Xin (Class of 2020)
 
 #### Teaching Scholarship
 
+<img src="/images/2022 MOE Scholarship.jpeg" align=left style="width:85%">
+<br clear=left>
 
+**Teaching Scholarship (Overseas):** <br>
+Mao Yu Di (Class of 2018)  
+  
+**Teaching Scholarship (Local):** <br>
+Lim Jing Shyan (Class of 2020) <br>
+Tan Lai Cheng, Dylan (Class of 2018)<br>
+Victoria Autumn Tan (Class of 2020)
 
+**Teaching Award:** <br>
+Kenneth Kwan Yu Heng (Class of 2020)<br>
+Manda Yong Zi Xuan (Class of 2019)<br>
+Ng Yu Heng (Class of 2018)<br>
+Tristan Sim Yih (Class of 2020)
 
+#### The Singapore Police Force Scholarship & Ministry of Home Affairs Scholarship
 
+<img src="/images/YU SHING AND  JAMIE.jpeg" style="width:60%" align=left>
+
+Yu Shing (19J12)  <br><br>
+Jamie (20J02) <br clear=left>
+
+#### SgIS Scholarship
+
+<img src="/images/photo1670421278.jpeg" style="width:85%">
