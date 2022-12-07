@@ -74,3 +74,20 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 
 #### Ministry of National Development Scholarship
 
+<img src="/images/MND_Scholars.png" style="width:49%" align=left><br><br><br>
+
+**Bernice Lim Si Min**<br>
+**Tan  Yi  Shiuan**<br clear=left>
+
+#### Singapore-Industry Scholarship
+
+<img src="/images/SGIT_scholars.jpg" style="width:49%" align=left>
+
+**Lim Yu Cheng**<br>
+**Sean Chan Hin**<br>
+**Sherman Ng Wei Sheng**<br>
+**Wang Weihan**<br>
+**Lum Wei Boon**<br clear=left>
+
+#### Ministry of Education Teaching Scholarship
+
