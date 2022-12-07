@@ -28,9 +28,9 @@ description: ""
 | 2022年第三十三届全国学生书法比赛 33rd National Calligraphy Competition | **优秀奖（中学组)**<br>王睿翊 Ng Ruiyi Doreen (3B) |
 | Designing with TI Graphing Calculators Competition 2022 | **Gold Award**  <br>Alfred Ting Wei Hong (22J17)  <br>**Bronze Award**  <br>Liu Gaoyuan (22J11)    <br>School Category – **5th Position** |
 | 第27届全国中学/高中华语演讲比赛27th National Mandarin Oratorical Competition for Sec schools & JCs | **优胜奖:** 袁海纳 Yuan Haina (1D)<br><br>苏紫嫣 Kaylee Saw Zi Yan (3E) |
-| 第二十届全国中学生“新蕾奖”<br>华文创作比赛20th National Secondary Schools<br>Chinese Creative Writing<br>Competition - “Xin Lei Awards ” |  |
-|  |  |
-|  |  |
+| 第二十届全国中学生“新蕾奖”<br>华文创作比赛20th National Secondary Schools<br>Chinese Creative Writing<br>Competition - “Xin Lei Awards ” | **二等奖（低年级组)**  <br>刘芯蕾 Low Xin Lei (2I) |
+| “新蕾爱拍客” Chinese Creative Writing with<br>Photography 2022 -“Xin Lei Awards ” | **第二名（高年级组)**<br>耿彤 Geng Tong (4B) |
+| “新空下”全国新谣歌唱及创作比赛<br>"Xin Kong Xia" Xinyao Singing and Songwriting Competition 2022 | **独唱组（亚军)**<br>颜熙愉 Gan Xi Yee (22J08)<br><br>**歌曲填词组（优秀奖)**<br>林翊珊 Lin Yishan (21J19)<br><br> **歌曲填词组（亚军)**<br>郭静优 Guo JingYou (4B) |
 |  |  |
 |  |  |
 |  |  |
