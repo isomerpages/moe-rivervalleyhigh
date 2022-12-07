@@ -45,9 +45,9 @@ description: ""
 | **2010** | RV moved from her holding campus at Malan Road to her permanent campus at Boon Lay Avenue.<br><img src="/images/P3 - 1 (200 x 150).jpg" align=left style="width:30%"> <br clear=left><br>RV organised the 2010 Asian Young Leaders Convention which saw more than 900 student leaders from across Asia gathering in RV, to hone their leadership skills and forge friendships.|
 | **2011** | RV celebrated her 55th anniversary.<br><br>Mr Sze Guan Kheng joined the school as the Vice Principal. Mr Sherwin Cheng became the school’s Vice Principal.<br><br>RV’s first Integrated Programme A-Level cohort received their results in March. Tan Zhi Xiang, RV’s top student, was also a national top student.<br><br>RV had her Singapore Quality Class (SQC) Award and School Excellence Award renewed.<br><br>RV co-organised the 2011 Asian Young Leaders Convention with Wenjiang Middle School in Wenjiang, China. |
 | **2012** | RV’s second Integrated Programme A-Level cohort also produced a national top student. He is Soh Zhi Liang.<br><br>RV launched her iPad one-to-one programme.<br><br>Mr Loi Guang You became the school's Vice Principal. Mr Gabriel Wong joined the school as the Vice Principal.<br><br>In December, Mrs Teo Khin Hiang became the school’s 9th Principal. |
-| **2013** |  |
-| **2014** |  |
-| **2015** |  |
+| **2013** | RV held her first Y.Lead Seminar in July.<br><br>Mr Gay Choon Lin joined the school as the Vice Principal (Admin).<br><br>RV held her first River Valley Model United Nations (RVMUN). |
+| **2014** | RV held her inaugural Arts Fest week, that included Drama Night and Combined Performing Arts Concert, from 28 April to 3 May.<br><br>The iconic 立化情 was produced by the 35th Students' Council. |
+| **2015** | Opening of the School Arch.<br><br>The School's Humanities and Social Sciences Leaders Academy (HSSLA) was started.<br><br>Bernice Lim from the Class of 2017 is the school's first President's Guide.<br><br>Mr Alvin Lau Wai Chi joined the school as Vice Principal in December. |
 | **2016** |  |
 |  |  |
 |  |  |
