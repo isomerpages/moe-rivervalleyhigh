@@ -46,3 +46,16 @@ third_nav_title: Scholarship Recipients
 #### SMU Computing Award
 
 **Chua Yao Xuan**
+
+#### SAF Young Leader Award (SYLA)
+
+<img src="/images/photo1670422267.jpeg" style="width:85%">
+
+#### 2021 The Prime Minister’s Book Prize
+
+<img src="/images/photo1670422277.jpeg" style="width:85%">
+
+#### Public Service Commission (PSC) Scholarship
+
+<img src="/images/photo1670422288.jpeg" style="width:85%">
+
