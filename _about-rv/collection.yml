@@ -2,4 +2,5 @@ collections:
   about-rv:
     output: true
     order:
+      - Educational Institution/A World Class Educational Institution.md
       - Educational Institution/.keep
