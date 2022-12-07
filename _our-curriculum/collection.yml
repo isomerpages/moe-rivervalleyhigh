@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Talent Academies/The Humanities and Social Sciences Leaders Academy.md
       - Talent Academies/.keep
       - Talent Academies/Talent Academies.md
       - Talent Academies/Science Leaders Academy.md
