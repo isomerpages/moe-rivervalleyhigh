@@ -107,3 +107,11 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 **Lim Yuhua**<br>
 **Liu Yincheng**<br>
 **Nobel Ang**<br clear=left>
+
+#### Singapore Federation of Chinese Clan Associations Scholarships
+
+<img src="/images/Chinese_Clan.jpg" style="width:49%" align=left><br><br><br><br>
+
+**Lim Ying Hui  (Fudan University)**<br> 
+**Huang Lijing (Fudan University)**<br>
+**Debble Chew Yannie (Peking University)**
