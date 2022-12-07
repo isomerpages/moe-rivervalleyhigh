@@ -2,13 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Talent Academies/The Humanities and Social Sciences Leaders Academy.md
       - Talent Academies/.keep
       - Talent Academies/Talent Academies.md
       - Talent Academies/Science Leaders Academy.md
       - Talent Academies/The Eco Sustainability Leadership Academy.md
       - Talent Academies/Mathematics Leaders Academy.md
       - Talent Academies/Bicultural Leaders Academy |  双文化学研中心.md
+      - Talent Academies/The Humanities and Social Sciences Leaders Academy.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
