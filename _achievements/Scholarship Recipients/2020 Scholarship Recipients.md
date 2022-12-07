@@ -48,3 +48,14 @@ third_nav_title: Scholarship Recipients
 
 <img src="/images/photo1670423802.jpeg" style="width:85%">
 
+#### 2020 MOE Pre-University  Scholarships 
+
+<img src="/images/photo1670423871.jpeg" style="width:85%">
+
+#### 2020 PSC Scholarships
+
+<img src="/images/photo1670423878.jpeg" style="width:85%">
+
+#### 2020 SAF Merit Scholarships
+
+<img src="/images/photo1670423887.jpeg" style="width:85%">
