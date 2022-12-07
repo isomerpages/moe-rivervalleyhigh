@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Talent Academies/Science Leaders Academy.md
-      - Talent Academies/Talent Academies.md
       - Talent Academies/.keep
+      - Talent Academies/Talent Academies.md
+      - Talent Academies/Science Leaders Academy.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
