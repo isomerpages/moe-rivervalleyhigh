@@ -52,6 +52,15 @@ description: ""
 | 第22届全国书法大赛 | **鼓励奖**<br>邵越寒 (22J05)<br>张霁航 (22J14) |
 | 第十五届全国中学翻译比赛 | **团体赛季军**  <br>林钰琳 (3B)<br>陈筱柔 (3C)<br>李晨嘉 (3B)<br><br>**个人赛 优胜奖**  <br>蔡恺洋 (4B)  <br>吴佳颖 (4C) |
 | 第十四届 “怡和轩华文书籍奖” | **优秀奖**<br>张卉昕 (22J16)<br><br> **表扬奖**<br>颜熙愉 (22J08)<br>唐筱彤 (22J14) |
+| Singapore Futures Youth Competition 2022 | Ting Ze Zhi, Isaac (22J08) – Member of Inter-JC team that won **1st place**. The team’s focal concern was Food Security.<br><br>Chia Hui Qin (21J14) – Member of Inter-JC team that won **2nd place**. The team’s focal concern was Economic Development. |
+| Young Defence Scientists Programme Scholarship | Celeste Chua Lin Gi (3I)  <br>Ching Yuhui, Natalie (3I) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
