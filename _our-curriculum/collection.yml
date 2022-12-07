@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - SAP Programme.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
