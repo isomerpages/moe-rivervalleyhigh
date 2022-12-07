@@ -23,8 +23,8 @@ The Special Assistance Plan (SAP) and Construct, Integrate and Differentiate (CI
 
 **Special Assistance Plan Programme (SAP)**<br>
 As an SAP school with a mission to develop in students a deeper appreciation of Chinese language, culture, traditions, and values, while embracing multicultural diversity and perspectives, students are immersed in flagship programmes to appreciate Chinese culture and values, develop their proficiency in the Chinese language and cross-cultural skills and global awareness.<br>
-_[Read more about RV's SAP Programme here.](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/sap-programme)_  
+_[Read more about RV's SAP Programme here.](/our-curriculum/sap/)_  
 
 **Construct, Integrate and Differentiate (CID)**<br>
 CID aims to promote independent and active learning. It provides our students with opportunities to construct their learning by integrating knowledge from various disciplines by using modes of inquiry appropriate to the subject. Through CID, students explore connections, and critically and creatively apply their learning to real-life situations. The process of learning enhances students' attitudes (Habits of Mind and dispositions of thinking) abd skills (collaboration, communication, critical and creative thinking, and research) to prepare them for lifelong learning and future challenges.<br>
-_[Read more about RV's Construct, Integrate, Differentiate Programme (CID) here.](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/cid-programme)_
+_[Read more about RV's Construct, Integrate, Differentiate Programme (CID) here.](/our-curriculum/cid/)_
