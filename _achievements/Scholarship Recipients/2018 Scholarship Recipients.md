@@ -91,3 +91,19 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 
 #### Ministry of Education Teaching Scholarship
 
+<img src="/images/MOE_Scholars.jpg" style="width:49%" align=left>
+
+**Andrea Tan Li Yao**<br>
+**Tricia Chan Tze Cheng**<br>
+**Neo Wen Xin**<br>
+**Lee Wen Jie**<br>
+**Koh Hong Kai**<br>
+**Geradine Tan Rou Jing**<br clear=left>
+
+#### A\*STAR Scholarship
+
+<img src="/images/AStar_scholars.jpg" style="width:49%" align=left><br>
+
+**Lim Yuhua**<br>
+**Liu Yincheng**<br>
+**Nobel Ang**<br clear=left>
