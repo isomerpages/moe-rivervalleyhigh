@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Talent Academies/Bicultural Leaders Academy |  双文化学研中心.md
       - Talent Academies/.keep
       - Talent Academies/Talent Academies.md
       - Talent Academies/Science Leaders Academy.md
