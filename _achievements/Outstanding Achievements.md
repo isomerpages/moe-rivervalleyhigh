@@ -13,7 +13,7 @@ description: ""
  </figcaption>
 </figure>
 
-<center><b>Liu Lingshan(2017)</b></center>
+<center>Liu Lingshan (2017)</center>
 
 _The Prime Minister's Book Prize Award is given to outstanding students in the secondary schools category who exemplify academic and bilingual achievement._
 
@@ -31,3 +31,26 @@ _The President's Guide Award is the highest level of achievement attainable by a
 
 ----
 
+<center><b>Singapore Schools Sports Council (SSSC) Colours Award<br>
+National Best Sports Girl</b></center>
+
+<figure>
+<img src="/images/Best Sports Girl (Softball).jpg" style="width:90%">
+<figcaption>Chua Jia Ying, Charmaine  (2018)
+ </figcaption>
+</figure>
+
+<center>Chai Yi Ann (2016)</center>
+
+
+<center><b>Floorball</b><br>
+Lim Zhi Yan (2017)</center>
+
+----
+
+<center><b>Lee Hsien Loong Award for Outstanding Bicultural Students</b></center>
+
+<center>Lai Sin Yee (Class of 2018)<br>
+Tan Yu Jia (Class of 2015)</center>
+
+	
