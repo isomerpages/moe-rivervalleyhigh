@@ -146,3 +146,16 @@ The English Department is a team of dedicated teachers who work together to achi
 
 #### The Humanities
 
+<img src="/images/humanities.jpg" style="width:85%">
+
+The study of the humanities develops in students 21st century competencies, knowledge, skills and key dispositional traits to prepare for a dynamic and interconnected world. As an integral part of the RV holistic education, the humanities curriculum aims to inculcate in students the habit of reading critically to gain information about the changing socio-spatial environment at both the local and global levels. Armed with the tools of a social scientist, students will consider different viewpoints, make well-reasoned arguments to arrive at rational and considered decisions.  
+
+The Humanities Department offer plentiful opportunities to promote students’ active and engaged learning of the humanities through inquiry-based learning. Various local and overseas learning trips, and learning modules like Environmental Guardianship and Policies and Legislation are organised to help students engage with real-world issues. Students are engaged in organising national-level exhibitions and Model United Nations as well as cohort-wide programmes such as the Singapore Economy Challenge to understand different aspects of the Singapore economy and the rationale behind various economic policies adopted by the government.
+
+#### Physical Education
+
+<img src="/images/PE.jpeg" style="width:85%">
+
+The Physical Education (PE) Department aims to provide a 6-year integrated PE Programme through a PE syllabus that exposes students to a variety of games such as badminton, basketball, floorball, football, frisbee, gymnastics, softball, table tennis, tchoukball, tennis and wushu. Students also learn about strategies to lead a healthy lifestyle through the Food and Consumer Education module.  
+
+Students are also given opportunities to enrich their sporting experiences with key events such as the Healthy Lifestyle Month, Sports Carnival, Cohesion Hike, MOE-OBS Sec 3 Programme and Year 5 Growth and Empowerment Programme to complement the PE and Outdoor Education Programme in promoting a healthy and active lifestyle while building resilience and ruggedness in our students.
