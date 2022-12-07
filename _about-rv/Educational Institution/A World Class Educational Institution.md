@@ -4,7 +4,6 @@ permalink: /about-rv/awcei/
 description: ""
 third_nav_title: Educational Institution
 ---
-
 ## A World-Class Educational Institution
 
 <img src="/images/World Class Institiution.jpg" style="width:85%">
@@ -32,7 +31,7 @@ RVHS’ tradition of providing an excellent education for our students has been 
 *   CHERISH
 *   School’s Green Audit Award
 
-**RVHS Academic Departments** _(Read more [here](https://rivervalleyhigh.moe.edu.sg/about-rv/a-world-class-educational-institution/academic-departments))_
+**RVHS Academic Departments** _(Read more [here](/about-rv/Educational-Institution/ad/))_
 
 *   Science
 *   Mathematics
@@ -41,7 +40,7 @@ RVHS’ tradition of providing an excellent education for our students has been 
 *   The Humanities
 *   Physical Education
 
-**RVHS Non-Academic Departments** _(Read more [here](https://rivervalleyhigh.moe.edu.sg/about-rv/a-world-class-educational-institution/non-academic-departments))_
+**RVHS Non-Academic Departments** _(Read more [here](/about-rv/Educational-Institution/nad/))_
 
 *   Student Development
 *   Education and Career Guidance
