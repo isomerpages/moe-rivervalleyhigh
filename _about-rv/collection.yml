@@ -2,6 +2,6 @@ collections:
   about-rv:
     output: true
     order:
-      - Educational Institution/Academic Departments.md
-      - Educational Institution/A World Class Educational Institution.md
       - Educational Institution/.keep
+      - Educational Institution/A World Class Educational Institution.md
+      - Educational Institution/Academic Departments.md
