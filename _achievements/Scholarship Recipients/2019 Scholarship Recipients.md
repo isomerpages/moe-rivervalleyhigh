@@ -32,5 +32,52 @@ third_nav_title: Scholarship Recipients
 
 #### Ministry of Education Scholarship 
 
-#### Ministry of Healthcare Scholarships 
+<img src="/images/MOE.jpg" style="width:49%" align=left>
+
+**Chew Wei Sheng**<br>
+**Koh Shao Wei**<br>
+**Shi Peiyun**<br>
+**Soh Hong Yi**<br>
+**Amelia Tjia Wei Linz**<br>
+**Pek Yiling**
+<br clear=left>
+
+#### Ministry of Healthcare Scholarships
+
+<img src="/images/Healthcare.jpg" style="width:49%" align=left>
+
+**Chan Ling Han** <br>
+**Jacquelaine Tan** <br>
+**Priscilla Tan** <br>
+ **Chow Jiun Chyi** <br>
+**Ng Li Xin** <br>
+**Peh Oon Him**<br clear=left>
+
+#### A\* Star Scholarship 
+
+<img src="/images/A_star.jpg" style="width:49%" align=left>
+
+**Fu Shun Long Winston**  <br>
+**Rachel Tan Jun Rou** <br>
+**Neoh Tzeh Yuan** <br>
+**Ng Yi Da**<br clear=left>
+
+#### Singapore Industry Scholarship 
+
+<img src="/images/SIS.jpg" style="width:49%" align=left>
+
+**Ek Chin Hui (Full-Term)** <br>
+**Sharlene Quek (Full-Term)**<br>
+**Ho Jiayi Rachel (Full-Term)** <br>
+**Lim Qian Yi (Mid-Term)**<br clear=left>
+
+#### People’s Association Scholarship
+
+<img src="/images/PA.jpg" style="width:49%" align=left><br>
+
+**Tan Siqi** <br>
+**Phua Yi Xuan**<br>
+**Kuah Jun Wee Jovi**<br clear=left>
+
+#### Defense Science & Technology Agency Scholarship
 
