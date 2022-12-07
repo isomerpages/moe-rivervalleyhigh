@@ -75,7 +75,7 @@ description: ""
 | **National Science Challenge** | **2nd Runner Up**<br>Wai Jone Sher (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Han Zhi Heng, Shawn (4A) |
 | **MOE Gifted Education Branch – Singapore University of Technology & Design Problem X Challenge** | **1st Runner Up**<br>Loo Guan Kit (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Charis Wong Jing Wen (4A) |
 | **Singapore Biology Olympiad** | **3 Bronze Medals (Individual)**<br>Lim Sing Wei (20J01)<br>Chloe Ong Zhi Ying (20J03)<br>Chester Chiah Chin Wei (20J05) |
-| **Singapore Junior Biology Olympiad** |  |
+| **Singapore Junior Biology Olympiad** | **2 Gold Medals**<br>Tan Beng Yang (4A)<br>Vera Ng Jing Wen (4F)<br><br>**2 Silver Medals**<br>Goh Ziyu (4A)<br>Eunsun Jung (4A)<br><br>**9 Bronze Medals**<br>Mya Cherry (3A)<br>Liu Yueyang (4A)<br>Dyann Saw Xinmei (4A)<br>Crystal Tan Shyuan Ling (4A)<br>Shao Yuehan (4C)<br>Tan Rei Yew (4D)<br>Cui Kai Rui Carol (4D)<br>Lee Qin Yuan (4F)<br>Fan Siew Ning (4F)<br><br>**3 Honourable Mention Awards**<br>Tan Xin Yang Elliott (3A)<br>Fun Wai Yan, Charmaine (4D)<br>Huang Changwen (4E) |
 |  |  |
 |  |  |
 |  |  |
