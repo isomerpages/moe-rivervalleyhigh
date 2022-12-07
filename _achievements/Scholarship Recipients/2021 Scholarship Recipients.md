@@ -141,3 +141,48 @@ third_nav_title: Scholarship Recipients
 | **Fong Yih Jie** |
 | **Lee Hwee Liang, Ian** |
 |  |
+
+#### SMU Scholarships
+
+|  |
+|:---:|
+| **Eugene Choa** |
+| **Goh Wei Han** |
+| **Hoo Yu Shing** |
+| **Ng Jerale** |
+| **Ngiow Han Bin** |
+| **Tan Miao Xin, Alicia** |
+| **Ng Jun Hao Sean** |
+| **Waylon Tan** |
+|  |
+
+#### SUTD Scholarship
+
+|  |
+|:---:|
+| **Ow Yu Ning, Nicole** |
+|  |
+
+#### NTU Scholarships
+
+|  |
+|:---:|
+| **Lim Shi Yun** |
+| **Tan Yu Wei Russell** |
+| **Gerald Ong Jon Kai** |
+| **Joshua Yeo Jun Yong** |
+| **Lee Ming Xuan Brian** |
+| **Siah Wee Hung** |
+| **Thaddeus Tay Chuan Ren** |
+| **Toh Zhi Yang** |
+| **Yin Jian** |
+| **Lee Jia Wen** |
+| **Lee Man Lin** |
+| **Hu Junjie** |
+| **Nyan Maw Htun** |
+| **Nathan Teo Qi Xuan** |
+| **Lim Sui Kiat** |
+| **Dayna Chia Ching Ning** |
+| **Lam Wei Lin, Zoey** |
+| **Chong Rui Xuan** |
+|  |
