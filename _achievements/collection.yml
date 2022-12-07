@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Scholarship Recipients/2021 Scholarship Recipients.md
       - Scholarship Recipients/2022 Scholarship Recipients.md
       - Scholarship Recipients/.keep
