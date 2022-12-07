@@ -59,3 +59,43 @@ third_nav_title: Scholarship Recipients
 #### 2020 SAF Merit Scholarships
 
 <img src="/images/photo1670423887.jpeg" style="width:85%">
+
+#### 2020  Ministry of Education Scholarships
+
+<img src="/images/photo1670423976.jpeg" style="width:85%">
+
+#### 2020 Healthcare Scholarships
+
+<img src="/images/photo1670423984.jpeg" style="width:85%">
+
+#### 2020 MINDEF Scholarships
+
+<img src="/images/photo1670423991.jpeg" style="width:85%">
+
+#### 2020 SAF Young Leader Award
+
+<img src="/images/SAF Young leader.jpg" style="width:49%" align=left>
+<br><br><br><br><br><br>
+
+**Gerald Ong Gim Hua**<br clear=left>
+
+#### 2020 A\*STAR Scholarships
+
+<img src="/images/A star scholar.jpg" style="width:49%" align=left>
+<br><br><br><br><br><br>
+
+**Wang** **Xuchen**<br clear=left>
+
+#### 2020 HDB Scholarship
+
+<img src="/images/HDB.jpg" style="width:49%" align=left>
+<br><br><br><br><br><br>
+
+**Low Jing Yi Jean**<br clear=left>
+
+#### 2020 National Library Board Scholarship
+
+<img src="/images/Lib.jpg" style="width:49%" align=left>
+<br><br><br><br><br><br>
+
+**Yong Jing Jing**<br clear=left>
