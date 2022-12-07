@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CID Programme.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
@@ -12,3 +11,4 @@ collections:
       - Ldrship Character Development/RVMUN.md
       - Civic Literacy and Global Awareness Development.md
       - SAP Programme.md
+      - CID Programme.md
