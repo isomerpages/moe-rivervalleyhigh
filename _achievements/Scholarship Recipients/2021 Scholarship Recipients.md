@@ -82,3 +82,20 @@ third_nav_title: Scholarship Recipients
 #### 2021 Ministry of Education (MOE) Teaching Scholarship
 
 <img src="/images/photo1670422517.jpeg" style="width:85%">
+
+#### Singapore National Co-operative Federation Scholarship (SNCF)
+
+<img src="/images/eng1.jpeg" style="width:85%">
+
+#### 2021 Jurong Town Corporation (JTC) Undergraduate Scholarship 
+
+<img src="/images/eng1.jpeg" style="width:85%">
+
+#### Land Transport Authority (LTA) Scholarships
+
+<img src="/images/eng1.jpeg" style="width:85%">
+
+#### Ministry of Transport Beacon (MOT) Scholarships
+
+<img src="/images/eng1.jpeg" style="width:85%">
+
