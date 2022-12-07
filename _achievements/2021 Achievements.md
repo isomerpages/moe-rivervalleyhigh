@@ -31,3 +31,20 @@ description: ""
 | **Singapore Olympic Foundation-  <br>Peter Lim Scholarship  <br>(Encouragement Award)** | Chia Cheng En Truman 3H (Wushu)<br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton) |
 |  |  |
 
+<center><b>Singapore Youth Festival Arts Presentation:</b></center>
+
+|  |  |
+|:---:|---|
+| Concert Band (Secondary) | Distinction |
+| Concert Band (Junior College) | Distinction |
+| Chinese Dance (Secondary) | Distinction |
+| Chinese Dance (JC Teams A and B) | Distinction |
+| Chinese Orchestra (Mixed Ensemble) | Distinction |
+| Chinese Orchestra (Tan Bo Ensemble) | Distinction |
+| Chinese Orchestra (Teams A and B) | Distinction |
+| CLDDS (Secondary) | Distinction |
+| ELDDS (Secondary) | Accomplishment |
+| Guitar Ensemble (Junior College) | Accomplishment |
+| International Dance (Secondary) | Accomplishment |
+| Choir (Secondary and Junior College) | All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together. |
+|  |  |
