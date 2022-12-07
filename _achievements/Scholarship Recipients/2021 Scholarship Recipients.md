@@ -4,3 +4,45 @@ permalink: /achievements/Scholarship-Recipients/2021sr/
 description: ""
 third_nav_title: Scholarship Recipients
 ---
+## 2021 Scholarship Recipients
+
+#### 2021 MOE BSP Scholarship
+
+<img src="/images/MOE BSP.jpg" style="width:85%">
+
+|  |  |
+|:---:|---|
+| **Alicia Lim Kye Le** | **New Ke Yue** |
+| **Chen Jie** | **Seng Deborah** |
+| **Derrick Loh Zi Xun** | **Shen Yue Er** |
+| **Ho En Tong** | **Tan Seng Hong Joshua** |
+| **Kee Hui Jie** | **Tay Wen Xin** |
+| **Lee Xin Chen** | **Teo Rui Ting Cheryl** |
+| **Leroy Chua Kai Yang** | **Wang Wanting** |
+| **Li Xiyu** | **Zhao Yingwen** |
+| **Liu Tianjian** | **Zheng Shuyue** |
+|  |  |
+
+#### 2021 YDSP Scholarship
+
+<img src="/images/photo1670421471.jpeg" style="width:85%">
+
+#### MOE Pre-University Scholarships 
+
+<img src="/images/photo1670421528.jpeg" style="width:85%">
+
+#### CSIT Computing Scholarship
+
+<img src="/images/photo1670422108.jpeg" style="width:85%">
+
+#### 2021 MOE JC BSP Scholarship
+
+<img src="/images/photo1670422122.jpeg" style="width:85%">
+
+#### 2021 DSTA JC Scholarship 
+
+<img src="/images/photo1670422203.jpeg" style="width:85%">
+
+#### SMU Computing Award
+
+**Chua Yao Xuan**
