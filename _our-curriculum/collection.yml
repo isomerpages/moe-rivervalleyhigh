@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - GEM Framework.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
@@ -13,3 +12,4 @@ collections:
       - Civic Literacy and Global Awareness Development.md
       - SAP Programme.md
       - CID Programme.md
+      - GEM Framework.md
