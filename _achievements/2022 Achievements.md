@@ -54,9 +54,9 @@ description: ""
 | 第十四届 “怡和轩华文书籍奖” | **优秀奖**<br>张卉昕 (22J16)<br><br> **表扬奖**<br>颜熙愉 (22J08)<br>唐筱彤 (22J14) |
 | Singapore Futures Youth Competition 2022 | Ting Ze Zhi, Isaac (22J08) – Member of Inter-JC team that won **1st place**. The team’s focal concern was Food Security.<br><br>Chia Hui Qin (21J14) – Member of Inter-JC team that won **2nd place**. The team’s focal concern was Economic Development. |
 | Young Defence Scientists Programme Scholarship | Celeste Chua Lin Gi (3I)  <br>Ching Yuhui, Natalie (3I) |
-|  |  |
-|  |  |
-|  |  |
+| Defence Science & Technology Agency Junior College Scholarship | Lee Jing Peng (22J17)<br>Han Zhi Heng, Shawn (22J17)<br>Ng Qi Heng (22J18)<br>Gan Tze Qi Christy (22J18) |
+| International Elementz Science Fair  <br>(organised by Anderson Serangoon Junior College) | **2 Gold Awards (1 Individual & 1 Team)**<br>Yang Jingxiang (21J11)<br>Tan Beng Yang (22J02)<br>Goh Ziyu (22J10)<br>Ng Qi Heng (22J18)<br><br>**1 Silver Award (1 Team)**<br>Gong Yongjia (21J04)<br>Dai Zongxin (21J06)<br>Lim Yi Ting, Erica (21J17)<br><br> **2 Bronze Awards (1 Individual & 1 Team)**<br>Samuel Then Shi Jie (21J11)<br> Hiuk Yuh Wen (21J03)<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06) |
+| Singapore Science & Engineering Fair |  |
 |  |  |
 |  |  |
 |  |  |
