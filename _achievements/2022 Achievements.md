@@ -68,7 +68,25 @@ description: ""
 | National Softball Championships | **B Division Girls**   3rd |
 | National Floorball Championships | **B Division Girls**   3rd<br>**A Division Girls**   3rd |
 | National Table Tennis Championships | **A Division Girls**<br>National Top 4 |
-|  |  |
+| Singapore Mathematical Olympiad | **School Award Category 1: Silver**  <br>**Junior Category Silver** <br>He Yian (1D)  <br>Sherman Tan Haridas (1D)  <br>Lim Teck Yong Dylan (1H)  <br>Tan Rongsheng (2D)  <br>Zhang Hengwei (2F)  <br><br>**Junior Category Bronze**  <br>Javier Leong Kang Yu (1A)  <br>Lo Shao Kai (1A)  <br>Yong Jian Zhan Lucas (1A)  <br>Kwek Yu Le Jacob (1C)  <br>Tsang Hou Nok Isaac (1C)  <br>Xander Toh Ik Rayy (1C)  <br>Aldrik Chu Chin Boon (1E)  <br>Randall Lim Qiao Feng (1E)  <br>Tan Zhi Hao (1E)  <br>Tu Rang (1E)  <br>Chai Sea Yong (1H)  <br>Megan Miranda Khoo (2B) <br>Ang Ian (2C)  <br>Nathaniel See De Kang (2C)  <br>Cheng Yok Yong (2D)  <br>Chua Yu Jun, Lucas (2D)  <br>Liu Yichen Claire (2D)  <br>Wu Dihui (2E)  <br>Yeoh Kai Bo (2G)  <br>Chew Li En (2I)  <br>Loh Xuan Qi (2I)  <br>Wong Yi De (2I)  <br><br>**Junior Category Honourable Mention**  <br>Alvin Tan Zhi Qian (1A)  <br>Chan Jie Teng Jas (1E)  <br>Tey Hao Yang (1E)  <br>Jacob Chia Tiong Lue (1F)  <br>Ong Cheng Ling (1F)  <br>Pour Yi Long (1F)  <br>Thien Jing Hsun (1F)  <br>Bill Yong Wei Cheng (1G)  <br>Cherise Lee Zhi Xuan (1G)  <br>Loh Bao Jun (1G)  <br>Gu Hanwen (1I)  <br>Tsai Hsin-Ling (1I)  <br>Celeste Tang Xinyun (2B)  <br>Zhu Jingxuan (2B)  <br>Li Xin Hui (2C)  <br>Gabriel Lim Zhexi (2D)  <br>Huang Yuxi (2D)  <br>Palakkal Arjun Sarath (2D)  <br>Chan Keen Teng Clement (2E)  <br>Leong Quan Kai (2E)  <br>Lew Rui Ling (2E)  <br>Lucius Oo (2E)  <br>Wang Lingyi (2F)  <br>Yang Chen Jun (2G)  <br>Cheyenne Chua (2I)  <br><br>**Senior Category Gold**<br>Zhu Ziyan (4E)  <br><br>**Senior Category Silver**  <br>Chen Qingyuan (4C)  <br><br>**Senior Category Bronze**  <br>Yong Zhen Kang (3G)  <br>Gaius Mak Zhun Yong (4A)  <br>Seah Ruijie (4D)  <br>Fabius Tan Choon Keong (4E)  <br>Chan Si Yu, David (4I)  <br><br>**Senior Category Honourable Mention**  <br>Ang Kai Yue Stanley (3E)  <br>Li Hanyu (4A)  <br>Liu Wenhao (4A)  <br>Liu Tianjian (4C)  <br>Zhao Zhe (4C)  <br>Chua Zhong Ding (4I)  <br>Hong Wenqi (4J)  <br><br>**School Award Category 2: Silver**  <br>**Open Category Silver**  <br>Zhu Ziyan (4E)  <br>Liu Yueyang (22J10)  <br>Pau Kin Hong (22J16)  <br>Yang Jingxiang (21J11)  <br><br>**Open Category Bronze**  <br>Chen Qingyuan (4C)  <br>Goh Ziyu (22J10)  <br>Guan Xinyue (22J11)  <br>Wang Kaicen (22J11)  <br>Damian Liew Cho Xiang (22J15)  <br>He Raymond Yuxiang (22J17)  <br>Wong Rocky (22J18)  <br>Choi Yi Hao (21J01)  <br>Andrew Chua Hao Zhun (21J10)  <br>Hong Yidong (21J10)  <br>Samuel Then Shi Jie (21J11)  <br>Xavier Tan Yi-En (21J11)  
+**Open Category Honourable Mention**  
+Gaius Mak Zhun Yong (4A)  
+Li Hanyu (4A)  
+Fabius Tan Choon Keong (4E)  
+Zeng Zewen (4E)  
+Zhou Zhenhong (22J01)  
+James Tan Dejun (22J10)  
+Ai Yucheng (22J11)  
+Chen Litong (22J11)  
+Li Zhennan (22J11)  
+Lin Feng Han (22J11)  
+Guan Leyang (22J12)  
+Han Zhi Heng, Shawn (22J17)  
+Rayner Sim Zhi Heng (22J17)  
+Zeng Jing (22J17)  
+Jin Sheng (21J11)  
+Nadia Vong Xiang Xin (21J15)  
+Wang Yifei (21J15) |
 |  |  |
 |  |  |
 |  |  |
