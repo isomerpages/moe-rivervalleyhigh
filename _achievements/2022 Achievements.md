@@ -47,11 +47,11 @@ description: ""
 | National School Games | **National Softball Championship**  <br>B Division Girls -3rd  <br>**National wushu Championships**  <br>C Division Boys -1st  <br>A Division Girls - 2nd  <br>B Division Boys -2nd  <br>B Division Girls - 2nd  <br>A Division Boys - 4th  <br>**West Zone Table Tennis Championships**  <br>B Division boys -2nd      <br>B Division Girls - 2nd |
 | 2022 Singapore Olympic Foundation-Peter Lim Scholarship (Encouragement Award) | 6 of our RV student athletes have been awarded this scholarship and this is the most number of recipients for RV so far:<br><br>Shavonne Toh You Ting, 3D (Badminton)<br>Tong Wan Ying, 3H (Netball)<br>Chia Cheng En Truman, 4H (Wushu)<br>Lee Si Lin, 4J (Softball)<br>Ong Shuen Yi, 21J17 (Badminton)<br>Graris Lee Wan En, 21J19 (Badminton) |
 | International Mathematical Modelling Challenge (Singapore) | **Distinction**<br>Oh Wei Quan 22J10<br>Chen Zhe Rui 22J12<br>Damian Liew Cho Xiang 22J15<br>Wong Rocky 22J18<br><br>**Merit**<br>James Tan Dejun 22J10<br>Liu Yueyang 22J10<br>Han Zhi Heng, Shawn 22J17<br>Chen Qingyuan 4C |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 2022 年青少年双语模拟联合国 | **最佳新闻公报奖（记者团)**  <br>罗梓迅 (4C)<br><bR>**杰出代表（世界卫生组织)**<br>张甜悦 (3C) |
+|  2022年华中中国通识论坛 | **第三名**<br>王俊衡 (22J08)<br>颜慈涵 (22J08)  <br>许锦峰 (22J08)<br>王宵玥 (22J14)<br>毛佳宁 (22J16) |
+| 第22届全国书法大赛 | **鼓励奖**<br>邵越寒 (22J05)<br>张霁航 (22J14) |
+| 第十五届全国中学翻译比赛 | **团体赛季军**  <br>林钰琳 (3B)<br>陈筱柔 (3C)<br>李晨嘉 (3B)<br><br>**个人赛 优胜奖**  <br>蔡恺洋 (4B)  <br>吴佳颖 (4C) |
+| 第十四届 “怡和轩华文书籍奖” | **优秀奖**<br>张卉昕 (22J16)<br><br> **表扬奖**<br>颜熙愉 (22J08)<br>唐筱彤 (22J14) |
 |  |  |
 |  |  |
 |  |  |
