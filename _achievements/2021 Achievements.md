@@ -123,3 +123,17 @@ description: ""
 | International Dance (Secondary) | Accomplishment |
 | Choir (Secondary and Junior College) | All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together. |
 |  |  |
+
+#### Uniformed Groups
+
+|  |  |
+|:---:|---|
+| President Guide Award | Vera Ng Jing Wen (4F) |
+| Baden Powell Award | Toh Le Qi (4G)<br>Lim Chian Yu (4G)<br>Seah Ming Yi (4F)<br>Chew Cheng Leng, Denise (4F)<br>Effia Tan Ming Si (4F) |
+| National Cadet Corps Outstanding Cadet<br>Award 2021 (Girls) | Yap En Fei (4B) |
+| National Cadet Corps Outstanding Cadet Award 2021 (Boys) | Teh Ker Lun (4D) |
+| National Police Cadet Corps - SPF-NPCC Badge Award 2021 | Ng Nigel (4F)<br>Tan Zi Xuan (4I) |
+| National Police Cadet Corps - Best Unit Cadet Award 2021 (Female) | Chew Ching Ting (4H) |
+| National Police Cadet Corps - Best Unit Cadet Award 2021 (Male) | Yoong Min Kai (4I) |
+| St John Brigade - Chief Commissioner’s Badge 2021 | Clarence Koh Eng Lok (4C)<br>Su Zhixuan (4E)<br>Kuah Sze Min Shermaine (4F)<br>Neo Rui Ern, Vanessa (4F)<br>Soh Zi Rui (4F)<br>Fu Liyi (4K) |
+|  |  |
