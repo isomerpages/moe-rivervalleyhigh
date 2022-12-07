@@ -63,5 +63,18 @@ Christopher Goh Zhen Fung (Class of 2016)</center>
 <center><b>NSF of the Year 2019</b><br>
 CFC Chia Zhen You (Class of 2016)</center>
 
+#### The Lee Kuan Yew Award for All-Round Excellence
 
-	
+<figure>
+<img src="/images/GAN XI YEE.jpg" style="width:90%">
+<figcaption>Gan Xi Yee (22J08)
+ </figcaption>
+</figure>
+
+#### The Lee Hsien Loong Award  for Outstanding Bicultural Students
+
+<figure>
+<img src="/images/Shain.jpg" style="width:90%">
+<figcaption>Yeo Wei Shain(20J18)
+ </figcaption>
+</figure>
