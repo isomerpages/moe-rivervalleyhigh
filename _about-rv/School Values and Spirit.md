@@ -20,4 +20,23 @@ We are resilient and overcome challenges.<br><br>
 We place people at the heart of what we do and serve with empathy.<br><br>
 <b>Proactiveness<br>
 	自立自发</b><br>
-We live up to our responsibility to be positive change makers.
+We live up to our responsibility to be positive change makers.</center>
+
+----
+
+The **school spirit** is what every RVian strives to embody in facing challenges and preparing themselves for the future, throughout and beyond their education in RV.
+
+**Lifelong Learning**<br>
+**好学不倦**
+
+**Humble, Respectful and Confident**<br>
+**谦恭自信**
+
+**Innovative and Distinctive**<br>
+**创新求异**
+
+**Appreciative and Virtuous**<br>
+**感恩立德**
+
+**Lead for progress, hand in hand**<br>
+**携手共进**
