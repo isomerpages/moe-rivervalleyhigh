@@ -59,3 +59,26 @@ third_nav_title: Scholarship Recipients
 
 <img src="/images/photo1670422288.jpeg" style="width:85%">
 
+#### Ministry of Defence (MINDEF) Scholarships
+
+<img src="/images/photo1670422388.jpeg" style="width:85%">
+
+#### Singapore Police Force (SPF) Scholarship
+
+<img src="/images/photo1670422397.jpeg" style="width:85%">
+
+#### Defence Science Technology Agency (DSTA) Scholarship
+
+<img src="/images/photo1670422406.jpeg" style="width:85%">
+
+#### A\*STAR Undergraduate Scholarship 
+
+<img src="/images/eng1.jpeg" style="width:85%">
+
+#### Ministry of Education (MOE) Teaching Award
+
+<img src="/images/eng1.jpeg" style="width:85%">
+
+#### 2021 Ministry of Education (MOE) Teaching Scholarship
+
+<img src="/images/eng1.jpeg" style="width:85%">
