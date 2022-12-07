@@ -73,12 +73,12 @@ third_nav_title: Scholarship Recipients
 
 #### A\*STAR Undergraduate Scholarship 
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/photo1670422492.jpeg" style="width:85%">
 
 #### Ministry of Education (MOE) Teaching Award
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/photo1670422503.jpeg" style="width:85%">
 
 #### 2021 Ministry of Education (MOE) Teaching Scholarship
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/photo1670422517.jpeg" style="width:85%">
