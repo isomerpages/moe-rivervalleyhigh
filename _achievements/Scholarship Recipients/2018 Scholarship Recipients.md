@@ -45,3 +45,32 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 
 #### Ministry of Defence Scholarship
 
+<img src="/images/Mindef_scholars.jpg" style="width:49%" align=left><br><br><br>
+
+**Eugene Chia Guole**<br>
+**Anson Woo Wing Hung**<br>
+**Andy Koh Jun Hoong**<br clear=left>
+
+#### Ministry of Transport Scholarship
+
+<img src="/images/MOT_scholars.jpg" style="width:49%" align=left>
+
+**Tan Seet Ynn**<br>
+**Kenneth Pang Chong Zheng**<br>
+**Alyna Khoo Yi Jie**<br>
+**Tan Ning Xuan**<br clear=left>
+
+#### Ministry of Health Scholarship
+
+<img src="/images/MOH_scholars.jpg" style="width:60%" align=left>
+
+**Ng Wei Qing**<br>
+**Lim Wei Liang**<br>
+**Yaw Qin Ping**<br>
+**Ong Qian Ying**<br>
+**Tiong Ung Sing**<br>
+**Claudia Loh Hwee Tze**<br>
+**Gan Jia Yi**<br clear=left>
+
+#### Ministry of National Development Scholarship
+
