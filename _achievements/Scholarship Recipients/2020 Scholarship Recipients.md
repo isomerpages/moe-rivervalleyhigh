@@ -99,3 +99,26 @@ third_nav_title: Scholarship Recipients
 <br><br><br><br><br><br>
 
 **Yong Jing Jing**<br clear=left>
+
+#### 2020 Accountant-General's Department Accountancy Scholarship
+
+<img src="/images/AG.jpg" style="width:49%" align=left>
+<br><br><br><br><br><br>
+
+**Zhu Xinghua**<br clear=left>
+
+#### 李显龙杰出双文化学生奖 2020 Lee Hsien Loong Award for  Outstanding Bicultural Studies
+
+<img src="/images/Bicult.jpg" style="width:49%" align=left>
+<br><br>
+
+**毛禹迪**<br>
+**Mao Yu Di**<br clear=left>
+
+#### 2020 Prime Minister’s Book Prize
+
+<img src="/images/book prize.jpg" style="width:49%" align=left>
+<br><br><br><br><br>
+
+**李欣融**<br>
+**Winnis Lee Xin Rong**<br clear=left>
