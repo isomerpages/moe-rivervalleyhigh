@@ -43,8 +43,8 @@ description: ""
 | 34th Singapore Physics Olympiad | Yang Jingxiang (21J11) Gold<br>Samuel Then Shi Jie (21J11) Silver<br>Nilay Barsainya (21J20) Silver<br>Choi Yi Hao (21J01) Honourable Mention |
 | Singapore Young Physicists’ Tournament | **Category A: Junior College**<br>Bronze Award (Team)<br>Pok Zheng Yong (21J09)<br>Zhu Jiahang (21J16)<br>Chen Sihan (21J18)<br>Distinction Award (Poster Presentation Segment; Team)<br>Lee Kun Yau (21J01)<br>Qiao Bowen (21J10)<br>Yi Kaizhi (21J16)<br><br>**Category B: Secondary School**<br>2 Bronze Awards (Team)<br>Khow Willard (4A)<br>Chen Qingyuan (4C)<br>Chua Zhongding (4I)<br>Tang Tian Le (4A)<br>Ansel Yip Fong (4A)<br>Chan Xing Yu James (4I)<br>Chan Xing Yu James (4I) is currently considered for the Singapore International Young Physicists' Tournament (IYPT) team selection. |
 | Singapore National Olympiad in Informatics | **1 Silver Medal (Individual)**<br>Han Zhi Heng, Shawn (22J17)<br><br>**5 Bronze Medals (Individual)**<br>Chen Qingyuan (4C)<br>Guan Xinyue (22J11)<br>Hu Tianle (22J17)<br>Rayner Sim Zhi Heng (22J17)<br>Tan Swee Kang (22J17) |
-|  |  |
-|  |  |
+| Design & Technology Educators Society:  <br>Design & Technology Award | **2 Creative Invention Awards (Team)**<br>Cherianne Ng (2A)<br>Chia Min Wen (2A)<br>Patrick Eng Chee Hong (2A)<br>Mok Jia Xuan (2F)<br>Nadya Ong Yu Xin (2F)<br>Tan Jia Xuan, Charmaine (2F)<br><br>**Creative Adaptation Award (Merit) (Team)**<br>Li Ziyun (2G)<br>Yang Chen Jun (2G) |
+| National School Games |  |
 |  |  |
 |  |  |
 |  |  |
