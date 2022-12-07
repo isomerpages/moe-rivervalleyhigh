@@ -118,7 +118,7 @@ The English Department is a team of dedicated teachers who work together to achi
  
  **REQUIRE JACKSON'S INPUT VIDEO**
  
- ##### <center>双文化2019学习之旅</center>
+ <center>双文化2019学习之旅</center>
  
  自立化中学于2006年开办双文化课程以来，双文化课程一直都是我校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提升学生对学习东西文化的热忱，扎根本土，放眼世界。
 
