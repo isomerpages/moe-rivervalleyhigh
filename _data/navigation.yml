@@ -2,3 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: About RV
     collection: about-rv
+  - title: Our Curriculum
+    url: /permalink
+    sublinks: []
