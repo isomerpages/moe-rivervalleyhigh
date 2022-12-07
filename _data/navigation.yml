@@ -3,5 +3,11 @@ links:
   - title: About RV
     collection: about-rv
   - title: Our Curriculum
-    url: /permalink
-    sublinks: []
+    url: /our-curriculum/oc/
+    sublinks:
+      - title: Cognitive-Interest Development
+        url: /permalink
+      - title: Ldrship-Character Development
+        url: /permalink
+      - title: Civic Literacy & Awareness
+        url: /permalink
