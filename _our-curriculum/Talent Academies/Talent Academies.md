@@ -12,10 +12,10 @@ In RV, our students are groomed for success. Our signature Grow, Excel, Magnify 
   
 RV's talent academies consist of
 
-*   [Science Leaders Academy](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/talent-academies/science-leaders-academy)
-*   [The Eco-Sustainability Leadership Academy](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/talent-academies/the-eco-sustainability-leadership-academy)
-*   [Mathematics Leaders Academy](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/talent-academies/mathematics-leaders-academy)
-*   [Bicultural Leaders Academy | 双文化学研中心](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/talent-academies/bicultural-leaders-academy)
-*   [The Humanities and Social Sciences Leaders Academy](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/our-curriculum/talent-academies/the-humanities-and-social-sciences-leaders-academy)
+*   [Science Leaders Academy](/our-curriculum/Talent-Academies/sla/)
+*   [The Eco-Sustainability Leadership Academy](/our-curriculum/Talent-Academies/tesla/)
+*   [Mathematics Leaders Academy](/our-curriculum/Talent-Academies/mla/)
+*   [Bicultural Leaders Academy | 双文化学研中心](/our-curriculum/Talent-Academies/biculturalldra/)
+*   [The Humanities and Social Sciences Leaders Academy](/our-curriculum/Talent-Academies/hssla/)
 
 With such strong support for talent development, RVians continue to produce leaders of distinction in various local and international competitions and events.
