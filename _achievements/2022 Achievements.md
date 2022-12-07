@@ -61,7 +61,15 @@ description: ""
 | Anglo-Chinese Junior College International Biomedical Quiz | **Category 1: Secondary 3 & 4**<br>**3 Gold Medals**  <br>Li Hanyu          (4A)<br>Mya Cherry (4A)<br>Jiang Yuhan (4C)<br><br>**2 Silver Medals**  <br>Loh Yong Da (4A)<br>Tam Jing Yi Joanne (4A)<br><br>**6 Bronze Medals**<br>Lim Abel (4A)<br>Tang Tian Le (4A)<br>Tan Xin Yang Elliott (4A)<br>Eaindra Khin (4C)<br>Zhao Zhe (4C)<br>Rajvi Rajesh Sapre (4C)<br><br>**Category 2: Junior College 1 & 2**<br>**4 Gold Medals**<br>Tan Beng Yang (22J02)<br>Soh Wei Kean, Adrina (22J02)<br>Zixuan Yeo (21J06)<br>Phua Jun Hao (21J08)<br><br>**3 Silver Medals**<br>Dyann Saw Xinmei (22J05)<br>Lee Shin Yee (21J03)<br>Zhang Yu (21J13)<br><br>**6 Bronze Medals**<br>Vera Ng Jing Wen (22J02)<br>Goh Ziyu (22J10)<br>Eunsun Jung (22J10)<br>Lai Xin Ling (21J02)<br>Zhu Qi (21J03)<br>Thia Zi Yun (21J06)<br><br>**5 Merit Awards**<br>Tay Yu Xun (21J03)<br>Hiuk Yuh Wen (21J03)<br>Lee Xin Bei (21J06)<br>Dai Zongxin (21J06)<br>Lim Yi Ting, Erica (21J17)<br><br>**Category 2: Junior College 1 & 2**<br>**2nd Runner Up (Team Round)**<br>Tan Beng Yang (22J02)<br>Soh Wei Kean, Adrina (22J02)<br>Dyann Saw Xinmei (22J05)<br>Eunsun Jung (22J10)<br><br>**Category 1: Secondary 3 & 4**<br>**3 Gold Medals**<br>Li Hanyu      (4A)<br>Mya Cherry (4A)<br>Jiang Yuhan (4C)<br><br>**2 Silver Medals**<br>Loh Yong Da (4A)<br>Tam Jing Yi Joanne (4A) |
 | NTU Lee Kong Chian School of Medicine Anatomy Challenge | **Individual Category**<br>**Certificates of Distinction**<br>Loo Jia En (21J02)<br>Ang Cheng Ze (21J13)<br><br>**Certificate of Merit**<br>Manfred Tan Lisheng (21J04)<br>Lu Hui Fung, Alexis (21J05)<br>Chong Xin Ru, Gillian (21J06)<br>Wang Jiani (21J13)<br>Tang Yuheng (21J17)<br><br>**Team Category**<br>**5th Place**<br>Manfred Tan Lisheng (21J04)<br>Belle Tey Jing Yi (21J05)<br>Wang Jiani (21J13)<br>Ang Cheng Ze (21J13)<br>Tang Yuheng (21J17) |
 | Engineering Innovation Challenge | **Category 1: Secondary Schools**<br>**3rd Place & Popularity Award (Team)**<br>Koh Xiu Yuan (22J09)<br>Min Thant Naing @ Weng Li Zong Cheng (22J11)<br>Alfred Ting Wei Hong (22J17)<br>Lin Yishuo (22J18)<br><br>**Merit Award (Team)**<br>Chen Litong (22J11)<br>Wang Kaicen (22J11)<br>Guo Huaxin (22J17) |
-| Cyberthon 2022 |  |
+| Cyberthon 2022 | **National 1st**<br>Liu Jiaye (21J15)<br>Zhou Zehao (21J15)<br>Lucas Lau (21J15)<br>Guan Chen Di (21J18) |
+| Whitehacks 2022 | **National 1st**<br>Liu Jiaye (21J15)<br>Guan Chen Di (21J18)<br>Zhong Ruiqi (22J20) |
+| Lag and Crash CTF 2.0 |**National 1st**<br>Liu Jiaye (21J15)<br>Guan Chen Di (21J18)<br>Zhong Ruiqi (22J20)<br>Du Wenbo (22J13)  |
+| National Wushu Championships | **C Division Boys**   Champions<br>**B Division Boys**    2nd  <br>**B Division Girls**    2nd<br> **A Division Girls**    2nd  <br> **A Division Boys**   4th |
+| National Softball Championships | **B Division Girls**   3rd |
+| National Floorball Championships | **B Division Girls**   3rd<br>**A Division Girls**   3rd |
+| National Table Tennis Championships | **A Division Girls**<br>National Top 4 |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
