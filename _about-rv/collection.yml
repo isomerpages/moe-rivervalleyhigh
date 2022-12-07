@@ -2,7 +2,6 @@ collections:
   about-rv:
     output: true
     order:
-      - Our School Leaders.md
       - Educational Institution/.keep
       - Educational Institution/A World Class Educational Institution.md
       - Educational Institution/Academic Departments.md
@@ -10,3 +9,4 @@ collections:
       - Vision, Mission, Motto.md
       - School Values and Spirit.md
       - Principal’s Message.md
+      - Our School Leaders.md
