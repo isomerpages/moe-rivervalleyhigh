@@ -21,11 +21,11 @@ description: ""
 | **Global Geopolitics Conference** | On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br>**2nd Placing for Best Delegation**<br>River Valley High School<br><br>**Best Delegate**<br>Tan Liang Rong (20J20)<br><br>**Best Position Paper**<br>Tang Jiaxi (20J18)<br><br>**Outstanding Delegate**<br>Ngieng Xin Yi (21J17)<br>Goh Jun Yu (4B) |
 | **NUS STEP Environment Camp 2021** | **3rd Prize for Environment Poster:**  <br>Lai Xin Ling (21J02)  <br>Zeng Chuwen (21J08)  <br>Tan Wen Rong (21J08)  <br>Ng Kai Wen Karin (21J19)  <br>Chen Zhe  (21J08) |
 | **NUS Geography Challenge** | **Gold Medal**<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Moot Parliament Programme Debate** | **Outstanding Backbencher**<br>Cadence Lim (4C) |
+| **National Plain English Speaking Awards** | **Sec School Category**<br>**Finalist**<br>Hong Liying Rie (4C)<br><br>**JC/Poly/ITE Category**<br>**Finalist**<br>Given Tan (21J04)  <br><br>**2nd Runner-Up**<br>Clarice Lim Yin Jie (20J05) |
+| **第四届小学课文朗诵比赛 中学低年级组（团体)** |  **季军**<br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I） |
+| **“译彩纷呈”翻译比赛** | ·         **团体赛冠军**<br>·         **个人奖：一等奖、二等奖、优胜奖**<br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br>朱天骏（中三C） |
+| **全国第26届中学/ 高中华语演讲比赛** |**优胜奖**  <br>吴宣颖（中二H）  |
 |  |  |
 |  |  |
 |  |  |
