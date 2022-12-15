@@ -67,7 +67,17 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 
 |  |  |
 |:---:|---|
-| **Singapore Youth Festival Arts Presentation 2019 <br> Secondary**  - |  |
+| **Singapore Youth Festival Arts Presentation 2019 <br> Secondary**  - | **SECONDARY  -** **DISTINCTION**  <br>Concert Band  <br>Chinese Orchestra  <br>Choir  <br>Dance(Chinese,International)  <br>Drama (Chinese, English)    <br><br>**JUNIOR COLLEGE** -**DISTINCTION**  <br>Concert Band  <br>Chinese Orchestra  <br>Choir  <br>Dance |
+| **19th National Chinese Calligraphy Competition** | **GOLD AWARD** <br> Lee Kai Jun (19J04) |
+| **Ngee Ann National Students' Calligraphy Competition** | **2ND RUNNER-UP**  <br>Lee Kai Jun (19J04) |
+| **NUS 11th National Youth Calligraphy Competition** | **GOLD AWARD**  <br>Mao Ruijie (4C) |
+|  |  |
+
+♦  **CLUBS AND SOCIETIES**  ♦
+
+|  |  |
+|:---:|---|
+|  |  |
 |  |  |
 |  |  |
 |  |  |
