@@ -2,9 +2,6 @@ collections:
   about-rv:
     output: true
     order:
-      - Contact Info/.keep
-      - Contact Info/Contact Info.md
-      - Contact Info/2022 Form Teachers.md
       - Educational Institution/.keep
       - Educational Institution/A World Class Educational Institution.md
       - Educational Institution/Academic Departments.md
@@ -17,3 +14,6 @@ collections:
       - School Partners/.keep
       - School Partners/School Partners.md
       - School Partners/Parent Teacher Association.md
+      - Contact Info/.keep
+      - Contact Info/Contact Info.md
+      - Contact Info/2022 Form Teachers.md
