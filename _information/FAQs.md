@@ -43,3 +43,14 @@ description: ""
 
 #### DSA enquiries on Sports CCAs
 
+|  |  |
+|---|---|
+| Will my child be guaranteed a place in the school team if he comes in via DSA? | The school team is selected only prior to the team registration for the National School Games.<br><br>Generally, most DSA students qualify for the school team due to their talent, ability and sustained commitment to training. |
+| What are the requirements to qualify for the various DSA sports?<br><br>Can we apply for DSA even though we are not in the school team or if our primary school does not have that particular sport? | Students should display strong aptitude in the talent area they applied for. Trials and interviews will be conducted to assess their suitability in that talent area.<br><br>Yes, you can still apply for DSA. |
+| How would the sports CCA DSA be carried out for JC DSA? Would there be physical trials or just online interviews? | You may refer to our school website in June for more information on DSA-JC exercise. |
+| How do I prove that my child is a captain of the school team? | The primary school should have recorded your child’s Leadership and Achievements in the CCA Certificate. |
+| Is there a recreational team apart from the school team? | There is no recreational team. |
+|  |  |
+
+#### DSA Enquiries on Other Talent Areas
+
