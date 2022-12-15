@@ -37,3 +37,29 @@ description: ""
 
 #### Co-Curricular Activities
 
+|  |  |
+|:---:|---|
+| **Girl Guides** | **2015 President's Guide Award** <br>Bernice Lim Si Min (Year 4)    <br><br>**2015 Puan Noor Aishah Honour Award**    <br>Gold Award   <br><br>**Baden Powell Award**<br> Zhang Linli (Year 4)   <br>Cheryl Koh Shi Hua (Year 4)   <br>Chow Yun Hui Dilys (Year 4) |
+| **National Cadet Corps** | **Best Unit Competition**   <br>Gold Award   <br><br>**International Cadet Exchange Programme** in Sussex, UK  <br>Loo Jia Wei (Year 3)   <br>Bai Hong Yeou (Year 3)  <br>_Two of our NCC cadets have been selected to represent Singapore in this exchange programme from 13 to 26 August._  <br><br>**National Cadet Corps Outstanding Cadet Award 2016**  <br>Master Sergeant Chen Zuo Hui (4G)   <br>Master Sergeant Zoe Ang Jia Wei (4J) <br> _Of the 15 recipients, RV NCC is the only school with two award recipients who are from the boys and girls units._ |
+| **National Police Cadet Corps** | **Singapore Police Force - NPCC Badge** <br>(Pinnacle badge of NPCC)   <br>Alyssa Phua Sze Ying (Year 4)   <br>Shaun Ang Qiao Rou (Year 4)   <br>Sim Zi Yang (Year 4)   <br><br>_Alyssa was also selected as the Valedictorian (representing the 162 recipients), delivering an inspiring speech. Alyssa received praises from the Commissioner of Police and Chairman of the NPCC Council._   <br><br>**Best Unit Competition**   <br>Silver Award |
+| **St John Brigade** | **Best Unit Competition** <br>Gold Award  <br><br>**Nursing Cadet (Team)**<br>Champion  <br><br>**Nursing Adult (Team)**  <br>Champion  <br><br>**Ambulance (Team)**  <br>Champion |
+|  |  |
+
+♦  **NATIONAL SCHOOL GAMES**   ♦
+
+|  |  |
+|:---:|---|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
