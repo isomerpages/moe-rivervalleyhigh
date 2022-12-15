@@ -87,3 +87,35 @@ Students can approach ICT Helpdesk in school for PLD technical support:.
 | **Operating Days** | *   Wednesday and Thursday<br>*   Collection on Thursday |
 | **Operating Hours** |  1500 - 1600 |
 |  |  |
+
+For DMA support, contact 
+
+*   ICT Associate, Mdm Asifa ([asifa\_sultana\_naushad@moe.edu.sg](mailto:asifa_sultana_naushad@moe.edu.sg))
+*   SH Computing Studies, Mr Chan Him Nok ([chan\_him\_nok@moe.edu.sg](mailto:chan_him_nok@moe.edu.sg))
+*   HOD Education Technology. Mr Oh Chee Wee ([oh\_chee\_wee@moe.edu.sg](mailto:oh_chee_wee@moe.edu.sg))
+
+**Indication for PLD purchase**<br>
+Click [here](https://go.gov.sg/pdlpadmin) to access the FormSG to **indicate purchase of PLD**.  <br>
+Click [here](https://go.gov.sg/rvhspdlpfaq) for FAQs on PDLP.
+
+#### Bring Your Own Mobile Device (BYOMD)
+
+Smart mobile phones continue to be an integral part of the 21st Century Learning environment in RVHS as it serve the primary communication needs for students learning. The portability of the smart mobile device complemented the primary PLD in situation and environment which the primary PLD may not be too suitable. Eg outfield investigation, filming and image capturing.
+
+#### Computing Device for JC students
+
+As PDLP is not extended to JC level, students are encouraged to acquire a personal laptop of any type and kind to better tackle the requirement of computing usage for higher order learning should they not have one. (Hybrid laptop is preferred for better integration between work productivity )
+
+*   JC students can continue to use smart mobile phones for personalised anytime, anywhere learning.
+*   Needy students can apply for subsidised purchase of laptops through NeuPlus programme and also through school FAS scheme.
+*   Needy students may also loan out laptops for personalised learning. Request for loans are subjected to approval and may require recall if needed for upgrades or audits.
+
+#### Cyber Wellness @ RV
+
+To emphasize the proper learning usage of computing devices in River Valley High School, iPads and other computing devices are referred to as Personal Learning Devices (PLDs). A series of measures are put in place to inculcate and to remind students of responsible usage.
+
+**Cyber Wellness theme in CCE lessons**<br>
+Cyber Wellness is an area that is heavily themed in the new CCE lessons where students are placed in discourse on contemporary topics to build identity and belonging. Students are made aware of Cyber Wellness issues and the potential  impacts through these discussions in class. 
+
+**PLD Usage Guidelines**<br>
+The PLD usage guidelines builds upon MOE's R3ICH core values and details how PLD should be use in school.
