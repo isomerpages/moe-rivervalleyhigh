@@ -45,3 +45,10 @@ RVHS had subscribed to the Enhance Device Bundle with extended warranty and insu
 | **Helpdesk Operating Hour** | Mon – Fri: 0900 – 1800  <br>Sat: 0900 – 1500  <br>Closed on Sun and Public Holidays |  Mon, Tue, Thurs, Fri: 0845 - 1715  <br>Wed: 0845 - 1945  <br>Sat: 0900 - 1200  <br>Closed on Sun and Public Holidays|
 | **Website for Accessories** | [https://www.asiapac.com.sg/pld/lenovo](https://www.asiapac.com.sg/pld/lenovo) **PAGE NOT FOUND** | [http://edu.acer.com.sg/pld](http://edu.acer.com.sg/pld) |
 |  |  |  |
+
+For device collection and servicing, please click on the respective links for the location map of the Contractors' Service Centre and Collection Centre. [ [Acer](/files/Acer%20Service%20%20Centre.pdf) ; [Lenovo](/files/Lenovo%20Service%20and%20Collection%20Centre.pdf) ]
+
+Students can arrange to send to PLD to Service Centre or through School ICT helpdesk. Please click [here](/files/Service%20Request%20Procedure.pdf) for the procedure.
+
+**Device Management Application (DMA)**<br>
+DMA is a critical component for PDLP and all laptops must be installed with DMA in order to be used in school for learning as a PLD. It is necessary for monitoring of PLD activities and inculcate good cyberwellness habits without the presence of constant policing.
