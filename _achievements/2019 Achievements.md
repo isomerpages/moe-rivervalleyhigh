@@ -64,3 +64,19 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 |  |  |
 
 ♦  PERFORMING ARTS GROUP ♦
+
+|  |  |
+|:---:|---|
+| **Singapore Youth Festival Arts Presentation 2019 <br> Secondary**  - |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
