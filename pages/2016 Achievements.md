@@ -89,14 +89,15 @@ description: ""
 | **Harvard Model United Nations** | <img src="/images/hmun-rv3.jpg" style="width:35%" align=right> **Commendation Award**<br> (in a field of 3000 participants)   <br>Eden Chua (Year 5) |
 | **MOE Overseas Student Attachment Programmes** | **Centre of Excellence in Education Summer Programme in MIT, Boston, USA** <br>Lim Yuhua (Year 5)   <br><br>**International Summer School for Young Physicists, Perimeter Institute, Canada**   <br>Daryl Tai (Year 5)   <br><br>**XLAB International Science Camp, Gottingen, Germany**   <br>Chia Guole Eugene (Year 5)   <br>Stefan Liew Jing Rui (Year 5)   <br><br>**Stanley Ho Astronautics Training Foundation Aerospace Summer Camp**  <br>Chen Ru Ting Jaslyn (Year 5)  <br>_Jaslyn was invited by MOE to take part in an international aerospace summer camp which will be held in Beijing, China._ |
 | **27th National Service Learning Conference** <br>(held in Minneapolis, Minnesota, USA) | Wong Jia Ying (Year 5) and Koh Xin Yi (Year 5) represented the school to share RV's annual Y.LEAD seminar with the US conference participants. |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Third Language Student Exchange Programme** (in Hamamatsu, Japan) | Heather Ye Tint (Year 3)   <br>Yong Chuen Shin (Year 3)   <br>Tan Hui En Zoe (Year 4) |
+| **Singapore Armed Forces Young Leader Award**| Pearlwin Koh En Qi (Year 6) |
+| **Singapore Police Force Book Prize** | Teo Chong Boon (Year 6) <br>Yang Run Ze (Year 6) |
+| **Land Transport Authority Book Prize** | Tan Chern Heng (Year 6) |
+| **2016 Agency for Science & Technology Research (A\*STAR) Science Award**(Upper Secondary) | Choi Tong En (Year 3)   <br>Li Jiangrong (Year 3)   <br>Pang Kai Lin (Year 3)   <br>Sun Baizhen (Year 3)   <br><br>Lim Yuhua (Year 5)   <br>Tan Yi Shiuan (Year 5) |
+| **2016 Young Defence Scientists Programme (YDSP) Scholarship** | Lim Xin Yi (Year 3)   <br>Pang Kai Lin (Year 3)   <br>Tan Wee Leng (Year 3)   <br>Ng Shi Qing (Year 3) |
+| **2016 Young Defence Scientists Programme (YDSP) Academic Award** | **For Mathematics** <br>Chiau Ren Dao (Year 4)   <br>Chia Guole Eugene (Year 5)   <br>Chew Wei Sheng (Year 6)   <br>Lim Li Ying (Graduating class of 2015)   <br><br>**For Physics**<br> Neoh Tzeh Yuan (Year 4)   <br>Branden Chua Qi Yu (Year 5)   <br>Tan Chern Heng (Year 6)   <br>Tseng Fan Shuen (Graduating class of 2015) |
+| **Young Defence Scientists Programme Science & Technology Camp Competition** | **1st Runner Up**<br>Lim Guan Mao Daven (Year 4)  <br>Fu Shun Long Winston (Year 4)  <br><br>**2nd Runner Up**  <br>Lim Xin Yi (Year 3)   <br>Tan Wee Leng (Year 3)   <br>Lin Zitian Vivian (Year 3) |
+| **Defence Science & Technology Agency Junior College Scholarship** | Daryl Tai (Year 5) <br>Tan Yi Shiuan (Year 5) |
+| **教育部特别辅助计划奖学金** | **中学:** 袁子仪、 李忆欣、 林敏琪、 刘奕璇、 白宁萱、 孙雯桢、 童乙致、 李欣融、 黄 艳、 杨安妮、 毛禹迪、 蒋欣彤、 黄山珊、 梁诗惠、 陈彦蓁 (Year 3)  <br><br>**高中:** 林映慧、 黄培莹、 许馨泥 (Year 5) |
+| **Creative Arts Seminar** | Deng Jia Xuan (Year 2) was selected by MOE to participate in the seminar (Secondary Schools)  <br><br>Hong Zhengyi (Year 5) and Yeong Ying Xue (Year 5) were selected by MOE to participate in the seminar (Junior Colleges) |
 |  |  |
