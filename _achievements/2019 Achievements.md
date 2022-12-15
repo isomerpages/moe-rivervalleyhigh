@@ -77,16 +77,14 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 
 |  |  |
 |:---:|---|
+| **Singapore International Original Comics Competition 2019** | **BRONZE AWARD**  <br>Lim Jin Feng (18J13) |
+| **National Chinese Challenge 2019** | **1st Runner-Up**  <br>Da Ruolin (4B)  <br> Chen yixian (3B)  <br>Gan Ci Han (2F)  <br><br>**INDIVIDUAL EXCELLENCE AWARD (TOP 30)**  <br>Da Ruolin (4B)  <br>Gan Ci Han (2F) |
+| **2019 National Secondary Schools Bilingual Debate 2019** | **OUTSTANDING DEBATER** <br>Fiona zeng Yuqi (4B) |
+| **National Olympiad in Informatics 2019** |   **SILVER MEDAL** <br>Zhang Jikun (18J06)  <br><br>**BRONZE MEDAL**  <br>Si Chenglei (18J06)  <br>Zhang Zeyu (18J06) |
+| **3D Tronics: Digital making National Infocomm Competition 2019** | **Open Category**  <br>2nd place  <br><br>**Senior Category**<br>Best Controller Design Award<br>3rd Place |
+| **National Robotics Programming Competition** | **1st place for Best Mechanical Design**  <br>Eugene Teo Jun Xiang (1G)<br>Low Voon Zhong, Daniel (1C)  <br>Hong Wenqi (1F)  <br><br>**2nd Place for Best Robot Performance**  <br>Lin Xinying (1D)  <br>Choo Qingyuanm (1D)  <br><br>**2nd place for Best Mechanical Design**   <br>Yang Zuoquan (3I)  <br>Wong Rocky (2E) |
+| **National Robotics Competition** | **1st place for Best Engineering Design(Secondary)**  <br>Yang Zuoquan (3I)<br>Joshua Chin Wei Jie(3A)  <br>Eugene Teo Jun Xiang (1G)  <br><br>**3rd for Best Engineering Design Award (Tertiary)**<br>Zhang Yuren (19J04)  <br>Keagan Kong Kai Yi (19J09)  <br><br>**3rd for Best Robot Performance Award (Secondary)**  <br>Wong Rocky (2E)  <br>Lin Xinying (1D)  <br>Jordon Goh Ding Xuan (2C) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+#### Past Year Achievements
+
