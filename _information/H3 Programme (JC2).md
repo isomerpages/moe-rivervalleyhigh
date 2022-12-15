@@ -35,3 +35,15 @@ description: ""
 The admission criteria and timeframe for MOE Partner H3 programmes is shown in Table 2 below. 
 
 ##### Table 2: Admission criteria and timeframe for MOE Partner H3 programmes
+
+| **MOE Partner programmes** | **Admission criteria** | **\*Timeframe** | **URL** |
+|---|---|---|---|
+| NUS-MOE Humanities & Social Science Research<br><br>(NUS-MOE HSSR) | *   JC or IP school teachers’  recommendation<br>*   Quality of research proposals<br>*   At least a ‘B’ or better in the corresponding H2 subject | Oct (JC1) to Aug (JC2) | [https://www.moe.gov.sg/education-in-sg/our-programmes/nus-moe-hssr](https://www.moe.gov.sg/education-in-sg/our-programmes/nus-moe-hssr) |
+| NUS-MOE Science Research | *   Above-average performance in the Aptitude Test <br>*   JC or IP school Principal’s recommendation<br>*   Successful completion of Research Methods Module (RMM) <br>*    Acceptance of an approved research proposal by a mentor | Feb (JC1) to Apr (JC2) | [https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/research-programmes/science-research-programme-srp/](https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/research-programmes/science-research-programme-srp/) |
+| NUS H3 University-taught course | *   JC or IP school teachers’  recommendation | Jan to May (JC2) |  |
+|  |  |  |  |
+| NTU Nanyang Science  Research | *   JC or IP school teachers’ recommendation<br>*   Interviews by NTU<br>*   Successful completion of Training Seminar<br>*   Acceptance of an approved research plan by a mentor | April (JC1) to Apr (JC2) | [https://www.ntu.edu.sg/education/talent-outreach/NRP](https://www.ntu.edu.sg/education/talent-outreach/NRP) |
+| NTU H3<br><br>University-taught course | *   JC or IP school teachers’ recommendation based on student’s overall performance | Jan to May (JC2) | [https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications) |
+|  |  |  |  |
+| SMU H3<br><br>University-taught course | *   JC or IP school teachers’ recommendation based on student’s overall performance | Jan to May (JC2) |  |
+|  |  |  |  |
