@@ -19,11 +19,11 @@ description: ""
 | **Singapore Young Physicists' Tournament** | **Team (Secondary School)**   <br>Commendation Award   <br><br>**Team (Junior College)**   <br>Both teams received Commendation Awards |
 | **Singapore 19th National Olympiad in Informatics** (organised by NUS) | **Bronze Award**  <br>Li Yezhou (Year 6) |
 | **American Mathematics Competitions** | **AMC12 - Certificate of Distinction & American Invitational Mathematics Examination (Top 5%)** <br>Ji Yuxuan (Year 5)   <br>Lau De Xing (Year 6)   <br>Ju Yuting (Year 6) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **NUS Geography Challenge 2016** | **Silver Medal** Quek Yi Yuan<br>Sharlene (Year 4)   <br><br>**Bronze Medal** Ng Li Xin (Year 4)   <br>Tan Wan Yun (Year 4) |
+| **Bee and Bowl History Championships** | **History Bowl Qualifying Team for Regional Championship in Phuket (Team)**   <br>Deng Jia Xuan (Year 2), Chong Pin Shin (Year 2), Vernice Chua (Year 3), and Lu Yixin (Year 4)   <br><br>**Overall 2nd (Middle School Bee)** <br>Jonathan Lim (Year 2)   <br><br>**Overall 3rd (Junior Varsity Bee)** <br>Lu Yixin (Year 4) |
+| **Green Wave Environmental Care Competition** (Secondary School Category) | **2nd Placing (Team)** : Tan Jia Yuan Janet (Year 5), Zhu Ke Ying (Year 5), Chua Micaiah (Year 5), Lau Su Jun (Year 5), Reen Ho Wan Li (Year 5), and Chen Xinyi (Year 5) |
+| **Anglo-Chinese Junior College International Biomedical Quiz** | **Individual (Upper Secondary)** <br>1 Gold, 2 Silver and 3 Bronze Medals   <br><br>**Individual (Junior College)** <br>2 Bronze Medals   <br><br>**Team (Junior College)**   <br>3rd Runner-up |
+| **Anglo-Chinese Junior College International C. B. Paul Science Quiz** | **Individual (Secondary)**<br> 1 Gold, 1 Silver and 2 Bronze Medals |
 |  |  |
 |  |  |
 |  |  |
