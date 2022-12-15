@@ -47,3 +47,23 @@ The admission criteria and timeframe for MOE Partner H3 programmes is shown in T
 |  |  |  |  |
 | SMU H3<br><br>University-taught course | *   JC or IP school teachers’ recommendation based on student’s overall performance | Jan to May (JC2) |  |
 |  |  |  |  |
+
+\* Timeframe is subject to changes by the relevant Universities<br>
+\* Student [attendance policy ](/files/Attendance%20Guidelines_Sep%202018.pdf) offered by MOE Partners.
+
+#### HIGHER 3 GRADING SYSTEM
+
+*   The candidates’ grades for MOE-Cambridge and MOE Partner H3 programme will be reflected in the MOE-issued School Graduation Certificate and Singapore-Cambridge GCE A-level Certificate.
+*   The H3 gradings are Distinction, Merit, Pass and Ungraded.
+
+#### TERMS AND CONDITIONS OF WITHDRAWAL FROM MOE PARTNER H3 PROGRAMME
+
+*   A candidate who wishes to withdraw from H3 programmes offered by MOE Partners (i.e. NUS, NTU and SMU) must submit the withdrawal form to the School H3 coordinator.
+*   A common withdrawal period applies for all H3 programmes offered by MOE Partners. The withdrawal period is stipulated as follows:
+
+|  |  |
+|---|---|
+| **H3 university-taught courses** | Within two weeks from the start of instruction (as indicated in the university’s academic calendar for the semester) |
+| **H3 Science research** | Within two weeks after the submission of the research proposal |
+| **H3 HSSRP** | Within two weeks from the last day of acceptance of letter of offer |
+|  |  |
