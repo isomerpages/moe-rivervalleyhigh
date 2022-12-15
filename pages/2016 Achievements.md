@@ -24,14 +24,16 @@ description: ""
 | **Green Wave Environmental Care Competition** (Secondary School Category) | **2nd Placing (Team)** : Tan Jia Yuan Janet (Year 5), Zhu Ke Ying (Year 5), Chua Micaiah (Year 5), Lau Su Jun (Year 5), Reen Ho Wan Li (Year 5), and Chen Xinyi (Year 5) |
 | **Anglo-Chinese Junior College International Biomedical Quiz** | **Individual (Upper Secondary)** <br>1 Gold, 2 Silver and 3 Bronze Medals   <br><br>**Individual (Junior College)** <br>2 Bronze Medals   <br><br>**Team (Junior College)**   <br>3rd Runner-up |
 | **Anglo-Chinese Junior College International C. B. Paul Science Quiz** | **Individual (Secondary)**<br> 1 Gold, 1 Silver and 2 Bronze Medals |
+| **MOE-ACJC Intercollegiate Debating Competition** | 2nd (Team) |
+| **Singapore Space Challenge** | **Team (Space & Medical Science Category)** <br>1st Runner-up |
+| **National iTrail Challenge** | **3rd (Team)** |
+| **Nationale–Nederlanden (NN)-Junior Achievement Social Innovation Relay** | **Champions (National Finals)**:   <br>Li Yezhou (Year 6)   <br>Zhou Ziqi (Year 5)   <br>Zhou Zirui (Year 5)   <br><br>**Second Runner-Up (Global Finals)**:   <br>Li Yezhou (Year 6)   <br>Zhou Ziqi (Year 5)   <br>Zhou Zirui (Year 5) |
+| **SMU Youth Innovation Challenge 2016** | **2nd Runner-Up (JC and ITE Category)**:   <br>Li Yezhou, Wang Kaiwen, Lin Ziwei (Year 6),   <br>Su Zifeng, Lee Jayin (Year 5)   <br><br>**IE Singapore Internationalisation Award**:   <br>Li Yezhou, Wang Kaiwen, Lin Ziwei (Year 6),   <br>Su Zifeng, Lee Jayin (Year 5) |
+| **National Institute of Education Management & Leadership in Schools (MLS) Programme** | **Dr J. M. Nathan Memorial Prize for Curriculum Project**awarded to team which demonstrated highest level of standard in their MLS curriculum project   <br><br>Mr Chow Ban Hoe, Head of Department (Science Research & Talent Development) |
+| **Design and Technology (D&T) Educators Society: D&T Award Competition** | **Creative Adaptation Award**     <br>Dana Ong Zi Yi (Year 2)   <br>Koh Si Min Kara (Year 2)   <br>Leow Qi Xuan Felicia (Year 2) |
+| **Planning a Clean and Green Township: The Young Mayor/Leader Competition** | **1st Runner-up**<br> Gan Jia Hui, Lau Su Jun, Heng Jie Min, Jong Ching Yee, Chen Ru Ting Jaslyn, Andrea Tan Li Yao (Year 5) |
+| **NUS Geosphere Essay Writing Competition** | **Best Essay Submission** <br>Tasha Yip Shuen Wen (Year 6)   <br><br>**Honourable Mention**  <br>Lim Hui Yi Jayne (Year 6) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+#### Co-Curricular Activities
+
