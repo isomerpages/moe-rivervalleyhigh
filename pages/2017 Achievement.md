@@ -45,3 +45,14 @@ description: ""
 |  |  |
 
 ♦  **NATIONAL SCHOOL GAMES**   ♦
+
+|  |  |
+|:---:|---|
+| **National Inter-Schools Softball Championships** | 4th (A Division Boys)  <br>3rd (A Division Girls)  <br>3rd (B Division Girls) |
+| **National Inter-Schools Cross Country Championships** | 4th (A Division Girls) |
+| **West Zone Badminton Championships** | 3rd (B Division Boys)  <br>2nd (B Division Girls)    <br>2nd (C Division Boys)  <br>2nd (C Division Girls) |
+| **West Zone Table Tennis Championships** | 3rd (B Division Boys)  <br>4th (B Division Girls)    <br>4th (C Division Boys)  <br>3rd (C Division Girls) |
+| **ActiveSG-Basketball Association of Singapore Basketball Development League** | 4th (B Division Girls) |
+| **West Zone Basketball Championships** | **Fair Play Award**<br>B Division Girls |
+| **National Inter-Schools Floorball Championships** | 1st (A Division Girls) |
+|  |  |
