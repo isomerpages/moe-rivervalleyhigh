@@ -15,7 +15,7 @@ Debbie Chew Yannie (Class of 2014)  <br>
 **PSC Scholarship:**  
 Lim Ren Jie (Class of 2019)  <br>
 **PSC Engineering:**  
-Chua Yao Xuan (Class of 2021)
+Chua Yao Xuan (Class of 2021)<br clear=left>
 
 #### Healthcare Scholarship
 
