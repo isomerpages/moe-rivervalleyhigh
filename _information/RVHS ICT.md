@@ -37,3 +37,11 @@ RVHS had subscribed to the Enhance Device Bundle with extended warranty and insu
 
 **Contact details of PLD Contractor**
 
+|  |  |  |
+|---|---|---|
+| **Contractor Name:** | M1 | Acer |
+| **Help Desk Number:** | 800 852 8100 | 68956278 |
+| **Help Desk Email** | [aseansg@lenovo.com](mailto:aseansg@lenovo.com) | [acercare.sg@acer.com](mailto:acercare.sg@acer.com) |
+| **Helpdesk Operating Hour** | Mon – Fri: 0900 – 1800  <br>Sat: 0900 – 1500  <br>Closed on Sun and Public Holidays |  Mon, Tue, Thurs, Fri: 0845 - 1715  <br>Wed: 0845 - 1945  <br>Sat: 0900 - 1200  <br>Closed on Sun and Public Holidays|
+| **Website for Accessories** | [https://www.asiapac.com.sg/pld/lenovo](https://www.asiapac.com.sg/pld/lenovo) **PAGE NOT FOUND** | [http://edu.acer.com.sg/pld](http://edu.acer.com.sg/pld) |
+|  |  |  |
