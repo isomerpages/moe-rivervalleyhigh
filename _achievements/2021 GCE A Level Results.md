@@ -65,4 +65,15 @@ _A triple-humanities student who leads from the heart_<br>National Cadet Corps<b
 
 ##### Chua Yao Xuan
 
+<img src="/images/Chua Yao Xuan.jpg" style="width:30%" align=left>
 
+_A mathematical (and beautiful) mind!_<br>President of Mathematics Leaders Academy<br>\- International Mathematics Modelling Challenge (Singapore) 2020 & 2021: Distinction<br>\- Singapore Statistics Competition (Sec) 2019: 2nd<br>\- Designing with TI Graphing Calculators Competition 2020: Bronze<br clear=left>
+
+Passion for Computer Science<br>
+\- Taught her MLA juniors the basics of Python programming and Mathematical analysis<br>
+\- Proactively sought opportunities offered by external organisations to learn beyond the syllabus<br>
+\- Took part in cybersecurity challenges
+
+##### Lim Sing Wei
+
+<img src="/images/Lim Sing Wei.jpg" style="width:30%" align=left>
