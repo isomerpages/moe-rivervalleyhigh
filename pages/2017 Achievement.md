@@ -56,3 +56,17 @@ description: ""
 | **West Zone Basketball Championships** | **Fair Play Award**<br>B Division Girls |
 | **National Inter-Schools Floorball Championships** | 1st (A Division Girls) |
 |  |  |
+
+♦  **SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION**  ♦
+
+|  |  |
+|:---:|---|
+| **Chinese Orchestra**  <br>Secondary School  <br>Junior College | <br>Distinction  <br>Distinction |
+| **Choir** <br>Secondary School | <br>Distinction |
+| **Concert Band**<br>Secondary School  <br>Junior College  <br>Percussion Ensemble | <br>Distinction  <br>Accomplishment   <br>Distinction |
+| **Dance**  <br>International, Secondary School  <br>Chinese, Secondary School  <br>Chinese, Junior College | <br>Distinction  <br>Distinction  <br>Distinction |
+| **Guitar Ensemble** (Junior College) | Accomplishment |
+| **String Ensemble**  <br>Secondary School  <br>Junior College |<br>Accomplishment  <br>Accomplishment |
+| **Chinese Literary, Drama and Debate Society** (Secondary School) | Accomplishment |
+| **English Literary, Drama and Debate Society** (Secondary School) | Accomplishment |
+|  |  |
