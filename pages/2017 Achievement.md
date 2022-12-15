@@ -82,3 +82,19 @@ description: ""
 
 #### Outstanding RVians
 
+|  |  |
+|:---:|---|
+| **2016 President's Guide Award** | Yeoh Hui Qing (4C 2016)   <br><br>_The President's Guide Award is the highest level of achievement attainable by a Guide below the age of 18. It is given in recognition of the Guides' love for Guiding, her commitment towards the Guiding Movement, and her efforts in upholding Guiding values and skills to respectable standards. This is the second consecutive year that a RVHS Guide has attained this prestigious award._ |
+| **MOE Overseas Student Attachment Programmes** | **Centre of Excellence in Education Summer Programme in MIT, Boston, USA**  <br>Fu Shun Long, Winston (5J)  <br><br>_He will be participating in a six-week overseas research attachment programme at the Massachusetts Institute of Technology in Boston, United States of America, from 25 June to 5 August._ |
+| **Stanley Ho Astronautics Training Foundation Aerospace Summer Camp** | Xie Yuxuan (5H)  <br><br>_Yuxuan will be participating in an international summer aerospace camp in Beijing, China, from 16 July to 22 July 2017._ |
+| **Agency for Science, Technology & Research Science Award** | **Upper Secondary**<br> Lim Jia Qing (3A)   <br>Ong Xue Ren (3A)   <br>Gladwin Tan Ye Kai (3A)   <br><br>**Junior College**   <br>Lim Guan Mao Daven (5B)   <br>Fu Shun Long Winston (5J) |
+| **Young Defence Scientists Programme Scholarship** | Lim Jia Qing (3A)   <br>Ong Xue Ren (3A)   <br>Gladwin Tan Ye Kai (3A) |
+| **Young Defence Scientists Programme Academic Award** | **Mathematics**   <br>Mao Yu Di (4B)   <br>Low Jing Yi Jean (5C)   <br>Mak Zhi Ning (6K)   <br><br>**Physics**   <br>Pang Kai Lin (4E)   <br>Fu Shun Long Winston (5J)   <br>Daryl Tai (6F) |
+| **Special Assistance Plan (SAP) Scholarship Recipients** | Chee En Pei, Joey (3B)  <br>Corea Chua Ying Suang (3B)  <br>Lim Li Xuan Linette (3B)  <br>Manda Yong Zi Xuan (3B)  <br>Tan Rae (3B)  <br>Tan Xin Yi (3B)  <br>Tay Wan Suan, Celest (3B)  <br>Tee Wen Hui (3B)  <br>Zhang Zi Qian (3B)  <br>Hong Jun Ling (3C)  <br>Jee Chen Ying (3C)  <br>Li Xingyu (3C)  <br>Lim Jo Xin (3C)  <br>Tay Xuan Ting, Queenie (3C)  <br>Ting Kwok Ian (3C) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
