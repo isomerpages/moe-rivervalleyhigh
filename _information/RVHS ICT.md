@@ -52,3 +52,23 @@ Students can arrange to send to PLD to Service Centre or through School ICT help
 
 **Device Management Application (DMA)**<br>
 DMA is a critical component for PDLP and all laptops must be installed with DMA in order to be used in school for learning as a PLD. It is necessary for monitoring of PLD activities and inculcate good cyberwellness habits without the presence of constant policing.
+
+The DMA serves 3 purposes:
+
+| Device Management Service | Classroom Management Service | Usage Management Service |
+|---|---|---|
+| This facilitates the updating and management of the PLDs and  protects from malicious software and objectionable internet content. | Enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning. | Enables the school and/or parents/guardians to better supervise and set helpful limits for your child’s/ward’s use of PLD after school. |
+|  |  |  |
+
+Click [here](/files/Function%20of%20DMA.pdf) for details of DMA features.<br>
+Click [here](/files/Privacy%20and%20Data%20Security.pdf) for details of the data that will be monitored by the DMA.
+
+The DMA will enforce a school prescribed settings during school hours from 0730 to 1500 during school days. For after school hours, weekends and holidays, DMA settings will follow that of parents choice.  
+
+Parents can have the option to choose DMA settings for after school hours,, weekends and holidays. There are 3 options to choose from:
+
+| Default Setting | Option A: Modified Setting | Option B: Disabled |
+|---|---|---|
+| PLD to follow school prescribed settings | Parents can modify DMA settings after school hours | Parents can disable the DMA settings after school hours |
+|  |  |  |
+
