@@ -25,7 +25,13 @@ description: ""
 | **H2 Chemistry** | **Chemistry** **/ 9813** |  |  |  | **English** |
 | **H2 Biology** | **Biology / 9816** | **NTU Molecular Biology** |  |  | **English** |
 | **H2 Biology/ Chemistry/ Physics** |  | **NTU Nanyang Research**<br><br>**(started in mid 2022)** | **NUS-MOE Science Research (started in mid 2022)** |  | **English** |
+| **H2 Literature in English** | **Literature in English**<br><br>**/ 9805** |  | **NUS-MOE Humanities & Social Science Research (ELit)** |  | **English** |
+| **H2 Economics/History/Geography/Chinese Language & Literature** |  |  | **NUS-MOE Humanities & Social Science Research (Econs/Hist/ Geo/CLL)** | **SMU Game Theory**<br><br>**(Econs)** | **English;**<br><br>**Chinese (for CLL)** |
+| **H2 Geography / History** | **History / 9823** |  | **NUS Geopolitics: Geographies of War and Peace** |  | **English** |
 |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+
+#### ADMISSION CRITERIA AND TIMEFRAME FOR MOE PARTNER H3 PROGRAMMES
+
+The admission criteria and timeframe for MOE Partner H3 programmes is shown in Table 2 below. 
+
+##### Table 2: Admission criteria and timeframe for MOE Partner H3 programmes
