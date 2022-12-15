@@ -2,6 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Financial Assistance Schemes.md
       - School Prospectus.md
       - School Fees.md
+      - Financial Assistance Schemes.md
