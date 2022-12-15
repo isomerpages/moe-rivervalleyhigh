@@ -109,8 +109,8 @@ description: ""
 
 |  |  |
 |---|---|
-|  |  |
-|  |  |
+| What are the school hours like in RV? | School starts at 8 am each morning from Tuesday to Friday, and we start at 9 am on Mondays. Lessons usually end at about 2.30pm, depending on which level and the students’ subject combination. On some afternoons, students may attend supplementary classes or enrichment programmes. |
+| How much fees do students pay monthly? | Please click [here](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/information/school-fees) for the school fees. |
 |  |  |
 |  |  |
 |  |  |
