@@ -54,3 +54,31 @@ description: ""
 
 #### DSA Enquiries on Other Talent Areas
 
+|  |  |
+|---|---|
+| How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board or CCA? | Your child’s primary school CCA record should reflect that he/she holds a key position in the school prefectorial board as one of the office bearers (for example, EXCO member). For Girl Guides, she should be conferred the Chief Commissioner's Badge as it is the highest achievement at the primary school level.<br><br>We believe in the leadership potential of all students and there are many opportunities to develop their potential.<br><br>For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board. |
+| What will be required of the child if she is accepted through DSA leadership or girl guides? | Upon entering RV, your child will be in our Student Leadership Development Academy and Students' Council. For Girl Guides, your child will continue her Girl Guides journey with us in RVHS. |
+| What kinds of documents must we provide for DSA coding? | Documents that reflect past achievements and competencies are to be submitted during the application phase. |
+| What do you look for in students who apply for DSA Science Investigation? | For Scientific Investigation, candidates should have a deep passion in science and innovative problem-solving skills. They should also demonstrate a natural curiosity in Science through their performance in science inquiry tasks. |
+| What do you look for in students who apply for DSA D&T Innovation? | Candidates should be creative when applying their knowledge and skills to the given tasks, and show that they are able to come up with innovative solutions to the problems. |
+| What do you look for in students who apply for DSA Environmental Science? | Candidates should be passionate about the environment and have experience in championing environmental causes in their primary schools. Students who have a strong interest in environmental science and would like to serve as advocates for the environment, both inside and outside of the school community, can apply for this category. |
+| If my child is a prefect in primary school, will my child be a prefect in RV? | If your child comes into RV through DSA Leadership, your child will be given leadership opportunities to join the Students' Council, and be part of leadership projects and initiatives. |
+| Will Peer Support Group Leaders in primary schools be considered for DSA Leadership if they receive the EAGLES award? | The Edusave Award for Achievement, Good Leadership and Service (EAGLES) Award recognises a student’s leadership ability, and combined with his past leadership experiences and potential, we will take all these into consideration during our shortlisting process. |
+| For coding DSA, does my child stand a chance if he knows Scratch? | Your child needs to be able to demonstrate his skills and knowledge in the basics of programming. |
+|  |  |
+
+#### General enquiries on Co-Curricular Activities
+
+|  |  |
+|---|---|
+| Is CCA compulsory in RV?<br><br>Where can I find a list of CCAs offered in RV? | CCA is compulsory for all secondary school students.<br><br>Please visit [](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum)[https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum) **PAGE NOT FOUND** for the full list of CCAs offered to Sec and JC students. |
+| How are students selected for the CCAs? Are certain CCAs made up of DSA students only? | Students with the right aptitude for particular CCAs are matched to them. There is no CCA that is made up entirely of DSA candidates. |
+| Are external CCAs (eg water polo or tennis) recognised by the school and will the child be awarded CCA points? | If the student's involvement in a sport is under the National Sports Association, we will award CCA points. |
+| Can my child take up more than one CCA?| Students who can cope with the school’s academic and main CCA demands may take up another CCA. We have students who have demonstrated the ability to handle a diverse range of commitments in CCAs and Academies. |
+| How many training sessions are there per week and how long is each session? | There are three training sessions per week for sports CCAs. Generally, training sessions are held on Tuesdays, Fridays and one other weekday. Each training session is 3 hours long, from 3pm to 6pm. <br><br>Performing Arts CCAs are held on Tuesdays and Fridays, except for Chorale which conducts CCA on Wednesdays and Fridays. More practices are arranged only when there is a need to prepare for a competition or a performance. In such instances, parents and students will be notified at least two weeks in advance.<br><br>Our students’ well-being is our priority, hence during the post-season and end-of-year examination period, CCA sessions will be phased down. |
+| What opportunities are given to students in the performing arts CCAs? | Besides the biennial SYF performances, students in the performing arts CCA have many platforms to perform such as our annual month-long Arts Fest. In addition, the Performing Arts CCAs perform in many internal and external school events ranging from Honours Day to performances at the Istana.<br><br>Under the guidance of our experienced instructors, they also get to take part in competitions and when they are at their apex, they may be sent for external MOE courses such as the conductor’s course, to hone their skills. |
+|Can my child join more than one CCA if he or she gets into RV via CCA DSA?  | Your child has to remain committed to the CCA that he or she got in via DSA, so it must not clash with the other CCA that your child would like to join. |
+|  |  |
+
+#### Academic Enquiries
+
