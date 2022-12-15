@@ -31,6 +31,12 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 | **International Science Youth Forum @  Singapore 2019** | **Team Project Challenge   <br>CHAMPION**  <br>Kevin Khoo Weixue (19J13) |
 | **International Elementz Science research confereence & Exhibition 2019** | **BRONZE AWARD**  <br>Cheng Ping Zhi (19J05)  <br>Kwa Hwee Woon (Ge Huiwen), Hannah (19J04)  <br>Rachel Lee Shi Qi (19J02) |
 | **Singapore International 3D Printing Competition 2019** | **GRAND PRIZE**  <br>**(Singapore School Student Category)**  <br>LI Haoying (4A)  <br>Fan Kerong (18J12) |
+| **Singapore International Science    Challenge+International Student  <br>Science Fair 2019** | **Research Challenge(Engineering Category)  BEST POSTER AWARD**  <br>Ng Simin (19J08)  <br>Tian Qi (19J13)  <br>Deng Jia Xuan (19J03)  <br><br>  **Design & Build Challenge**  <br>**MOST ENTERPRISING AWARD**  <br> lim xin yi (18J06) |
+| **NUS Geography Challenge 2019** | **GOLD MEDAL**  <br>Alvera Gloria Pandiman (4A)  <br><br>**SILVER MEDAL**  <br>Ernest Tee Li Wei (4J)  <br><br>**BRONZE MEDAL**  <br> Soong Shao Zhi (4I) |
+| **National Institute of Education  <br>History Day** | **Silver-Junior Website Category**  <br>Oh Wei Quan (2F)  <br>Ching Xin Wei (2F)  <br>Leong Kai Jun (2F)  <br><br>**BRONZE-Senior Documentary Category** <br> Zhang Xiaohan (4J)  <br>Lee yan Qing (2E)  <br>Chong Ying (4J)  <br><br>**Commendation -Junior Documentary Category** <br> Ong Rui Hong (2E)  <br>Joanna Goh En Qian (2E)  <br> Wong Jing Wen Charis (2E)<br><br> **Commendation -Junior Exhibit Category**  <br> Koh Chew Hui Bryson  <br>Tong Jing Yuan, Magdalene (3C)  <br> Lin Jian Ping (3A) |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
