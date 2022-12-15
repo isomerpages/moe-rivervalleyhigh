@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Direct School Admission (Junior College).md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
@@ -15,3 +14,4 @@ collections:
         Programme) 2022.md
       - DSA (Integrated Programme)/Application Criteria.md
       - MOE Sexuality Education in Schools (Secondary).md
+      - Direct School Admission (Junior College).md
