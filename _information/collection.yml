@@ -2,5 +2,5 @@ collections:
   information:
     output: true
     order:
-      - School Fees.md
       - School Prospectus.md
+      - School Fees.md
