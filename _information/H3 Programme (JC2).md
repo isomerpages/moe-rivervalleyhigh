@@ -89,3 +89,21 @@ Withdrawal of  students after the start of instruction:
 | **SMU** | * **[Application Form](/files/H3_Application_Form%202023.pdf)** |
 |  |  |
 
+#### Application Timeline
+
+Table 3: Application Timeline
+
+| **Date** | **Activity**|
+|---|---|
+| 14 Oct 2022 | Publicise H3 programmes (MOE-UCLES and MOE Partner) and open for application for 2023.<br><br>Students sign up with school’s H3 coordinator using RVHS H3 Application Form & RVHS Online H3 Application.<br><br>If applying to NUS/NTU/SMU, fill in their (online) applications as well. |
+| 21 Oct 2022 | RVHS Close applications.<br><br>H3 coordinator to process and submit all documents to NUS, NTU, SMU |
+| 18 Nov 2022 | MOE partners (NUS, NTU, SMU) offer admission letters to successful applicants through schools/JCs. |
+| 25 Nov 2022 | Deadline for acceptance of offers for MOE Partner H3 Programme. |
+| Week 2 and 3 of Jan 2023 | Check with JC2 Subject Tutor successful application for  MOE-Cambridge modules. |
+| NUS, NTU, SMU<br><br> -Jan 2023 | Start of instruction/Start of withdrawal period for NUS, NTU, SMU Programme. |
+| 2 weeks after start of instruction | End of withdrawal period. |
+|  |  |
+
+#### FAQs on H3 Programme
+
+The list of FAQs can be found [here](/files/FAQ%20(as%20Sep%202018).pdf) .
