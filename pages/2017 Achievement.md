@@ -35,3 +35,13 @@ description: ""
 | **2017年华中中国通识论坛** | **中国通识常识竞赛季军**<br>陈心怡 (6M)  <br>刘嘉瑄 (6B)  <br>陈欣蔚 (6R)  <br><br>**中国通识视频竞赛季军**<br>林泽辰 (5N)  <br>田行健 (5F)  <br>金文祺 (5J)  <br>赖馨怡 (5P) |
 | **2017第四届全国华文大比拼** | **团体第四名**<br><br> **个人优秀奖**<br>张子芊 (3B)  <br>刘清音 (4H)  <br>毛禹迪 (4B)  <br>白宁萱 (4B) |
 |  |  |
+
+#### Co-Curricular Activities
+
+|  |  |
+|:---:|---|
+| **Girl Guides** | **2016 President's Guide Award**  <br>Yeoh Hui Qing (4C 2016) <br><br>_The President's Guide Award is the highest level of achievement attainable by a Guide below the age of 18. It is given in recognition of the Guides' love for Guiding, her commitment towards the Guiding Movement, and her efforts in upholding Guiding values and skills to respectable standards. This is the second consecutive year that a RVHS Guide has attained this prestigious award._ |
+| **National Wushu Championships** | 2nd (A Division Boys)  <br>4th (A Division Girls)  <br>2nd (C Division Girls) |
+|  |  |
+
+♦  **NATIONAL SCHOOL GAMES**   ♦
