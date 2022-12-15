@@ -2,10 +2,10 @@ collections:
   information:
     output: true
     order:
-      - FAQs.md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
       - School Books and Uniform.md
       - COVID 19 Information.md
       - RVHS ICT.md
+      - FAQs.md
