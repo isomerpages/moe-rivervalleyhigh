@@ -62,3 +62,27 @@ description: ""
 
 ♦  **SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION**  ♦
 
+|  |  |
+|:---:|---|
+| **Drama (Chinese)** | Accomplishment Award |
+| **Drama (English)** | Distinction Award |
+|  |  |
+
+♦  **CLUBS AND SOCIETIES**  ♦
+
+|  |  |
+|:---:|---|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
