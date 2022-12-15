@@ -24,7 +24,7 @@ description: ""
 | **Challenge for the Urban Built Environment 2016** | **1st Place (Team)**<br>Lau Su Jun (5H)  <br>Ng Huei Ying (5H)  <br>Chloe Lau Jia Yee (5H)  <br>Heng Jie Min (5H)  <br>Chng Jing Yuan (5H)  <br>Chiang Hui Lin (5P)  <br>Neo Shu Yi (5P)  <br>Jocelyn Wong Min Yi (5R)  <br>Hong Zhengyi (5R) |
 | **Singapore Model Cabinet** | **Honourable Mention**<br>Chu Ting Fang (5M)  <br>Foo Wen Hao (5M)  <br>Voon Jung (6N)  <br>Wang Weiyu (6S)  <br><br>**Verbal Commendation**<br>Goh Tong Tong (5R) |
 | **Nanyang Technology University of Singapore Model United Nations** | **Best Position Paper**<br>Goh Tong Tong (5R)  <br><br>**Verbal Commendation**<br>Foo Wen Hao (5M)  <br><br>**Best Delegate**<br>Lim Yan Wei Darren (5R) |
-|  |  |
+| **Tan Kah Kee Young Inventors' Award Competition** | **Merit Award** <br>Chen Jiarui (4C)  <br>Fan Kerong (4E) |
 |  |  |
 |  |  |
 |  |  |
