@@ -77,3 +77,17 @@ Passion for Computer Science<br>
 ##### Lim Sing Wei
 
 <img src="/images/Lim Sing Wei.jpg" style="width:30%" align=left>
+
+_An academically curious & self-directed learner (and an impressive origamist)_<br>President of Science Leaders Academy<br>
+\- Director of the Junior Science Whiz Challenge and Startathon Junior<br>
+\- Participated in research programmes and competitions<br>Concert Band member<br>\- Due to limitations placed on the number of percussionists, Sing Wei had to play multiple instruments throughout most of the SYF competition piece.
+
+VIA<br>
+\- Member of the Limbang Constituency’s ACE Tuition Programme, tutored needy students.<br>
+\- Volunteered at  a children’s science camp, organised in conjunction with NTU CN Yang Scholars’ Club.
+
+##### Ng Rui Kyi
+
+<img src="/images/Ng Rui Kyi.jpg" style="width:30%" align=left>
+
+_A cheerful and motivated student who runs very fast!_<br>Vice-President of The Eco-Sustainability Leadership Academy<br>\- Volunteered at Waterways Watch Society to clean up the reservoir<br>VIA<br>\- Volunteered at the Chingay Parade in 2020 as part of the Hospitality team. <br>\- Member of the Youth Corps Singapore<bR>Organised KidsFun Online to engage primary school pupils
