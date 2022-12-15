@@ -26,11 +26,11 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 | **NUS Astronomical Society -NTU   <br>Astronomical Society AstroChallenge** | **Best Project Award (Team)**<br>Zhang Jikun (18J06)  <br>Pang Eng Meng Wyzley (18J06)  <br>Chong Ka Shing (18J12)  <br>Loy Kia Meng Brian (18J12) |
 | **NUS Chemistry Week:  <br>25th Chem-dot-Comm Challenge** | **2nd Runner-up (Team)**<br>Chua Tse Hui (4A)  <br>Tobias Alexander Surja (4A)  <br>Yee Ting Hwei (4A)  <br><br>**Meritorious Award (Team)**  <br>Audrey Koo Yu Xuan (3A)  <br>Liang Shuang (3A)  <br>Zixuan Yeo (3K) |
 | **NUS Chemistry Week:  <br>Chemistry Game Show** | **1st Runner-up (Team)**<br>Jonathan Chew Jian Pin (4A)  <br>Teng Yee Shin (4A)  <br>Tobias Alexander Surja (4A) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **NTU Nanyang Research Programme  <br>Symposium 2019** | **GOLD**  <br>LI JIANGRONG (18J11)  <br>PANG KAI LIN (18J11)  <br>LOO JIA WEI (18J13)  <br>NICHOLAS WOONG (18J13)  <br>ZHANG YIFEI (18J15)  <br><br>**SILVER**<br>CUI XINYU (18J11)  <br>LIM REN JIE (18J10)  <br>HOR JASRENE (18J12)  <br>JERLYN CHUA (18J04)  <br>TAN NING VIVIENNE(18J04) |
+| **Nanyang Research Programme  <br>Junior Category** | **GOLD AWARD**<br>Hu Ding Guan  <br>Nathanael Caleb Tong (19J14)    <br><br>**SILVER AWARD**<br>Teu Jie Yong (19J13)    <br>Mark Chng Cho Heok (19J03) |
+| **International Science Youth Forum @  Singapore 2019** | **Team Project Challenge   <br>CHAMPION**  <br>Kevin Khoo Weixue (19J13) |
+| **International Elementz Science research confereence & Exhibition 2019** | **BRONZE AWARD**  <br>Cheng Ping Zhi (19J05)  <br>Kwa Hwee Woon (Ge Huiwen), Hannah (19J04)  <br>Rachel Lee Shi Qi (19J02) |
+| **Singapore International 3D Printing Competition 2019** | **GRAND PRIZE**  <br>**(Singapore School Student Category)**  <br>LI Haoying (4A)  <br>Fan Kerong (18J12) |
 |  |  |
 |  |  |
 |  |  |
