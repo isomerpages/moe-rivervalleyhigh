@@ -44,3 +44,23 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 
 #### Co-Curricular Activities
 
+♦  UNIFORMED GROUPS  ♦
+
+|  |  |
+|:---:|---|
+| **Girl Guides-Baden Powell Award 2019** | Chian Xin Tong (4F)  <br> Shania (4G)  <br>Yeo Xin Ru (4H)  <br>Soh Jia Xuan, Hannah (4K) |
+| **National Cadet Corps Outstanding Cadet Award 2019 (Boys)** | Toh Zheng Wei (4A) |
+| **International Cadet Corps Outstanding Cadet Award 2019 (Girls)** |  Flavia Yen Xuan Lin (4E) |
+|  |  |
+
+♦ **SPORTS AND GAMES**   ♦
+
+|  |  |
+|:---:|---|
+| **National Badminton Championships  2019** | 3rd (A Division Girls) |
+| **National Floorball Championships 2019** | 2nd (A Division Girls)  <br>4th (A Division Boys) |
+| **15th Inter-Junior College Ultimate Champioships 2019** | 2nd (A Division) |
+| **National Wushu Championships 2019** | 4th (A Division Boys) <br> 4th (B Division Girls)  <br>Silver (C Division Boys)    <br>Silver (C Division Girls) |
+|  |  |
+
+♦  PERFORMING ARTS GROUP ♦
