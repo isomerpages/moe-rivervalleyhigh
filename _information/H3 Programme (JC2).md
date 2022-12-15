@@ -67,3 +67,25 @@ The admission criteria and timeframe for MOE Partner H3 programmes is shown in T
 | **H3 Science research** | Within two weeks after the submission of the research proposal |
 | **H3 HSSRP** | Within two weeks from the last day of acceptance of letter of offer |
 |  |  |
+
+Withdrawal of  students after the start of instruction:
+
+*   Students who withdraw within the withdrawal period will have to pay the $60 course fee to NUS/NTU/SMU.
+*   Students who withdraw  after the withdrawal period will have the following penalties imposed on top of the $60 course fee:
+
+* *  Singapore Permanent Residents (PRs) will have to pay a $50 administrative fee to SEAB and international students will have to pay a $70 administrative fee to SEAB.
+* *  An "Absent" grade will be reflected on the student's GCE A-Level Certificate for the H3 subject.
+
+#### MOE-CAMBRIDGE H3 SYLLABUS
+
+ Available via [www.seab.gov.sg](https://www.seab.gov.sg/)
+ 
+#### MOE PARTNER H3 PROGRAMME INFORMATION AND APPLICATION FORMS
+
+| MOE Partner H3 Programme | Syllabus |
+|---|---|
+| **NTU** | * **[Online Application Form](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications)** |
+| **NUS** | * **[Module Information](/files/NUS%20H3%20Programme%20Synopsis%20-%20Sem%202%20AY2022-23.pdf)**<br> * **[Application Instructions](/files/Userguide-for-local-ng-application-system.pdf)**<br> * **[Programme Timetable ](/files/NUS%20H3%20Programme%20Timetable%20-%20Sem%202%20AY2022-23.pdf)** |
+| **SMU** | * **[Application Form](/files/H3_Application_Form%202023.pdf)** |
+|  |  |
+
