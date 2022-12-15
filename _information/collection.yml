@@ -2,10 +2,10 @@ collections:
   information:
     output: true
     order:
-      - DSA (Integrated Programme)/Application Criteria.md
+      - DSA (Integrated Programme)/.keep
       - DSA (Integrated Programme)/Direct School Admission (Integrated
         Programme) 2022.md
-      - DSA (Integrated Programme)/.keep
+      - DSA (Integrated Programme)/Application Criteria.md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
