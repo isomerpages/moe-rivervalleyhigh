@@ -2,6 +2,8 @@ collections:
   information:
     output: true
     order:
+      - DSA (Integrated Programme)/Direct School Admission (Integrated
+        Programme) 2022.md
       - DSA (Integrated Programme)/.keep
       - School Prospectus.md
       - School Fees.md
