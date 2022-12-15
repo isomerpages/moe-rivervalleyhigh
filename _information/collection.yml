@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - COVID 19 Information.md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
