@@ -22,10 +22,10 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 | **Singapore Junior Chemistry  <br>Olympiad 2019** | **SILVER**<br>Lin Sihui (4A)  <br>Chua Tse Hui (4A) <br><br>**BRONZE**<br>Jonathan Chew Jian Pin (4A)  <br>Alvin Ong Zhao Wei (4E) <br><br>**MERIT**   <br>Lim Sing Wei (4A) |
 | **Singapore Junior Physics  <br>Olympiad 2019** | **SILVER**<br>Yang Jingxiang(3D)  <br><br>**BRONZE**<br>Li Haoying (4A)  <br>Yang Yujun (4A)  <br>Tricia Boo Koh Wei Ping (4C)  <br>Tong Siyuan (4E) |
 | **Singapore Mathematical  <br>Olympiad 2019** | **JUNIOR CATEGORY  GOLD,**  <br>Gaius Mak Zhun Yong (1F) <br><br>**SILVER**  <br>Chua Jia Rong (1A)  <br><br>**BRONZE**<br>Zeng Zewen (1B)  <br>Chen Qingyuan (1D)  <br>Zhang Dingyi (1D)  <br>Hong Shi Ting Geraldine (1E)  <br>Wang Yifei (1E)  <br>Hong Wenqi (1F)  <br>Henry Wong Zi Gang(1G)  <br>Yee Ting Wei (1G)  <br>Li Hanyu (1I)  <br>Luo Xiang (1I)  <br>Sia Hao Rui (1I)  <br><br>**SENIOR CATEGORY**  <br>**SILVER**  <br>Low Voon Bin Robin (4D)  <br>Yin Haoran (4I) <br><br>**BRONZE**  <br>Wang Yifei (3D)  <br>Andrew chua Hao Zhun (3F)  <br>Shirlene Zhu Xinjie (3F)  <br>Teng Yee Shin (4A)  <br>Seah Qian Qian Mandy (4C)  <br>Chester Chiah Chin Wei (4D)  <br>Lim Xuan Xiang Reuben (4H) <br><br>**Open Category**  <br>**BRONZE**  <br>Wong Rocky (2E)  <br>Yang Jingxiang (3D)  <br>Li Haoying (4A)  <br>Yin Haoran (4I)  <br>Fang Yuwei (18J11) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Singapore Astronomy  <br>Olympiad 2019** | **Bronze**<br>Chong Ka Shing (5L) |
+| **NUS Astronomical Society -NTU   <br>Astronomical Society AstroChallenge** | **Best Project Award (Team)**<br>Zhang Jikun (18J06)  <br>Pang Eng Meng Wyzley (18J06)  <br>Chong Ka Shing (18J12)  <br>Loy Kia Meng Brian (18J12) |
+| **NUS Chemistry Week:  <br>25th Chem-dot-Comm Challenge** | **2nd Runner-up (Team)**<br>Chua Tse Hui (4A)  <br>Tobias Alexander Surja (4A)  <br>Yee Ting Hwei (4A)  <br><br>**Meritorious Award (Team)**  <br>Audrey Koo Yu Xuan (3A)  <br>Liang Shuang (3A)  <br>Zixuan Yeo (3K) |
+| **NUS Chemistry Week:  <br>Chemistry Game Show** | **1st Runner-up (Team)**<br>Jonathan Chew Jian Pin (4A)  <br>Teng Yee Shin (4A)  <br>Tobias Alexander Surja (4A) |
 |  |  |
 |  |  |
 |  |  |
