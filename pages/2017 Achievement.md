@@ -25,6 +25,18 @@ description: ""
 | **Singapore Model Cabinet** | **Honourable Mention**<br>Chu Ting Fang (5M)  <br>Foo Wen Hao (5M)  <br>Voon Jung (6N)  <br>Wang Weiyu (6S)  <br><br>**Verbal Commendation**<br>Goh Tong Tong (5R) |
 | **Nanyang Technology University of Singapore Model United Nations** | **Best Position Paper**<br>Goh Tong Tong (5R)  <br><br>**Verbal Commendation**<br>Foo Wen Hao (5M)  <br><br>**Best Delegate**<br>Lim Yan Wei Darren (5R) |
 | **Tan Kah Kee Young Inventors' Award Competition** | **Merit Award** <br>Chen Jiarui (4C)  <br>Fan Kerong (4E) |
+| **Singapore International 3D Printing Competition** | **1st Prize (Singapore Schools Student Category)**<br>Chen Jiarui (4C)  <br>Fan Kerong (4E) |
+| **The MOE-Straits Times National Current Affairs Quiz** | **1st Runner-Up (Team)**<br>Lu Yi Xin (5R)  <br>Ryan How (6J)  <br>Wang Weiyu (6S) |
+| **Dunman High School Public Speaking Competition** | **2nd Runner-Up (Individual)**<br>Christine Ow (6I) |
+| **校园超级阅读明星比赛** | **低年级手绘漫画校内优秀奖**<br>林静文 (3B)  <br><br>**低年级手绘漫画银奖**<br>佘思霖 (3J) |
+| **2017全国中学双语辩论比赛** | **最佳辩手**<br>邓佳瑄 (3D)  <br>刘清音 (4H) |
+| **2017 第五届南华双文化论坛** |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
