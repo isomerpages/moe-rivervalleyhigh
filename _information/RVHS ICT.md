@@ -119,3 +119,15 @@ Cyber Wellness is an area that is heavily themed in the new CCE lessons where st
 
 **PLD Usage Guidelines**<br>
 The PLD usage guidelines builds upon MOE's R3ICH core values and details how PLD should be use in school.
+
+<img src="/images/PLD Guidelines Posters.png" style="width:85%">
+
+**Acceptable Usage Policy**<br>
+The Acceptable Usage Policy (AUP) is an agreement made by the students to adhere to the guidelines for proper PLD usage. There are 2 parts to the AUP - the first part is between the student and the school; the second part is between the student and the parent. The parent-student AUP requires the parent and the student to work out a mutual agreement on what constitutes to acceptable usage of PLD at home. The parent-student AUP is a dynamic agreement and will need to be revised as the student grows. Often than not, the AUP serve as a 'conversation starter' between the student and the parent of PLD usage at home.
+
+AUP is available for download [here](/files/AUP%20EL%20&%20CL.pdf).
+
+**Parents Handbook on Learning with PLD**<br>
+Parents/Guardians play an important role in keeping their children safe online, and are encouraged to read the following resources to learn more about how to keep their children safe online:
+* [Parent Handbook (I)](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf) and [Parent Handbook (II)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Informations/RVHS%20ICT/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf) **PDF FILE EXCEEDS 5MB** on Learning with a Personal Learning Device
+* Parent Kit on Cyber Wellness for Your Child ([https://go.gov.sg/moe-cyber-wellness](/files/cyber-wellness-for-your-child.pdf))
