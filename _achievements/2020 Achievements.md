@@ -42,20 +42,10 @@ description: ""
 | **Singapore Young Physicists' Tournament** | **Category A:Junior College <br>Bronze Award (Team):** <br>Liang Shuang (21J11)  <br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J18) <br><br>**Merit Award (Poster Presentation Segment; Team)**  <br>LiLi Yutong (21J11)  <br>Tricia Boo Koh Wei Ping (20J10)  <br>Yang Yujun (20J15)    <br><br>**Category B:Junior College  <br>Commendation Award (Team):**  <br>Liu Yueyang (4A)  <br>Rayner Sim Zhi Heng (4A)  <br>Wong Rocky (4C)  <br><br>**Merit Award (Poster Presentation Segment; Team)**  <br>Ng Qi Heng (4A)  <br>Oh Wei Quan (4A)  <br>Han Zhi Heng, Shawn (4A)
 | **Anglo-Chinese Junior College International  Biomedical Quiz** | **Category 1: Secondary 3 & 4  <br>6 Gold Medals:** <br>Hou Xinxiang (4A)  <br>Tang Yuheng (4A)  <br>Hiuk Yuh Wen (4B)  <br>Phua Jun Hao (4D)  <br>Chong Xin Ru Gillian (4D)  <br>Zhang Yu (4K)  <br><br>**4 Silver Medals:** <br>Samuel Then Shi Jie (4A)  <br>Gong Yongjia (4B)  <br>Lim Jun Han (4D)  <br>Zixuan Yeo (4K)  <br><br>**2 Bronze Medals:** <br>Lee Jun Wei Travis (4A)  <br>Joshua Chin Wei Jie (4A)  <br><br>**6 Honourable Mention Awards:**  <br>Daryl Nah(4A)  <br>Chai Hao Yuan (4A)  <br>Audrey Koo Yu Xuan (4A)  <br>Chan Shu Zhen Venus (4A)  <br>Lim Yi Ting Erica (4B)<br>Allegra Tan (4D)<br><br>**5 Merit Awards:**  <br>Belle Tey Jing Yi(4A)  <br>Alicia Poo Kaijun (4A)  <br>Kenneth Ng Wei Heng (4A)  <br>Manfred Tan Lisheng (4D)  <br>Annabelle Chua Sin Yu (4D)<br><br>**Category 2: Junior College 1 & 2**  <br>**2 Gold Medals:** <br>Mendell Yap Haw Chuen (20J01)  <br>Iris Chan Jiaxu (20J05)  <br><br>**6 Silver Medals:**<br>Lim Sing Wei (20J01)  <br>Kevin Karuna William (20J04)  <br>Abelona Chew (19J01)  <br>Chan Xin Hui(19J03)  <br>Deng Jia Xuan (19J03)  <br>Lim Si Yun Rachel (19J03)  <br><br>**2 Bronze Medals:**  <br>Seah Zun Hwee(20J01)  <br>Teo Xin Ping Joan(19J06)  <br><br>**3 Honourable Mention Awards:**  <br>Niu Jingwen (20J03)   <br>Xu Chunxi Erik (19J01)  <br>Ang Shu Ee Joan (19J02)  <br><br>**2 Merit Awards:**  <br>Tee Chu Jie (20J02)   <br>Chua Tse Hui (20J02)  <br><br>**Category 2: Junior College 1 & 2 Stage Round:   1st Runner Up (Team)**  <br>Lim Sing Wei (20J01)     <br>Mendell Yap Haw Chuen (20J01)  <br>Kevin Karuna William (20J04)<br>Iris Chan Jiaxu (20J05) |
 | **Science Chronicles** | **3rd Prize** <br>Yu Jialu (20J05)  <br><br>**Merit** Award  <br>Zhang Kailun (19J10) |
-| **Young Defence Scientists Programme Science & Technology Camp Competition (June)** | **2nd Runner Up (Team)**   
-Ng Qi Heng (3A)   
-Wai Jone Sher (3A)   
-Gan Tze Qi Christy (3A)   
-Han Zhi Heng, Shawn (3A) |
+| **Young Defence Scientists Programme Science & Technology Camp Competition (June)** | **2nd Runner Up (Team)**   <br>Ng Qi Heng (3A)   <br>Wai Jone Sher (3A)   <br>Gan Tze Qi Christy (3A)   <br>Han Zhi Heng, Shawn (3A) |
+| **Young Defence Scientists Programme Science & Technology Camp Competition (Dec)** | **1st Runner Up (Team)** <br>Soh Yuyan(20J01)  <br>Ge Shuqing (20J13)  <br>Teng Yee Shin (20J15)  <br>Chew Ching Hian (19J07)  <br>Dana Ong Zi Yi (19J07) |
+| **Singapore Science & Engineering Fair** | **Gold Award**  <br>**+ Special Award by Singapore Association for the Advancement of Science   <br>+ Singapore University of Technology & Design Research & Innovation Award (Cities Category) (Team)**  <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel (20J17)  <br><br>This team was chosen by MOE to represent Singapore in the International Division of the Hong Kong Student Science Project Competition, also known as the Global Youth Science and Technology Bowl which will be held online on 1 Aug 2020.  <br><br>**Silver Award**   <br>**+ Special Award by Yale - National University of Singapore College (Team)**   <br>Lim Kai Qi (20J01)   <br>Mendell Yap Haw Chuen (20J01)   <br>Chelsea Chan Li Xin (20J05)   <br><br>**2 Silver Awards (Individual)**   <br>Lim Jia Qing (19J11)  <br>Kevin Khoo Weixue (19J13)    <br><br>**Merit Award   <br>+ Special Award by Institution of Chemical Engineers, Singapore   <br>+ Special Award by the Electrochemical Society, Singapore Chapter (Team)**  <br>Goh Yee Xin (20J01)   <br>Niu Jingwen (20J03)   <br>Justin Chew Yaojie (20J03)   <br><br> **Merit Award**  <br>**+ Special Award by Singapore University of Technology & Design Research & Innovation Award (Aviation Category) (Team)**   <br>Ng Simin (19J08)   <br><br>**Merit Award (Individual)**   <br>Loke Mei Qi Jessica (19J04)   <br><br>**2 Special Awards by Yale - National University of Singapore College (Team)**   <br>Lim Jia Han Jarred (20J01)   <br>Tng Yan Ning Jamie (20J02)  <br>Tay Kai Xuan Charlene (20J02)   <br>Ho Qingyi, Dorothea (20J03)   <br>Rowena Kwan Lee Ying (20J03)  <br>Tee Jia Yu (20J04) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+#### Olympiads & Other Competitions
+
