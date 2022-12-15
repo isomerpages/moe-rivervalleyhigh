@@ -57,6 +57,11 @@ description: ""
 | **Singapore National Olympiad in Informatics** | **4 Silver Medals**<br>James Tan Dejun (4A)  <br>Lee Jing Peng (4I)  <br>Tan Swee Kang (4I)  <br>Gu Yingqi (20J13) |
 | **Future Economic Forum Conference** | **Best Position Paper Outstanding Delegate**   <br>Joey Peh (20J14)  <br><br>**Outstanding Delegate**  <br>Samuel Luther Ang (20J20)  <br><br>**Honourable Mention**<br>Jeremiah He Shuo (20J16)  <br>Tan Liang Rong (20J20)  <br><br>**Verbal Commendation**  <br>Vanessa Tan (20J12) |
 | **Green Wave Environmental Care Competition** | **Secondary School Category  <br>Merit Award (Team)($1000)**  <br>Chian Xin Tong (20J06)  <br>Song Jia Hui (20J07)  <br>Lai Yee Wei (20J10)  <br>Ng Rui Kyi (20J12)  <br><br>**Commendation Award & Team Collaborative Award (Team) ($500 + $500)**  <br>Lim Ruo Yi (20J03)  <br>Ow Le Yi Nikki (20J04)  <br>Chan Jia Wei (20J07)  <br>Brian Choong (20J19) |
+| **MOE-Singapore University of Technology & Design Problem X Challenge** | **1st Prize (Team)**  <br>Daryl Nah (4A)  <br>Tang Yuheng (4A)  <br>Joshua Chin Wei Jie (4A)  <br>Samuel Then Shi Jie (4A) |
+| **Genetic Modification Advisory Committee Students Challenge** | **3rd Prize (Team)**  <br>Gong Yongjia(4B)  <br>Lim Yi Ting, Erica (4B)  <br>Chong Xin Ru, Gillian (4D)  <br>Cheryl Chin Kai Xin (4K)  <br>Zhang Yu (4K) |
+| **Engineering Innovation Challenge** | **1st Prize (Team) (Category 1: Secondary Schools)**  <br>Lim Jun Han (4D)  <br>Cadden Chua Chung Han (4E)  <br>Kwek Wen Qi, Shannen (4F) |
+| **NUS Department of Electrical & Computer Engineering mBot Workshop & Race** | **1st Runner Up (Team)**   <br>Chua Yong Liang (20J10)  <br>Tricia Boo Koh Wei Ping(20J10)  <br>Wang Zixun (20J15)  <br><br>**2nd Runner Up (Team)**<br>Charis Wong Jing Wen (3A)  <br>Wong Rocky (3C)  <br>Ng Jean Tzi Edric (3F) |
+| **NUS Geography Challenge 2020** | **Gold Medal**  <br>Lim Cheng Jun Justin (4f)   <br>Silver Medal Jacqueline Tan Tong Xuan (4f)   <br>Yin Jia Qing (4g)   <br>ZhangYu (4k) |
 |  |  |
 |  |  |
 |  |  |
