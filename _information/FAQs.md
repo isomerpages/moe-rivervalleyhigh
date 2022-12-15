@@ -110,16 +110,22 @@ description: ""
 |  |  |
 |---|---|
 | What are the school hours like in RV? | School starts at 8 am each morning from Tuesday to Friday, and we start at 9 am on Mondays. Lessons usually end at about 2.30pm, depending on which level and the students’ subject combination. On some afternoons, students may attend supplementary classes or enrichment programmes. |
-| How much fees do students pay monthly? | Please click [here](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/information/school-fees) for the school fees. |
+| How much fees do students pay monthly? | Please click [here](/information/sch-fees/) for the school fees. |
+| How many students are there in each class? | On average, we have about 30 to 35 students in each class. |
+| Does RV offer bus services to 3rd language centres? | The school provides transport for all third language students. |
+| Does RV offer bus services? | No, we do not offer bus services as we are located near Boon Lay MRT station and many buses go to our school. |
+| What are the food options and what is the price range of the food sold in RV? | Our canteen has an extensive selection of food options and there is also a cafe on site. Typically, students spend between $2 and $3.50 for lunch. |
+| Does RV provide a safe environment for students to study in? | Our students and staff feel comfortable in the school due to the strong culture of care as evinced by our staff and students who support and look out for one another. Although an unfortunate incident took place, RV continues to be a safe place for growth and development. With strong support from the Ministry of Education and stakeholders as well as the RV community, the school remains committed to students' safety and well-being. |
+| Are there any scholarships that students can apply for? | Our school has the Tham Tuck Meng Scholarship for Sec 1 students. |
 |  |  |
+
+#### Admission into RVIP
+
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|---|---|
+| Now that the PSLE scoring system has changed, what is RV’s Cut-Off Point? | The Secondary 1 Posting indicative AL Cut-Off Point range for RV is between 4 and 9. You may refer to this link for more information:<br>[Further updates to PSLE scoring 2021.pdf](/files/further-updates-to-PSLE-2021.pdf) |
+| Will students taking Higher Chinese Language have an advantage in getting into RV? | In the new calculation of AL, HCL is not included. |
+| Does RV accept transfer students from other schools? | Parents can call the school at the end of the academic year to check if there are any vacancies. If there are, parents can apply and the student will sit for the aptitude tests. |
+| How many Secondary 1 students do you admit every year? | The cohort size varies every year. Due to a shrinking population, there is a reduction in the number of students being admitted to RV. In 2021, we have nine Secondary One Classes. |
+| Can International students apply to study in RV? | International students (IS) who want to join RV at Secondary 1 to 3 will have to apply through MOE. Please refer to MOE’s webpage on admissions for international students. For Secondary 1 DSA application, IS will have to obtain a reference number from MOE first before participating in RVIP DSA exercise. They will also have to pass MOE AEIS for their DSA results to take effect. |
 |  |  |
