@@ -91,10 +91,5 @@ description: ""
 | **Young Defence Scientists Programme Scholarship** | Lim Jia Qing (3A)   <br>Ong Xue Ren (3A)   <br>Gladwin Tan Ye Kai (3A) |
 | **Young Defence Scientists Programme Academic Award** | **Mathematics**   <br>Mao Yu Di (4B)   <br>Low Jing Yi Jean (5C)   <br>Mak Zhi Ning (6K)   <br><br>**Physics**   <br>Pang Kai Lin (4E)   <br>Fu Shun Long Winston (5J)   <br>Daryl Tai (6F) |
 | **Special Assistance Plan (SAP) Scholarship Recipients** | Chee En Pei, Joey (3B)  <br>Corea Chua Ying Suang (3B)  <br>Lim Li Xuan Linette (3B)  <br>Manda Yong Zi Xuan (3B)  <br>Tan Rae (3B)  <br>Tan Xin Yi (3B)  <br>Tay Wan Suan, Celest (3B)  <br>Tee Wen Hui (3B)  <br>Zhang Zi Qian (3B)  <br>Hong Jun Ling (3C)  <br>Jee Chen Ying (3C)  <br>Li Xingyu (3C)  <br>Lim Jo Xin (3C)  <br>Tay Xuan Ting, Queenie (3C)  <br>Ting Kwok Ian (3C) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Creative Arts Seminar Programme** | Three students were selected by the Ministry of Education Gifted Education Branch to participate in the Creative Arts Programme that will be held in the National University of Singapore from 29 May to 2 June 2017:   <br>Cheng Wenqi 3K   <br>Lim Yi Jun 5Q   <br>Teo Swee Theng 5R |
 |  |  |
