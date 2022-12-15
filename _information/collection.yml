@@ -2,7 +2,7 @@ collections:
   information:
     output: true
     order:
-      - School Books and Uniform.md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
+      - School Books and Uniform.md
