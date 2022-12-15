@@ -72,9 +72,23 @@ description: ""
 
 |  |  |
 |:---:|---|
+| **National Chinese Calligraphy Competition**| **1st Prize** <br>Lek Kai Jun (Year 2) |
+| **8th National Youth Chinese Calligraphy Competition** | **1st Prize** (Secondary Schools): Mao Ruijie (Year 1)   <br>**Merit Prize** (Secondary Schools): Lek Kai Jun (Year 2)   <br>**Merit Prize** (Junior Colleges): Ngoh Jia Hui (Year 6) |
+| **Yew Tee National Chinese Calligraphy Competition** |  |
+| **新加坡全国中学生华文文艺营写作比赛** | **1st Prize** (Secondary Schools): Mao Ruijie (Year 1)   <br>**2nd Prize** (Secondary Schools): Loke Mei Qi Jessica (Year 2)   <br>**2nd Prize** (Junior Colleges): Wang Kaiwen (Year 6)   <br>**Merit Prize** (Secondary Schools): Lek Kai Jun (Year 2) |
+| **新加坡全国中学生华文文艺营写作比赛** | 冠军: 卓展廷 (Year 4) |
+| 第六届全国毛笔与硬笔书法大赛 | 冠军: 陆楷俊 (Year 2) |
+| "翰墨笔香迎国庆"中小学生书法比赛 | 冠军: 陆楷俊 (Year 2) |
+| "墨墨传情"全国书法大赛 | 亚军: 毛瑞杰 (Year 1) |
 |  |  |
+
+#### Outstanding RVians
+
 |  |  |
-|  |  |
+|:---:|---|
+| **Harvard Model United Nations** | <img src="/images/hmun-rv3.jpg" style="width:35%" align=right> **Commendation Award**<br> (in a field of 3000 participants)   <br>Eden Chua (Year 5) |
+| **MOE Overseas Student Attachment Programmes** | **Centre of Excellence in Education Summer Programme in MIT, Boston, USA** <br>Lim Yuhua (Year 5)   <br><br>**International Summer School for Young Physicists, Perimeter Institute, Canada**   <br>Daryl Tai (Year 5)   <br><br>**XLAB International Science Camp, Gottingen, Germany**   <br>Chia Guole Eugene (Year 5)   <br>Stefan Liew Jing Rui (Year 5)   <br><br>**Stanley Ho Astronautics Training Foundation Aerospace Summer Camp**  <br>Chen Ru Ting Jaslyn (Year 5)  <br>_Jaslyn was invited by MOE to take part in an international aerospace summer camp which will be held in Beijing, China._ |
+| **27th National Service Learning Conference** <br>(held in Minneapolis, Minnesota, USA) | Wong Jia Ying (Year 5) and Koh Xin Yi (Year 5) represented the school to share RV's annual Y.LEAD seminar with the US conference participants. |
 |  |  |
 |  |  |
 |  |  |
