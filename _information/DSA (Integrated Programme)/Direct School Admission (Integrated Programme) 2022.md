@@ -36,7 +36,7 @@ For more information on DSA-Sec, please refer to the MOE website at [https://ww
 
 Successful applicants will join RVHS in January in the year 2023. Students will be assessed on both their demonstrated and potential ability to ensure that they benefit from the rigorous curriculum offered at RVHS.
 
-FAQs Click **[here](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/information/faqs)**
+FAQs Click **[here](/information/faqs/)**
 
 #### Enquiries
 
