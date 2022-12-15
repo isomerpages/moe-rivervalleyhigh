@@ -72,3 +72,18 @@ Parents can have the option to choose DMA settings for after school hours,, week
 | PLD to follow school prescribed settings | Parents can modify DMA settings after school hours | Parents can disable the DMA settings after school hours |
 |  |  |  |
 
+Click [here](/files/DMA%20Settings%20After%20School%20Hours.pdf) for details on the DMA settings options.<br>
+To note: DMA system is undergoing stabilisation by DMA MOE team, thus, after school hours for short school holidays (ie < 7 days) will still follow that of normal school days.
+
+Link to the FormSG to **option for the DMA settings** will be made available for parents through Parents Gateway notification. You may also contact any of the DMA administrators should you have any issues with locating the DMA option form.   
+
+Parents can request to change your choice of After-School DMA Options at any time through the same link. However, please note that changes to the After-School DMA Options will only take effect at the end of every month.
+
+**In-School PLD and DMA Support**<br>
+Students can approach ICT Helpdesk in school for PLD technical support:.
+
+|  |  |
+|---|---|
+| **Operating Days** | *   Wednesday and Thursday<br>*   Collection on Thursday |
+| **Operating Hours** |  1500 - 1600 |
+|  |  |
