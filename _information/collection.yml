@@ -2,10 +2,6 @@ collections:
   information:
     output: true
     order:
-      - DSA (Integrated Programme)/.keep
-      - DSA (Integrated Programme)/Direct School Admission (Integrated
-        Programme) 2022.md
-      - DSA (Integrated Programme)/Application Criteria.md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
@@ -13,3 +9,7 @@ collections:
       - COVID 19 Information.md
       - RVHS ICT.md
       - FAQs.md
+      - DSA (Integrated Programme)/.keep
+      - DSA (Integrated Programme)/Direct School Admission (Integrated
+        Programme) 2022.md
+      - DSA (Integrated Programme)/Application Criteria.md
