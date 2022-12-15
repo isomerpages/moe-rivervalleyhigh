@@ -34,15 +34,13 @@ NUS : Singapore Technologies Endowment Programme Technology Camp** | **Merit Awa
 | **Singapore International Science    Challenge+International Student  <br>Science Fair 2019** | **Research Challenge(Engineering Category)  BEST POSTER AWARD**  <br>Ng Simin (19J08)  <br>Tian Qi (19J13)  <br>Deng Jia Xuan (19J03)  <br><br>  **Design & Build Challenge**  <br>**MOST ENTERPRISING AWARD**  <br> lim xin yi (18J06) |
 | **NUS Geography Challenge 2019** | **GOLD MEDAL**  <br>Alvera Gloria Pandiman (4A)  <br><br>**SILVER MEDAL**  <br>Ernest Tee Li Wei (4J)  <br><br>**BRONZE MEDAL**  <br> Soong Shao Zhi (4I) |
 | **National Institute of Education  <br>History Day** | **Silver-Junior Website Category**  <br>Oh Wei Quan (2F)  <br>Ching Xin Wei (2F)  <br>Leong Kai Jun (2F)  <br><br>**BRONZE-Senior Documentary Category** <br> Zhang Xiaohan (4J)  <br>Lee yan Qing (2E)  <br>Chong Ying (4J)  <br><br>**Commendation -Junior Documentary Category** <br> Ong Rui Hong (2E)  <br>Joanna Goh En Qian (2E)  <br> Wong Jing Wen Charis (2E)<br><br> **Commendation -Junior Exhibit Category**  <br> Koh Chew Hui Bryson  <br>Tong Jing Yuan, Magdalene (3C)  <br> Lin Jian Ping (3A) |
+| **The Edwin Thumboo Prize for  <br>Lierature 2019** | **MERIT PRIZE**  <br>Lim Yijun |
+| **MOE Gifted Education Branch  <br>Youth Science Conference** | **Science Mentorship Programme:**  <br> **Distinction Awards(Team)**  <br>Chua Yong Liang (4A)  <br>Chan Yin Leng Ysabel (4A)  <br>Jonathan Chew Jian Pin (4A)  <br><br>**School-Based Science Mentorship Programme: <br>Silver Award (Team)**  <br>Chan Kai Sing Natalie (3A)  <br>Chan Shu Zhen, Venus (3A)  <br>Yeo Zixuan (3J)  <br><br>**Bronze Award (Team)b>**  <br>Daryl Nah (3A)  <br>Tang Yuheng (3A)  <br>Chai Hao Yuan (3A)  <br><br>**3M Best Project Award**  <br>Glenda Chong Rui Ting (4F)  <br>Ryan Tan Zi Lin (4F)  <br>Tan Wee Le (4F)  <br><br>**Merit Award**  <br>Yu JIngrong (4A)  <br>Chin Ling Xing , Lance (4F)  <br>Chua Yao Xuan (4H) |
+| **Designing with T1 Graphing Calculators Competition** | **SILVER**  <br> Luan Jialu (19J08)  <br>Tong Siyuan (4E)  <br><br> **Bronze**  <br>Shiela Chen Sing Hui (19J03) |
+| **#startathon Junior** | **Open Category: 2nd Prize (Team)** <br>   Flavia Yen Xuan Lin (4E)  <br>Gong Xinhui Sharon (4E) |
+| **Engineering Innovation Challenge** | **Category 1:Secondary Schools <br>Merit Award (Team)**   <br> Jarell Liaw Jun Yi (4F)  <br>Jarret Phon Zhee Ann (4F)  <br>Peh Choon Meng (4G) |
+| **Toy Design Competition** | **Automata Category**<br>**Merit, Best Virtual Animation**  <br>Li Haoying (4A)  <br>Lin Sihui (4A)  <br><br>**3rd Place**  <br>Samuel Then Shi Jie (3F)  <br>Natalie Chiam Chew Ee (3K)  <br><br>**Commendation**  <br>Da Ruolin (4B)  <br>Tong Siyuan (4E)  <br>Wang Yifei (3D)  <br>Yang Jingxiang (3D)  <br>Su Myat Noe (3K)  <br>Thant Yee Mon Htet (3J)  <br>Chen Xinrong (3D)  <br>Hou Xinxiang (3D)  <br>Chin Chin Lee (3K)  <br>Tan Wen Ting Shanelle (3H)  <br><br>**Mars Exploration Vehicle Category  <br>2nd Place**   <br> Lin Sihui (4A)  <br>**3rd Place**  <br>  Chin Zhi Xin (2H)  <br>Wai Jone Sher (2J)  <br>**Merit**  <br>Samuel Then Shi Jie (3F)  <br>Chin Chin Lee (3K)  <br>Li Haoying (4A)  <br><br>**Commendation**  <br> Lim Chun Hann (1C)  <br>Isaac Goh Wen Yi (2A)  <br>Li Yutong (3A)  <br>Hou Xinxiang (3D)  <br>Chen Xinrong (3D)  <br>Wang Yifei (3D)  <br>Yang Jingxiang (3D)  <br>Shirlene Zhu Xinjie(3F)  <br> Leong Hong Jun (3G)  <br> Wong Zhi Yang Wesley (3K)  <br>Lew Feng Sing (3I)  <br> Thaw Thaw Hein (3I) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+#### Co-Curricular Activities
+
