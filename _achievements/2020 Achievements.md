@@ -37,7 +37,19 @@ description: ""
 | **MOE Gifted Education Branch Youth Science Conference** | **Science Mentorship programme: <br>1 team was selected for the Student Keynote Presentation** <br>Chan Shu Zhen, Venus (21J04)  <br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08) |
 | **National Science Challenge** | **Our RV team emerged 3rd in this national televised competition**|
 | **Inaugural Silver Ribbon Mental Health** | River Valley High School was one of five educational instituitions that received this award in a virtual Zoom ceremony on 11 December 2020. The awards were meant to acknowledge and applaud the effort of schools in holding workshops and talks for staff and students, and encouraging students to embark on mental-health related projects, among others.  <br><br>Having implemented the Positive Education framework in RV, there has been greater awareness about mental health issues in school, and teachers and trained peer support leaders are well equipped to provide mental health support. We are happy that our efforts in promoting mental well-being are recognised. |
-| **Tan Kah Kee Young Inventors' Award Competition** |  |
+| **Tan Kah Kee Young Inventors' Award Competition** | **School Award  with Outstanding Participation & Quality Entries : 1st Prize** (14th time since 2001)<br>**2 Merit Awards(Team)**  <br>Jin Sheng (2F)  <br>Xu Zhenbang (2F)<br>Xavier Tan Yi-En  (2F)  <br><br>Tan Ning Vivienne (5D)  <br>Chan Po Shan (5K)  <br>Cui Yanning (5Q)  <br><br>**3 Commendation Awards (Team)**  <br>Lim Hong Wei (2E)  <br>Oh Sheng Jun (2E)  <br><br>Jolene Ng Jing Lin (2I)  <br>Chiu Sarina Fanyu (2I)  <br><br>Zhang Chunjie (5F)  <br>Zhu Jiachen (5H) |
+| **Singapore University of Technology & Design: 3D Printing & Design Innovation Challenge 2020** | **Local School Student Category (Theme: Educational Tools) Top Prize ($5000)**   <br>Da Ruolin (20J06)  <br>Yang Yujun (20J15)  <br><br>**Runner Up ($2500)**  <br>Cheng Jiajun (19J07) |
+| **Singapore Young Physicists' Tournament** | **Category A:Junior College <br>Bronze Award (Team):** <br>Liang Shuang (21J11)  <br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J18) <br><br>**Merit Award (Poster Presentation Segment; Team)**  <br>LiLi Yutong (21J11)  <br>Tricia Boo Koh Wei Ping (20J10)  <br>Yang Yujun (20J15)    <br><br>**Category B:Junior College  <br>Commendation Award (Team):**  <br>Liu Yueyang (4A)  <br>Rayner Sim Zhi Heng (4A)  <br>Wong Rocky (4C)  <br><br>**Merit Award (Poster Presentation Segment; Team)**  <br>Ng Qi Heng (4A)  <br>Oh Wei Quan (4A)  <br>Han Zhi Heng, Shawn (4A)
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
