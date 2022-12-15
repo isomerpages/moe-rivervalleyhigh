@@ -27,3 +27,19 @@ description: ""
 | For students admitted via DSA, do they have more training / practice sessions than the others? | No, for sports, they will train thrice a week and for the performing arts, they will train twice a week, just like the rest of their team. |
 | Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean? | Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of an IP school. |
 |  |  |
+
+#### DSA enquiries on Performing Arts CCAs
+
+|  |  |
+|---|---|
+| Would you be lowering your DSA criteria as there is no SYF or any other competitions? | Students should display a strong aptitude in the talent area they applied for. Auditions and interviews will be conducted to assess their suitability in that talent area. |
+| If my child has learnt only ballet and modern dance, and not other dance forms, and has been in the dance team but quit ballet in P6 due to the heavy workload, can she still apply for dance DSA and does she need to be the key dancer in her CCA? | Yes, having ballet or any dance skills would be an advantage, thus she does not need to be the key dancer. In RV Dance society, our dancers learn **both Chinese and modern contemporary dance**. All dancers would have to learn both genres, they cannot choose which genre they want to learn. |
+| My child is in Hip Hop in primary school, can my child apply for DSA dance? | Yes, having any dance skills would be an advantage but please note that in RV Dance society, the dancers do not take hip hop or street dance at the secondary level. Street Dance CCA is offered at the JC levels. |
+| How is the assessment for dance conducted? | There will be an audition for dance candidates. |
+| What competencies are you looking for in a student applying for Concert Band or Chinese Orchestra? Is there a particular instrument you will give preference to for DSA? For example, is the CCA short of certain instrument players so more priority will be given to these students? | The school will assess a student’s musicality, which is the ability to perceive and reproduce differences in the [aspects of music](https://en.wikipedia.org/wiki/Aspects_of_music) including pitch, rhythm, and harmony. Basically, it is the ability to be able to reproduce music in addition to creating music (musical creativity).<br><br>At the application phase, past achievements, competition involvement and academic requirements will be taken into consideration for short-listing.<br><br>For Chinese Orchestra, the school will consider all musical instruments excluding guzheng and violin.<br><br>For Concert Band, the school will consider all musical instruments excluding piano and violin. |
+| If my child has public speaking experience, should he/she apply for English Language Debate or English Drama?<br><br>What competencies are you looking for when it comes to debates? <br><br>If my child gets accepted for Drama through DSA, does it mean he/she has to do drama as a subject in RV? | It depends on your child’s interest and talents/competencies.<br><br>Both CCAs require your child to have a strong command of the language, confidence in public speaking, passion for the language and the ability to analyse facts and present spontaneously.<br><br>Your child has to take up Drama as his/her CCA if he/she accepts the offer to come into RV via Drama. |
+| If my child wants to apply for English Debates via DSA, does he/she need to be in the school debate team to be qualified? Some primary schools do not have debates as a CCA but if the child has participated in debate training outside school, can my child apply? | If the primary school does not have a debate team but your child has debate training or participated in debate competitions, and wishes to pursue his/her passion, please go ahead and apply for it. |
+|  |  |
+
+#### DSA enquiries on Sports CCAs
+
