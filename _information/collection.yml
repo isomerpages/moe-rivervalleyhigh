@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - JAE JC (For O Level Students).md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
