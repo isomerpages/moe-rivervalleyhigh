@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - MOE Sexuality Education in Schools (JC).md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
@@ -18,3 +17,4 @@ collections:
       - Direct School Admission (Junior College).md
       - 2022 JC1 Subject Combination.md
       - H3 Programme (JC2).md
+      - MOE Sexuality Education in Schools (JC).md
