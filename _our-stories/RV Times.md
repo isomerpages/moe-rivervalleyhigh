@@ -5,9 +5,13 @@ description: ""
 ---
 ## RV Times
 
-<img src="/images/rvtimes.png" style="width:49%" align=left>
-<br clear=left>
+<img align="left" style="width:49%" src="/images/rvtimes.png">
+<br clear="left">
 
-The **RV Times** is a publication showcasing the [RV spirit](/about-rv/svs/) through stories of our students, past and present. In the second issue, we highlight one of the five tenets of the RV spirit, which is to be innovative and distinctive (创新求异). We set out, in three sections, to illustrate how our school develops our current students to be future leaders, thinkers and achievers; how graduates of our Integrated Programme have pursued distinctive and possibly unconventional interests; and how our alumni have persevered to carve a niche in their careers. We hope the success stories of our alumni will inspire the young to work towards innovation and distinctiveness.
+The&nbsp;**RV Times**&nbsp;is a publication showcasing the&nbsp;[RV spirit](/about-rv/svs/)&nbsp;through stories of our students, past and present. In the second issue, we highlight&nbsp;one of the five tenets of the RV spirit, which is to be&nbsp;innovative and distinctive (创新求异). We set out, in three sections, to illustrate how our school develops our current students to be future leaders, thinkers and achievers; how graduates of our Integrated Programme have pursued distinctive and possibly unconventional interests; and how our alumni have persevered to carve a niche in their careers. We hope the success stories of our alumni will inspire the young to work towards innovation and&nbsp;distinctiveness.
 
-Download PDF: [RV Times Issue 2.pdf](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/RV%20Times%20Issue%202/RV%20Times%20Issue%202_apub.pdf) **FILE EXCEEDS 5MB** | [RV Times Issue 3.pdf](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/RV%20Times%20Issue%203/RV%20Times%20Issue%203.pdf) **FILE EXCEEDS 5MB** | [RV Times Issue 5.pdf](/files/RV%20Times%20Issue%205.pdf)
+Download PDF:&nbsp;[RV Times Issue 2.pdf](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/RV%20Times%20Issue%202/RV%20Times%20Issue%202_apub.pdf) **FILE EXCEEDS 5MB**&nbsp;|&nbsp;[RV Times Issue 3.pdf](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/RV%20Times%20Issue%203/RV%20Times%20Issue%203.pdf) **FILE EXCEEDS 5MB**&nbsp;|&nbsp;[RV Times Issue 5.pdf](/files/RV%20Times%20Issue%205.pdf)
+
+#### Issue 2
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnRpNNxgWFo-Q5vFc19oQ3qs4U5X0Mp1ys24SAwbrQ6rBPd-PgqwXwfKMwitUYLB0iyfVA9tQJuZdN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
