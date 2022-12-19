@@ -56,9 +56,7 @@ b.    Character and Citizenship Education (CCE)
 
 |  **UNIT** | **LESSONS / DURATION**  |  **Lesson Objectives**<br>**At the end of the lesson, students will be able to:** | **TIME PERIOD**  |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|  Respectful Relationships & Safety | 1<br>(60  mins)  | ·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails  |  Term 3 Week 8 |
+|   |  2A<br>(60  mins) |  ·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 8  |
+|   |  2B<br>(60  mins) |  ·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 9  |
 |   |   |   |   |
