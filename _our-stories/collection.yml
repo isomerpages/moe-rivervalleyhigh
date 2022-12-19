@@ -2,7 +2,7 @@ collections:
   our-stories:
     output: true
     order:
-      - RV Montage.md
       - RV60.md
       - 立化情 • 青春彼岸.md
       - RV Times.md
+      - RV Montage.md
