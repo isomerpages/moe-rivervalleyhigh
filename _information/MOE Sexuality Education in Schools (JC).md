@@ -22,4 +22,27 @@ description: ""
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of River Valley High School’s Sexuality Education Programme for 2022**
+**Overview of River Valley High School’s Sexuality Education Programme for 2022**<br>
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+
+**Sexuality Education**:<br>
+5. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
+
+#### Sexuality Education Lessons in 2022
+
+**At River Valley High School, the following Sexuality Education lessons will be taught in 2022:**
+
+**Junior College 1**
+
+Theme 3B from Module: Developing Healthy Relationships
+
+| **LESSONS**  | **DURATION**  | **Lesson Objectives**<br>**At the end of the lesson, students will be able to:**  | **TIME PERIOD**<br>**(e.g. Term 1 Week 8)**  |
+|---|---|---|---|
+| 1  | (60 mins)  |  ·       navigate challenges in a dating relationship<br>·       identify early indications of a breakdown in a relationship<br>·       know when to seek help and who to turn to for support<br>·       appreciate that one can emerge stronger and be better prepared for future relationships<br>·       develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others |  Term 3 Week 5 |
+| 2  | (60 mins)  |  ·       examine issues related to abstinence<br>·       explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br>·       understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>·       understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so | Term 3 Week 8  |
+| 3  | (60 mins)  | ·       examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br>·       understand that one has to make responsible decisions for both self and others<br>·       understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>·       know how to support friends or others who may be pregnant or have STIs  |  Term 3 Week 9 |
+|   |   |   |   |
+
+**Junior College 2**
+
+“Love Matters (2nd Edition)” Teaching & Learning resource package
