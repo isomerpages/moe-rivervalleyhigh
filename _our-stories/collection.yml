@@ -2,6 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - RV Times.md
       - RV60.md
       - 立化情 • 青春彼岸.md
+      - RV Times.md
