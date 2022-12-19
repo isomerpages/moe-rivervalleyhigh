@@ -46,3 +46,10 @@ Theme 3B from Module: Developing Healthy Relationships
 **Junior College 2**
 
 “Love Matters (2nd Edition)” Teaching & Learning resource package
+
+|  **UNIT** | **LESSONS / DURATION**  |  **Lesson Objectives**<br>**At the end of the lesson, students will be able to:** | **TIME PERIOD**<br>**(e.g. Term 1 Week 4)**  |
+|---|---|---|---|
+|  Lessons about Love (Part 7) |  4<br>(60 mins) | ·       identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship <br>·       appreciate that one can emerge stronger despite having gone through a breakup<br>·       explore beliefs about marriage<br>·       know the possible psychological impact on children experiencing parental separation or divorce<br>·       recognise the importance of having family support for a relationship<br>·       aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>·       appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships  |  Term 2 Week 1 |
+|   |  5<br>(60 mins) | ·       recognise that personal decisions on how one displays own affections in public can affect others<br>·       discern the impact of new media on relationship building  | Term 2 Week 2  |
+| NA  | 6<br>(60 mins)  | This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.  | Term 2 Week 3  |
+|   |   |   |   |
