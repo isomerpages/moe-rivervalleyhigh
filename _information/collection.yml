@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - JAE JC (For O Level Students).md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
@@ -19,3 +18,4 @@ collections:
       - 2022 JC1 Subject Combination.md
       - H3 Programme (JC2).md
       - MOE Sexuality Education in Schools (JC).md
+      - JAE JC (For O Level Students).md
