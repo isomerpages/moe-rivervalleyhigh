@@ -69,8 +69,12 @@ Theme 3B from Module: Developing Healthy Relationships
 
 **Information for Parents**
 
-8 \. Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
-9 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year, either through Parents Gateway and FormSG or hard copy ([Annex A](/files/Annex%20A_Opt-out%20form_Sexuality%20Education%202022%20(1).pdf)). The completed form is to be submitted by 25/02/2022 Friday.<br>
+8 \. Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year, either through Parents Gateway and FormSG or hard copy ([Annex A](/files/Annex%20A_Opt-out%20form_Sexuality%20Education%202022%20(1).pdf)). The completed form is to be submitted by 25/02/2022 Friday.
+
 10 \. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year, either through Parents Gateway and FormSG or hard copy ([Annex B](/files/Annex%20B_Opt-out%20form_eTeens%202022.pdf)). The completed form is to be submitted by 25/02/2022 Friday.
-11 \. Parents can contact the school at 65678115 or [rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.<br>
+
+11 \. Parents can contact the school at 65678115 or [rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
 12 \. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
