@@ -25,4 +25,3 @@ View PDF:
 [RVHS Montage 2022](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Our%20Stories/RVHS_Montage2022_v6_FA2.pdf)
 
 #### 立化60周年校庆 (Montage 2016)
-
