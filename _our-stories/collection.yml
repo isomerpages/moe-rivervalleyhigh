@@ -2,4 +2,5 @@ collections:
   our-stories:
     output: true
     order:
+      - 立化情 • 青春彼岸.md
       - RV60.md
