@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Post A Level ECG Support.md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
@@ -20,3 +19,4 @@ collections:
       - H3 Programme (JC2).md
       - MOE Sexuality Education in Schools (JC).md
       - JAE JC (For O Level Students).md
+      - Post A Level ECG Support.md
