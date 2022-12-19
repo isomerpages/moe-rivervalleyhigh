@@ -2,8 +2,8 @@ collections:
   our-stories:
     output: true
     order:
-      - WEStories.md
       - RV60.md
       - 立化情 • 青春彼岸.md
       - RV Times.md
       - RV Montage.md
+      - WEStories.md
