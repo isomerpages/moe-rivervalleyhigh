@@ -7,8 +7,7 @@ description: ""
 
 <img src="/images/IMG_46750-cropped.jpg" style="width:85%">
 
-**Joint Admission Exercise to JC Programme for Sec 4 students**
-
+**Joint Admission Exercise to JC Programme for Sec 4 students**<br>
 River Valley High School (RVHS) has been admitting JC students via the Joint Admissions Exercise (JAE) from 2019. O-Level students interested in the JC route and who would like an experience in an Integrated Programme (IP) school can apply to us. 
 
   
