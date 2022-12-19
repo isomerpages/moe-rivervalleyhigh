@@ -23,3 +23,6 @@ View PDF:
 [RVHS Montage 2020 (Issue 1)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Our%20Stories/River%20Valley%20Montage%202020%20Issue%201_191120.pdf) **FILE EXCEEDS 5MB** <br>
 [RVHS Montage 2021 (Issue 1)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Our%20Stories/RV%20Montage%202021-Updated.pdf) **FILE EXCEEDS 5MB**<br>
 [RVHS Montage 2022](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Our%20Stories/RVHS_Montage2022_v6_FA2.pdf)
+
+#### 立化60周年校庆 (Montage 2016)
+
