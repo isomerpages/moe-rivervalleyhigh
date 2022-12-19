@@ -79,3 +79,29 @@ b.    Character and Citizenship Education (CCE)
 |   | 3<br>(60 mins)  | ·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions. <br>·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·       Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.  | Term 3 Week 9  |
 |   | 4<br>(60 mins)  | ·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 3 Week 9  |
 |   |   |   |   |
+
+#### eTeens Programme
+
+8 \. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
+
+9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At River Valley High School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| **Topics/Lessons**  | **Programme Learning Objectives**  | **Time Period**<br>**(e.g. Term 3 Week 9)**  |
+|---|---|---|
+| Mass Talk by HPB appointed vendor  | ·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV  |  Term 4 Week 1 |
+| Classroom-based Lesson  | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 4 Week 2  |
+|   |   |   |
+
+**Information for Parents**
+
+10 \. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year, either through Parents Gateway and FormSG or hard copy ([Annex A](/files/Annex%20A_Opt-out%20form_Sexuality%20Education%202022.pdf)). The completed form is to be submitted by 25/02/2022 Friday.
+
+12 \. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year, either through Parents Gateway and FormSG or hard copy ([Annex B](/files/Annex%20B_Opt-out%20form_eTeens%202022%20(1).pdf)). The completed form is to be submitted by 25/02/2022 Friday.
+
+13 \. Parents can contact the school at 65678115 or [rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14 \. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
