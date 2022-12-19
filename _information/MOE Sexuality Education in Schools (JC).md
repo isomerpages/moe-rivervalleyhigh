@@ -23,10 +23,10 @@ description: ""
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
 **Overview of River Valley High School’s Sexuality Education Programme for 2022**<br>
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+4 \. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
 **Sexuality Education**:<br>
-5. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
+5 \. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
 #### Sexuality Education Lessons in 2022
 
@@ -53,3 +53,16 @@ Theme 3B from Module: Developing Healthy Relationships
 |   |  5<br>(60 mins) | ·       recognise that personal decisions on how one displays own affections in public can affect others<br>·       discern the impact of new media on relationship building  | Term 2 Week 2  |
 | NA  | 6<br>(60 mins)  | This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.  | Term 2 Week 3  |
 |   |   |   |   |
+
+#### eTeens Programme
+
+6 \. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.  
+
+7 \. Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions
+
+**At River Valley High School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| **Topics/Lessons**  |  **Programme Learning Objectives** |  **Time Period**<br>**(e.g. Term 3 Week 2)** |
+|---|---|---|
+| Mass Talk by HPB appointed vendor  | ·       Awareness of the different STI and HIV<br>·       Modes of transmission for STI and HIV<br>·       Modes of protection against infection, specifically abstinence and the correct use of condom<br>·       Consequences and impact of STI/HIV<br>·       State the ways of managing the impact  |  Term 3 Week 10 |
+|   |   |   |
