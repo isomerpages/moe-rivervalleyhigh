@@ -45,4 +45,55 @@ We look forward to seeing you and your child at RVHS.
 | International Students  |  $1,750 |  $20 |  $3 | $1,773  |
 |   |   |   |   |   |
 
+#### Financial Assistance  
 
+*   Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. 
+*   Submit  the application through the MOE e-FAS link ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)) or via hardcopy form in the General Office.
+
+#### Start of School 2023 – Important Information for Students and Parents
+
+To ensure you are well-prepared for the start of your journey with us, please note the following information:
+
+**a)  Reporting Date & Time**
+
+*   First day of school is on 9 January 2023, Monday.  
+
+*   There will be student ushers to guide the newly posted Sec 1 students to the School Hall when they arrive. 
+
+*   Parents are allowed to drop-off their child(ren) at the school and advised not to accompany them into the school compound.
+
+*   Should the child(ren) be unwell with flu symptoms on day 1, please rest at home. Parents can contact the school General Office at tel no. 65678115.
+
+**b)  Secondary 1 Orientation Programme for Term 1, Week 1**
+
+| Date  | Reporting Time  |Dismissal Time   |
+|---|---|---|
+| 9 Jan, Monday  | 8.30 am  | 1.00 pm  |
+|  10 Jan, Tuesday | 7.30 am  | 3.45 pm  |
+|  11 Jan, Wednesday |  7.30 am |  3.45 pm |
+|  12 Jan, Thursday | 7.30 am  | 4.15 pm  |
+| 13 Jan, Friday  | 7.30 am  | 2.30 pm  |
+|   |   |   |
+
+**c)  Administrative Matters for Day 1**
+
+*   **Attire**: Full RV school uniform
+*   **Wearing of face masks**: Optional 
+*   **Reporting venue**: School Hall
+*   **Things to bring:**
+
+1 \.  Wet wipes / hand sanitizer<br>
+2 \.  Water bottle<br>
+3 \.  Writing materials<br>
+4 \.  Primary School Report Book<br>
+5 \.  Primary School EZ-link Card
+
+**d)  2023 Sec 1 Class Allocation**
+
+*   Please refer to the Parents Gateway App for 2023 Year 1 Class Allocation on 31 December 2022.
+*   At the Home Page, click on the name icon of the child to see his/her class.
+
+**e)  River Valley High School Parent-Teacher Association**
+
+*   The Parent-Teacher Association (PTA) recognizes the importance of parents’ participation on the learning journey of their child.  
+*   Find out more about the PTA **[here](https://rivervalleyhigh.moe.edu.sg/about-rv/school-partners/parent-teacher-association)**.
