@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Secondary 1 Registration (2023 Intake).md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
