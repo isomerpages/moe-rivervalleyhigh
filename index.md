@@ -29,7 +29,7 @@ sections:
       description: RVHS is very proud of Stefan Liew, who was awarded the President's
         Scholarship and the SPF Scholarship in 2018.
       button: Read More
-      url: d
+      url: /achievements/Scholarship-Recipients/2018sr/
       image: /images/70b52cf2f_4424.jpg
       alt: Image alt text
 ---
