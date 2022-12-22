@@ -20,4 +20,8 @@ sections:
       url: /achievements/2021alvl/
       image: /images/49f6177b3_4426.jpg
       alt: Image alt text
+  - infopic:
+      title: Racial Harmony Day Celebration
+      image: /images/352f5c538_4425.jpeg
+      alt: Image alt text
 ---
