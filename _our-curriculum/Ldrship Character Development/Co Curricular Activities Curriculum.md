@@ -15,7 +15,7 @@ River Valley High School’s Co-curricular Activities Curriculum is designed to 
 
 Apart from building up RVians’ physical fitness and agility through the training and practice sessions, co-curricular activities are also a good platform for students to become effective team players, express their creativity and hone their leadership skills. These qualities and skills will position them well to excel in life and at work in the future.
 
-Click [Here](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/achievements/2019-achievements) **LINK ISOMER** for a list of CCA achievements.
+Click [Here](/achievements/2019a/) for a list of CCA achievements.
 
 ##### CCAs Offered in RV
 
