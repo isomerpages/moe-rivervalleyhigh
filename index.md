@@ -11,20 +11,13 @@ sections:
       background: /images/66ffbc851_442.jpg
       button: Secondary 1 Registration (2023) Intake
       url: /information/sec1-registration-intake/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: 2021 GCE A-Level Results
+      description: Congratulations to the class of 2021 for achieving stellar results
+        at the GCE A-Level examinations! We are proud of all of you and wish you
+        the very best.
+      button: Read more
+      url: d
+      image: /images/49f6177b3_4426.jpg
+      alt: Image alt text
 ---
