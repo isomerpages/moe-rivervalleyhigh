@@ -35,5 +35,5 @@ sections:
   - infobar:
       title: Announcements
       button: Click here to view All
-      url: d
+      url: /announcements/
 ---
