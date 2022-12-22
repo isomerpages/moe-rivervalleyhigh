@@ -24,4 +24,12 @@ sections:
       title: Racial Harmony Day Celebration
       image: /images/352f5c538_4425.jpeg
       alt: Image alt text
+  - infopic:
+      title: The President's Scholarship
+      description: RVHS is very proud of Stefan Liew, who was awarded the President's
+        Scholarship and the SPF Scholarship in 2018.
+      button: Read More
+      url: d
+      image: /images/70b52cf2f_4424.jpg
+      alt: Image alt text
 ---
