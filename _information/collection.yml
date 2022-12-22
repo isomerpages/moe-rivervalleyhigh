@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Secondary 1 Registration (2023 Intake).md
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
@@ -10,6 +9,7 @@ collections:
       - COVID 19 Information.md
       - RVHS ICT.md
       - FAQs.md
+      - Secondary 1 Registration (2023 Intake).md
       - DSA (Integrated Programme)/.keep
       - DSA (Integrated Programme)/Direct School Admission (Integrated
         Programme) 2022.md
