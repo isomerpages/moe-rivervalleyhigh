@@ -96,4 +96,26 @@ To ensure you are well-prepared for the start of your journey with us, please no
 **e)  River Valley High School Parent-Teacher Association**
 
 *   The Parent-Teacher Association (PTA) recognizes the importance of parents’ participation on the learning journey of their child.  
-*   Find out more about the PTA **[here](https://rivervalleyhigh.moe.edu.sg/about-rv/school-partners/parent-teacher-association)**.
+*   Find out more about the PTA **[here](/about-rv/School-Partners/pta/)**.
+
+#### National Digital Literacy Programme (NDLP)  
+
+MOE had announced that every secondary student will need to have a Personal Learning Device (PLD) for the purpose of personalise digital learning to improve digital literacy
+
+Parents are advised not to purchase a PLD at the moment and wait for the announcement for PLD offer. Should there be an urgent need for a digital device, parents can consider purchasing a Windows based second hand device.  Otherwise, the student can also loan out a laptop from the school (subject to availability).
+
+#### Appeal for School Transfer (Primary 6 Students)
+
+Primary 6 students who have applied to River Valley High School (RVHS) during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal to be considered for transfer to RVHS. These students appealing for admission to RVHS after the release of the Secondary 1 Posting result have to meet the school’s cut-off points (COP).
+
+Note that students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.
+
+*   The appeal application period is from the **21 to 27 December, 1700 hours.**
+*   Late or incomplete appeal will not be considered. 
+*   Application is to be done strictly via this **[form](https://go.gov.sg/2023rvsec1appeal)**.
+*   For convenience, it is not necessary to submit any hardcopy appeal form.  Students who are successful in their appeals will need to provide school with the actual documents which was used to support the appeal for checking purpose when school starts.
+*   Pending the outcome of appeal, all applicants are required to report to the school that they are posted to by the Ministry of Education on Secondary 1 Registration Day. 
+*   Successful applicants will be informed by 30 December 2022.
+*   The decision of the school’s Admissions Committee is final and the school will not enter into discussion with the applicants regarding its decision.
+
+For enquiries, please contact the General Office at tel no.: 65678115 during office hours or email us at [rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg) with your contact number and child's name.
