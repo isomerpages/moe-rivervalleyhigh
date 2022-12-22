@@ -15,7 +15,7 @@ RV's talent academies consist of
 *   [Science Leaders Academy](/our-curriculum/Talent-Academies/sla/)
 *   [The Eco-Sustainability Leadership Academy](/our-curriculum/Talent-Academies/tesla/)
 *   [Mathematics Leaders Academy](/our-curriculum/Talent-Academies/mla/)
-*   [Bicultural Leaders Academy | 双文化学研中心](/our-curriculum/Talent-Academies/biculturalldra/)
+*   [Bicultural Leaders Academy  双文化学研中心](/our-curriculum/Talent-Academies/biculturalldra/)
 *   [The Humanities and Social Sciences Leaders Academy](/our-curriculum/Talent-Academies/hssla/)
 
 With such strong support for talent development, RVians continue to produce leaders of distinction in various local and international competitions and events.
