@@ -24,3 +24,7 @@ We look forward to seeing you and your child at RVHS.
 
 #### Purchase of Textbooks and School Uniform
 
+* Here are the **[Booklist](/files/RVHS%20S1-%20Booklist%202023.pdf)** and **[Uniform Size Charts](/files/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20RVHS.pdf)**.
+* Click **[here](https://go.gov.sg/rvhs-sec1-textbooks-uniform)** to book a time slot from 22 to 23 December 2022 to purchase the textbooks and uniforms in the school.
+* Alternate methods of purchase of Textbooks and School Uniform:
+
