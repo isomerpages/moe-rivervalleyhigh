@@ -32,4 +32,8 @@ sections:
       url: /achievements/Scholarship-Recipients/2018sr/
       image: /images/70b52cf2f_4424.jpg
       alt: Image alt text
+  - infobar:
+      title: Announcements
+      button: Click here to view All
+      url: d
 ---
