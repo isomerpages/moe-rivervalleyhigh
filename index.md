@@ -10,7 +10,7 @@ sections:
       title: River Valley High School
       background: /images/66ffbc851_442.jpg
       button: Secondary 1 Registration (2023) Intake
-      url: d
+      url: /information/sec1-registration-intake/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
