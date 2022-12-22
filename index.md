@@ -4,14 +4,13 @@ title: River Valley High School
 description: An Isomer site of the Singapore Government
 image: /images/photo_2022-12-22_18-20-23.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: River Valley High School
+      background: /images/66ffbc851_442.jpg
+      button: Secondary 1 Registration (2023) Intake
+      url: d
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
