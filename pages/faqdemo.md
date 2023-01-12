@@ -92,5 +92,20 @@ description: ""
 	<table>
 		<tr>
 			<td>Would you be lowering your DSA criteria as there is no SYF or any other competitions?</td>
-			<td>Students should display a strong aptitude in the talent area they applied for. Auditions and interviews will be conducted to assess their suitability in that talent area.
-																			 
+			<td>Students should display a strong aptitude in the talent area they applied for. Auditions and interviews will be conducted to assess their suitability in that talent area.</td>
+		</tr>
+		<tr>
+			<td>If my child has learnt only ballet and modern dance, and not other dance forms, and has been in the dance team but quit ballet in P6 due to the heavy workload, can she still apply for dance DSA and does she need to be the key dancer in her CCA?</td>
+			<td>Yes, having ballet or any dance skills would be an advantage, thus she does not need to be the key dancer. In RV Dance society, our dancers learn <b>both Chinese and modern contemporary dance</b>. All dancers would have to learn both genres, they cannot choose which genre they want to learn.</td>
+		</tr>
+		<tr>
+			<td>My child is in Hip Hop in primary school, can my child apply for DSA dance?</td>
+			<td>Yes, having any dance skills would be an advantage but please note that in RV Dance society, the dancers do not take hip hop or street dance at the secondary level. Street Dance CCA is offered at the JC levels.</td>
+		</tr>
+		<tr>
+			<td>How is the assessment for dance conducted?</td>
+			<td>There will be an audition for dance candidates.</td>
+		</tr>
+		<tr>
+			<td>What competencies are you looking for in a student applying for Concert Band or Chinese Orchestra? Is there a particular instrument you will give preference to for DSA? For example, is the CCA short of certain instrument players so more priority will be given to these students?</td>
+			<td>The school will assess a student’s musicality, which is the ability to perceive and reproduce differences in the <a href="https://en.wikipedia.org/wiki/Elements_of_music">aspects of music</a> including pitch, rhythm, and harmony. Basically, it is the ability to be able to reproduce music in addition to creating music (musical creativity).<br><br>At the application phase, past achievements, competition involvement and academic requirements will be taken into consideration for short-listing.<br><br>For Chinese Orchestra, the school will consider all musical instruments excluding guzheng and violin.<br><br>For Concert Band, the school will consider all musical instruments excluding piano and violin.</td>
