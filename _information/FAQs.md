@@ -166,4 +166,38 @@ description: ""
 			<td>Your child’s primary school CCA record should reflect that he/she holds a key position in the school prefectorial board as one of the office bearers (for example, EXCO member). For Girl Guides, she should be conferred the Chief Commissioner's Badge as it is the highest achievement at the primary school level.<br><br>We believe in the leadership potential of all students and there are many opportunities to develop their potential.<br><br>For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
 		</tr>
 		<tr>
-			<td>
+			<td>What will be required of the child if she is accepted through DSA leadership or girl guides?</td>
+			<td>Upon entering RV, your child will be in our Student Leadership Development Academy and Students' Council. For Girl Guides, your child will continue her Girl Guides journey with us in RVHS.</td>
+		</tr>
+		<tr>
+			<td>What kinds of documents must we provide for DSA coding?</td>
+			<td>Documents that reflect past achievements and competencies are to be submitted during the application phase.</td>
+		</tr>
+		<tr>
+			<td>What do you look for in students who apply for DSA Science Investigation?</td>
+			<td>For Scientific Investigation, candidates should have a deep passion in science and innovative problem-solving skills. They should also demonstrate a natural curiosity in Science through their performance in science inquiry tasks.</td>
+		</tr>
+		<tr>
+			<td>What do you look for in students who apply for DSA D&T Innovation?</td>
+			<td>Candidates should be creative when applying their knowledge and skills to the given tasks, and show that they are able to come up with innovative solutions to the problems.</td>
+		</tr>
+		<tr>
+			<td>What do you look for in students who apply for DSA Environmental Science?</td>
+			<td>Candidates should be passionate about the environment and have experience in championing environmental causes in their primary schools. Students who have a strong interest in environmental science and would like to serve as advocates for the environment, both inside and outside of the school community, can apply for this category.</td>
+		</tr>
+		<tr>
+			<td>If my child is a prefect in primary school, will my child be a prefect in RV?</td>
+			<td>If your child comes into RV through DSA Leadership, your child will be given leadership opportunities to join the Students' Council, and be part of leadership projects and initiatives.</td>
+		</tr>
+		<tr>
+			<td>Will Peer Support Group Leaders in primary schools be considered for DSA Leadership if they receive the EAGLES award?</td>
+			<td>The Edusave Award for Achievement, Good Leadership and Service (EAGLES) Award recognises a student’s leadership ability, and combined with his past leadership experiences and potential, we will take all these into consideration during our shortlisting process.</td>
+		</tr>
+		<tr>
+			<td>For coding DSA, does my child stand a chance if he knows Scratch?</td>
+			<td>Your child needs to be able to demonstrate his skills and knowledge in the basics of programming.</td>
+		</tr>
+	</table>
+	</p>
+	</div>
+	</li>
