@@ -230,4 +230,88 @@ description: ""
 	</table>
 	</div>
 	</li>
+	<li>
+		<input type="checkbox" id="accordion6">
+<label for="accordion6">Academic Enquiries</label>
+<div>
+	<table>
+		<tr>
+			<td><br><br><br><br><br>In what ways is RV’s Integrated Programme unique?</td>
+			<td>*   The Cultures of Thinking (CoT) framework is infused into the various programmes so as to develop our students’ critical thinking skills.<br>*   Inquiry-approach, research-based, process-oriented CID Curriculum<br>*   We offer Bicultural Studies Programme (Chinese) and SAP Scholarship<br>*   We have six talent academies - Science  Leaders Academy, Humanities and Social Sciences Leaders Academy, Mathematics Leaders Academy, Bicultural Leaders Academy and The Eco-Sustainability Leadership Academy and Student Leadership Development Leaders Academy to stretch our students’ potential<br><br>As an IP school, students are exposed to varied learning experiences and opportunities through its six-year seamless programme where they do not sit for the O-Level Examinations and instead, take the GCE A-Level Examinations in JC2.</td>
+		</tr>
+		<tr>
+			<td>Are the GCE A-Level subjects taught in-house in RVHS?</td>
+			<td>As an Integrated Programme school, our students go through a seamless 6-year educational journey, hence the GCE A-Level curriculum is taught in RV.</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br>How does RV perform in the GCE A-Level Examinations?</td>
+			<td>RV students have been performing above the national average in the GCE A-Level Examinations and the school has been consistently value-adding to the students’ A-Level performance. In addition, 1 in 3 students get a scholarship, something that we are immensely proud of, considering that our students do not take the O-Levels. This shows the dedication and support of our teachers to ensure that our students do well in the examinations. Many students get scholarships to study at prestigious universities such as Oxford, Cambridge, Imperial college, London School of Economics, UC Berkeley, Harvard, Stanford, Massachusetts Institute of Technology, Peking University, Tsinghua University, Fudan and other renowned universities.</td>
+		</tr>
+		<tr>
+			<td>If my child is not able to cope with the Integrated Programme after the 1st year, what other options are there for my child?<br><br>What is the drop-out rate?</td>
+			<td>As a school, we provide our fullest support to our students. This environment comprises the form teachers, subject teachers and Year Master, and they monitor students' progress and decide on a remediation programme to help students when necessary. Coupled with strong home-school partnership, we are confident of helping our students to do well in the GCE A Level Examinations. Students who asked to leave RV typically do so because they want to pursue a course that is not offered in the A Level curriculum.<br><br>Note: DSA students are not eligible to transfer to other secondary or IP schools after acceptance of the Confirmed Offer.</td>
+		</tr>
+		<tr>
+			<td>Will my child be at a disadvantage since there are no O-Level classes in RV?<br><br>Will my child be left with only a PSLE certificate if he is unable to finish the 6-year programme?</td>
+			<td>Being able to proceed directly to the A-Levels is an advantage for our students as they get a lot more time and opportunities to develop holistically and hone their 21st century competencies over six years through our highly customised programmes.<br><br>IP students obtain an IP Info Sheet which is issued by MOE to reflect their academic status. This will enable them to pursue a different track offered at the polytechnic.<br><br>Note: DSA students are not eligible for any transfer to other secondary or IP schools after acceptance of the Confirmed Offer.</td>
+		</tr>
+		<tr>
+			<td>Does RV place more emphasis on the Chinese Language than on English Language?</td>
+			<td>As a SAP school, we strongly believe in the importance of both languages, given the global landscape that demands proficiency in both languages and bicultural sensitivity in order for us to engage with the rest of the world. By placing equal emphasis on both languages, our students will have a competitive edge when they graduate as they can be the bridge between the East and the West.</td>
+		</tr>
+		<tr>
+			<td>Is there any promotion criteria from Sec 1 to J2?</td>
+			<td>Just like any other school, there is a set of promotion criteria that students need to meet in order to be promoted to the next level.</td>
+		</tr>
+		<tr>
+			<td>Does my child need to take Higher Chinese Language in P5 and 6 in order to be admitted into RV?</td>
+			<td>There is no need to as long as your child takes our RV Chinese Language Programme.</td>
+		</tr>
+		<tr>
+			<td>What is the Chinese Language Programme like in RV?</td>
+			<td>As an SAP and IP school, we have a specially designed RV Chinese Language programme for all students. This programme aims to build their foundation and equip them with the necessary skills and competencies so that they are well prepared to sit for the GCE O-Level Higher Chinese Language Examination in secondary 4.</td>
+		</tr>
+		<tr>
+			<td>Does RV offer any other mother tongue languages?</td>
+			<td>We offer other mother tongue languages to our JC students only.</td>
+		</tr>
+		<tr>
+			<td>Can a student participate in more than one of the six Talent Academies?</td>
+			<td>We do not limit students' capacity and interest. With the right aptitude, membership in more than one Academy is possible and encouraged.</td>
+		</tr>
+		<tr>
+			<td>How are students selected for competitions?</td>
+			<td>We select candidates based on their aptitude and capabilities for competitions.</td>
+		</tr>
+		<tr>
+			<td>If my child is talented in the English Language, will there be opportunities to stretch him?</td>
+			<td>We support students' learning and interest areas, and we have different talent programmes ranging from speaking to writing, and prepare them for competitions.</td>
+		</tr>
+		<tr>
+			<td>Does RV have weekly weighted assessments for different subjects throughout the academic year?</td>
+			<td>We have bite-sized assessments to assess students' understanding and they are spread out across the term so that they can pace their revision.</td>
+		</tr>
+		<tr>
+			<td>Is there any support for students who struggle with the Chinese Language?</td>
+			<td>Yes, we have after-school programmes to support the students’ learning of the Chinese Language. In addition, our school has various enrichment programmes to ignite their love for the language.</td>
+		</tr>
+		<tr>
+			<td>If my child takes the Art Elective Programme in another school, can my child take fewer subjects in RV?</td>
+			<td>No, your child will still be taking the same core subjects as the rest so that they can keep their options open when it comes to choosing their subject combination in Secondary 3.</td>
+		</tr>
+		<tr>
+			<td>If my child takes Higher Chinese Language in primary school, does he or she have priority for admission into RV?</td>
+			<td>Students who obtain Distinction, Merit or Pass in HCL and have a PSLE score of 14 or better (i.e. PSLE score ≤ 14) will be eligible for posting advantage when applying to SAP schools. If multiple students with the same PSLE score apply for the same SAP school, those with better HCL grades will be allocated a place ahead of other students. This applies before the tie-breakers.</td>
+		</tr>
+		<tr>
+			<td>How does MOE's posting work?</td>
+			<td>Please visit <a href="https://www.moe.gov.sg/secondary/s1-posting/how-posting-works">this site</a> to find out more.</td>
+		</tr>
+		<tr>
+			<td>When will posting results be released?</td>
+			<td>The posting results will be announced by MOE in early December and once they are released, schools will post the relevant information on their websites.</td>
+		</tr>
+	</table>
+		</div>
+	</li>
 	</ul>
