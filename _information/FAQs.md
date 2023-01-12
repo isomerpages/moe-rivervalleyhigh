@@ -146,4 +146,17 @@ description: ""
 			<td>Is there a recreational team apart from the school team?</td>
 			<td>There is no recreational team.</td>
 		</tr>
-		
+	</table>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion4">
+<label for="accordion4">DSA Enquiries on Other Talent Areas</label>
+<div>
+	<table>
+		<tr>
+			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board or CCA?</td>
+			<td>Your child’s primary school CCA record should reflect that he/she holds a key position in the school prefectorial board as one of the office bearers (for example, EXCO member). For Girl Guides, she should be conferred the Chief Commissioner's Badge as it is the highest achievement at the primary school level.<br><br>We believe in the leadership potential of all students and there are many opportunities to develop their potential.<br><br>For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
+		</tr>
+		<tr>
+			<td>
