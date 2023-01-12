@@ -314,4 +314,16 @@ description: ""
 	</table>
 		</div>
 	</li>
+	<li>
+		<input type="checkbox" id="accordion7">
+<label for="accordion7">General enquiries about RV</label>
+<div>
+	<table>
+		<tr>
+			<td>What are the school hours like in RV?</td>
+			<td>School starts at 8 am each morning from Tuesday to Friday, and we start at 9 am on Mondays. Lessons usually end at about 2.30pm, depending on which level and the students’ subject combination. On some afternoons, students may attend supplementary classes or enrichment programmes.</td>
+		</tr>
+		<tr>
+			<td>How much fees do students pay monthly?</td>
+			<td>
 	</ul>
