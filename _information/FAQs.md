@@ -206,3 +206,27 @@ description: ""
 	<input type="checkbox" id="accordion5">
 <label for="accordion5">General enquiries on Co-Curricular Activities</label>
 <div>
+	<p>
+	<table>
+		<tr>
+			<td>Is CCA compulsory in RV?<br><br>Where can I find a list of CCAs offered in RV?</td>
+			<td>CCA is compulsory for all secondary school students.<br><br>Please visit <a href="https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum">https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum</a> <b>SITE NOT AVAILABLE</b> for the full list of CCAs offered to Sec and JC students.</td>
+		</tr>
+		<tr>
+			<td>How are students selected for the CCAs? Are certain CCAs made up of DSA students only?</td>
+			<td>Students with the right aptitude for particular CCAs are matched to them. There is no CCA that is made up entirely of DSA candidates.</td>
+		</tr>
+		<tr>
+			<td>Are external CCAs (eg water polo or tennis) recognised by the school and will the child be awarded CCA points?</td>
+			<td>If the student's involvement in a sport is under the National Sports Association, we will award CCA points.</td>
+		</tr>
+		<tr>
+			<td>Can my child take up more than one CCA?</td>
+			<td>Students who can cope with the school’s academic and main CCA demands may take up another CCA. We have students who have demonstrated the ability to handle a diverse range of commitments in CCAs and Academies.</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br>How many training sessions are there per week and how long is each session?</td>
+			<td>There are three training sessions per week for sports CCAs. Generally, training sessions are held on Tuesdays, Fridays and one other weekday. Each training session is 3 hours long, from 3pm to 6pm. <br><br>Performing Arts CCAs are held on Tuesdays and Fridays, except for Chorale which conducts CCA on Wednesdays and Fridays. More practices are arranged only when there is a need to prepare for a competition or a performance. In such instances, parents and students will be notified at least two weeks in advance.<br><br>Our students’ well-being is our priority, hence during the post-season and end-of-year examination period, CCA sessions will be phased down.</td>
+		</tr>
+		<tr>
+			
