@@ -325,5 +325,33 @@ description: ""
 		</tr>
 		<tr>
 			<td>How much fees do students pay monthly?</td>
-			<td>
+			<td>Please click <a href="/information/sch-fees/">here</a> for the school fees.</td>
+		</tr>
+		<tr>
+			<td>How many students are there in each class?</td>
+			<td>On average, we have about 30 to 35 students in each class.</td>
+		</tr>
+		<tr>
+			<td>Does RV offer bus services to 3rd language centres?</td>
+			<td>The school provides transport for all third language students.</td>
+		</tr>
+		<tr>
+			<td>Does RV offer bus services?</td>
+			<td>No, we do not offer bus services as we are located near Boon Lay MRT station and many buses go to our school.</td>
+		</tr>
+		<tr>
+			<td>What are the food options and what is the price range of the food sold in RV?</td>
+			<td>Our canteen has an extensive selection of food options and there is also a cafe on site. Typically, students spend between $2 and $3.50 for lunch.</td>
+		</tr>
+		<tr>
+			<td>Does RV provide a safe environment for students to study in?</td>
+			<td>Our students and staff feel comfortable in the school due to the strong culture of care as evinced by our staff and students who support and look out for one another. Although an unfortunate incident took place, RV continues to be a safe place for growth and development. With strong support from the Ministry of Education and stakeholders as well as the RV community, the school remains committed to students' safety and well-being.</td>
+		</tr>
+		<tr>
+			<td>Are there any scholarships that students can apply for?</td>
+			<td>Our school has the Tham Tuck Meng Scholarship for Sec 1 students.</td>
+		</tr>
+	</table>
+		</div>
+	</li>
 	</ul>
