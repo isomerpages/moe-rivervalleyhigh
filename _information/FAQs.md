@@ -354,4 +354,12 @@ description: ""
 	</table>
 		</div>
 	</li>
+	<li>
+		<input type="checkbox" id="accordion8">
+<label for="accordion8">Admission into RVIP</label>
+<div>
+	<table>
+		<tr>
+			<td>Now that the PSLE scoring system has changed, what is RV’s Cut-Off Point?</td>
+			<td>The Secondary 1 Posting indicative AL Cut-Off Point range for RV is between 4 and 9. You may refer to this link for more information:<br><br>
 	</ul>
