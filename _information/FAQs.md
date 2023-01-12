@@ -10,6 +10,7 @@ description: ""
 <input type="checkbox" id="accordion1">
 <label for="accordion1">Secondary One Direct School Admission Exercise</label>
 <div>
+	<p>
 	<table>
 		<tr>
 			<td><b>Questions</b></td>
@@ -83,12 +84,14 @@ description: ""
 		<td>Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of an IP school.</td>
 		</tr>
 	</table>
+	</p>
 	</div>
 	</li>
 	<li>
 	<input type="checkbox" id="accordion2">
 <label for="accordion2">DSA enquiries on Performing Arts CCAs</label>
 <div>
+	<p>
 	<table>
 		<tr>
 			<td>Would you be lowering your DSA criteria as there is no SYF or any other competitions?</td>
@@ -119,12 +122,14 @@ description: ""
 			<td>If the primary school does not have a debate team but your child has debate training or participated in debate competitions, and wishes to pursue his/her passion, please go ahead and apply for it.</td>
 		</tr>
 	</table>
+	</p>
 	</div>
 	</li>
 	<li>
 	<input type="checkbox" id="accordion3">
 <label for="accordion3">DSA enquiries on Sports CCAs</label>
 <div>
+	<p>
 	<table>
 		<tr>
 			<td><br><br>Will my child be guaranteed a place in the school team if he comes in via DSA?</td>
@@ -147,12 +152,14 @@ description: ""
 			<td>There is no recreational team.</td>
 		</tr>
 	</table>
+	</p>
 	</div>
 	</li>
 	<li>
 	<input type="checkbox" id="accordion4">
 <label for="accordion4">DSA Enquiries on Other Talent Areas</label>
 <div>
+	<p>
 	<table>
 		<tr>
 			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board or CCA?</td>
