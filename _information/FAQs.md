@@ -201,3 +201,7 @@ description: ""
 	</p>
 	</div>
 	</li>
+	<li>
+	<input type="checkbox" id="accordion5">
+<label for="accordion5">General enquiries on Co-Curricular Activities</label>
+<div>
