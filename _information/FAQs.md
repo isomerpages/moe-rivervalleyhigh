@@ -361,5 +361,25 @@ description: ""
 	<table>
 		<tr>
 			<td>Now that the PSLE scoring system has changed, what is RV’s Cut-Off Point?</td>
-			<td>The Secondary 1 Posting indicative AL Cut-Off Point range for RV is between 4 and 9. You may refer to this link for more information:<br><br>
+			<td>The Secondary 1 Posting indicative AL Cut-Off Point range for RV is between 4 and 9. You may refer to this link for more information:<br><br></td>
+		</tr>
+		<tr>
+			<td>Will students taking Higher Chinese Language have an advantage in getting into RV?</td>
+			<td>In the new calculation of AL, HCL is not included.</td>
+		</tr>
+		<tr>
+			<td><br>Does RV accept transfer students from other schools?</td>
+			<td>Parents can call the school at the end of the academic year to check if there are any vacancies. If there are, parents can apply and the student will sit for the aptitude tests.</td>
+		</tr>
+		<tr>
+			<td>How many Secondary 1 students do you admit every year?</td>
+			<td>The cohort size varies every year. Due to a shrinking population, there is a reduction in the number of students being admitted to RV. In 2021, we have nine Secondary One Classes.</td>
+		</tr>
+		<tr>
+			<td><br><br>Can International students apply to study in RV?</td>
+			<td>International students (IS) who want to join RV at Secondary 1 to 3 will have to apply through MOE. Please refer to MOE’s webpage on admissions for international students. For Secondary 1 DSA application, IS will have to obtain a reference number from MOE first before participating in RVIP DSA exercise. They will also have to pass MOE AEIS for their DSA results to take effect.</td>
+		</tr>
+	</table>
+		</div>
+	</li>
 	</ul>
