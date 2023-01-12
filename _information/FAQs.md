@@ -118,3 +118,32 @@ description: ""
 			<td>If my child wants to apply for English Debates via DSA, does he/she need to be in the school debate team to be qualified? Some primary schools do not have debates as a CCA but if the child has participated in debate training outside school, can my child apply?</td>
 			<td>If the primary school does not have a debate team but your child has debate training or participated in debate competitions, and wishes to pursue his/her passion, please go ahead and apply for it.</td>
 		</tr>
+	</table>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion3">
+<label for="accordion3">DSA enquiries on Sports CCAs</label>
+<div>
+	<table>
+		<tr>
+			<td><br><br>Will my child be guaranteed a place in the school team if he comes in via DSA?</td>
+			<td>The school team is selected only prior to the team registration for the National School Games.<br><br>Generally, most DSA students qualify for the school team due to their talent, ability and sustained commitment to training.</td>
+		</tr>
+		<tr>
+			<td>What are the requirements to qualify for the various DSA sports?<br><br>Can we apply for DSA even though we are not in the school team or if our primary school does not have that particular sport?</td>
+			<td>Students should display strong aptitude in the talent area they applied for. Trials and interviews will be conducted to assess their suitability in that talent area.<br><br>Yes, you can still apply for DSA.</td>
+		</tr>
+		<tr>
+			<td>How would the sports CCA DSA be carried out for JC DSA? Would there be physical trials or just online interviews?</td>
+			<td>You may refer to our school website in June for more information on DSA-JC exercise.</td>
+		</tr>
+		<tr>
+			<td>How do I prove that my child is a captain of the school team?</td>
+			<td>The primary school should have recorded your child’s Leadership and Achievements in the CCA Certificate.</td>
+		</tr>
+		<tr>
+			<td>Is there a recreational team apart from the school team?</td>
+			<td>There is no recreational team.</td>
+		</tr>
+		
