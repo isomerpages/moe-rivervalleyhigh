@@ -52,4 +52,45 @@ description: ""
 			<td>As a SAP school that believes in bilingualism, we will assess your child’s ability to cope with our RVIP Chinese Language Programme in the shortlisting process based on the results provided in the application.</td>
 		</tr>
 		<tr>
-			<td>
+			<td>Does my child need to take Higher Chinese Language in primary school in order to apply for a place in RV?</td>
+			<td>Higher Chinese Language (HCL) is not a prerequisite for admission to RVHS.</td>
+		</tr>
+		<tr>
+			<td>Must my child’s PSLE Achievement Level Score fall within a specific range even if he receives a Confirmed Offer from your school?</td>
+			<td>Your child must qualify for the Express stream.</td>
+		</tr>
+		<tr>
+			<td>Where can I find the list of CCAs for DSA?</td>
+			<td>The new DSA CCA list will be put up after MOE’s release of DSA information.</td>
+		</tr>
+		<tr>
+			<td>Is there a DSA quota for each CCA or on the whole?</td>
+			<td>There is no fixed quota. The objective of DSA is to identify talent, taking into consideration the student’s interest and long term development potential.</td>
+		</tr>
+		<tr>
+			<td>Are there CCAs which are more popular and see a higher number of DSA applicants?</td>
+			<td><br>No, there is no discernible trend.</td>
+		</tr>
+		<tr>
+			<td><br>If my child gets in through DSA, must my child join the CCA for 6 years? What if his interest changes?</td>
+			<td>Yes, your child must remain in the same CCA so that we can develop his/her full potential over six years. <br><br>If choice of CCA is important, then your child should avoid applying for entry via DSA as there are conditions attached.</td>
+		</tr>
+		<tr>
+			<td>For students admitted via DSA, do they have more training / practice sessions than the others?</td>
+			<td>No, for sports, they will train thrice a week and for the performing arts, they will train twice a week, just like the rest of their team.</td>
+		</tr>
+		<td>Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean?</td>
+		<td>Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of an IP school.</td>
+		</tr>
+	</table>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion2">
+<label for="accordion2">DSA enquiries on Performing Arts CCAs</label>
+<div>
+	<table>
+		<tr>
+			<td>Would you be lowering your DSA criteria as there is no SYF or any other competitions?</td>
+			<td>Students should display a strong aptitude in the talent area they applied for. Auditions and interviews will be conducted to assess their suitability in that talent area.
+																			 
