@@ -109,3 +109,12 @@ description: ""
 		<tr>
 			<td><br><br><br><br><br><br>What competencies are you looking for in a student applying for Concert Band or Chinese Orchestra? Is there a particular instrument you will give preference to for DSA? For example, is the CCA short of certain instrument players so more priority will be given to these students?</td>
 			<td>The school will assess a student’s musicality, which is the ability to perceive and reproduce differences in the <a href="https://en.wikipedia.org/wiki/Elements_of_music">aspects of music</a> including pitch, rhythm, and harmony. Basically, it is the ability to be able to reproduce music in addition to creating music (musical creativity).<br><br>At the application phase, past achievements, competition involvement and academic requirements will be taken into consideration for short-listing.<br><br>For Chinese Orchestra, the school will consider all musical instruments excluding guzheng and violin.<br><br>For Concert Band, the school will consider all musical instruments excluding piano and violin.</td>
+		</tr>
+		<tr>
+			<td>If my child has public speaking experience, should he/she apply for English Language Debate or English Drama?<br><br>What competencies are you looking for when it comes to debates? <br><br>If my child gets accepted for Drama through DSA, does it mean he/she has to do drama as a subject in RV?</td>
+			<td>It depends on your child’s interest and talents/competencies.<br><br>Both CCAs require your child to have a strong command of the language, confidence in public speaking, passion for the language and the ability to analyse facts and present spontaneously.<br><br>Your child has to take up Drama as his/her CCA if he/she accepts the offer to come into RV via Drama.</td>
+		</tr>
+		<tr>
+			<td>If my child wants to apply for English Debates via DSA, does he/she need to be in the school debate team to be qualified? Some primary schools do not have debates as a CCA but if the child has participated in debate training outside school, can my child apply?</td>
+			<td>If the primary school does not have a debate team but your child has debate training or participated in debate competitions, and wishes to pursue his/her passion, please go ahead and apply for it.</td>
+		</tr>
