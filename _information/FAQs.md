@@ -80,6 +80,7 @@ description: ""
 			<td>For students admitted via DSA, do they have more training / practice sessions than the others?</td>
 			<td>No, for sports, they will train thrice a week and for the performing arts, they will train twice a week, just like the rest of their team.</td>
 		</tr>
+		<tr>
 		<td>Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean?</td>
 		<td>Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of an IP school.</td>
 		</tr>
