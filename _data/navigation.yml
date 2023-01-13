@@ -1,8 +1,8 @@
 logo: /images/photo_2022-12-22_18-20-23.jpg
 links:
-  - title: About RV
+  - title: About RV 关于立化
     collection: about-rv
-  - title: Our Curriculum
+  - title: Our Curriculum 我们的课程
     url: /our-curriculum/oc/
     sublinks:
       - title: Cognitive-Interest Development
@@ -23,9 +23,11 @@ links:
         url: /our-curriculum/gem/
       - title: Talent Academies
         url: /our-curriculum/Talent-Academies/ta/
-  - title: Achievements
+  - title: Achievements 我们的荣誉
     collection: achievements
-  - title: Information
+  - title: Information 相关信息
     collection: information
-  - title: Our Stories
+  - title: Our Stories 我们的故事
     collection: our-stories
+  - title: e-Open House 线上开放日
+    url: /permalink
