@@ -198,5 +198,24 @@ description: ""
 			<td><b>1 Silver Award (Team)</b><br>Ang Yi<br>Qing Denise (22J04)<br>Goh Jun Yu (22J08)<br>Liu Yueyang (22J10)<br><br><b>2 Bronze Awards (2 Teams)</b><br>Yang Jingxiang (21J11)<br>Gong Yongjia (21J04)<br>Dai Zongxin (21J06)<br>Lim Yi Ting, Erica (21J17)<br><br> <b>1 Merit Award (Team)</b><br>Christie Chong Wei Ling (21J04)<br>Angeline Wong Li Ning (21J08)<br><br><b>Singapore Association for the Advancement of Science Poster Award for Science Communication (Team)</b><br>Hiuk Yuh Wen (21J03)<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)</td>
 		</tr>
 		<tr>
-			<td>Singapore National Crystal Growing Challenge</td>
-			<td>**Junior Level**<br>**2nd Runner-Up (Team)**<br>Tai Jing Han (1A)<br>Dylan Alaric Yeo Chee Seong (1A)<br><br> **Open Level**<br>**Most Creative e-Presentation Award (Team)**<br>Cheng Jia Xi (3D)<br>Charissa Yue Xue Ning (3D)</td>
+			<td><br><br><br>Singapore National Crystal Growing Challenge</td>
+			<td><b>Junior Level</b><br><b>2nd Runner-Up (Team)</b><br>Tai Jing Han (1A)<br>Dylan Alaric Yeo Chee Seong (1A)<br><br> <b>Open Level</b><br><b>Most Creative e-Presentation Award (Team)</b><br>Cheng Jia Xi (3D)<br>Charissa Yue Xue Ning (3D)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Anglo-Chinese Junior College International Biomedical Quiz</td>
+			<td><b>Category 1: Secondary 3 & 4<br>3 Gold Medals</b>  <br>Li Hanyu (4A)<br>Mya Cherry (4A)<br>Jiang Yuhan (4C)<br><br><b>2 Silver Medals</b>  <br>Loh Yong Da (4A)<br>Tam Jing Yi Joanne (4A)<br><br><b>6 Bronze Medals</b><br>Lim Abel (4A)<br>Tang Tian Le (4A)<br>Tan Xin Yang Elliott (4A)<br>Eaindra Khin (4C)<br>Zhao Zhe (4C)<br>Rajvi Rajesh Sapre (4C)<br><br><b>Category 2: Junior College 1 & 2<br>4 Gold Medals</b><br>Tan Beng Yang (22J02)<br>Soh Wei Kean, Adrina (22J02)<br>Zixuan Yeo (21J06)<br>Phua Jun Hao (21J08)<br><br><b>3 Silver Medals</b><br>Dyann Saw Xinmei (22J05)<br>Lee Shin Yee (21J03)<br>Zhang Yu (21J13)<br><br><b>6 Bronze Medals</b><br>Vera Ng Jing Wen (22J02)<br>Goh Ziyu (22J10)<br>Eunsun Jung (22J10)<br>Lai Xin Ling (21J02)<br>Zhu Qi (21J03)<br>Thia Zi Yun (21J06)<br><br><b>5 Merit Awards</b><br>Tay Yu Xun (21J03)<br>Hiuk Yuh Wen (21J03)<br>Lee Xin Bei (21J06)<br>Dai Zongxin (21J06)<br>Lim Yi Ting, Erica (21J17)<br><br><b>Category 2: Junior College 1 & 2<br>2nd Runner Up (Team Round)</b><br>Tan Beng Yang (22J02)<br>Soh Wei Kean, Adrina (22J02)<br>Dyann Saw Xinmei (22J05)<br>Eunsun Jung (22J10)<br><br><b>Category 1: Secondary 3 & 4<br>3 Gold Medals</b><br>Li Hanyu      (4A)<br>Mya Cherry (4A)<br>Jiang Yuhan (4C)<br><br><b>2 Silver Medals</b><br>Loh Yong Da (4A)<br>Tam Jing Yi Joanne (4A)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br>NTU Lee Kong Chian School of Medicine Anatomy Challenge</td>
+			<td><b>Individual Category<br>Certificates of Distinction</b><br>Loo Jia En (21J02)<br>Ang Cheng Ze (21J13)<br><br><b>Certificate of Merit</b><br>Manfred Tan Lisheng (21J04)<br>Lu Hui Fung, Alexis (21J05)<br>Chong Xin Ru, Gillian (21J06)<br>Wang Jiani (21J13)<br>Tang Yuheng (21J17)<br><br><b>Team Category<br>5th Place</b><br>Manfred Tan Lisheng (21J04)<br>Belle Tey Jing Yi (21J05)<br>Wang Jiani (21J13)<br>Ang Cheng Ze (21J13)<br>Tang Yuheng (21J17)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br>Engineering Innovation Challenge</td>
+			<td><b>Category 1: Secondary Schools<br>3rd Place & Popularity Award (Team)</b><br>Koh Xiu Yuan (22J09)<br>Min Thant Naing @ Weng Li Zong Cheng (22J11)<br>Alfred Ting Wei Hong (22J17)<br>Lin Yishuo (22J18)<br><br><b>Merit Award (Team)</b><br>Chen Litong (22J11)<br>Wang Kaicen (22J11)<br>Guo Huaxin (22J17)</td>
+		</tr>
+		<tr>
+			<td><br>Cyberthon 2022</td>
+			<td><b>National 1st</b><br>Liu Jiaye (21J15)<br>Zhou Zehao (21J15)<br>Lucas Lau (21J15)<br>Guan Chen Di (21J18)</td>
+		</tr>
+		<tr>
+			
