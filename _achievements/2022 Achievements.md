@@ -70,4 +70,28 @@ description: ""
 			<td><b>Category C Honourable Mention</b> <br>Krystal Pek Ke Yun (21J11) <br>Li Yutong (21J11)  <br>Liao Li Jing (21J17)</td>
 		</tr>
 		<tr>
+			<td>第十四届 “怡和轩华文书籍奖“ Ee Hoe Hean Book Prize 2022</td>
+			<td>优秀奖  <br>张卉昕 Cindy Zhang Huixin (22J16)  <br>表扬奖  <br>颜熙愉 Gan Xi Yee (22J08)  <br>表扬奖  <br>唐筱彤 Tang Xiao Tong, Chris (22J14)</td>
+		</tr>
+		<tr>
+			<td><br>第十八届特选中学幼苗论文计划18th SAP  <br>Mentorship Programme</td>
+			<td>最佳呈献奖  <br>陈子贤 Jordan Tan Zi Xian (3B)  <br>苏明慧 Soh Ming Hui (3H)  <br>陈崇宁 Tan Chong Ning (3H)  <br>郭靖偲 Quek Jing Si Karis (3H)  <br>陈思谨 Chen SiJin (3H)</td>
+		</tr>
+		<tr>
+			<td><br>2022年《我来报新闻》挑战赛Young Reporter News Challenge</td>
+			<td>入围  <br>郑苡宣 Tay Yi Xuan Zelia (1E)  <br>林慕溪 Lim Mu Xi (1E)  <br>张慧欣 Zhang Huixin (4I)  <br>周劲豪 Chew Jin Hao (4I)</td>
+		</tr>
+		<tr>
+			<td>2022年第三十三届全国学生书法比赛 33rd National Calligraphy Competition</td>
+			<td><b>优秀奖（中学组）</b>  <br>王睿翊 Ng Ruiyi Doreen (3B)</td>
+		</tr>
+		<tr>
+			<td>Designing with TI Graphing Calculators Competition 2022</td>
+			<td><b>Gold Award</b>  <br>Alfred Ting Wei Hong (22J17)  <br><b>Bronze Award</b>  <br> Liu Gaoyuan (22J11)    <br>School Category – <b>5th Position</b></td>
+		</tr>
+		<tr>
+			<td>第27届全国中学/高中华语演讲比赛27th National Mandarin Oratorical Competition for Sec schools & JCs</td>
+			<td><br><b>优胜奖:</b> 袁海纳 Yuan Haina (1D)<br>苏紫嫣 Kaylee Saw Zi Yan (3E)</td>
+		</tr>
+		<tr>
 			
