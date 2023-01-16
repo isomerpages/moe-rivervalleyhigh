@@ -176,5 +176,25 @@ description: ""
 			<td><b>Young Defence Scientists  <br>Programme Scholarship</b></td>
 			<td>Khow Willard (3A)<br>Chan Xing Yu, James (3I)</td>
 		</tr>
-		
+		<tr>
+			<td><b>Defence Science & Technology  <br>Agency Junior College Scholarship</b></td>
+			<td>Gan Chee Joon (21J08)<br>Siow Jia Wei (21J11)</td>
+		</tr>
+		<tr>
+			<td><b>Centre For Strategic<br>Infocomm Technologies<br>(CSIT) Computing Scholarship</b></td>
+			<td><b>2 JC1 students won the CSIT Computing Scholarship, a new award which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry. The scholarship includes an annual allowance of $1,000, tenable for two years as well as a course certification and learning programme allowance of $1,000</b><br>Zhou Zehao (21J15)<br>Joshua Chin Wei Jie (21J15)</td>
+		</tr>
+				<tr>
+			<td colspan="2"><b>[B] International Programmes</b></td>
+		</tr>
+		<tr>
+			<td><br><br><b>Shanghai International Youth  <br>Science & Technology Expo  <br>(Online) 2020<br>[上海国际青少年科技博览会 (云端展会)]</b></td>
+			<td><b>3 Excellent Display Awards \[优秀展示奖\] (Team)</b><br>Lee Kang Tian (4B)<br>Wong Kang Lim (4C)<br>Lee Jing Peng (4I)<br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)<br>Jonathan Chew Jian Pin (20J10)<br>Chua Yong Liang (20J10)<br><br><b>Most Popular Sci-Tech Innovation Work Award<br>[青少年创新成果展人气奖] (Team)</b><br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Singapore International  <br>Science Challenge</b></td>
+			<td><b>Outstanding Young Scientist Award</b> <br>Jonathan Chew Jian Pin (20J10) <br> <br><b>Overall 1st Runner Up (Field Challenge and Design & Build Challenge)</b> <br>Jonathan Chew Jian Pin (20J10)</td>
+		</tr>
+		<tr>
+			
 		
