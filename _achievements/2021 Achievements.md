@@ -89,4 +89,8 @@ description: ""
 			<td><br><b>第17届 特选中学幼苗论文指导计划  <br>（南华中学主办）</b></td>
 			<td><b>论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》</b><br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br>王廷安（中三I）</td>
 		</tr>
-		
+		<tr>
+			<td><b>Singapore Olympic Foundation-  <br>Peter Lim Scholarship <br>(Encouragement Award)</b></td>
+			<td><br>Chia Cheng En Truman 3H (Wushu)<br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
+		</tr>
+		<tr>
