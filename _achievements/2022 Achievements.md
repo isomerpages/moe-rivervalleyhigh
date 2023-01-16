@@ -248,3 +248,8 @@ description: ""
 		<tr>
 			<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Tan Kah Kee Young Inventors’ Award 2022 Awardees</td>
 			<td><b>Merit Award  <br>Project Title-Food Supporter</b>  <br>NADYA ONG YU XIN<br>MOK JIA XUAN<br>TAN JIA XUAN CHARMAINE  <br><br><b>Commendation Award  <br>Project Title-Bus Handler</b>  <br>HALYN NG HOE KAH<br>DENISE TAN YI LE  <br><br><b>Commendation Award <br>Project Title-Treecraft</b> <br>CHENG YOK YONG<br>PALAKKAL ARJUN SARATH<br>GABRIEL LIM ZHEXI <br><br><b>Commendation Award  <br>Project Title-Animal Taxi</b>  <br>CHEW CHING ERN<br>LEONG QUAN KAI<br>LOW XIN EN ELIORA<br><br><b>Commendation Award  <br>Project Title-PPBP (Ping Pong Ball Picker)</b><br>ALSTON CHOO TIAN JUN<br>SHI YU XIANG  <br><br><b>Encouragement Award  <br>Project Title-UnFlu-box</b> <br>CHAN KEEN TENG CLEMENT  <br><br><b>Encouragement Award  <br>Project Title-Soup Exportation Device</b>  <br>TERRY SOO<br>ZHANG HENGWEI<br>TOH ZHENG YU</td>
+		</tr>
+	</table>
+		</div>
+	</li>
+	</ul>
