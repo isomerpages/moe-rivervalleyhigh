@@ -196,5 +196,25 @@ description: ""
 			<td><b>Outstanding Young Scientist Award</b> <br>Jonathan Chew Jian Pin (20J10) <br> <br><b>Overall 1st Runner Up (Field Challenge and Design & Build Challenge)</b> <br>Jonathan Chew Jian Pin (20J10)</td>
 		</tr>
 		<tr>
-			
+			<td><br><br><br><br><br><br><b>International Elementz<br>Science Fair<br>(organised by Anderson <br>Serangoon Junior College)</b></td>
+			<td><b>3 Gold Awards (1 Individual + 2 Teams)</b><br>Chelsea Chan Li Xin (20J05)<br>Sampson Bong<br>Shung Hoong (20J06)<br>Chua Yong Liang (20J10)<br>Jonathan Chew Jian Pin (20J10)<br>Wang Zixun (20J15)<br><br><b>1 Silver Award (1 Team)</b>  <br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br><b>1 Bronze Award (1 Individual)</b><br>Tricia Boo Koh Wei Ping (20J10)<br><br><b>1 Commendation Award (1 Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
+		</tr>
+				<tr>
+			<td colspan="2"><b>[C] Science & Technology Fairs & Exhibitions</b></td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><b>Singapore Science & Engineering<br>Fair</b></td>
+			<td><b>3 Gold Awards (2 Individuals + 1 Team)</b><br>Lim Sing Wei (20J01)<br>Chelsea Chan Li Xin (20J05)<br>Jonathan Chew Jian Bin (20J10)  <br>Wang Zixun (20J15)<br><br><b>2 Silver Awards (1 Individual + 1 Team)</b><br>Teng Yee Shin (20J15)<br>Gan Chee Joon (21J08)  <br>Yang Jingxiang (21J11)<br><br><b>Merit Award (Team)</b><br>Chin Ling Xing, Lance (20J13)<br>Glenda Chong Rui Ting (20J15)<br><br><b>Merit Award + Singapore University of Technology & Design Research & Innovation Award (Multidisciplinary) (Individual)</b><br>Chua Yao Xuan (20J13) <br><br><b>Yale – National University of Singapore College Special Award (Team)</b><br>Gong Yongjia (21J04)<br>Zhang Yu (21J13)<br>Lim Yi Ting, Erica (21J17)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><b>Tan Kah Kee Young Inventors<br>Award Competition</b></td>
+			<td><b>1st Prize for School Award with Most Number of Shortlisted Quality Entries</b><br>(RVHS has been awarded 16th time)<br><br><b>1 Merit Award</b><br>“Lo-Car” is an invention which solves the problem of drivers who often forget where they park their cars at car parks:<br>Rayner Sim Shi Heng (4A)<br>Damian Liew Cho Xiang (4C)<br>Tan Ke Xin Jolene (4E)<br><br> <b>3 Encouragement Awards</b><br>“Stop Fake News” is a game to teach students how to identify fake news and the importance of doing so:<br>Lee Siang Jun (20J06)<br>Wang Weijie (20J09)<br><br>“History Go Round” is a tool which helps students learn History quickly, effectively and in an enjoyable way:  <br>Zhang Shiqing (21J05)<br>Chen Xinrong (21J10)<br>Hou Xinxiang (21J13)<br><br> “Y-extractor” is a device which tackles the problem of removing pins safely from class notice boards and store them for future use.<br>Ooi Wan Li (2D)<br>Chua Shi Qi (2D)<br>Sim Jia Ying Shanice (2D)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Toy Design Competition</b></td>
+			<td><b>Toy Design Category -Gravity Powered Walking Robot<br><br>1st Prize:</b><br>"Joney-San"<br>Wai Jone Sher(4A)<br><br><b>3rd Prize:</b><br>“Doraemon”<br>Soh Zhi Qian (2F)<br>Tan Zheng Jue (2F)<br><br><b>3 Merit Awards:</b> <br>“Meoww.com”<br>Ng Zhi Xi (3A)<br>Ngieng Xin Hui (3A)<br><br>“Team Simba”<br>Rayner Sim Zhi Heng (4A)<br>Damian Liew Cho Xiang (4C)<br><br>“RVHS 1”<br>Liu Yueyang (4A)<br>Wang Zhongmin (4I)<br><br><b>7 Commendation Awards:</b>   <br>“Bob Birb” Koh En Yu (1A)<br>Tiah Le Faye (1A)   <br><br>“ZC Turtle”  <br>Coline Wong Xuan Yee (1C)  <br>Tan Zee Yan (1H)    <br><br>“Creative Snail”<br>Lai Tong En (1F)<br>Loh Xuan Qi (1I)   <br><br> “Trio of Rays”<br> Siew Wen Qi (2C)<br> Shavonne Toh You Ting (2C)   <br><br> “Arlo the Dino”<br> Tammy Oh Yiling (3H)<br><br>“What The Duck”<br> Nicholas Ng Yi Jie (3I)<br> Elain Gan Guoshuang (3K)<br><br>“Schrodinger's Cat”<br>Guan Xinyue (4E)<br>Chen Litong (4I)<br><br><b>Automata Category – Life During COVID-19 Circuit-Breaker 1st Prize:</b>  <br>“Ordinary”  <br> Alston Choo Tian Jun (3C)  <br> Heidi Chan Ying Hui (3F)    <br><br> <b>2nd Prize:</b>  <br>“Raging Designerz”  <br> Shi Yu Xiang (3C)  <br>Tan Seng Hong, Joshua (3C)    <br><br> <b>Merit Award:</b><br> “Humdrum Circuit”  <br>  Yeo Su Gar (3I)<br> Lin Lejing, Fanny (3I)    <br><br> <b>2 Commendation Awards:</b>  <br> “Team Simba”  <br>  Rayner Sim Zhi Heng (4A)  <br>  Damian Liew Cho Xiang (4C)    <br><br> “A to Z”  <br>  Alfred Ting Wei Hong (4A)  <br>  Zhang Lu (4F)  <br> Lee Qin Yuan (4F)</td>
+		</tr>
 		
+
+
+			
