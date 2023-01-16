@@ -94,4 +94,20 @@ description: ""
 			<td><br><b>优胜奖:</b> 袁海纳 Yuan Haina (1D)<br>苏紫嫣 Kaylee Saw Zi Yan (3E)</td>
 		</tr>
 		<tr>
+			<td>第二十届全国中学生“新蕾奖”<br>华文创作比赛20th National Secondary Schools<br>Chinese Creative Writing<br>Competition - “Xin Lei Awards ”</td>
+			<td><br><b>二等奖（低年级组)</b>  <br>刘芯蕾 Low Xin Lei (2I)</td>
+		</tr>
+		<tr>
+			<td>“新蕾爱拍客” Chinese Creative Writing with<br>Photography 2022 -“Xin Lei Awards ”</td>
+			<td><br><b>第二名（高年级组）</b><br>耿彤 Geng Tong (4B)</td>
+		</tr>
+		<tr>
+			<td>“新空下”全国新谣歌唱及创作比赛<br>"Xin Kong Xia" Xinyao Singing and Songwriting Competition 2022</td>
+			<td><b>独唱组（亚军）</b><br>颜熙愉 Gan Xi Yee (22J08)<br> <b>歌曲填词组（优秀奖）</b><br>林翊珊 Lin Yishan (21J19)<br><b>歌曲填词组（亚军）</b><br>郭静优 Guo JingYou (4B)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br>Deloitte Pesta Sukan Netball Carnival (B Division)</td>
+			<td><b>2nd Runner-Up</b><br>Neo Yu Xuan (3D)<br>Huang Xinrui (3E)<br>Thng Jia Yi Faith (3E)<br>Guan Wei Lin (3G)<br>Tong Wan Ying (3H)<br>Qiang Wenxi Chloe (3J)<br>Jovia Low Xuan Xuan (3J) <br>Rajvi Rajesh Sapre (4C)<br>Chia Shi Yi (4D)<br>Gaw Jing Min (4E)<br>Faith Lee Le Xuan (4H)</td>
+		</tr>
+		
 			
