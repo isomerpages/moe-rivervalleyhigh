@@ -52,3 +52,26 @@ description: ""
 		<tr>
 			<td><br><br><br><br><b>Future Economic Forum Conference</b></td>
 			<td><b>Best Position Paper Outstanding Delegate</b><br>Joey Peh (20J14)<br><br><b>Outstanding Delegate</b><br>Samuel Luther Ang (20J20)<br><br><b>Honourable Mention</b><br>Jeremiah He Shuo (20J16)<br>Tan Liang Rong (20J20)<br><br><b>Verbal Commendation</b><br>Vanessa Tan (20J12)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Global Geopolitics Conference</b></td>
+			<td><b>3rd Prize for Environment Poster:</b>  <br>Lai Xin Ling (21J02)  <br>Zeng Chuwen (21J08)  <br>Tan Wen Rong (21J08)  <br>Ng Kai Wen Karin (21J19)  <br>Chen Zhe  (21J08)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>NUS STEP Environment Camp 2021</b></td>
+			<td><b>3rd Prize for Environment Poster:</b>  <br>Lai Xin Ling (21J02)  <br>Zeng Chuwen (21J08)  <br>Tan Wen Rong (21J08)  <br>Ng Kai Wen Karin (21J19)  <br>Chen Zhe  (21J08)</td>
+		</tr>
+		<tr>
+			<td><bR><b>NUS Geography Challenge</b></td>
+			<td><b>Gold Medal</b><br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E)</td>
+		</tr>
+		<tr>
+			<td><b>Moot Parliament Programme Debate</b></td>
+			<td><b>Outstanding Backbencher</b><br>Cadence Lim (4C)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><b>National Plain English Speaking  <br>Awards</b></td>
+			<td><b>Sec School Category<br>Finalist</b><br>Hong Liying Rie (4C)<br><br><b>JC/Poly/ITE Category<br>Finalist</b><br>Given Tan (21J04)  <br><br><b>2nd Runner-Up</b><br>Clarice Lim Yin Jie (20J05)</td>
+		</tr>
+		<tr>
+			
