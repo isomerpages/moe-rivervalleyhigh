@@ -149,3 +149,16 @@ description: ""
 			</td>
 		</tr>
 	</table>
+		<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
+	</div>
+	</li>
+	<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">Science & Technology Department</label>
+<div>
+	<table>
+		<tr>
+			<td><b>Competition / Event</b></td>
+			<td><b>Level of Achievement</b></td>
+		</tr>
+		
