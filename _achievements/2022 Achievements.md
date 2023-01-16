@@ -174,4 +174,19 @@ description: ""
 			<td><b>团体赛季军</b>  <br>林钰琳 (3B)<br>陈筱柔 (3C)<br>李晨嘉 (3B)<br><br><b>个人赛 优胜奖</b>  <br>蔡恺洋 (4B)  <br>吴佳颖 (4C)</td>
 		</tr>
 		<tr>
-			
+			<td><br><br>第十四届 “怡和轩华文书籍奖”</td>
+			<td><b>优秀奖</b><br>张卉昕 (22J16)<br><br> <b>表扬奖</b><br>颜熙愉 (22J08)<br>唐筱彤 (22J14)</td>
+		</tr>
+		<tr>
+			<td><br><br>Singapore Futures Youth Competition 2022</td>
+			<td>Ting Ze Zhi, Isaac (22J08) – Member of Inter-JC team that won <b>1st place</b>. The team’s focal concern was Food Security.<br><br>Chia Hui Qin (21J14) – Member of Inter-JC team that won <b>2nd place</b>. The team’s focal concern was Economic Development.</td>
+		</tr>
+		<tr>
+			<td>Young Defence Scientists Programme Scholarship</td>
+			<td>Celeste Chua Lin Gi (3I)  <br>Ching Yuhui, Natalie (3I)</td>
+		</tr>
+		<tr>
+			<td><br>Defence Science & Technology Agency Junior College Scholarship</td>
+			<td>Lee Jing Peng (22J17)<br>Han Zhi Heng, Shawn (22J17)<br>Ng Qi Heng (22J18)<br>Gan Tze Qi Christy (22J18)</td>
+		</tr>
+		
