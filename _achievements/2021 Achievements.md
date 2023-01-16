@@ -261,4 +261,7 @@ description: ""
 			<td><b>2 Bronze Medals (Individual)</b><br>Wang Weijie (20J09)<br>Wu Zhenshuo (20J15)<br><br><b>3 Honourable Mention Awards (Individual)</b><br>Goh Ee Chern (20J07)<br>Jonathan Chew Jian Pin (20J10)<br>Teng Yee Shin (20J15)</td>
 		</tr>
 		<tr>
+			<td><br><br><br><br><br><br><b>Singapore Junior Physics Olympiad</b></td>
+			<td><b>General Round<br>3 Bronze Medals</b><br>Liu Yueyang (4A)<br>Li Zhennan (4C)<br>Wong Rocky (4C)<br><br><b>3 Honourable Mention Awards</b><br>Khow Willard (3A)<br>Lim Yong Xuan, Brendan (3D)<br>Wang Kaicen (4D)<br><br><b>Special Round<br>2 Bronze Medals:</b><br>Khow Willard (3A)<br>Wang Kaicen (4D)</td>
+		</tr>
 		
