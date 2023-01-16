@@ -338,9 +338,9 @@ description: ""
 		</tr>
 	</table>
 				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
-		</div>
+	</div>
 	</li>
-		<li>
+	<li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">Performing Arts</label>
 <div>
@@ -401,8 +401,8 @@ description: ""
 			</td>
 		</tr>
 	</table>
-					<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
-			</div>
+			<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
+	</div>
 	</li>
 	<li>
 <input type="checkbox" id="accordion5">
