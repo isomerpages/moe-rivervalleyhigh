@@ -297,4 +297,7 @@ description: ""
 			<td><b>1 Top  Gold Award</b> <br>Yang Jingxiang (21J11)<br><br><b>3 Bronze I Awards</b>  <br>Low Voon Bin Robin (20J07)  <br>Lee Chong Rui (20J08)  <br>Ho Wan Sing (20J12)  <br><br><b>6 Bronze II Awards</b>  <br>Kuo Ruey Shiuan (21J08)  <br>Daniel Guan Jiaxiang (21J10)  <br>Liang Shuang (21J18)  <br>Liew Song Ying (20J08)  <br>Wang Yuchen (20J12)  <br>Yang Yujun (20J15)<br><br><b>9 Commendation Awards</b>  <br>Lin Jianping (21J01)  <br>Soh Jun Peng Jayron (21J01)  <br>Chai Hao Yuan (21J08)  <br>Ryan Ang Zhi Xiang (21J08)  <br>Joyden Choo Le Ian (21J10)  <br>Daryl Nah (21J11)  <br>Wang Jingtao (21J11)  <br>Tang Yuheng (21J17)  <br>So Jun Ming Randall (21J18)</td>
 		</tr>
 		<tr>
-			
+			<td><br><br><b>Singapore University of Technology & Design: 3D Printing & Design Innovation Challenge 2020</b></td>
+			<td><b>Local School Student Category<br>(Theme: Educational Tools)<br>Top Prize ($5000)</b><br>Da Ruolin (20J06)<br>Yang Yujun (20J15)<br><br><b>Runner Up ($2500)</b><br>Cheng Jiajun (19J07)</td>
+		</tr>
+		
