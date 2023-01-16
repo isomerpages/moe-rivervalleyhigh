@@ -184,7 +184,7 @@ description: ""
 			<td><b>Centre For Strategic<br>Infocomm Technologies<br>(CSIT) Computing Scholarship</b></td>
 			<td><b>2 JC1 students won the CSIT Computing Scholarship, a new award which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry. The scholarship includes an annual allowance of $1,000, tenable for two years as well as a course certification and learning programme allowance of $1,000</b><br>Zhou Zehao (21J15)<br>Joshua Chin Wei Jie (21J15)</td>
 		</tr>
-				<tr>
+		<tr>
 			<td colspan="2"><b>[B] International Programmes</b></td>
 		</tr>
 		<tr>
@@ -199,7 +199,7 @@ description: ""
 			<td><br><br><br><br><br><br><b>International Elementz<br>Science Fair<br>(organised by Anderson <br>Serangoon Junior College)</b></td>
 			<td><b>3 Gold Awards (1 Individual + 2 Teams)</b><br>Chelsea Chan Li Xin (20J05)<br>Sampson Bong<br>Shung Hoong (20J06)<br>Chua Yong Liang (20J10)<br>Jonathan Chew Jian Pin (20J10)<br>Wang Zixun (20J15)<br><br><b>1 Silver Award (1 Team)</b>  <br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br><b>1 Bronze Award (1 Individual)</b><br>Tricia Boo Koh Wei Ping (20J10)<br><br><b>1 Commendation Award (1 Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
 		</tr>
-				<tr>
+		<tr>
 			<td colspan="2"><b>[C] Science & Technology Fairs & Exhibitions</b></td>
 		</tr>
 		<tr>
@@ -229,3 +229,6 @@ description: ""
 		<tr>
 			<td><br><b>Biomedical Engineering  <br>Society Scientific Meeting</b></td>
 			<td><b>Research Presentation: Junior College / Polytechnic Category<br>Gold Award (Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<Br>Chan Kai Sing, Natalie (21J08)</td>
+		 <tr>
+			<td colspan="2"><b>[C] Science & Technology Fairs & Exhibitions</b></td>
+		</tr>
