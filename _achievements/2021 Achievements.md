@@ -214,7 +214,18 @@ description: ""
 			<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Toy Design Competition</b></td>
 			<td><b>Toy Design Category -Gravity Powered Walking Robot<br><br>1st Prize:</b><br>"Joney-San"<br>Wai Jone Sher(4A)<br><br><b>3rd Prize:</b><br>“Doraemon”<br>Soh Zhi Qian (2F)<br>Tan Zheng Jue (2F)<br><br><b>3 Merit Awards:</b> <br>“Meoww.com”<br>Ng Zhi Xi (3A)<br>Ngieng Xin Hui (3A)<br><br>“Team Simba”<br>Rayner Sim Zhi Heng (4A)<br>Damian Liew Cho Xiang (4C)<br><br>“RVHS 1”<br>Liu Yueyang (4A)<br>Wang Zhongmin (4I)<br><br><b>7 Commendation Awards:</b>   <br>“Bob Birb” Koh En Yu (1A)<br>Tiah Le Faye (1A)   <br><br>“ZC Turtle”  <br>Coline Wong Xuan Yee (1C)  <br>Tan Zee Yan (1H)    <br><br>“Creative Snail”<br>Lai Tong En (1F)<br>Loh Xuan Qi (1I)   <br><br> “Trio of Rays”<br> Siew Wen Qi (2C)<br> Shavonne Toh You Ting (2C)   <br><br> “Arlo the Dino”<br> Tammy Oh Yiling (3H)<br><br>“What The Duck”<br> Nicholas Ng Yi Jie (3I)<br> Elain Gan Guoshuang (3K)<br><br>“Schrodinger's Cat”<br>Guan Xinyue (4E)<br>Chen Litong (4I)<br><br><b>Automata Category – Life During COVID-19 Circuit-Breaker 1st Prize:</b>  <br>“Ordinary”  <br> Alston Choo Tian Jun (3C)  <br> Heidi Chan Ying Hui (3F)    <br><br> <b>2nd Prize:</b>  <br>“Raging Designerz”  <br> Shi Yu Xiang (3C)  <br>Tan Seng Hong, Joshua (3C)    <br><br> <b>Merit Award:</b><br> “Humdrum Circuit”  <br>  Yeo Su Gar (3I)<br> Lin Lejing, Fanny (3I)    <br><br> <b>2 Commendation Awards:</b>  <br> “Team Simba”  <br>  Rayner Sim Zhi Heng (4A)  <br>  Damian Liew Cho Xiang (4C)    <br><br> “A to Z”  <br>  Alfred Ting Wei Hong (4A)  <br>  Zhang Lu (4F)  <br> Lee Qin Yuan (4F)</td>
 		</tr>
-		
-
-
-			
+		<tr>
+			<td><b>MOE Gifted Education Branch  <br>Youth Science Conference</b></td>
+			<td><b>Science Mentorship Programme:<br>1 team selected for Student Keynote Presentation</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><b>East Zone – Agency for <br>Science, Technology &  <br>Research Science Fair</b></td>
+			<td><b>Upper Secondary (Open) Category<br>Gold Award (Team) & selected for Student Keynote Presentation</b><br>Gong Yongjia (21J04)<br>Zhang Yu (21J13)<br>Lim Yi Ting, Erica (21J17)<br><br><b>Silver Award (Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)<br><br><b>Merit Award (Team)</b><br>Goh Ziyu (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><b>NTU Nanyang Research Programme</b></td>
+			<td><b>8 Gold Awards (7 individuals & 1 team):</b><br>Toh Zheng Wei (20J09)<br>Yam Sing Er Angela (20J11)<br>Chua Yao Xuan (20J13)<br>Celeste Chua (20J15)<br>Teng Yee Shin (20J15)<br>Lin Sihui (20J17)<br>Raeanne Lim Zhi En (20J20)<br>Tong Siyuan (20J13)<br>Wong Zhixian, Keith (20J13)<br><br><b>5 Silver Awards (3 individuals & 2 teams):</b><br>Chua Tse Hui (20J02)<br>Chelsea Chan Li Xin (20J05)<br>Yu Jingrong (20J08)<br>Chin Ling Xing, Lance (20J13)<br>Glenda Chong Rui Ting (20J15)<br>Wan Mingyu (20J15)<br>Yong Kai Qing (20J17)<br><br><b>Nanyang Research Programme Junior Category<br>2 Gold Awards (Team):</b><br>Gan Chee Joon (21J08)<br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)</td>
+		</tr>
+		<tr>
+			<td><br><b>Biomedical Engineering  <br>Society Scientific Meeting</b></td>
+			<td><b>Research Presentation: Junior College / Polytechnic Category<br>Gold Award (Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<Br>Chan Kai Sing, Natalie (21J08)</td>
