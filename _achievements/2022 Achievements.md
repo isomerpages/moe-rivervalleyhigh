@@ -157,5 +157,21 @@ description: ""
 			<td><br><br><br><br>International Mathematical Modelling Challenge (Singapore)</td>
 			<td><b>Distinction</b><br>Oh Wei Quan 22J10<br>Chen Zhe Rui 22J12<br>Damian Liew Cho Xiang 22J15<br>Wong Rocky 22J18<br><br><b>Merit</b><br>James Tan Dejun 22J10<br>Liu Yueyang 22J10<br>Han Zhi Heng, Shawn 22J17<br>Chen Qingyuan 4C</td>
 		</tr>
-		
-		
+		<tr>
+			<td><br><br>2022 年青少年双语模拟联合国</td>
+			<td><b>最佳新闻公报奖（记者团)</b>  <br>罗梓迅 (4C)<br><br><b>杰出代表（世界卫生组织)</b><br>张甜悦 (3C)</td>
+		</tr>
+		<tr>
+			<td><br><br> 2022年华中中国通识论坛</td>
+			<td><b>第三名</b><br>王俊衡 (22J08)<br>颜慈涵 (22J08)  <br>许锦峰 (22J08)<br>王宵玥 (22J14)<br>毛佳宁 (22J16)</td>
+		</tr>
+		<tr>
+			<td> <br>第22届全国书法大赛</td>
+			<td><b>鼓励奖</b><br>邵越寒 (22J05)<br>张霁航 (22J14)</td>
+		</tr>
+		<tr>
+			<td><br><br><br>第十五届全国中学翻译比赛</td>
+			<td><b>团体赛季军</b>  <br>林钰琳 (3B)<br>陈筱柔 (3C)<br>李晨嘉 (3B)<br><br><b>个人赛 优胜奖</b>  <br>蔡恺洋 (4B)  <br>吴佳颖 (4C)</td>
+		</tr>
+		<tr>
+			
