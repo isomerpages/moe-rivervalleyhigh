@@ -93,4 +93,59 @@ description: ""
 			<td><b>Singapore Olympic Foundation-  <br>Peter Lim Scholarship <br>(Encouragement Award)</b></td>
 			<td><br>Chia Cheng En Truman 3H (Wushu)<br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
 		</tr>
-		<tr>
+				<tr>
+			<td colspan="2">
+				<b>Singapore Youth Festival Arts Presentation:</b>
+				<table>
+					<tr>
+						<td width="50%">Concert Band (Secondary) </td>
+						<td>Distinction </td>
+					</tr>
+					<tr>
+						<td>Concert Band (Junior College) </td>
+						<td> Distinction</td>
+					</tr>
+					<tr>
+						<td> Chinese Dance (Secondary) </td>
+						<td>Distinction </td>
+					</tr>
+					<tr> 
+						<td> Chinese Dance (JC Teams A and B) </td>
+						<td> Distinction </td>
+					</tr>
+					<tr>
+						<td> Chinese Orchestra (Mixed Ensemble) </td>
+						<td> Distinction </td>
+					</tr>
+					<tr> 
+						<td> Chinese Orchestra (Tan Bo Ensemble) </td>
+						<td> Distinction</td>
+					</tr>
+					<tr>
+						<td> Chinese Orchestra (Teams A and B) </td>
+						<td> Distinction </td>
+					</tr>
+					<tr>
+						<td> CLDDS (Secondary) </td>
+						<td> Distinction</td>
+					</tr>
+					<tr> 
+						<td> ELDDS (Secondary) </td>
+						<td> Accomplishment </td>
+					</tr>
+					<tr> 
+						<td> Guitar Ensemble (Junior College) </td>
+						<td> Accomplishment </td>
+					</tr>
+					<tr> 
+						<td> International Dance (Secondary) </td>
+						<td> Accomplishment </td>
+					</tr>
+					<tr>
+						<td>Choir (Secondary and Junior College) </td>
+						<td> All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
