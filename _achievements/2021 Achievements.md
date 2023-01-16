@@ -264,4 +264,23 @@ description: ""
 			<td><br><br><br><br><br><br><b>Singapore Junior Physics Olympiad</b></td>
 			<td><b>General Round<br>3 Bronze Medals</b><br>Liu Yueyang (4A)<br>Li Zhennan (4C)<br>Wong Rocky (4C)<br><br><b>3 Honourable Mention Awards</b><br>Khow Willard (3A)<br>Lim Yong Xuan, Brendan (3D)<br>Wang Kaicen (4D)<br><br><b>Special Round<br>2 Bronze Medals:</b><br>Khow Willard (3A)<br>Wang Kaicen (4D)</td>
 		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><b>Singapore Young  <br>Physicists’ Tournament</b></td>
+			<td><b>Category A: Junior College<br>Bronze Award (Team)</b><br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br><b>Merit Award (Poster Presentation Segment; Team)</b><br>Li Yutong (21J11)<br>Tricia Boo Koh Wei Ping (20J10)<br>Yang Yujun (20J15)<br><br><b>Category B: Secondary School<br>Commendation Award (Team)</b><br>Liu Yueyang (4A)<br>Rayner Sim Zhi Heng (4A)<br>Wong Rocky (4C)<br><br><b>Merit Award (Poster Presentation Segment; Team)</b><br>Ng Qi Heng (4A)<br>Oh Wei Quan (4A)<br>Han Zhi Heng, Shawn (4A)</td>
+		</tr>
+		<tr>
+			<td><br><b>Singapore National  <br>Olympiad in Informatics</b></td>
+			<td><b>4 Silver Medals</b><br>James Tan Dejun (4A)<br>Lee Jing Peng (4I)<br>Tan Swee Kang (4I)<br>Gu Yingqi (20J13)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Anglo-ChineseJunior College International  Biomedical Quiz</b></td>
+			<td><b>Category 1: Secondary 3 & 4 (Individual)<br>6 Gold Medals</b><br>Goh Ziyu (4A)<br>Eunsun Jung (4A)<br>Tan Beng Yang (4A)<br>Dyann Saw Xinmei (4A)<br>Vera Ng Jing Wen (4E)<br>Huang Changwen (4F)<br><br> <b>6 Silver Medals</b><br>Ong Min Yi (4A)<br>Loo Guan Kit (4A)<br>Heidi Koh Wee (4A)<br>Ng Shi Min Jess (4A)<br>Soh Wei Kean, Adrina (4A)<br>Charis Wong Jing Wen (4A)<br><br><b>2 Bronze Medals</b><br>Clarence Koh Eng Lok (4A)<br>Crystal Tan Shyuan Ling (4A)<br><br> <b>2 Honourable Mention Awards</b><br>Clarissa Chua (4A)<br>Zhou Yihan Alexander (4A)<br><br> <b>2 Merit Awards</b><br>Ong Kyle Rei (4A)<br>Gan Xi Yee (4C)<br><br> <b>Category 2: Junior College 1 & 2 (Individual)<br>9 Gold Medals</b><br>Chong Xin Ru, Gillian (21J06)<br>Phua Jun Hao (21J08)<br>Zhang Yu (21J13)<br>Tang Yuheng (21J17)<br>Lim Sing Wei (20J01)<br>Tan Yu Hng Caleb (20J03)<br>Lim Rui Ying (20J04)<br>Clarice Lim Yin Jie (20J05)<br>Chester Chiah Chin Wei (20J05) <br><br><b>5 Silver Medals</b><br>Alicia Poo Kaijun (21J02)<br>Manfred Tan Lisheng (21J04)<br>Belle Tey Jing Yi (21J05)<br>Zixuan Yeo (21J06)<br>Toh Xin Yun (20J04) <br><br><b>3 Bronze Medals</b><br>Lim Yi Ting, Erica (21J17)<br>Tan Jia Yi (20J02)<br>Tan Qian Qian Charmaine (20J05)<br><br><b>1 Honourable Mention Award</b><br>Gong Yongjia (21J04)<br><br><b>2 Merit Awards</b><br>Ksena Ho Su Xian (20J03)<br>Chan Shu Zhen, Venus (21J04)<br><br><b>Category 2: Junior College 1 & 2 (Team Round)<br>1st Prize</b><br>Lim Sing Wei (20J01)<br>Tan Yu Hng Caleb (20J03)<br>Lim Rui Ying (20J04)<br>Toh Xin Yun (20J04)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><b>NTU Lee Kong Chian School of Medicine Anatomy Challenge</b></td>
+			<td><b>Individual Challenge<br>2 Certificates of Distinction</b><br>Mendell Yap Haw Chuen (20J01)<br>Rowena Kwan Lee Ying (20J03)<br><br><b>1 Certificate of Merit</b>  <br>Vayishnavi Sivaikugan (20J05)      <br><br><b>Team Challenge<br>3rd Place</b><br>Cheang Ke Qing (20J01)<br>Mendell Yap Haw Chuen (20J01)<br>Rowena Kwan Lee Ying (20J03)<br>Wang Z-Ying (20J04)<br>Goh Yong En (20J05)</td>
+		</tr>
+		<tr>
+			<td><b>Genetic Modification Advisory Committee Students Challenge</b></td>
+			<td><b>2nd Prize</b><br>Tan Beng Yang (4A)<br>Ng Shi Min Jess (4A)<br>Ho Jiecong, Benedict (4A)<br>Crystal Tan Shyuan Ling (4A)</td>
 		
