@@ -230,5 +230,16 @@ description: ""
 			<td><br><b>Biomedical Engineering  <br>Society Scientific Meeting</b></td>
 			<td><b>Research Presentation: Junior College / Polytechnic Category<br>Gold Award (Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<Br>Chan Kai Sing, Natalie (21J08)</td>
 		 <tr>
-			<td colspan="2"><b>[C] Science & Technology Fairs & Exhibitions</b></td>
+			<td colspan="2"><b>[D] Olympiads & Other Competitions</b></td>
 		</tr>
+		<tr>
+			<td><br><b>National Science Challenge</b></td>
+			<td><b>2nd Runner Up</b><br>Wai Jone Sher (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Han Zhi Heng, Shawn (4A)</td>
+		</tr>
+		<tr>
+			<td><b>MOE Gifted Education Branch – Singapore University of Technology & Design Problem X Challenge</b></td>
+			<td><b>1st Runner Up</b><br>Loo Guan Kit (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Charis Wong Jing Wen (4A)</td>
+		</tr>
+		<tr>
+			<td><br><b>Singapore Biology Olympiad</b></td>
+			<td><b>3 Bronze Medals (Individual)</b><br>Lim Sing Wei (20J01)<br>Chloe Ong Zhi Ying (20J03)<br>Chester Chiah Chin Wei (20J05)</td>
