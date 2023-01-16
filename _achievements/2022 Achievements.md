@@ -189,4 +189,14 @@ description: ""
 			<td><br>Defence Science & Technology Agency Junior College Scholarship</td>
 			<td>Lee Jing Peng (22J17)<br>Han Zhi Heng, Shawn (22J17)<br>Ng Qi Heng (22J18)<br>Gan Tze Qi Christy (22J18)</td>
 		</tr>
-		
+		<tr>
+			<td><br><br><br><br><br>International Elementz Science Fair  <br>(organised by Anderson Serangoon Junior College)</td>
+			<td><b>2 Gold Awards (1 Individual & 1 Team)</b><br>Yang Jingxiang (21J11)<br>Tan Beng Yang (22J02)<br>Goh Ziyu (22J10)<br>Ng Qi Heng (22J18)<br><br><b>1 Silver Award (1 Team)</b><br>Gong Yongjia (21J04)<br>Dai Zongxin (21J06)<br>Lim Yi Ting, Erica (21J17)<br><br> <b>2 Bronze Awards (1 Individual & 1 Team)</b><br>Samuel Then Shi Jie (21J11)<br> Hiuk Yuh Wen (21J03)<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br>Singapore Science & Engineering Fair</td>
+			<td><b>1 Silver Award (Team)</b><br>Ang Yi<br>Qing Denise (22J04)<br>Goh Jun Yu (22J08)<br>Liu Yueyang (22J10)<br><br><b>2 Bronze Awards (2 Teams)</b><br>Yang Jingxiang (21J11)<br>Gong Yongjia (21J04)<br>Dai Zongxin (21J06)<br>Lim Yi Ting, Erica (21J17)<br><br> <b>1 Merit Award (Team)</b><br>Christie Chong Wei Ling (21J04)<br>Angeline Wong Li Ning (21J08)<br><br><b>Singapore Association for the Advancement of Science Poster Award for Science Communication (Team)</b><br>Hiuk Yuh Wen (21J03)<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)</td>
+		</tr>
+		<tr>
+			<td>Singapore National Crystal Growing Challenge</td>
+			<td>**Junior Level**<br>**2nd Runner-Up (Team)**<br>Tai Jing Han (1A)<br>Dylan Alaric Yeo Chee Seong (1A)<br><br> **Open Level**<br>**Most Creative e-Presentation Award (Team)**<br>Cheng Jia Xi (3D)<br>Charissa Yue Xue Ning (3D)</td>
