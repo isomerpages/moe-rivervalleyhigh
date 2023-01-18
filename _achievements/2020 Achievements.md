@@ -5,5 +5,3 @@ description: ""
 ---
 ## 2020 Achievements
 
-#### Scholarships & Academic Awards
-
