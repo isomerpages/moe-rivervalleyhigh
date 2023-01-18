@@ -48,4 +48,46 @@ description: ""
 			<td><br><br><br><br><br><br><b>International Elementz Science Fair (Anderson - Serangoon Junior College)</b></td>
 			<td><b>2 Gold Awards (1 Individual+ 1 Team)</b><br>Ng Si Min (19J08)   <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br><br><b>Silver Award (1 Team)</b><br>Vicky How Wei Jie (19J03)  <br>Teo Xin Ping Joan (19J06)   <br><br><b>2 Bronze Awards (1 Individual + 1 Team)</b><br>Lim Jia Qing (19J11)   <br>Abelona Chew (19J01)   <br>Yap Xiao Qin Clarice (19J01)</td>
 		</tr>
+		<tr>
+			<td><br><br><br><br><b>International Mathematical Modelling Challenge (Singapore)</b></td>
+			<td><b>Distinction Award</b><br>Yu Jingrong (20j08)  <br>Chua Yao Xuan (20j13)   <br>Glenda Chong Rui Ting (20j15)   <br>Teng Yee Shin (20j15)   <br><br> <b>Merit Award</b><br>Lew Ee Zher Alston (19j07)  <br>Ryan Tan Zi Lin (20j03)   <br>Kevin Karuna William (20j04)   <br>Chin Ling Xing, Lance (20j13)</td>
+		</tr>
+		<tr>
+			<td><b>MOE Overseas Student Attachment Programme: Centre for Excellence in Education Summer Programme - Research Science Institute</b></td>
+			<td><br>Lim Sing Wei(20J01) is one of the six JC1 students shortlisted by MOE to participate in a six-week overseas research attachment programme at the Massachusetts Institute of Technology(Boston, United States of America)(21 June to 1 Aug 2020)</td>
+		</tr>
+	</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline" alt="arrow-up"> Back to Top</a></p>
+		</div>
+	</li>
+	<li>
+<input type="checkbox" id="accordion3">
+<label for="accordion3">Science & Technology Fairs & Exhibitions</label>
+<div>
+	<table>
+		<tr>
+			<td><b>Singapore Science & Engineering Fair (SSEF)</b></td>
+			<td><b>3 Golds  <br>2 Silvers  <br>2 Merits  <br>2 Special Awards</b></td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><b>Agency for Science, Technology & Research Talent Search (ATS)</b></td>
+			<td><b>2nd Prize(Student Category: $3000)</b><br>Jonathan Chiew Jian Pin (20J10) <br><br><b>2nd Prize (School Category:$3000)</b><br>River Valley High School  <br><br>ATS is an extension of the SSEF to honour students who have done exceptionally performed well in scientific research. Jonathan was interviewed and selected by a professional panel consisting of Physics Nobel Laureatte, Professor Konstantin Novoselov, Associate Professor Lim Tit Meng (Chief Executive, Science Centre) and other eminent scientists from academia and industries on 2 Sep 2020.</td>
+		</tr>
+		<tr>
+			<td><b>WSPC-ICAAS Most Outstanding Junior College Science Student Award</b></td>
+			<td>Ng Si Min (19J08) was among the top 15 JC Science candidates shortlisted by MOE for Most Outstanding JC Science Student Award jointly organised by World Scientific Publishing Company and The Imperial College Alumni Association of Singapore.</td>
+		</tr>
+		<tr>
+			<td><b>Nanyang Research Programme</b></td>
+			<td>Low Yu Hong’s (19J11) research paper has been accepted for publication in the International Journal of Gaming and Computer-Mediated Simulations in 2021.</td>
+		</tr>
+		<tr>
+			<td><b>MOE Gifted Education Branch Youth Science Conference</b></td>
+			<td><b>Science Mentorship programme: <br>1 team was selected for the Student Keynote Presentation</b><br>Chan Shu Zhen, Venus (21J04)  <br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
+		</tr>
+		<tr>
+			<td><b>National Science Challenge</b></td>
+			<td><b>Our RV team emerged 3rd in this national televised competition</b></td>
+		</tr>
 		
+	
