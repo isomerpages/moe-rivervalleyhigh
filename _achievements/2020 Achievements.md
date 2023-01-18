@@ -121,4 +121,43 @@ description: ""
 			<td><b>Young Defence Scientists Programme Science & Technology Camp Competition (Dec)</b></td>
 			<td><b>1st Runner Up (Team)</b><br>Soh Yuyan(20J01)  <br>Ge Shuqing (20J13)  <br>Teng Yee Shin (20J15)  <br>Chew Ching Hian (19J07)  <br>Dana Ong Zi Yi (19J07)</td>
 		</tr>
-		
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Singapore Science & Engineering Fair</b></td>
+			<td><b>Gold Award<br>+ Special Award by Singapore Association for the Advancement of Science   <br>+ Singapore University of Technology & Design Research & Innovation Award (Cities Category) (Team)</b> <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel (20J17)  <br><br>This team was chosen by MOE to represent Singapore in the International Division of the Hong Kong Student Science Project Competition, also known as the Global Youth Science and Technology Bowl which will be held online on 1 Aug 2020.  <br><br><b>Silver Award<br>+ Special Award by Yale - National University of Singapore College (Team)</b><br>Lim Kai Qi (20J01)   <br>Mendell Yap Haw Chuen (20J01)   <br>Chelsea Chan Li Xin (20J05)   <br><br><b>2 Silver Awards (Individual)</b><br>Lim Jia Qing (19J11)  <br>Kevin Khoo Weixue (19J13)    <br><br><b>Merit Award   <br>+ Special Award by Institution of Chemical Engineers, Singapore   <br>+ Special Award by the Electrochemical Society, Singapore Chapter (Team)</b><br>Goh Yee Xin (20J01)   <br>Niu Jingwen (20J03)   <br>Justin Chew Yaojie (20J03)   <br><br> <b>Merit Award<br>+ Special Award by Singapore University of Technology & Design Research & Innovation Award (Aviation Category) (Team)</b>   <br>Ng Simin (19J08)   <br><br><b>Merit Award (Individual)</b><br>Loke Mei Qi Jessica (19J04)   <br><br><b>2 Special Awards by Yale - National University of Singapore College (Team)</b><br>Lim Jia Han Jarred (20J01)   <br>Tng Yan Ning Jamie (20J02)  <br>Tay Kai Xuan Charlene (20J02)   <br>Ho Qingyi, Dorothea (20J03)   <br>Rowena Kwan Lee Ying (20J03)  <br>Tee Jia Yu (20J04)</td>
+		</tr>
+	</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline" alt="arrow-up"> Back to Top</a></p>
+		</div>
+	</li>
+	<li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">Olympiads & Other Competitions</label>
+<div>
+	<table>
+		<tr>
+			<td><br><br><b>Singapore Physics Olympiad</b></td>
+			<td><b>5 Honourable Mention Awards</b><br>Xu Yi (19J08)  <br>Ong Rie Ian (19J08)  <br>Lim Eun Chan (19J08)  <br>Zhang Yingxue (19J13)  <br>Theodore Lim (19J15)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Singapore Chemistry Olympiad</b></td>
+			<td><b>2 Bronze Medals</b><br>Chua Tse Hui (20J02)  <br>Kevin Karuna William (20J04)  <br><br><b>1 Merit Award</b><br>Yip En Chun Jonathan (20J10)</td>
+		</tr>
+		<tr>
+			<td><b>Singapore Biology Olympiad</b></td>
+			<td><b>Merit Award</b> <br>Deng Jia Xuan (19J03)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Singapore National Olympiad in Informatics</b></td>
+			<td><b>4 Silver Medals</b><br>James Tan Dejun (4A)  <br>Lee Jing Peng (4I)  <br>Tan Swee Kang (4I)  <br>Gu Yingqi (20J13)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><b>Future Economic Forum Conference</b></td>
+			<td><b>Best Position Paper Outstanding Delegate</b><br>Joey Peh (20J14)  <br><br><b>Outstanding Delegate</b><br>Samuel Luther Ang (20J20)  <br><br><b>Honourable Mention</b><br>Jeremiah He Shuo (20J16)  <br>Tan Liang Rong (20J20)  <br><br><b>Verbal Commendation</b><br>Vanessa Tan (20J12)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><b>Green Wave Environmental Care Competition</b></td>
+			<td><b>Secondary School Category  <br>Merit Award (Team)($1000)</b>  <br>Chian Xin Tong (20J06)  <br>Song Jia Hui (20J07)  <br>Lai Yee Wei (20J10)  <br>Ng Rui Kyi (20J12)  <br><br><b>Commendation Award & Team Collaborative Award (Team) ($500 + $500)</b>  <br>Lim Ruo Yi (20J03)  <br>Ow Le Yi Nikki (20J04)  <br>Chan Jia Wei (20J07)  <br>Brian Choong (20J19)</td>
+		</tr>
+		<tr>
+			
+	
