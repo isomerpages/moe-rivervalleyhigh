@@ -175,4 +175,9 @@ description: ""
 			<td><b>1st Runner Up (Team)</b><br>Chua Yong Liang (20J10)  <br>Tricia Boo Koh Wei Ping(20J10)  <br>Wang Zixun (20J15)  <br><br><b>2nd Runner Up (Team)</b><br>Charis Wong Jing Wen (3A)  <br>Wong Rocky (3C)  <br>Ng Jean Tzi Edric (3F)</td>
 		</tr>
 		<tr>
-			
+			<td><br><br><b>NUS Geography Challenge 2020</b></td>
+			<td><b>Gold Medal</b><br>Lim Cheng Jun Justin (4f)   <br>Silver Medal Jacqueline Tan Tong Xuan (4f)   <br>Yin Jia Qing (4g)   <br>ZhangYu (4k)</td>
+		</tr>
+		<tr>
+			<td><b>Outstanding Youth in Education Award (OYEA)</b></td>
+			<td>The OYEA is a national award that recognises and honours the achievements of young educators who have a passion and commitment to teaching, inspiring and nurturing their students.  <br><br>HOD/History Mr Shane Koh was one of the six recipients of the OYEA in 2020. As a teacher, he adopts innovative pedagogies such as role-play and historical simulations to create engaging and memorable learning experiences for his students. Heading the school’s History and Current Affairs Society (HACAS), Mr Koh expanded the club’s programmes over the years to include weekly academic discussions, film screenings, a guest speaker series, a student publication - ‘The Historian’, and an array of competitions that enhance students’ interest in this field. For HACAS’ flagship programme, the RV Model United Nations (RVMUN), Mr Koh empowers his students to plan and organise it for close to 400 students from different schools across Singapore, and RVMUN is a highly anticipated event for youths in junior colleges across Singapore every year. Given Mr Koh’s enthusiasm, passion and active involvement in the shaping and development of students’ interest in History, this award is an affirmation of his excellent work. To find out more about Mr Koh’s contributions to the History programme, you may visit this website: <br>[https://academyofsingaporeteachers.moe.edu.sg/shane-koh.pdf](/files/story-oyea-2020_shane-koh.pdf)</td>
