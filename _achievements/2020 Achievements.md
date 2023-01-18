@@ -36,4 +36,9 @@ description: ""
 			<td><br><br><b>Singapore International Science Challenge</b></td>
 			<td><b>Outstanding Young Scientist Award</b><br>Jonathan Chew Jian Pin (20J10)<br><br><b>Overall 1st Runner-Up (Field Challenge and Design & Build Challenge)</b><br>Jonathan Chew Jian Pin (20J10)</td>
 		</tr>
-		
+		<tr>
+			<td><br><br><br><br><br><br><b>Shanghai International Youth Science & Technology Expo (Online) 2020</b></td>
+			<td><b>3 Excellent Display Awards (Team)</b><br>Lee Kang Tian(4B)  <br>Wong  Kang Lim (4C)  <br>Lee Jing Peng (4I)  <br><br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)  <br><br>Jonathan Chew Jian Pin (20J10)  <br>Chua Yong Liang (20J10)<br><br><b>Most Popular Sci-Tech Innovation Work Award(Team)</b><br>Clarice Lim Yin Jie (20J05)  <br>Tong Siyuan (20J13)</td>
+		</tr>
+		<tr>
+			
