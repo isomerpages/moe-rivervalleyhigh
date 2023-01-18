@@ -5,8 +5,6 @@ description: ""
 ---
 ## 2022 Achievements
 
-#### 2022 Overall Achievements
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
