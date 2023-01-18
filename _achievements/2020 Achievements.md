@@ -159,5 +159,20 @@ description: ""
 			<td><b>Secondary School Category  <br>Merit Award (Team)($1000)</b>  <br>Chian Xin Tong (20J06)  <br>Song Jia Hui (20J07)  <br>Lai Yee Wei (20J10)  <br>Ng Rui Kyi (20J12)  <br><br><b>Commendation Award & Team Collaborative Award (Team) ($500 + $500)</b>  <br>Lim Ruo Yi (20J03)  <br>Ow Le Yi Nikki (20J04)  <br>Chan Jia Wei (20J07)  <br>Brian Choong (20J19)</td>
 		</tr>
 		<tr>
+			<td><br><b>MOE-Singapore University of Technology & Design Problem X Challenge</b></td>
+			<td><b>1st Prize (Team)</b><br>Daryl Nah (4A)  <br>Tang Yuheng (4A)  <br>Joshua Chin Wei Jie (4A)  <br>Samuel Then Shi Jie (4A)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Genetic Modification Advisory Committee Students Challenge</b></td>
+			<td><b>3rd Prize (Team)</b><br>Gong Yongjia(4B)  <br>Lim Yi Ting, Erica (4B)  <br>Chong Xin Ru, Gillian (4D)  <br>Cheryl Chin Kai Xin (4K)  <br>Zhang Yu (4K)</td>
+		</tr>
+		<tr>
+			<td><br><b>Engineering Innovation Challenge</b></td>
+			<td><b>1st Prize (Team) (Category 1: Secondary Schools)</b><br>Lim Jun Han (4D)  <br>Cadden Chua Chung Han (4E)  <br>Kwek Wen Qi, Shannen (4F)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>NUS Department of Electrical & Computer Engineering mBot Workshop & Race</b></td>
+			<td><b>1st Runner Up (Team)</b><br>Chua Yong Liang (20J10)  <br>Tricia Boo Koh Wei Ping(20J10)  <br>Wang Zixun (20J15)  <br><br><b>2nd Runner Up (Team)</b><br>Charis Wong Jing Wen (3A)  <br>Wong Rocky (3C)  <br>Ng Jean Tzi Edric (3F)</td>
+		</tr>
+		<tr>
 			
-	
