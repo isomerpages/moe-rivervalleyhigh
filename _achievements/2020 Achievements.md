@@ -201,3 +201,13 @@ description: ""
 		<tr>
 			<td><br><b>NUS Geography Challenge</b></td>
 			<td><b>Gold Medal</b><br>Tan Beng Yang (4A)  <br>Soh Wei Kean, Adrina (4A)  <br>Huang Changwen (4E)  <br>Su Zhixuan (4E)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>First Lego League</b></td>
+			<td><b>Champion's Award for secondary: 1st runner-up</b><br>Yang Zuoquan (4I)   <br>Wong Rocky (3C)   <br>Lin Xinying (2D)  <br>Ng Jean Tzi, Edric (3F)  <br>Hong Wenqi(2F)</td>
+		</tr>
+	</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline" alt="arrow-up"> Back to Top</a></p>
+		</div>
+	</li>
+	</ul>
