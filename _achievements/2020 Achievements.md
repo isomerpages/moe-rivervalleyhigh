@@ -41,4 +41,11 @@ description: ""
 			<td><b>3 Excellent Display Awards (Team)</b><br>Lee Kang Tian(4B)  <br>Wong  Kang Lim (4C)  <br>Lee Jing Peng (4I)  <br><br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)  <br><br>Jonathan Chew Jian Pin (20J10)  <br>Chua Yong Liang (20J10)<br><br><b>Most Popular Sci-Tech Innovation Work Award(Team)</b><br>Clarice Lim Yin Jie (20J05)  <br>Tong Siyuan (20J13)</td>
 		</tr>
 		<tr>
-			
+			<td><br><b>Hong Kong Student Science Project Competition and Global Youth Science & Technology Bowl</b></td>
+			<td><b>2nd Prize(Physics & Engineering Category)</b><br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel(20J17)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><b>International Elementz Science Fair (Anderson - Serangoon Junior College)</b></td>
+			<td><b>2 Gold Awards (1 Individual+ 1 Team)</b><br>Ng Si Min (19J08)   <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br><br><b>Silver Award (1 Team)</b><br>Vicky How Wei Jie (19J03)  <br>Teo Xin Ping Joan (19J06)   <br><br><b>2 Bronze Awards (1 Individual + 1 Team)</b><br>Lim Jia Qing (19J11)   <br>Abelona Chew (19J01)   <br>Yap Xiao Qin Clarice (19J01)</td>
+		</tr>
+		
