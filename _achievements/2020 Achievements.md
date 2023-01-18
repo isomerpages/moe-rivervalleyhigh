@@ -29,5 +29,11 @@ description: ""
 	</li>
 	<li>
 <input type="checkbox" id="accordion2">
-<label for="accordion2">title</label>
+<label for="accordion2">International Programmes</label>
 <div>
+	<table>
+		<tr>
+			<td><br><br><b>Singapore International Science Challenge</b></td>
+			<td><b>Outstanding Young Scientist Award</b><br>Jonathan Chew Jian Pin (20J10)<br><br><b>Overall 1st Runner-Up (Field Challenge and Design & Build Challenge)</b><br>Jonathan Chew Jian Pin (20J10)</td>
+		</tr>
+		
