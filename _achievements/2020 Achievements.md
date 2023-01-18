@@ -110,5 +110,15 @@ description: ""
 			<td><b>Category 1: Secondary 3 & 4  <br>6 Gold Medals:</b><br>Hou Xinxiang (4A)  <br>Tang Yuheng (4A)  <br>Hiuk Yuh Wen (4B)  <br>Phua Jun Hao (4D)  <br>Chong Xin Ru Gillian (4D)  <br>Zhang Yu (4K)  <br><br><b>4 Silver Medals:</b><br>Samuel Then Shi Jie (4A)  <br>Gong Yongjia (4B)  <br>Lim Jun Han (4D)  <br>Zixuan Yeo (4K)  <br><br><b>2 Bronze Medals:</b> <br>Lee Jun Wei Travis (4A)  <br>Joshua Chin Wei Jie (4A)  <br><br><b>6 Honourable Mention Awards:</b><br>Daryl Nah(4A)  <br>Chai Hao Yuan (4A)  <br>Audrey Koo Yu Xuan (4A)  <br>Chan Shu Zhen Venus (4A)  <br>Lim Yi Ting Erica (4B)<br>Allegra Tan (4D)<br><br><b>5 Merit Awards:</b><br>Belle Tey Jing Yi(4A)  <br>Alicia Poo Kaijun (4A)  <br>Kenneth Ng Wei Heng (4A)  <br>Manfred Tan Lisheng (4D)  <br>Annabelle Chua Sin Yu (4D)<br><br><b>Category 2: Junior College 1 & 2</b><br><b>2 Gold Medals:</b><br>Mendell Yap Haw Chuen (20J01)  <br>Iris Chan Jiaxu (20J05)  <br><br><b>6 Silver Medals:</b><br>Lim Sing Wei (20J01)  <br>Kevin Karuna William (20J04)  <br>Abelona Chew (19J01)  <br>Chan Xin Hui(19J03)  <br>Deng Jia Xuan (19J03)  <br>Lim Si Yun Rachel (19J03)  <br><br><b>2 Bronze Medals:</b>  <br>Seah Zun Hwee(20J01)  <br>Teo Xin Ping Joan(19J06)  <br><br><b>3 Honourable Mention Awards:</b><br>Niu Jingwen (20J03)   <br>Xu Chunxi Erik (19J01)  <br>Ang Shu Ee Joan (19J02)  <br><br><b>2 Merit Awards:</b><br>Tee Chu Jie (20J02)   <br>Chua Tse Hui (20J02)  <br><br><b>Category 2: Junior College 1 & 2 Stage Round:   1st Runner Up (Team)</b>  <br>Lim Sing Wei (20J01)     <br>Mendell Yap Haw Chuen (20J01)  <br>Kevin Karuna William (20J04)<br>Iris Chan Jiaxu (20J05)</td>
 		</tr>
 		<tr>
-			<td><b>Science Chronicles</b></td>
-			
+			<td><br><br><b>Science Chronicles</b></td>
+			<td><b>3rd Prize</b><br>Yu Jialu (20J05)  <br><br><b>Merit Award</b> <br>Zhang Kailun (19J10)</td>
+		</tr>
+		<tr>
+			<td><b>Young Defence Scientists Programme Science & Technology Camp Competition (June)</b></td>
+			<td><b>2nd Runner Up (Team)</b><br>Ng Qi Heng (3A)   <br>Wai Jone Sher (3A)   <br>Gan Tze Qi Christy (3A)   <br>Han Zhi Heng, Shawn (3A)</td>
+		</tr>
+		<tr>
+			<td><b>Young Defence Scientists Programme Science & Technology Camp Competition (Dec)</b></td>
+			<td><b>1st Runner Up (Team)</b><br>Soh Yuyan(20J01)  <br>Ge Shuqing (20J13)  <br>Teng Yee Shin (20J15)  <br>Chew Ching Hian (19J07)  <br>Dana Ong Zi Yi (19J07)</td>
+		</tr>
+		
