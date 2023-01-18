@@ -5,8 +5,6 @@ description: ""
 ---
 ## 2021 Achievements
 
-#### 2021 Overall Achievements
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1"> <label for="accordion1">2021 Overall Achievements</label>
