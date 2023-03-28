@@ -10,6 +10,12 @@ sections:
       title: River Valley High School
       background: /images/66ffbc851_442.jpg
   - infopic:
+      title: RVHS Open House (Apr)
+      subtitle: 29 Apr 2023 (Sat)
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: 2022 GCE A-Level Results
       description: Congratulations to the class of 2022 for achieving stellar results
         at the GCE A-Level examinations! We are proud of all of you and wish you
@@ -34,10 +40,4 @@ sections:
       title: Announcements
       button: Click here to view All
       url: /announcements/
-  - infopic:
-      title: RVHS Open House (Apr)
-      subtitle: 29 Apr 2023 (Sat)
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
