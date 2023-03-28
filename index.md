@@ -34,4 +34,10 @@ sections:
       title: Announcements
       button: Click here to view All
       url: /announcements/
+  - infopic:
+      title: RVHS Open House (Apr)
+      subtitle: 29 Apr 2023 (Sat)
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
