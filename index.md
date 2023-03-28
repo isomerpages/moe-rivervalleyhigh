@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: RVHS Open House (Apr)
       subtitle: 29 Apr 2023 (Sat)
-      button: Read more about RVHS
+      button: READ MORE
       alt: 2023 RVHS Open House (Apr)
       image: /images/2023-RVHS-OpenHouse-MOTD-Apr.png
       url: https://rivervalleyhigh.moe.edu.sg/e-open-house/home
