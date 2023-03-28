@@ -9,6 +9,8 @@ sections:
   - hero:
       title: River Valley High School
       background: /images/66ffbc851_442.jpg
+      subtitle: A world-class institution that develops leaders of distinction for
+        Singapore.
   - infopic:
       title: RVHS Open House (Apr)
       subtitle: 29 Apr 2023 (Sat)
