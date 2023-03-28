@@ -16,7 +16,7 @@ sections:
         the very best.
       button: Read more
       url: /achievements/2022alvl/
-      image: /images/49f6177b3_4426.jpg
+      image: /images/Top Scorers 2022.jpg
       alt: Image alt text
   - infopic:
       title: Racial Harmony Day Celebration
