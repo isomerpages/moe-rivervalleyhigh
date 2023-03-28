@@ -2,10 +2,10 @@ collections:
   about-rv:
     output: true
     order:
-      - Educational Institution/.keep
-      - Educational Institution/A World Class Educational Institution.md
-      - Educational Institution/Academic Departments.md
-      - Educational Institution/Non Academic Departments.md
+      - School Overview/.keep
+      - School Overview/A World Class Educational Institution.md
+      - School Overview/Academic Departments.md
+      - School Overview/Non Academic Departments.md
       - Vision, Mission, Motto.md
       - School Values and Spirit.md
       - Principal’s Message.md
