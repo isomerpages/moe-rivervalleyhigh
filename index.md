@@ -12,9 +12,9 @@ sections:
   - infopic:
       title: RVHS Open House (Apr)
       subtitle: 29 Apr 2023 (Sat)
-      description: Infopic description
       button: Button Text
-      alt: Image alt text
+      alt: 2023 RVHS Open House (Apr)
+      image: /images/2023-RVHS-OpenHouse-MOTD-Apr.png
   - infopic:
       title: 2022 GCE A-Level Results
       description: Congratulations to the class of 2022 for achieving stellar results
