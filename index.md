@@ -10,12 +10,12 @@ sections:
       title: River Valley High School
       background: /images/66ffbc851_442.jpg
   - infopic:
-      title: 2021 GCE A-Level Results
-      description: Congratulations to the class of 2021 for achieving stellar results
+      title: 2022 GCE A-Level Results
+      description: Congratulations to the class of 2022 for achieving stellar results
         at the GCE A-Level examinations! We are proud of all of you and wish you
         the very best.
       button: Read more
-      url: /achievements/2021alvl/
+      url: /achievements/2022alvl/
       image: /images/49f6177b3_4426.jpg
       alt: Image alt text
   - infopic:
