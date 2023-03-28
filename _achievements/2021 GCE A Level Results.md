@@ -3,97 +3,124 @@ title: 2021 GCE A Level Results
 permalink: /achievements/2021alvl/
 description: ""
 ---
-## 2021 GCE A-Level Results
+## 2022 GCE A-Level Results
 
-<img src="/images/Group 2.jpg" style="width:85%"><br>
+Congratulations to the Class of 2022!
+-------------------------------------
 
-<img src="/images/Group 1.jpg" style="width:85%">
+  
 
-We are proud of our 436 students who sat for the 2021 GCE A-Level Examination! We would like to congratulate them for continuing to exemplify our school’s values and spirit. They have achieved stellar results at the 2021 GCE A-Level examinations. In summary,
+![Top Scorers 2022.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Top%20Scorers%202022.jpg)
 
-*   97.7% of the cohort scored at least 3 H2 passes including a pass in General Paper. 
-*   66 students achieved at least 6 distinctions, with more than 1 in 3 (35%) students achieving at least three H2 distinctions.
-*   38 students scored a perfect University Admissions Scores (UAS) of 90 rank points. More than 2 in 5 students scored at least 85 rank points.
+  
+
+We are proud of our 424 students who sat for the 2022 GCE A-Level Examination for their outstanding performance, not just academically but also exemplifying our school’s values and spirit. 64 students achieved at least 6 distinctions, and about 1 in 3 students achieved at least three H2 distinctions. 35 students scored a full University Admissions Scores (UAS) of 90 rank points and around 3 in 5 students scored more than 80 rank points.
 
 The school would like to thank and acknowledge everyone who has contributed to the success of our graduates. They include our School Leaders, staff who have taught or assisted the students, School Advisory Committee, Alumni, Parent-Teacher Association, and parents/guardians of all RVHS graduates.
 
-We would like to highlight the achievements of the following 2021 graduates who made a positive impact on the school community and beyond.
+We celebrate the holistic development and achievements of our students. The following seven students are amongst many who have made a positive impact on the school community and beyond.
 
-##### D H Nethma Dewmini
+Tay Yu Xun
+----------
 
-<img src="/images/DH Nethma Dewmini.jpg" style="width:30%" align=left>
+![Tay Yu Xuan.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Tay%20Yu%20Xuan.jpg)_An empathetic volunteer who dedicated 999 hours of her time to serve the community_
 
-_A dedicated and empathetic volunteer in the community_<br>
-290 VIA hours<br>
-VIA Leader (2020-2021) <br>
-- Spearheaded the planning and organisation of various class  <br>
- \- Initiated ground-up VIA projects, including Project Beyond in 2021, in collaboration with Boon Lay Youth Network (BLYN).<br><br>
-Chairperson of Project Beyond committee under Boon Lay CC<br><br>
-Regularly visited and provided emotional support to the elderly through Heartware Network's Support Our Pioneers programme in 2021<br>
-Active volunteer at the non-profit organisation Youth Listener, where she provided a listening ear virtually to youths from all around the world. <br clear=left>
+*   Volunteered at various community events
+*   Initiated “Reading Together” sessions for kindergarten and lower primary school students, conducted virtual tours
+*   Member of the Youth Corps Singapore Sustainability Cluster’s Taskforce
 
-##### Lee Yan Qing
+*   Led volunteers in a beach clean-up
+*   Trained volunteer leaders
 
-<img src="/images/Lee Yan Qing.jpg" style="width:30%" align=left>
+*   Managed social media outreach campaigns on ocean acidification
+*   President of Mathematics Leaders Academy, spearheaded myMLA Committees initiative for members to plan workshops and dialogue sessions
+*   BSP Scholar, Bicultural Leaders Academy member
 
-_A leader in every sense of the word_<br>
-President’s Guide Award 2019 <br>Company Leader for Girl Guides 2019 <br>  Young Adult Leader for Girl Guides 2020<br><br>President of History and Current Affairs Society 2021  <br>Vice-Chairperson of Y.LEAD Seminar 2020  <br>Vice-President of Photography Club <br clear=left>
+Ee En Xi Clarissa
+-----------------
 
-##### Jarell Liaw Jun Yi
+![Ee En Xi Clarissa.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Ee%20En%20Xi%20Clarissa.jpg)_A highly resilient individual who is undeterred by a chronic illness_
 
-<img src="/images/Jarell Liaw.jpg" style="width:30%" align=left>
+*   Personal achievements:
 
-_A resilient sportsman who doesn't tai-chi his way out of adversities_<br>Wushu Captain 2020-2021<br>Broke his leg just before 2019 NSG, but he came back strongly to compete again in 2021<br>NSG A Division Wushu Championships 2021<br>- 1st International 42-style Taijiquan \- 4th<br>- 1st International 42-style Taiji Sword - 4th<br>Overall Team 4th<br>Won 3 gold medals at NSG Wushu Championships 2017 and 2018 <br clear=left>
+*   Attained a black belt for taekwondo
+*   Completed her Grade 8 piano 
 
-##### Goh Jing Xuan
+*   Ultimate Frisbee member
+*   Strong passion for Biology, participated in the Nanyang Research Programme & Singapore Junior Biology Olympiad
+*   Volunteered at Bukit Batok Youth Network (vaccination drive for senior residents, online Halloween event)
+*   Volunteered at a pharmacy in Ng Teng Fong Hospital to pack medication for the patients
 
-<img src="/images/Goh Jing Xuan.jpg" style="width:30%" align=left>
+Xu Zhenbang
+-----------
 
-_Brave and determined at home and in school_<br>Challenging circumstances at home<br>Started tutoring primary school students when she was in Sec 3<br>Volunteered bi-weekly with the Movement for the Intellectually Disabled of Singapore<br>Worked as a retail associate for World Wildlife Fund, student care teacher and as an administrator at a tuition center<br>President of Bicultural Leaders Academy (BLA) from 2020 to 2021<br>Vice-President of the Aesthetics Council in 2019 <br clear=left>
+![Xu Zhenbang.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Xu%20Zhenbang.jpg)_Leading from the heart_
 
-##### Mao Ruijie
+*   Vice-President of Collegiate Spirit for the 43rd Junior College Students’ Council
 
-<img src="/images/Mao Ruijie.jpg" style="width:30%" align=left>
+*   Chairperson of JC1 Orientation, ensured that the new J1 students felt a sense of belonging
+*   Head of Facilitation Committee for Y.LEAD
 
-_An exemplary student leader who leads by example_<br>President of CLDDS (Calligraphy Wing)<br>- National Youth Calligraphy Competition<br>Vice President of Students’ Council<br>Media Committee Head of Aesthetics Council<br>- Aesthetics Camp<br>VIA<br>- Taught the elderly calligraphy at Taman Jurong CC<br>- Reading Buddy Programme <br clear=left>
+*   Captain of the school’s badminton team
+*   Volunteered with The New Charis Mission
 
-##### Dawn Chia Ning
+*   Engaged the elderly
+*   Helped some residents to clean up their houses
+*   Delivered goodie bags to the needy
 
-<img src="/images/Dawn Chia Ning.jpg" style="width:30%" align=left>
+Nilay Barsainya
+---------------
 
-_A triple-humanities student who leads from the heart_<br>National Cadet Corps<br>- Assistant Sergeant Major<br>RV Photography Club member<br>VIA<br>- Volunteered at Limbang Meet-the-People sessions<br>- Volunteered for the Boon Lay Kids Read<br>- Dialogue with MPs <br clear=left>
+![Nilay Barsainya.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Nilay%20Barsainya.jpg)
 
-##### Chua Yao Xuan
+_An inventive thinker_
 
-<img src="/images/Chua Yao Xuan.jpg" style="width:30%" align=left>
+*   Passion for Physics, offered H3 Physics
+*   Designed a working infrared proximity sensor for an NUS Electrical and Computer Engineering module in 2021
+*   Won a Bronze at Singapore Physics Olympiad & Singapore Physics League
+*   Gained admission into SUTD Early Engagement and Development programme
+*   EXCO member in Concert Band
 
-_A mathematical (and beautiful) mind!_<br>President of Mathematics Leaders Academy<br>\- International Mathematics Modelling Challenge (Singapore) 2020 & 2021: Distinction<br>\- Singapore Statistics Competition (Sec) 2019: 2nd<br>\- Designing with TI Graphing Calculators Competition 2020: Bronze <br clear=left>
+*   Initiated location-sharing of hundreds of musical scores using shared information drives
 
-Passion for Computer Science<br>
-\- Taught her MLA juniors the basics of Python programming and Mathematical analysis<br>
-\- Proactively sought opportunities offered by external organisations to learn beyond the syllabus<br>
-\- Took part in cybersecurity challenges
+*   Moderator for Y.LEAD Panel Discussion
+*   Tutored a Primary 6 student from a low income family
 
-##### Lim Sing Wei
+Zhou Ying Joycelyn
+------------------
 
-<img src="/images/Lim Sing Wei.jpg" style="width:30%" align=left>
+![Zhou Ying Joycelyn.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Zhou%20Ying%20Joycelyn.jpg)_One with a voracious appetite for learning_
 
-_An academically curious & self-directed learner (and an impressive origamist)_<br>President of Science Leaders Academy<br>
-\- Director of the Junior Science Whiz Challenge and Startathon Junior<br>
-\- Participated in research programmes and competitions<br>Concert Band member<br>\- Due to limitations placed on the number of percussionists, Sing Wei had to play multiple instruments throughout most of the SYF competition piece.
+*   Helped to organise RVMUN, and despite being unfamiliar with organising the Historical Crisis Council, she did her research and reflected on her ideas to improve the council sessions.
+*   Participated in MOE’s History Talent Development Programme
+*   Took part in the EL Department’s General Paper Explorer's Awards 
+*   Participated actively in The Humanities and Social Sciences Leaders Academy
+*   Worked with Yuhua Community Club to initiate a reading programme for children
+*   Mentored underprivileged children at Gek Poh Ville Community Centre every week
 
-VIA<br>
-\- Member of the Limbang Constituency’s ACE Tuition Programme, tutored needy students.<br>
-\- Volunteered at  a children’s science camp, organised in conjunction with NTU CN Yang Scholars’ Club.
+Aurelia Cheng Qin Yun
+---------------------
 
-##### Ng Rui Kyi
+![Aurelia Cheng Qin Yun.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Aurelia%20Cheng%20Qin%20Yun.jpg)_An outstanding athlete_
 
-<img src="/images/Ng Rui Kyi.jpg" style="width:30%" align=left>
+*   Vice Captain of the school’s badminton team achieving A Div 3rd Runner Up at the National School Games
+*   Received the Outstanding Sportsmanship Award and Colours Award from the Singapore Schools Sports Council, EAGLES (Achievement), & Edusave Character Award
+*   Head of Logistics for JC Orientation and Y.LEAD facilitator
+*   Collaborated with Re:Mind Singapore to write an article on mental health issues
+*   Collaborated with Causes for Animals Singapore to create Instagram posts on responsible dog ownership
+*   Joined Greenies @PAssionWaVe to clean up Jurong Lake
 
-_A cheerful and motivated student who runs very fast!_<br>Vice-President of The Eco-Sustainability Leadership Academy<br>\- Volunteered at Waterways Watch Society to clean up the reservoir<br>VIA<br>\- Volunteered at the Chingay Parade in 2020 as part of the Hospitality team. <br>\- Member of the Youth Corps Singapore<bR>Organised KidsFun Online to engage primary school pupils <br clear=left>
+Guan Chen Di
+------------
 
-##### Seow Mei En
+![Guan Chen Di.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Guan%20Chen%20Di.jpg)
 
-<img src="/images/Seow Mei En.jpg" style="width:30%" align=left>
+_A Computer Whiz!_
 
-_An all-rounder humanist who volunteers actively_<br><br>President of the Humanities and Social Sciences Leaders Academy (HSSLA)<br>\- Initiated a first-ever collaboration between HSSLA and TESLA to organise two webinars on Eco-sustainability and the Arts with over 100 participants.<br>\- Represented the school to engage in a discussion with curators from the National Gallery Singapore<br>VIA<br>\- Founded a “Dreamworks Initiative” together with her friends that collaborates with Children’s Wishing Well<br>\- Volunteered for several programmes: Kidsread Programme, recycling project, sports event, Bukit Batok Youth Network, and Movement for the Mentally Disabled of Singapore<br>Executive Committee Member of the Dance Society
+*   President of Infocomm Club, pioneered and started the RV Capture The Flag Club
+*   Created his own artificial intelligence voice command assistant, created a website to consolidate his learning and shared it.
+*   Independently learnt about web scraping, digital forensics, website building, software penetration testing, cyber security and ethical hacking.
+*   Computing@SMU award for all-rounders
+*   Champions of Cyberthon 2022
+*   Partnered with Epworth Community Services to raise awareness for children with learning difficulties
+*   Volunteered for Cyber Youth Summit’s Punggol Digital District’s CTF Competition
