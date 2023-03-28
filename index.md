@@ -15,7 +15,7 @@ sections:
         at the GCE A-Level examinations! We are proud of all of you and wish you
         the very best.
       button: Read more
-      url: /achievements/2022alvl/
+      url: achievements/2022-gce-a-results/
       image: /images/Top Scorers 2022.jpg
       alt: Image alt text
   - infopic:
