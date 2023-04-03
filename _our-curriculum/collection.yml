@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Talent Development/The Humanities and Social Sciences Leaders Academy.md
       - Talent Development/Bicultural Leaders Academy |  双文化学研中心.md
       - Talent Development/Mathematics Leaders Academy.md
       - Talent Development/The Eco Sustainability Leadership Academy.md
