@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Balanced Education/Civic Literacy and Global Awareness Development.md
       - Balanced Education/Cognitive Interest Development.md
       - Balanced Education/.keep
       - Our Curriculum.md
