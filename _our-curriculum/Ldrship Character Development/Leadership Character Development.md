@@ -32,6 +32,12 @@ Students will also undergo participate in a variety of programmes such as learni
 
 #### Values-in-Action (VIA)
 
+![RVHS VIA](/images/via1_2022.jfif)
+
+![RVHS VIA](/images/via2_2022.jfif)
+
+![RVHS VIA](/images/via3_2022.jfif)
+
 The Secondary 4 to JC2 VIA programme is designed to nurture in students their civic identity and purpose by engaging communities in school and beyond. Through class and student-initiated projects, students are given the agency to explore community needs, deliberate and act on meaningful and sustainable ideas that meet the needs. With reflections being an integral part of their VIA journey, students learn while serving – cultivating stronger awareness of societal needs and developing communication, collaboration, problem solving, and engagement skills. We aim to nurture in our young adults the desire and ability to contribute to building an inclusive, enabling society as active, concerned citizens, even after they graduate.
 
 #### RV Signature Programmes
