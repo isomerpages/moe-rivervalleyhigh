@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Talent Development/.keep
       - Signature Programmes/.keep
       - Signature Programmes/SAP Programme.md
       - Signature Programmes/CID Programme.md
