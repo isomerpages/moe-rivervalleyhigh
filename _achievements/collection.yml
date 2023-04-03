@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Honours Day.md
       - 2022 GCE A Level Results.md
       - Scholarship Recipients/.keep
       - Scholarship Recipients/2022 Scholarship Recipients.md
@@ -11,6 +10,7 @@ collections:
       - Scholarship Recipients/2019 Scholarship Recipients.md
       - Scholarship Recipients/2018 Scholarship Recipients.md
       - Outstanding Achievements.md
+      - Honours Day.md
       - 2023 Achievements.md
       - 2022 Achievements.md
       - 2021 Achievements.md
