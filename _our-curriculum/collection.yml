@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Leadership Character Development.md
       - Our Curriculum.md
       - Cognitive Interest Development.md
       - Ldrship Character Development/.keep
