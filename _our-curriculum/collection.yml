@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Signature Programmes/CID Programme.md
-      - Signature Programmes/SAP Programme.md
       - Signature Programmes/.keep
+      - Signature Programmes/SAP Programme.md
+      - Signature Programmes/CID Programme.md
       - Balanced Education/Leadership Character Development.md
       - Balanced Education/Civic Literacy and Global Awareness Development.md
       - Balanced Education/Cognitive Interest Development.md
