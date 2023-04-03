@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Talent Development/Talent Academies.md
       - Talent Development/GEM Framework.md
       - Talent Development/.keep
       - Signature Programmes/.keep
