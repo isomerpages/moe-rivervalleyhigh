@@ -3,26 +3,7 @@ links:
   - title: About RV 关于立化
     collection: about-rv
   - title: Our Curriculum 我们的课程
-    url: /our-curriculum/oc/
-    sublinks:
-      - title: Cognitive Interest
-        url: /our-curriculum/cog-int-devep/
-      - title: Leadership Character
-        url: /our-curriculum/Ldrship-Character-Development/lcd/
-      - title: Civic Literacy Global Awarenes
-        url: /our-curriculum/clgad/
-      - title: SAP Programme
-        url: /our-curriculum/sap/
-      - title: CID Programme
-        url: /our-curriculum/cid/
-      - title: Y.LEAD
-        url: https://ylead2019.wixsite.com/leaders
-      - title: RVMUN
-        url: http://ww4.rvmun.com/
-      - title: GEM Framework
-        url: /our-curriculum/gem/
-      - title: Talent Academies
-        url: /our-curriculum/Talent-Academies/ta/
+    collection: our-curriculum
   - title: Achievements 我们的荣誉
     collection: achievements
   - title: Information 相关信息
