@@ -2,6 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Our Curriculum.md
+      - Balanced Education/.keep
+      - Balanced Education/Leadership Character Development.md
+      - Balanced Education/Civic Literacy and Global Awareness Development.md
+      - Balanced Education/Cognitive Interest Development.md
       - Talent Development/.keep
       - Talent Development/GEM Framework.md
       - Talent Development/Talent Academies.md
@@ -10,16 +15,11 @@ collections:
       - Talent Development/The Humanities and Social Sciences Leaders Academy.md
       - Talent Development/Mathematics Leaders Academy.md
       - Talent Development/Science Leaders Academy.md
+      - Signature Programmes/.keep
       - Signature Programmes/RVMUN.md
       - Signature Programmes/The YLEAD Seminar.md
-      - Signature Programmes/.keep
       - Signature Programmes/SAP Programme.md
       - Signature Programmes/CID Programme.md
-      - Balanced Education/Leadership Character Development.md
-      - Balanced Education/Civic Literacy and Global Awareness Development.md
-      - Balanced Education/Cognitive Interest Development.md
-      - Balanced Education/.keep
-      - Our Curriculum.md
       - Ldrship Character Development/.keep
       - Ldrship Character Development/Co Curricular Activities Curriculum.md
       - Talent Academies/.keep
