@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Secondary Section/Secondary 1 Registration (2023 Intake).md
       - Secondary Section/.keep
       - Whole School/COVID 19 Information.md
       - Whole School/FAQs.md
