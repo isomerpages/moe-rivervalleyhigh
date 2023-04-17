@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Secondary Section/MOE Sexuality Education in Schools (JC).md
       - Secondary Section/Direct School Admission (Junior College).md
       - Secondary Section/Secondary 1 Registration (2023 Intake).md
       - Secondary Section/.keep
