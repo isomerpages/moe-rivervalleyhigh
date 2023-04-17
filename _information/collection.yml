@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Whole School/.keep
       - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
