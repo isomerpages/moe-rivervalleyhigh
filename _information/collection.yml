@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Whole School/.keep
-      - School Prospectus.md
       - School Fees.md
       - Financial Assistance Schemes.md
       - School Books and Uniform.md
