@@ -4,18 +4,22 @@ permalink: /information/ecgsupport/
 description: ""
 third_nav_title: Whole School
 ---
-## Post-A Level ECG Support
+### What is Education & Career Guidance (ECG)?
+------------------------------------------
 
-#### What is my next step forward after my A-Levels?
+1.  To equip you with the necessary attitudes, values, skills & knowledge to explore, plan & manage your educational & career pathways
+2.  To help you nurture self-awareness and self-directedness for lifelong learning
+3.  To help you develop a growth mindset, adaptability and a resilient attitude to embrace future opportunities and appreciate the value of all occupations
 
-Class of 2021, here are two videos that provide you information that will help you with both university and scholarship applications.&nbsp;
+[](https://go.gov.sg/ecgrvhs)
 
-#### Post-A Levels ECG Support
+### RVHS ECG Website
+----------------
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/ZdE3CrLy18U" title="Post A levels ECG Support for Class of 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+The RVHS ECG website has been designed to give students and parents access to information on a variety of subjects such as local and overseas universities admissions, scholarships and internship opportunities. There is also a page that allows students and parents to direct questions to the RV ECG team.
 
-#### 2022 Scholarship Briefing
+The RV ECG Website can be found here: [https://go.gov.sg/ecgrvhs]
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/cFxnC6gF0kE" title="2022 Scholarship Briefing for Class of 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+![](/images/ecg%20website%20screenshot.png)
 
-[further updates to PSLE 2021.pdf](/files/further-updates-to-PSLE-2021.pdf)
+(https://go.gov.sg/ecgrvhs)
