@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Junior College/JAE JC (For O Level Students).md
       - Junior College/2022 JC1 Subject Combination.md
       - Junior College/.keep
       - MOE Sexuality Education in Schools (JC).md
