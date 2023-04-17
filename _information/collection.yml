@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Secondary Section/.keep
       - Whole School/COVID 19 Information.md
       - Whole School/FAQs.md
       - Whole School/RVHS ICT.md
