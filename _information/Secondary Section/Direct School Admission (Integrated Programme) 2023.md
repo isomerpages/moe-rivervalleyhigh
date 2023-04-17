@@ -47,6 +47,14 @@ Successful applicants will join RVHS in January in the year 2024. Students will 
 
 FAQs Click&nbsp;**[here](/information/faqs/)**
 
+#### Application Criteria (for 2022)
+
+1 \.  Applicants must fulfil the following criteria to be shortlisted for school-based selection trial and interview:
+
+*   Competent academic performance&nbsp;for&nbsp;P5 Year-End and P6 results (if available)&nbsp;
+*   Good grade for Chinese Language in P5 Year-End and P6 results (if available)
+*   Relevant supporting information&nbsp;is to be keyed in via the MOE DSA Application Portal
+
 #### Enquiries
 
 *   Contact the General Office at 6567-8115. (Monday to Friday - 8.00am to 5.00pm)
