@@ -22,8 +22,8 @@ We are looking for promising Primary 6 students who demonstrate talent. There ar
 
 | Category 1 | Category 2 | Category 3 | Category 4 |
 | -------- | -------- | -------- | -------- |
-| Badminton     | Chinese Orchestra *exclusions apply, see below     | Robotics     | Scientific Investigation |
-| Basketball (Boys) | Concert Band *exclusions apply, see below | Leadership# |  |
+| Badminton     | Chinese Orchestra <br>*exclusions apply, see below     | Robotics     | Scientific Investigation |
+| Basketball (Boys) | Concert Band <br>*exclusions apply, see below | Leadership# |  |
 | Floorball (Girls)     | Choir   |      |   |
 | Netball    | Dance (Chinese)   |      |   |
 | Softball (Girls)    | Chinese Debate  |      |   |
