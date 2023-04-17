@@ -4,6 +4,6 @@ permalink: /information/2022-jc1-sc/
 description: ""
 third_nav_title: Junior College
 ---
-## 2022 JC1 Subject Combination
+## 2023 JC1 Subject Combination
 
-Please click [here](/files/2022%20JC1%20Subject%20Combinations%20For%20School%20Website%20110122.pdf) to view 2022 JC1 subject combination.
+Please click [here ](/files/2023%20jc1%20subject%20combinations%20for%20school%20website.pdf)to view 2022 JC1 subject combination.
