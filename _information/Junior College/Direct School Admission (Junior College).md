@@ -14,7 +14,7 @@ River Valley High School’s (RVHS) 2-year JC programme is designed to develop l
 
 ##### DSA Talent Areas
 
-We are looking for promising Secondary 4 students who demonstrate talent in the following areas:&nbsp;  
+We are looking for promising Secondary 4 students who demonstrate talent in the following areas for our DSA-JC Exercise in 2023:&nbsp;  
 
 *   Badminton
 *   Basketball (Boys)
@@ -26,17 +26,16 @@ We are looking for promising Secondary 4 students who demonstrate talent in the 
 *   Wushu
 *   Chinese Debate
 *   English Debate
+*   Infocomm Technology (Computing)
 
 Candidates will need to demonstrate a high level of proficiency in their respective talent area.
 
 **Note for all applicants**: Achievements at the national/international level would be an advantage. Applicants will need to provide evidence of achievement/s when submitting the application.
 
-Successful applicants will join RVHS in January in the year 2023. Students will be assessed on both their demonstrated and potential ability to ensure that they benefit from the rigorous curriculum offered at RVHS.
+Successful applicants will join RVHS in January in the year 2024. Students will be assessed on both their demonstrated and potential ability to ensure that they benefit from the rigorous curriculum offered at RVHS.
 
 **Important Information:**<br>
-Applications for DSA are now closed. We will inform applicants of the date and time for talent trial and&nbsp;interview in due course. Thank You.
-
-**Talent Trial &amp; Interview period:**&nbsp;1 July - 30 July 2022&nbsp;**Note that face-to-face selection process is adopted for shortlisted DSA-JC candidates for 2022. There will not be any option for hardcopy submission.**
+Updates on DSA-JC timeline, application process, selection process and selection criteria will be available on 3 May 2023.
 
 #### Enquiries
 
