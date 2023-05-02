@@ -43,10 +43,3 @@ RV Events
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="RVHS Secondary 1 Orientation 2023" src="https://www.youtube.com/embed/jMUZUkbPN9M" height="361" width="642"></iframe>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Y.LEAD 2022 MONTAGE" src="https://www.youtube.com/embed/lQZpPhrJiKI" height="253" width="380"></iframe>
-
-
-
-
-
-
-
