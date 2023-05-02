@@ -199,8 +199,8 @@ third_nav_title: Whole School
 <div>
 	<table>
 		<tbody><tr>
-			<td>Is CCA compulsory in RV?<br><br>Where can I find a list of CCAs offered in RV?</td>
-			<td>CCA is compulsory for all secondary school students.<br><br>Please visit&nbsp;<a href="https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum">https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum</a> <b>SITE NOT AVAILABLE</b>&nbsp;for the full list of CCAs offered to Sec and JC students.</td>
+			<td>Is CCA compulsory in RV?</td>
+			<td>CCA is compulsory for all secondary school students.<br></td>
 		</tr>
 		<tr>
 			<td>How are students selected for the CCAs? Are certain CCAs made up of DSA students only?</td>
