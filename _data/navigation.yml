@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/photo_2022-12-22_18-20-23.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About RV 关于立化
+    collection: about-rv
+  - title: Our Curriculum 我们的课程
+    collection: our-curriculum
+  - title: Achievements 我们的荣誉
+    collection: achievements
+  - title: Information 相关信息
+    collection: information
+  - title: Our Stories 我们的故事
+    collection: our-stories

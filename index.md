@@ -1,32 +1,46 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: River Valley High School
+description: An Isomer site of the Singapore Government
+image: /images/photo_2022-12-22_18-20-23.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: River Valley High School
+      background: /images/66ffbc851_442.jpg
+      subtitle: A world-class institution that develops leaders of distinction for
+        Singapore.
+  - infopic:
+      title: RVHS Open House (Apr)
+      subtitle: 29 Apr 2023 (Sat)
+      button: READ MORE
+      alt: 2023 RVHS Open House (Apr)
+      image: /images/2023-RVHS-OpenHouse-MOTD-Apr.png
+      url: https://rivervalleyhigh.moe.edu.sg/e-open-house/home
+  - infopic:
+      title: 2022 GCE A-Level Results
+      description: Congratulations to the class of 2022 for achieving stellar results
+        at the GCE A-Level examinations! We are proud of all of you and wish you
+        the very best.
+      button: Read more
+      url: achievements/2022-gce-a-results/
+      image: /images/Top Scorers 2022.jpg
+      alt: Image alt text
+  - infopic:
+      title: Racial Harmony Day Celebration
+      image: /images/352f5c538_4425.jpeg
+      alt: Image alt text
+  - infopic:
+      title: The President's Scholarship
+      description: RVHS is very proud of Stefan Liew, who was awarded the President's
+        Scholarship and the SPF Scholarship in 2018.
+      button: Read More
+      url: /achievements/Scholarship-Recipients/2018sr/
+      image: /images/70b52cf2f_4424.jpg
+      alt: Image alt text
+  - infobar:
+      title: Announcements
+      button: Click here to view All
+      url: /announcements/
 ---
-
