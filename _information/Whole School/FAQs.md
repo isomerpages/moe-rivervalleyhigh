@@ -150,8 +150,8 @@ third_nav_title: Whole School
 	</div>
 	</li>
 	<li>
-	<input type="checkbox" id="accordion1">
-<label for="accordion1">DSA Enquiries on Other Talent Areas
+	<input type="checkbox" id="accordion4">
+<label for="accordion4">DSA Enquiries on Other Talent Areas
 <div>
 	<table>
 		<tbody><tr>
@@ -187,8 +187,8 @@ third_nav_title: Whole School
 			<td></td>
 		</tr>
 		<tr>
-			<td>For coding DSA, does my child stand a chance if he knows Scratch?</td>
-			<td>Your child needs to be able to demonstrate his skills and knowledge in the basics of programming.</td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody></table>
 	</div>
