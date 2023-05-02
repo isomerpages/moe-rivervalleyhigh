@@ -151,7 +151,7 @@ third_nav_title: Whole School
 	</li>
 	<li>
 	<input type="checkbox" id="accordion4">
-<label for="accordion4">DSA Enquiries on Other Talent Areas
+<label for="accordion4">DSA Enquiries on Other Talent Areas</label>
 <div>
 	<table>
 		<tbody><tr>
@@ -192,7 +192,7 @@ third_nav_title: Whole School
 		</tr>
 	</tbody></table>
 	</div>
-	</label></li>
+	</li>
 	<li>
 	<input type="checkbox" id="accordion5">
 <label for="accordion5">General enquiries on Co-Curricular Activities</label>
