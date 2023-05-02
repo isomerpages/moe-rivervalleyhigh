@@ -3,15 +3,6 @@ title: The RV Experience
 permalink: /our-stories/rvexperience/
 description: ""
 ---
-Students' Music Productions
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="立化情MV" src="https://www.youtube.com/embed/NEUpPG6rIcc" height="253" width="380"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Class of 2019: 立化忆 MV" src="https://www.youtube.com/embed/snArU95j6Ss" height="253" width="380"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="RV Song Medley Music Video" src="https://www.youtube.com/embed/u7ywYv7G4PA" height="253" width="380"></iframe>
-
-
 CID 4+ Projects featured on 8world.com
 
 https://www.8world.com/so-young/video-creation-street-art-mural-2091231
