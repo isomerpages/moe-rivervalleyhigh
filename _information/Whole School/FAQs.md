@@ -29,8 +29,8 @@ third_nav_title: Whole School
 			<td>You have the option to give additional information regarding the level of competence of your child in the selected talent area in a text box provided on the application form. </td>
 		</tr>
 		<tr>
-			<td>How do we show our achievements when there were no National School Games or SYF last year?</td>
-			<td>MOE will be extracting students' CCA records from their primary school. We are still able to assess the child's interest and potential from the available records. We will also assess the child’s talents during the trials or auditions.</td>
+			<td>How do we show our achievements in National School Games or SYF?</td>
+			<td>MOE will be extracting students' CCA records from their primary school. We will assess the child's interest and potential from the available records. We will also assess the child’s talents during the trials or auditions.</td>
 		</tr>
 		<tr>
 			<td>When will I know if I have been shortlisted for the test / audition / trial / interview?</td>
@@ -42,7 +42,7 @@ third_nav_title: Whole School
 		</tr>
 		<tr>
 			<td>I received more than one DSA offer. When must I decide which to accept?</td>
-			<td>You will have to indicate your preferences in ranked order for up to three schools during the Exercise School Preference Stage.</td>
+			<td>You will have to indicate your preferences in ranked order for up to three schools during the Exercise School Preference Stage from 23 - 27 October 2023.</td>
 		</tr>
 		<tr>
 			<td>What is the minimum AL score needed to be shortlisted for DSA trial / audition?<br><br>Does RV only accept DSA students with AL1 in all subjects?</td>
