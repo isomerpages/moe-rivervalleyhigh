@@ -4,7 +4,7 @@ permalink: /information/faqs/
 description: ""
 third_nav_title: Whole School
 ---
-## FAQs for Prospective Students (2022)
+## FAQs for Prospective Students (2023)
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -18,15 +18,15 @@ third_nav_title: Whole School
 		</tr>
 		<tr>
 			<td>What is the DSA exercise timeline like?</td>
-			<td>It is usually from mid-May to early September. The exact timeline for this year is not available yet. Please check our website for updates after MOE releases its announcement on the DSA Exercise.</td>
+			<td>For DSA 2023 exercise, the online MOE application portal will open from 4 May 11am to 31 May 3pm. For RVHS, the shortlisted applicants will be informed of their talent trial and interview session that will take place from 26 June to 31 August. All applicants will be notified of their application results by end August 2023. </td>
 		</tr>
 		<tr>
 			<td>Can my child apply for more than one category during the DSA exercise?</td>
 			<td>You can apply for up to two talent areas in the same school.</td>
 		</tr>
 		<tr>
-			<td>What documents do I need to submit together with the application form?</td>
-			<td>Please refer to the instructions for the relevant application platform. You may attach relevant documents (eg. certificates of achievement) which illustrate the level of competence in the selected talent area.</td>
+			<td>What information do I need to submit together with the application form?</td>
+			<td>You have the option to give additional information regarding the level of competence of your child in the selected talent area in a text box provided on the application form. </td>
 		</tr>
 		<tr>
 			<td>How do we show our achievements when there were no National School Games or SYF last year?</td>
