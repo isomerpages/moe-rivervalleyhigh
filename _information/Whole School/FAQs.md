@@ -137,8 +137,6 @@ third_nav_title: Whole School
 			<td>Students should display strong aptitude in the talent area they applied for. Trials and interviews will be conducted to assess their suitability in that talent area.<br><br>Yes, you can still apply for DSA.</td>
 		</tr>
 		<tr>
-			<td>How would the sports CCA DSA be carried out for JC DSA? Would there be physical trials or just online interviews?</td>
-			<td>You may refer to our school website in June for more information on DSA-JC exercise.</td>
 		</tr>
 		<tr>
 			<td>How do I prove that my child is a captain of the school team?</td>
@@ -152,41 +150,40 @@ third_nav_title: Whole School
 	</div>
 	</li>
 	<li>
-	<input type="checkbox" id="accordion4">
-<label for="accordion4">DSA Enquiries on Other Talent Areas</label>
+	DSA Enquiries on Other Talent Areas
 <div>
 	<table>
 		<tbody><tr>
-			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board or CCA?</td>
-			<td>Your child’s primary school CCA record should reflect that he/she holds a key position in the school prefectorial board as one of the office bearers (for example, EXCO member). For Girl Guides, she should be conferred the Chief Commissioner's Badge as it is the highest achievement at the primary school level.<br><br>We believe in the leadership potential of all students and there are many opportunities to develop their potential.<br><br>For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
+			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board?</td>
+			<td>Your child’s primary school CCA record should reflect that he/she holds a key position (head prefect, vice-head prefect, or EXCO member) in the school prefectorial board as one of the office bearers. <br><br> For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
 		</tr>
 		<tr>
-			<td>What will be required of the child if she is accepted through DSA leadership or girl guides?</td>
-			<td>Upon entering RV, your child will be in our Student Leadership Development Academy and Students' Council. For Girl Guides, your child will continue her Girl Guides journey with us in RVHS.</td>
+			<td>What will be required of the child if she is accepted through DSA leadership?</td>
+			<td>Upon entering RV, your child will be in our Student Leadership Development Academy and Students' Council. </td>
 		</tr>
 		<tr>
-			<td>What kinds of documents must we provide for DSA coding?</td>
-			<td>Documents that reflect past achievements and competencies are to be submitted during the application phase.</td>
+			<td>What are the selection criteria for robotics?</td>
+			<td>The following are the requirements for DSA robotics applicants: <br> - Ability to quickly build and programme Lego robotics (mainly EV3)<br>- Competition-ready for any Lego competition such as FLL, RoboCup, NRC or WRO etc. <br>- Proficient in Python programming language <br>Shortlisted applicants will be assessed based on their level of Python programming and Lego robot building and programming skills.</td>
 		</tr>
 		<tr>
 			<td>What do you look for in students who apply for DSA Science Investigation?</td>
 			<td>For Scientific Investigation, candidates should have a deep passion in science and innovative problem-solving skills. They should also demonstrate a natural curiosity in Science through their performance in science inquiry tasks.</td>
 		</tr>
 		<tr>
-			<td>What do you look for in students who apply for DSA D&amp;T Innovation?</td>
-			<td>Candidates should be creative when applying their knowledge and skills to the given tasks, and show that they are able to come up with innovative solutions to the problems.</td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>What do you look for in students who apply for DSA Environmental Science?</td>
-			<td>Candidates should be passionate about the environment and have experience in championing environmental causes in their primary schools. Students who have a strong interest in environmental science and would like to serve as advocates for the environment, both inside and outside of the school community, can apply for this category.</td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>If my child is a prefect in primary school, will my child be a prefect in RV?</td>
 			<td>If your child comes into RV through DSA Leadership, your child will be given leadership opportunities to join the Students' Council, and be part of leadership projects and initiatives.</td>
 		</tr>
 		<tr>
-			<td>Will Peer Support Group Leaders in primary schools be considered for DSA Leadership if they receive the EAGLES award?</td>
-			<td>The Edusave Award for Achievement, Good Leadership and Service (EAGLES) Award recognises a student’s leadership ability, and combined with his past leadership experiences and potential, we will take all these into consideration during our shortlisting process.</td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>For coding DSA, does my child stand a chance if he knows Scratch?</td>
