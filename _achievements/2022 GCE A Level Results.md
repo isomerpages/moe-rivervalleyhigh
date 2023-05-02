@@ -23,9 +23,10 @@ We celebrate the holistic development and achievements of our students. The foll
 
 Tay Yu Xun
 ----------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Tay%20Yu%20Xuan.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Tay%20Yu%20Xuan.jpg" align="left" style="width:30%">
 <br clear="left"><br>
-An empathetic volunteer who dedicated 999 hours of her time to serve the community
+
+_An empathetic volunteer who dedicated 999 hours of her time to serve the community_
 
 *   Volunteered at various community events
 *   Initiated “Reading Together” sessions for kindergarten and lower primary school students, conducted virtual tours
@@ -40,9 +41,10 @@ An empathetic volunteer who dedicated 999 hours of her time to serve the communi
 
 Ee En Xi Clarissa
 -----------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Ee%20En%20Xi%20Clarissa.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Ee%20En%20Xi%20Clarissa.jpg" align="left" style="width:30%">
 <br clear="left"><br>
-A highly resilient individual who is undeterred by a chronic illness
+
+_A highly resilient individual who is undeterred by a chronic illness_
 
 *   Personal achievements:
 
@@ -56,9 +58,10 @@ A highly resilient individual who is undeterred by a chronic illness
 
 Xu Zhenbang
 -----------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Xu%20Zhenbang.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Xu%20Zhenbang.jpg" align="left" style="width:30%">
 <br clear="left"><br>
-_Leading from the heart
+
+_Leading from the heart_
 
 *   Vice-President of Collegiate Spirit for the 43rd Junior College Students’ Council
 
@@ -74,7 +77,7 @@ _Leading from the heart
 
 Nilay Barsainya
 ---------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Nilay%20Barsainya.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Nilay%20Barsainya.jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An inventive thinker_
@@ -93,7 +96,7 @@ _An inventive thinker_
 Zhou Ying Joycelyn
 ------------------
 
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Zhou%20Ying%20Joycelyn.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Zhou%20Ying%20Joycelyn.jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _One with a voracious appetite for learning_
@@ -107,7 +110,7 @@ _One with a voracious appetite for learning_
 
 Aurelia Cheng Qin Yun
 ---------------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Aurelia%20Cheng%20Qin%20Yun.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Aurelia%20Cheng%20Qin%20Yun.jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An outstanding athlete_
@@ -121,7 +124,7 @@ _An outstanding athlete_
 
 Guan Chen Di
 ------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Guan%20Chen%20Di.jpg" align="left" style="width:50%">
+<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Guan%20Chen%20Di.jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _A computer whiz!_
