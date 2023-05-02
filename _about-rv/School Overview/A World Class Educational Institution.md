@@ -46,3 +46,5 @@ RVHS’ tradition of providing an excellent education for our students has been 
 *   Education and Career Guidance
 *   Aesthetics
 *   Leadership and Character Development
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="RV Virtual School Tour" src="https://www.youtube.com/embed/WHiTQYj-B0o" height="540" width="960"></iframe>
