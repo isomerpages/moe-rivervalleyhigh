@@ -62,7 +62,7 @@ third_nav_title: Whole School
 		</tr>
 		<tr>
 			<td>Where can I find the list of CCAs for DSA?</td>
-			<td>The new DSA CCA list will be put up after MOE’s release of DSA information.</td>
+			<td>The 2023 DSA CCA list is available on our school website. </td>
 		</tr>
 		<tr>
 			<td>Is there a DSA quota for each CCA or on the whole?</td>
@@ -73,8 +73,8 @@ third_nav_title: Whole School
 			<td><br>No, there is no discernible trend.</td>
 		</tr>
 		<tr>
-			<td><br>If my child gets in through DSA, must my child join the CCA for 6 years? What if his interest changes?</td>
-			<td>Yes, your child must remain in the same CCA so that we can develop his/her full potential over six years.&nbsp;<br><br>If choice of CCA is important, then your child should avoid applying for entry via DSA as there are conditions attached.</td>
+			<td><br>If my child gets in through DSA, how long must my child remain in the CCA? What if his interest changes?</td>
+			<td>Your child must remain in the same CCA so that we can develop his/her full potential over four years from Sec 1 to 4.<br><br>If choice of CCA is important, then your child should avoid applying for entry via DSA as there are conditions attached.</td>
 		</tr>
 		<tr>
 			<td>For students admitted via DSA, do they have more training / practice sessions than the others?</td>
@@ -93,7 +93,7 @@ third_nav_title: Whole School
 <div>
 	<table>
 		<tbody><tr>
-			<td>Would you be lowering your DSA criteria as there is no SYF or any other competitions?</td>
+			<td>What are the selection criteria for talent areas in performing arts?</td>
 			<td>Students should display a strong aptitude in the talent area they applied for. Auditions and interviews will be conducted to assess their suitability in that talent area.</td>
 		</tr>
 		<tr>
