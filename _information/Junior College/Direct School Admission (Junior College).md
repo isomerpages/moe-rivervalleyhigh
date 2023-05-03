@@ -32,10 +32,18 @@ Candidates will need to demonstrate a high level of proficiency in their respect
 
 **Note for all applicants**: Achievements at the national/international level would be an advantage. Applicants will need to provide evidence of achievement/s when submitting the application.
 
+Kindly note the following DSA-JC pre-requisite for Infocomm Technology (Computing): Applicants should be passionate in the IT field and be updated on the latest technology. Applicants also need to show a high level of proficiency and an e-portfolio in any of these domains:
+<br>•  Cybersecurity
+<br>•  Artificial intelligence
+<br>•  Software/Game development
+<br>•  Robotics
+
 Successful applicants will join RVHS in January in the year 2024. Students will be assessed on both their demonstrated and potential ability to ensure that they benefit from the rigorous curriculum offered at RVHS.
 
 **Important Information:**<br>
-Updates on DSA-JC timeline, application process, selection process and selection criteria will be available on 3 May 2023.
+Application for RVHS DSA-JC application starts from 4 May 2023 and will end on 26 June 2023 via the following link https://go.gov.sg/2023rvhsdsajc. 
+
+RVHS will conduct our DSA-JC selection tests and interviews from 26 Jun to 10 Aug 2023. All applicants will be informed of the results of their application by 10 Aug 2023.
 
 #### Enquiries
 

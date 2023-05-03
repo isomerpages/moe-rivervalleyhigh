@@ -6,8 +6,6 @@ third_nav_title: Signature Programmes
 ---
 ## CID Programme
 
-**REQUIRE JACKSON'S INPUT VIDEO**
-
 The Construct, Integrate and Differentiate (CID) Programme is one of the flagship programmes of our Cognitive and Interest Development Curriculum. It seeks to nurture future ready learners and aims to (1) promote active and independent learning, (2) develop cognitive interest and (3) develop cross-curricular competencies.
 
 CID is designed as a four-year programme that provides RV students with opportunities to construct their learning by integrating knowledge from various disciplines and apply their learning to real-life situations.

@@ -4,7 +4,7 @@ permalink: /information/faqs/
 description: ""
 third_nav_title: Whole School
 ---
-## FAQs for Prospective Students (2022)
+## FAQs for Prospective Students (2023)
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -18,19 +18,19 @@ third_nav_title: Whole School
 		</tr>
 		<tr>
 			<td>What is the DSA exercise timeline like?</td>
-			<td>It is usually from mid-May to early September. The exact timeline for this year is not available yet. Please check our website for updates after MOE releases its announcement on the DSA Exercise.</td>
+			<td>For DSA 2023 exercise, the online MOE application portal will open from 4 May 11am to 31 May 3pm. For RVHS, the shortlisted applicants will be informed of their talent trial and interview session that will take place from 26 June to 31 August. All applicants will be notified of their application results by end August 2023. </td>
 		</tr>
 		<tr>
 			<td>Can my child apply for more than one category during the DSA exercise?</td>
 			<td>You can apply for up to two talent areas in the same school.</td>
 		</tr>
 		<tr>
-			<td>What documents do I need to submit together with the application form?</td>
-			<td>Please refer to the instructions for the relevant application platform. You may attach relevant documents (eg. certificates of achievement) which illustrate the level of competence in the selected talent area.</td>
+			<td>What information do I need to submit together with the application form?</td>
+			<td>You have the option to give additional information regarding the level of competence of your child in the selected talent area in a text box provided on the application form. </td>
 		</tr>
 		<tr>
-			<td>How do we show our achievements when there were no National School Games or SYF last year?</td>
-			<td>MOE will be extracting students' CCA records from their primary school. We are still able to assess the child's interest and potential from the available records. We will also assess the child’s talents during the trials or auditions.</td>
+			<td>How do we show our achievements in National School Games or SYF?</td>
+			<td>MOE will be extracting students' CCA records from their primary school. We will assess the child's interest and potential from the available records. We will also assess the child’s talents during the trials or auditions.</td>
 		</tr>
 		<tr>
 			<td>When will I know if I have been shortlisted for the test / audition / trial / interview?</td>
@@ -42,7 +42,7 @@ third_nav_title: Whole School
 		</tr>
 		<tr>
 			<td>I received more than one DSA offer. When must I decide which to accept?</td>
-			<td>You will have to indicate your preferences in ranked order for up to three schools during the Exercise School Preference Stage.</td>
+			<td>You will have to indicate your preferences in ranked order for up to three schools during the Exercise School Preference Stage from 23 - 27 October 2023.</td>
 		</tr>
 		<tr>
 			<td>What is the minimum AL score needed to be shortlisted for DSA trial / audition?<br><br>Does RV only accept DSA students with AL1 in all subjects?</td>
@@ -62,7 +62,7 @@ third_nav_title: Whole School
 		</tr>
 		<tr>
 			<td>Where can I find the list of CCAs for DSA?</td>
-			<td>The new DSA CCA list will be put up after MOE’s release of DSA information.</td>
+			<td>The 2023 DSA CCA list is available on our school website. </td>
 		</tr>
 		<tr>
 			<td>Is there a DSA quota for each CCA or on the whole?</td>
@@ -73,8 +73,8 @@ third_nav_title: Whole School
 			<td><br>No, there is no discernible trend.</td>
 		</tr>
 		<tr>
-			<td><br>If my child gets in through DSA, must my child join the CCA for 6 years? What if his interest changes?</td>
-			<td>Yes, your child must remain in the same CCA so that we can develop his/her full potential over six years.&nbsp;<br><br>If choice of CCA is important, then your child should avoid applying for entry via DSA as there are conditions attached.</td>
+			<td><br>If my child gets in through DSA, how long must my child remain in the CCA? What if his interest changes?</td>
+			<td>Your child must remain in the same CCA so that we can develop his/her full potential over four years from Sec 1 to 4.<br><br>If choice of CCA is important, then your child should avoid applying for entry via DSA as there are conditions attached.</td>
 		</tr>
 		<tr>
 			<td>For students admitted via DSA, do they have more training / practice sessions than the others?</td>
@@ -93,7 +93,7 @@ third_nav_title: Whole School
 <div>
 	<table>
 		<tbody><tr>
-			<td>Would you be lowering your DSA criteria as there is no SYF or any other competitions?</td>
+			<td>What are the selection criteria for talent areas in performing arts?</td>
 			<td>Students should display a strong aptitude in the talent area they applied for. Auditions and interviews will be conducted to assess their suitability in that talent area.</td>
 		</tr>
 		<tr>
@@ -137,8 +137,6 @@ third_nav_title: Whole School
 			<td>Students should display strong aptitude in the talent area they applied for. Trials and interviews will be conducted to assess their suitability in that talent area.<br><br>Yes, you can still apply for DSA.</td>
 		</tr>
 		<tr>
-			<td>How would the sports CCA DSA be carried out for JC DSA? Would there be physical trials or just online interviews?</td>
-			<td>You may refer to our school website in June for more information on DSA-JC exercise.</td>
 		</tr>
 		<tr>
 			<td>How do I prove that my child is a captain of the school team?</td>
@@ -157,40 +155,40 @@ third_nav_title: Whole School
 <div>
 	<table>
 		<tbody><tr>
-			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board or CCA?</td>
-			<td>Your child’s primary school CCA record should reflect that he/she holds a key position in the school prefectorial board as one of the office bearers (for example, EXCO member). For Girl Guides, she should be conferred the Chief Commissioner's Badge as it is the highest achievement at the primary school level.<br><br>We believe in the leadership potential of all students and there are many opportunities to develop their potential.<br><br>For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
+			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board?</td>
+			<td>Your child’s primary school CCA record should reflect that he/she holds a key position (head prefect, vice-head prefect, or EXCO member) in the school prefectorial board as one of the office bearers. <br><br> For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
 		</tr>
 		<tr>
-			<td>What will be required of the child if she is accepted through DSA leadership or girl guides?</td>
-			<td>Upon entering RV, your child will be in our Student Leadership Development Academy and Students' Council. For Girl Guides, your child will continue her Girl Guides journey with us in RVHS.</td>
+			<td>What will be required of the child if she is accepted through DSA leadership?</td>
+			<td>Upon entering RV, your child will be in our Student Leadership Development Academy and Students' Council. </td>
 		</tr>
 		<tr>
-			<td>What kinds of documents must we provide for DSA coding?</td>
-			<td>Documents that reflect past achievements and competencies are to be submitted during the application phase.</td>
+			<td>What are the selection criteria for robotics?</td>
+			<td>The following are the requirements for DSA robotics applicants: <br> - Ability to quickly build and programme Lego robotics (mainly EV3)<br>- Competition-ready for any Lego competition such as FLL, RoboCup, NRC or WRO etc. <br>- Proficient in Python programming language <br>Shortlisted applicants will be assessed based on their level of Python programming and Lego robot building and programming skills.</td>
 		</tr>
 		<tr>
 			<td>What do you look for in students who apply for DSA Science Investigation?</td>
 			<td>For Scientific Investigation, candidates should have a deep passion in science and innovative problem-solving skills. They should also demonstrate a natural curiosity in Science through their performance in science inquiry tasks.</td>
 		</tr>
 		<tr>
-			<td>What do you look for in students who apply for DSA D&amp;T Innovation?</td>
-			<td>Candidates should be creative when applying their knowledge and skills to the given tasks, and show that they are able to come up with innovative solutions to the problems.</td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>What do you look for in students who apply for DSA Environmental Science?</td>
-			<td>Candidates should be passionate about the environment and have experience in championing environmental causes in their primary schools. Students who have a strong interest in environmental science and would like to serve as advocates for the environment, both inside and outside of the school community, can apply for this category.</td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>If my child is a prefect in primary school, will my child be a prefect in RV?</td>
 			<td>If your child comes into RV through DSA Leadership, your child will be given leadership opportunities to join the Students' Council, and be part of leadership projects and initiatives.</td>
 		</tr>
 		<tr>
-			<td>Will Peer Support Group Leaders in primary schools be considered for DSA Leadership if they receive the EAGLES award?</td>
-			<td>The Edusave Award for Achievement, Good Leadership and Service (EAGLES) Award recognises a student’s leadership ability, and combined with his past leadership experiences and potential, we will take all these into consideration during our shortlisting process.</td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>For coding DSA, does my child stand a chance if he knows Scratch?</td>
-			<td>Your child needs to be able to demonstrate his skills and knowledge in the basics of programming.</td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody></table>
 	</div>
@@ -201,8 +199,8 @@ third_nav_title: Whole School
 <div>
 	<table>
 		<tbody><tr>
-			<td>Is CCA compulsory in RV?<br><br>Where can I find a list of CCAs offered in RV?</td>
-			<td>CCA is compulsory for all secondary school students.<br><br>Please visit&nbsp;<a href="https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum">https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/rvip/co-curricular-activities-curriculum</a> <b>SITE NOT AVAILABLE</b>&nbsp;for the full list of CCAs offered to Sec and JC students.</td>
+			<td>Is CCA compulsory in RV?</td>
+			<td>CCA is compulsory for all secondary school students.<br></td>
 		</tr>
 		<tr>
 			<td>How are students selected for the CCAs? Are certain CCAs made up of DSA students only?</td>
