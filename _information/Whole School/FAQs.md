@@ -156,7 +156,7 @@ third_nav_title: Whole School
 	<table>
 		<tbody><tr>
 			<td><br><br><br>How do we apply for DSA leadership?<br><br>Must the child hold a key position in the school prefectorial board?</td>
-			<td>Your child’s primary school CCA record should reflect that he/she holds a key position (head prefect, vice-head prefect, or EXCO member) in the school prefectorial board as one of the office bearers. <br><br> For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
+			<td>Your child’s primary school CCA record should reflect that he/she holds a key position (head prefect, vice-head prefect, or EXCO member) in the school prefectorial board or a key leadership position in a Uniformed Groups CCA. <br><br> For DSA leadership, we are specifically looking for a greater leadership capacity. Being in a key leadership position is a signal that the student has been recognised to have the capacity to be stretched and developed, hence chosen, among their peers whom they work together, to be the representative of the prefectorial board.</td>
 		</tr>
 		<tr>
 			<td>What will be required of the child if she is accepted through DSA leadership?</td>
