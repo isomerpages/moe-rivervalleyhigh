@@ -5,36 +5,52 @@ description: ""
 ---
 ## Principal’s Message
 
-<img src="/images/Mdm Choy Photo New.jpeg" style="width:49%" align=left>
+<img src="/images/Mdm Choy Photo New.jpeg" style="width:49%" align="left">
 
 A very warm welcome to River Valley High School!  
   
-The River Valley High education and experience is an enriching and exciting one. As a Special Assistance Plan (SAP) and Autonomous Status (AS) school that offers a 6-year Integrated Programme, we provide a holistic education that is academically robust, with a strong focus on character development, strengthening resilience and well-being. During their time with us, our students will develop dispositions, skills, values and knowledge that will help them flourish both in school and in the world beyond school.
+We will be celebrating our 67th Anniversary in 2023. This is a very significant milestone as we celebrate our long and illustrious history of providing quality education for our students.  
+  
+As a Special Assistance Plan (SAP) and Autonomous Status (AS) school that offers a 6-year Integrated Programme, we provide a holistic education that is academically robust, with a strong focus on character development, strengthening resilience and well-being. During their time with us, our students will develop dispositions, skills, values and knowledge that will help them flourish both in school and in the world beyond school.  
+  
+We aim to nurture bilingual students with the&nbsp;attributes and sensitivities to stay effective and relevant in a globalised, multi-racial and multi-cultural world. Our bicultural learning environment provides our students with the fluency and skills to understand, appreciate and navigate different cultural contexts, and regional and global perspectives.  
+  
+Our RV Integrated Programme (RV IP) offers a balanced education curriculum that develops all students' interests and talents. It focuses on nurturing our students’ curiosity, passion and joy of learning, engaging them with interesting and intellectually stimulating lessons and learning experiences. At RVHS, we believe that learning must come alive for our students, where they are continually provided with authentic learning experiences. Students acquire and apply critical and innovative thinking through meaningful and purposeful learning projects both within the school as well as in the community. Most notably, our Construct, Integrate, Differentiate (CID) curriculum and Values-in-Action Programme empower our students to be empathetic, innovative and critical thinkers interested in understanding and solving real-world problems.  
+  
+What is the essence of being an RVian, a 立化人? RVians are honorable and upright, humble to learn yet self-confident, rooted in tradition and heritage while constantly seeking to innovate, and proactively pursuing their dreams while staying resilient to challenges. Our RVians embody the 立化 spirit by pursuing excellence in learning, thoughts and deeds, putting in their best effort, and serving others with heart and passion. They actively contribute back to society to build a stronger and better future for themselves and their country.  
+  
+In RV, there is a strong sense of belonging, trust and connectedness, and in this warm and caring community, lifelong friendships are forged. This is demonstrated through how our staff educate and support their students, and peers look out for one another. Many of our alumnus have returned to contribute and serve in their Alma Mater in various capacities.  
+  
+We strongly believe that our students have the capacity and potential for leadership and through our various student development programmes, our students will develop into strong leaders with integrity and honour, compassion and kindness, the heart of service and desire to be positive change-makers.  
+  
+Let us forge ahead as we commemorate RV 67 and build a promising future for our students in the years to come!  
+  
+**Choy Wai Yin (Mdm)  
+  
+**
 
-Our RV Integrated Programme (RV IP) offers a balanced education curriculum that develops every student's interests and talents across the areas of academics, CCA and leadership. It focuses on nurturing our students’ curiosity, passion and joy for learning, engaging them with interesting and intellectually stimulating lessons and learning experiences. At RVHS, we believe that learning must come alive for our students, where they are continually provided with authentic learning experiences. Students apply critical and innovative thinking through meaningful and purposeful learning projects both within the school as well as in the community. Most notably, our Construct, Integrate, Differentiate (CID) curriculum empowers our secondary students to be empathetic, innovative and critical thinkers who are interested in understanding and solving real-world problems.
+\-------
 
-We believe strongly that our students have the capacity and potential for leadership and through our various student development programmes, our students will develop into strong leaders with integrity and honour, compassion and kindness, the heart of service and desire to be positive change-makers. These include the Personal Leadership Programme, Values-in-Action Programme, RV Model United Nation (RVMUN) and Youth. Leverage Educate Actuate Develop (Y.LEAD),our annual leadership seminar. Our bicultural learning environment also provides our students with the fluency and skills to understand, appreciate and navigate the different cultural contexts, and regional and global perspectives.  
   
-Our RVians embody the 立化 spirit by not just doing well, but also doing good by contributing back to society as leaders in their own right. This is the essence of what it means to be an RVian, a 立化人 – one who is humble to learn yet confident in the self, rooted in tradition and heritage while constantly seeking to innovate, and proactively pursuing their dreams while staying resilient to challenges. The nurturing of the 立化人 is made possible by a strong RV culture – one where there is a strong sense of school belonging, trust and connectedness, and where lifelong friendships are forged. This is an RV home of hope and joy made possible by a caring community of dedicated staff, passionate alumni, and supportive parents and partners.
 
-We look forward to celebrating RV 66 and beyond!<br>
-**Choy Wai Yin (Mdm)**
+欢迎来到立化中学！
 
-欢迎来到立化中学！  
-  
-立化是一所历史悠久，富有浓郁华文底蕴的顶尖学府，集“特选”、“六年综合课程”与“自治”三重身份于一体。通过量身定制的课程，为学生提供全人教育。立化精心策划的学习体验，为学生打下坚实基础，让他们能充分发挥才能与潜力。立化一向注重学生德智体的发展，除了巩固学生的学习知识，也通过各项辅助活动培养他们的品格、价值观与技能，让立化学子充满自信地面对未来。  
-  
-立化的综合课程致力于推展心智合一的全人教育，通过我校的“均衡教育课程”让学生在个别领域，如学研中心、课程辅助活动以及领导方面发挥所长，拓展兴趣与潜力。课程也提供实况学习空间，激发学生的好奇心、学习热情，感受学习乐趣，能学以致用。不论是学校或社区活动，学生皆能发挥慎思明辨，创新求异的精神。学生批判性思维能力的体现有赖于我校旗舰课程——“格物致知课程”（CID）。通过“格物致知学习法”，学生掌握良好与正确的学习态度、思维技能和整合构建知识的能力，解决生活问题、探讨世界课题。  
-  
-我们坚信，立化学生具备领导能力和潜力。通过我校的各项学生领袖品格拓展与能力培训课程，如：个人领导能力培训课程、“德育在于行动(VIA)”、立化模拟联合国大会 (RVMUN)、青年领袖研讨会(Y.LEAD)以及常年领袖研讨会等，学生茁壮成长，具备诚信正直、同情心、同理心，并积极成为行动者，为社会为国家谋福利。立化身为一所特选中学，富有浓郁的双文化学习氛围，让学生能欣赏双文化的不同与魅力，驾驭跨文化交流技能，促进对跨文化的理解，在不同文化领域中游刃有余。  
-  
-立化一向秉持着为国家为社会服务的大我精神。立化人谦恭自信，勇于追梦；根植传统但懂得创新求异，虽面对挑战仍坚韧不屈。立化是一个温暖的大家庭，立化学子在六年的学习生涯中建立了深厚的友谊，也已身为立化人为荣。立化人对母校有很强的归属感和荣誉感，时时关心母校发展，体现出浓浓的立化情感。  
-  
-立化的成功归功于敬业的教职员对学生的悉心栽培、校友对母校的关心、家长和合作伙伴的支持。  
-  
-祝愿立化继续“与日月争光兮，与天地共久长”。
+2023年是立化创校67周年，也是立化发展的重要里程碑。身为一所历史悠久、华文底蕴浓郁的学府，本着为学生提供优质的教育理念，立化在教育史上，成就卓越。
 
-**期待立化66!**
+立化不仅具备特选和自治的身份，也开办六年直通车课程，为学生提供全人教育。我们非常强调品格教育、注重锻炼学生的韧性并强化他们的身心健康。在巩固学习知识和技能的同时，也培养他们的性情秉性和价值观，让立化学子能自信地面对未来。
 
-立化中学校长 <br>
-蔡慧燕
+立化旨在培育对世界格局具有洞悉力及敏感性的双语双文化人才，在全球化、多元种族和多元文化的环境中游刃有余，发挥有效作用。在立化双语双文化环境的熏陶下，学生能自信地驾驭跨文化交流技能，鉴赏和理解跨文化语境，以此培养他们的区域和全球视角。
+
+立化的直通车课程致力于推展心智合一的均衡教育，着重拓展学生的兴趣所长，让他们施展才华。通过实况学习空间，激发学生的好奇心和学习热情，享受学习并学以致用。生动有趣的学校和社区活动体验让他们能发挥慎思明辨、创新求异的精神。学生批判性思维能力的体现有赖于我校旗舰课程——“格物致知课程”（CID）。通过“格物致知学习法”，学生掌握良好的学习态度、思维技能和整合构建知识的能力，能解决生活问题并探讨世界课题。
+
+立化学子、立化人的精髓是什么？他们正直磊落、谦恭自信、勇于追梦，根扎传统但懂得创新求异，面对挑战仍坚韧不屈，发扬了立化精神。他们好学不倦，在学习、思想和行为上不断精益求精、尽心尽力服务人群，始终秉持着为国家为社会作出贡献的大我精神。
+
+在立化这个温暖的大家庭里，立化人有着强烈的归属感、信任以及凝聚力，彼此建立深厚友谊。在立化，有师长的关爱与呵护，有同侪间相互的照顾。校友们时刻关心母校发展，总是以不同方式对母校作出贡献。
+
+我们深信立化学子具有领导能力和潜力。在立化各项领袖培育计划下，他们将茁长成有尊严诚信、善良有爱心，愿意奉献的积极变革者。
+
+让我们在欢庆立化67的同时，携手前进，继续为立化学子共创美好的未来！
+
+立化中学校长
+
+**蔡慧燕**
