@@ -5,15 +5,13 @@ description: ""
 ---
 CID 4+ Projects featured on 8world.com
 
-https://www.8world.com/so-young/video-creation-street-art-mural-2091231
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="英式海南餐馆" src="https://www.youtube.com/embed/eU9fDBaYbyY" height="253" width="380"></iframe>
 
-https://www.8world.com/so-young/video-creation-british-hainan-2082771
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="糕点人生" src="https://www.youtube.com/embed/z2zUJfppwNc" height="253" width="380"></iframe>
 
-https://www.8world.com/so-young/video-creation-traditional-pastries-2082521
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Satay Bee Hoon" src="https://www.youtube.com/embed/bZiSXUywXRU" height="253" width="380"></iframe>
 
-https://www.8world.com/so-young/video-creation-craftsmanship-2082501
-
-https://www.8world.com/so-young/video-creation-satay-bee-hoon-2076796
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="街头壁画" src="https://www.youtube.com/embed/hjOOv2FwzPQ" height="253" width="380"></iframe>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="CID4+ 格物致知：传统匠人 谢翘蔚 章楚颖" src="https://www.youtube.com/embed/HgbJAeIOO4g" height="253" width="380"></iframe>
 
