@@ -33,7 +33,7 @@ We are looking for promising Primary 6 students who demonstrate talent. There ar
 |   | English Debate |      |   |
 |   | English Drama |      |   |
 
-#Applicants for DSA Leadership should hold a key position in 2023 Primary School Prefectorial Board
+#Applicants for DSA Leadership should hold a key position in 2023 Primary School Prefectorial Board or Uniformed Groups
 
 * Not including Guzheng, Violin and Piano
 
