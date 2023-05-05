@@ -2,11 +2,11 @@ collections:
   our-stories:
     output: true
     order:
-      - The RV Experience.md
       - RV67 Art Exhibition.md
       - RV65.md
       - RV60.md
-      - 立化情 • RV Songs.md
       - RV Times.md
       - RV Montage.md
       - WEStories.md
+      - The RV Experience.md
+      - 立化情 • RV Songs.md
