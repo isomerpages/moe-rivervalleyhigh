@@ -10,7 +10,7 @@ sections:
       title: River Valley High School
       background: /images/66ffbc851_442.jpg
       subtitle: A world-class institution that develops leaders of distinction for
-        Singapore.
+        Singapore
   - infopic:
       title: 2022 GCE A-Level Results
       description: Congratulations to the class of 2022 for achieving stellar results
