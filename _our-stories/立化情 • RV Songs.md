@@ -1,5 +1,5 @@
 ---
-title: 立化情 • 青春彼岸
+title: 立化情 • RV Songs
 permalink: /our-stories/storiesnavi2/
 description: ""
 ---
