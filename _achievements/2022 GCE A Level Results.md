@@ -8,12 +8,8 @@ description: ""
 
 Congratulations to the Class of 2022!
 -------------------------------------
-
-  
-
-![Top Scorers 2022.jpg](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Top%20Scorers%202022.jpg)
-
-  
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/2022%20a%20level%20top%20scorers.jpg" align="left" style="width:90%">
+<br clear="left"><br>
 
 We are proud of our 424 students who sat for the 2022 GCE A-Level Examination&nbsp;for their outstanding performance, not just academically but also&nbsp;exemplifying&nbsp;our school’s values and spirit. 64 students achieved at least 6 distinctions,&nbsp;and&nbsp;about&nbsp;1 in&nbsp;3&nbsp;students achieved&nbsp;at least three H2 distinctions.&nbsp;35 students scored a&nbsp;full&nbsp;University Admissions Scores (UAS) of 90 rank points&nbsp;and around&nbsp;3&nbsp;in 5 students scored&nbsp;more than&nbsp;80&nbsp;rank points.
 
@@ -23,7 +19,7 @@ We celebrate the holistic development and achievements of our students. The foll
 
 Tay Yu Xun
 ----------
-<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/tay%20yu%20xun%20(21j03).jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/tay%20yu%20xun%20(21j03).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An empathetic volunteer who dedicated 999 hours of her time to serve the community_
@@ -41,7 +37,7 @@ _An empathetic volunteer who dedicated 999 hours of her time to serve the commun
 
 Ee En Xi Clarissa
 -----------------
-<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/ee%20en%20xi%20clarissa%20(21j13).jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/ee%20en%20xi%20clarissa%20(21j13).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _A highly resilient individual who is undeterred by a chronic illness_
@@ -58,7 +54,7 @@ _A highly resilient individual who is undeterred by a chronic illness_
 
 Xu Zhenbang
 -----------
-<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/xu%20zhenbang%20(21j13).jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/xu%20zhenbang%20(21j13).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _Leading from the heart_
@@ -77,7 +73,7 @@ _Leading from the heart_
 
 Nilay Barsainya
 ---------------
-<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/nilay%20barsainya%20(21j20).jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/nilay%20barsainya%20(21j20).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An inventive thinker_
@@ -95,10 +91,8 @@ _An inventive thinker_
 
 Zhou Ying Joycelyn
 ------------------
-<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/zhou%20ying%20joycelyn%20(21j01).jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/zhou%20ying%20joycelyn%20(21j01).jpg" align="left" style="width:30%">
 <br clear="left"><br>
-
-![](/images/Achievements/zhou%20ying%20joycelyn%20(21j01).jpg)
 
 _One with a voracious appetite for learning_
 
@@ -111,7 +105,7 @@ _One with a voracious appetite for learning_
 
 Aurelia Cheng Qin Yun
 ---------------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Aurelia%20Cheng%20Qin%20Yun.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/aurelia%20cheng%20qin%20yun%20(21j05).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An outstanding athlete_
@@ -125,7 +119,7 @@ _An outstanding athlete_
 
 Guan Chen Di
 ------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Guan%20Chen%20Di.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/2023/Achievements/guan%20chen%20di%20(21j18).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _A computer whiz!_
