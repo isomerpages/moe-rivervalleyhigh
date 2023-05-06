@@ -23,7 +23,7 @@ We celebrate the holistic development and achievements of our students. The foll
 
 Tay Yu Xun
 ----------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Tay%20Yu%20Xuan.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/tay%20yu%20xun%20(21j03).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An empathetic volunteer who dedicated 999 hours of her time to serve the community_
@@ -41,7 +41,7 @@ _An empathetic volunteer who dedicated 999 hours of her time to serve the commun
 
 Ee En Xi Clarissa
 -----------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Ee%20En%20Xi%20Clarissa.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/ee%20en%20xi%20clarissa%20(21j13).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _A highly resilient individual who is undeterred by a chronic illness_
@@ -58,7 +58,7 @@ _A highly resilient individual who is undeterred by a chronic illness_
 
 Xu Zhenbang
 -----------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Xu%20Zhenbang.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/xu%20zhenbang%20(21j13).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _Leading from the heart_
@@ -77,7 +77,7 @@ _Leading from the heart_
 
 Nilay Barsainya
 ---------------
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Nilay%20Barsainya.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/nilay%20barsainya%20(21j20).jpg" align="left" style="width:30%">
 <br clear="left"><br>
 
 _An inventive thinker_
@@ -95,9 +95,10 @@ _An inventive thinker_
 
 Zhou Ying Joycelyn
 ------------------
-
-<img src="https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Achievements/2022%20A%20Level%20Results/Zhou%20Ying%20Joycelyn.jpg" align="left" style="width:30%">
+<img src="http://raw.githubusercontent.com/isomerpages/moe-rivervalleyhigh/staging/images/Achievements/zhou%20ying%20joycelyn%20(21j01).jpg" align="left" style="width:30%">
 <br clear="left"><br>
+
+![](/images/Achievements/zhou%20ying%20joycelyn%20(21j01).jpg)
 
 _One with a voracious appetite for learning_
 
