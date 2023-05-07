@@ -218,8 +218,7 @@ description: ""
                         Total of 2 Bronze, 3 Merit Awards and 3 Special Awards:
                     </p>
                     <p>
-                        Ng Qi Heng (22J18) (in a combined team with RI &amp;
-                        SJI) \[YDSP\]
+                        Ng Qi Heng (22J18)
                         <br>
                         - Bronze Award
                         <br>
@@ -238,44 +237,38 @@ description: ""
                         self-initiated project on the re-design and
                         optimisation of wings of autonomous drones. The project
                         idea was adopted by engineers from DSO National
-                        Laboratories as a research project under YDSP. He also
-                        led two Sec 4 juniors from RGS and SJI to engineer the
-                        design of their drone, and helped the team win two
-                        engineering special awards.
+                        Laboratories as a team research project under YDSP. 
                     </p>
                     <p>
                         <br>
-                        Soh Wei Kean, Adrina (22J02), &amp; Dyann Saw Xinmei
-                        (22J05) \[SRP\]
+                        Soh Wei Kean, Adrina (22J02) &amp; Dyann Saw Xinmei
+                        (22J05)
                         <br>
                         - Merit Award
                         <br>
                         - L’Oréal Special Award for Innovation in Dermatology
-                        &amp;
+                        &amp; Cosmetology
                     </p>
                     <p>
-                        Cosmetology
+                        ___________
                         <br>
                         <br>
-                        Clarissa Chua (22J10) (in a combined team with RI)
-                        \[YDSP\]
+                        Clarissa Chua (22J10)
                         <br>
                         - Merit Award
                         <br>
                         <br>
-                        Chen Zhe Rui (22J12) (in a combined team with VJC)
-                        \[NRP\]
+                        Chen Zhe Rui (22J12)
                         <br>
                         - Bronze Award
                         <br>
                         <br>
-                        Rayner Sim Zhi Heng (22J17) \[SRP\]
+                        Rayner Sim Zhi Heng (22J17)
                         <br>
                         - Merit Award
                         <br>
                         <br>
                         Vera Ng Jing Wen (22J02) &amp; Huang Changwen (22J04)
-                        \[SRP\]
                         <br>
                         - Merit Award
                     </p>

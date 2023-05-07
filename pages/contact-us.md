@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: River Valley High
+agency_name: River Valley High School
 locations:
   - address:
       - 6 Boon Lay Avenue
