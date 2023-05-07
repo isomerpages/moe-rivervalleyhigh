@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: River Valley High School
-description: An Isomer site of the Singapore Government
+description: A world-class institution that develops leaders of distinction for Singapore
 image: /images/photo_2022-12-22_18-20-23.jpg
 permalink: /
 notification: ""
