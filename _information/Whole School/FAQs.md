@@ -182,14 +182,6 @@ third_nav_title: Whole School
 			<td>If my child is a prefect in primary school, will my child be a prefect in RV?</td>
 			<td>If your child comes into RV through DSA Leadership, your child will be given leadership opportunities to join the Students' Council, and be part of leadership projects and initiatives.</td>
 		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
 	</tbody></table>
 	</div>
 	</li>
