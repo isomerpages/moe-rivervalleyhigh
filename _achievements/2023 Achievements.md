@@ -13,12 +13,12 @@ description: ""
             <tr>
                 <td>
                     <p>
-                        Name of Competition / Event
+											<strong>Name of Competition / Event</strong>
                     </p>
                 </td>
                 <td>
                     <p>
-                        Achievement / Name of Recipient
+											<strong>Achievement / Name of Recipient</strong>
                     </p>
                 </td>
             </tr>
