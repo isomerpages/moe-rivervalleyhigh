@@ -18,8 +18,8 @@ sections:
         the very best.
       button: Read more
       url: achievements/2022-gce-a-results/
-      image: /images/Top Scorers 2022.jpg
-      alt: Image alt text
+      image: /images/2023/Achievements/2022 a level top scorers.jpg
+      alt: 2022 GCE A-Level Top Scorers
   - infopic:
       title: Racial Harmony Day Celebration
       image: /images/352f5c538_4425.jpeg
