@@ -171,24 +171,8 @@ third_nav_title: Whole School
 			<td>For Scientific Investigation, candidates should have a deep passion in science and innovative problem-solving skills. They should also demonstrate a natural curiosity in Science through their performance in science inquiry tasks.</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
 			<td>If my child is a prefect in primary school, will my child be a prefect in RV?</td>
 			<td>If your child comes into RV through DSA Leadership, your child will be given leadership opportunities to join the Students' Council, and be part of leadership projects and initiatives.</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
 		</tr>
 	</tbody></table>
 	</div>
