@@ -47,7 +47,7 @@ Successful applicants will join RVHS in January in the year 2024. Students will 
 
 FAQs Click&nbsp;**[here](/information/faqs/)**
 
-#### Application Criteria (for 2022)
+#### Application Criteria (for 2023)
 
 1 \.  Applicants must fulfil the following criteria to be shortlisted for school-based selection trial and interview:
 
