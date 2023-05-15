@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education in Schools (JC)
-permalink: /information/moe-sex-ed-jc/
+permalink: /information/moe-sexuality-education-in-schools-jc/
 description: ""
 third_nav_title: Junior College
 ---

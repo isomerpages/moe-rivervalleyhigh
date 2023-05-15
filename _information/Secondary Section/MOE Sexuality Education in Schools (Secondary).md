@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education in Schools (Secondary)
-permalink: /information/moe-sex-ed/
+permalink: /information/moe-sexuality-education-in-schools-secondary/
 description: ""
 third_nav_title: Secondary Section
 ---
