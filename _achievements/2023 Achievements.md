@@ -118,7 +118,7 @@ description: ""
                         Concert Band (Sec): Accomplishment
                     </p>
                     <p>
-                        Guitar Ensemble: Accomplishment
+                        Guitar Ensemble (JC): Accomplishment
                     </p>
                     <p>
                         Chinese dance (Sec): Distinction
@@ -128,14 +128,25 @@ description: ""
                     </p>
                     <p>
                         Choir (Sec): Distinction
-                    </p>
+                  </p>
+                    <p>
+                        Choir (JC): Distinction  
+									</p>
                     <p>
                         International Dance (Sec): Distinction
                     </p>
                     <p>
                         Street Dance (JC): Distinction
                     </p>
+                    <p>
+                        CLDDS (Sec): Accomplishment
+                    </p>
+									<p></p>
+                    <p>
+                        ELDDS (Sec): Accomplishment
+                    </p>
                 </td>
+                
             </tr>
             <tr>
                 <td>
