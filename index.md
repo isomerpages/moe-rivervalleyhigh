@@ -12,7 +12,7 @@ sections:
       subtitle: A world-class institution that develops leaders of distinction for
         Singapore
   - infopic:
-      title: Achievements
+      title: Sports
       subtitle: National School Games
       description: Congratulations to our student athletes for their stellar
         performance at the NSG! They demonstrated tenacity, teamwork and great
@@ -22,7 +22,7 @@ sections:
       image: /images/rv a div girls floorball champions 2023.jpeg
       alt: RV Floorball Champions
   - infopic:
-      title: Achievements
+      title: The Arts
       subtitle: Singapore Youth Festival
       description: Our Performing Arts students worked hard and achieved commendable
         results at the 2023 Singapore Youth Festival Arts Presentation!
