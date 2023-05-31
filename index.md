@@ -17,7 +17,7 @@ sections:
       description: Congratulations to our student athletes for their stellar
         performance at the NSG! They demonstrated tenacity, teamwork and great
         sportsmanship.
-      button: Read More
+      button: 2023 Achievements
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv a div girls floorball champions 2023.jpeg
       alt: RV Floorball Champions
@@ -26,7 +26,7 @@ sections:
       subtitle: Singapore Youth Festival
       description: Our Performing Arts students worked hard and achieved commendable
         results at the 2023 Singapore Youth Festival Arts Presentation!
-      button: Read More
+      button: 2023 Achievements
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
