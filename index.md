@@ -12,9 +12,9 @@ sections:
       subtitle: A world-class institution that develops leaders of distinction for
         Singapore
   - infobar:
-      title: DSA 2023
+      title: DSA (IP) 2023
       subtitle: Direct School Admission
-      description: Find out more about DSA (Sec)
+      description: More information in the link below
       button: Read More
       url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2023/
   - infopic:
