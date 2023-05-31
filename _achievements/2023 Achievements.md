@@ -31,7 +31,7 @@ description: ""
                     <p>C Division&nbsp;Table Tennis&nbsp;Girls: 4th</p>
                     <p>B Division&nbsp;Floorball Girls: 4th</p>
                     <p>A Division&nbsp;Softball&nbsp;Girls: 4th</p><br>
-                    <p>Individual Medals: 13 Gold, 14 Silver, 19 Bronze medals</p>
+                    <p>Wushu Individual Medals: 13 Gold, 14 Silver, 19 Bronze medals</p>
                 </td>
             </tr>
             <tr>
