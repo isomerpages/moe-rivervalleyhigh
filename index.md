@@ -11,12 +11,6 @@ sections:
       background: /images/66ffbc851_442.jpg
       subtitle: A world-class institution that develops leaders of distinction for
         Singapore
-  - infobar:
-      title: DSA (IP) 2023
-      subtitle: Direct School Admission
-      description: More information in the link below
-      button: Read More
-      url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2023/
   - infopic:
       title: Achievements
       subtitle: National School Games
@@ -36,6 +30,12 @@ sections:
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
+  - infobar:
+      title: DSA (IP) 2023
+      subtitle: Direct School Admission
+      description: More information in the link below
+      button: Read More
+      url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2023/
   - infobar:
       title: Announcements
       button: Click here to view All
