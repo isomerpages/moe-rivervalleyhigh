@@ -36,8 +36,4 @@ sections:
       description: More information in the link below
       button: Read More
       url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2023/
-  - infobar:
-      title: Announcements
-      button: Click here to view All
-      url: /announcements/
 ---
