@@ -6,7 +6,7 @@ third_nav_title: Talent Development
 ---
 ## Science Leaders Academy
 
-The Science Leaders Academy (SLA) nurtures creative and innovative leaders in science and technology. It provides learning, research and leadership opportunities for our high ability students who show a strong interest and passion in science, through four programmes:
+The Science Leaders Academy (SLA) nurtures creative and innovative leaders in science and technology. It provides learning, research and leadership opportunities for our high ability students who show a strong interest and passion in science, through three programmes:
 
 **(a) Young Scientists @ Work Programme**<br> 
 Through internships that are at least three months long, students learn first-hand the work of scientists and experience research at laboratories of tertiary institutions, research institutes and industrial establishments.
