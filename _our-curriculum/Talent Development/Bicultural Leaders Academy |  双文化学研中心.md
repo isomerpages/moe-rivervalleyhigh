@@ -4,34 +4,80 @@ permalink: /our-curriculum/Talent-Academies/biculturalldra/
 description: ""
 third_nav_title: Talent Development
 ---
-## Bicultural Leaders Academy |&nbsp; 双文化学研中心
+**双文化课程 — 立足立足狮城   探索中华文化   培养宏观的环球视野**
 
-自立化中学于2006年开办双文化课程以来，双文化课程一直都是我 校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提 升学生对学习中西文化的热忱，扎根本土，放眼世界。  
+中二年级成绩优秀，对双文化课程有热忱，并有意在中三选修双文化课程的新加坡学生可申请由教育部颁发的双文化课程奖学金（BSP Scholarship）。
+
   
-双文化学研中心(Bicultural Academy)的成立，是为整合现有课程活 动，并加强我校双文化人才的遴选机制与培养计划。一个真正的双文 化人，须具备三方面的知识与技能（简称“PAC")，缺一不可。双文 化学研中心的课程活动设计，包含以下三大核心内容：  
+
+双文化课程是一个四年的课程，中三至高中的学生通过本地及海外浸濡学习之旅以及一系列相关的培训活动，包括双文化讲座、论文研讨会、中国通识论坛等平台，在东西文化的大观园中浸濡，成为自由游走于东西方国家的双语双文化人才。
+
   
-P：Proficiency in Chinese and English (中英文语表达能力）  
-A：Appreciation of Chinese History, Culture and Values (华族历史文化鉴赏能力）  
-C：Cross-Cultural Skills and Global Awareness (跨文化技能与环球意识）
 
-<figure>
-<img src="/images/bicultural4.jpg" style="width:90%">
-<figcaption>与 “落地生根，开拓新家园”新春导览 主宾哈莉玛总统合影
- </figcaption>
-</figure>
+通过出国浸濡学习活动，学生有机会到中国各地的高等学府学习，和当地的学生一同上课，同时也有机会到欧美国家，深入体验并感受当地的社会风俗与民情，从中培养宏观的环球视野。
 
-通过丰富有趣的专题讨论，以及本地和海外的深度学习浸濡，学生能 够切身体验中西文化的博大精深，对世界局势发展有全面透彻的了 解。  
   
-我校双文化学生林颖秀(2011年)和陈昱嘉(2016年)均荣获李显龙杰 出双文化学生奖，这是双文化课程学生所能获得的全国最高荣誉。此 奖项是特别表扬那些既通晓中国国情、又能与西方国家打交道的优异 生。她们充分地诠释了立化的教育使命，即为国家培养品行端正、慎 思明辨、融贯中西、具环球视野的未来栋梁。
 
-<figure>
-<img src="/images/bicultural1.jpeg" style="width:90%">
-<figcaption>立化同学为“春到河畔"主宾傅 海燕部长导览
- </figcaption>
-</figure>
+**双文化领袖学研中心（Bicultural Leaders Academy）**
 
-<figure>
-<img src="/images/bicultural2.jpg" style="width:90%">
-<figcaption>身着汉服的同学主持 中秋特备节目
- </figcaption>
-</figure>
+自立化中学于2006年开办双文化课程以来，双文化课程一直都是我校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提升学生对学习东西文化的热忱，扎根本土，放眼世界。
+
+  
+
+成立双文化领袖学研中心，是为整合现有课程活动，并加强我校双文化人才的遴选机制与培养计划。一个真正的双文化人，须具备三方面的知识与技能（简称“PAC”），缺一不可。
+
+  
+
+双文化学研中心的课程活动设计，包含以下三大核心内容：
+
+1.  中英语表达能力 （Proficiency in Chinese and English）
+    
+2.  华族历史文化鉴赏能力（Appreciation of Chinese History, Culture and Values）
+    
+3.  跨文化技能与环球知识（Cross-Cultural Skills and Global Awareness）
+    
+
+  
+
+通过丰富有趣的专题讨论，以及本地和海外的深度学习浸濡，学生能够切身体验东西文化的博大精深，成为游走于东西方的双语双文化人才。
+
+**双文化领袖学研中心旗舰项目：**
+
+**1.  透视中国研讨会（China Perspectives）**
+    
+“透视中国学生双语论坛” 的构想由通商中国与立化中学共同提出，旨在建立一个真正双语双文化的校园平台，让各具东、西方视角的演讲嘉宾，从独特的学术及专业高度，同台交流探讨中国当下热点课题，从而培养一批深刻了解中国、具环球视野的学生。
+
+![](https://lh6.googleusercontent.com/_P4TJg7GJWD3y8MdSBk5oknxbfNfmevKSgiNN7KlwjKJSriALLFlLmx9UI--NSJvxgdTe1Lkl8RnNHq8PKbC0XDFd3qdc8Q34ZZlsDieotGCpy4ejanX6HWQ3g2kKpk1HAsSNzWhpSTM5r0tF4GCxg) 第六届 透视中国 学生双语论坛  ![A group of people wearing face masks
+Description automatically generated](https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照      
+                   
+
+**2.  立化双文化课程研讨会**
+    
+立化双文化领袖学研中心举办研习论文研讨会，旨在让创造一个让学生们呈献自己的优秀研究项目，与同侪们分享自己的研究成果。学生们根据自己感兴趣的课题，自由组成小组一起研习。此活动的主办目的是让学生们能够切身体验东西方文化的博大精深，开拓他们的视野并加深他们对时事课题的认知。
+
+![](https://lh3.googleusercontent.com/-5WjXmXhZDfBjqqIbXNpIDWtR1oWnrPN12Z7Xe4ZvPuU0Wyy8MeJE9p8gaASpnwfgHNFipW7qTiuZLhT5LnqhvJqzFV0XIkvQlfF_wctr3ZqIrTbzFVBaI5wNqZbTm44yIAC2L7XPio8F1zrfvYsuw)双文化越南浸濡学习之旅 访问新加坡大使馆 ![A group of people posing for a photo
+Description automatically generated](https://lh6.googleusercontent.com/nZ_T0ACQj4-zHKuQjncBGLkcszchERqhjjQPqogr3cmisDsxoLXKyTGppi9R9X-p725J1kZx9B8E4gS8SyN5FZsSh1UVCTcT0X0j3EDQAkn50JRIh7ZcfkK1ZIOZPyn-a91jsBZX4zLNDghrlk6TzQ) 双文化越南浸濡学习之旅 访问新越工业园
+  
+
+![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动 与印尼学生交流      ![](https://lh5.googleusercontent.com/mMzgWI1ywI0AEWhHRKax-RA_K4O3IMZFw4mBIJaJKUaJ2z_DduAuXKyhnEIRQ_1tXlH4gMOp-k87lXZnzVoAZIpjdC4E_eW1TkaIArAC7Rn8wXfGfHiHYfnaibinbSpebxF1DgphWaWKwzua6GdnAw)双文化领袖学研中心研讨会 主题分享会
+  
+
+立化是一所历史悠久、校风优良的学校，也是最早一批获选成为特选学校。最早发展为双语兼优的学校。特选学校传承了传统华校作育英才的精神，延续了华校的特别使命。培养学生具有传统文化价值观和工作道德。了解自己的文化历史，建立文化底蕴，自信、信心满满地使用自己的母语，能抬头挺胸的底气。多懂一种语言会多了解一种不同的文化、不同的文明，会对他人有更多的了解和容忍。
+
+  
+
+立化具有华族文化传统、卓越的学业和课外活动成绩，有完善的设备、敬业乐业的教职员和优良的校风
+
+  
+
+肩负着为新加坡培养双语人才以及传承华族传统文化的使命，挑起了为华文教育薪火相传的重任。
+
+作为特选学校，华中没有很多非华族学生，但校方还是设法通过各种活动，让学生有机会跟不同背景的同辈交流，认识更多不同种族的朋友。
+
+  
+
+他也指出，华中的学生除了熟悉中西文化，对新加坡多元文化的社会特色，也有充分的认识。“保持这样的多元文化交流，对促进我国社会的凝聚力和融合至关重要。”
+
+这体现了华人饮水思源的传统美德，也凸显了华校的良好校风。我们为了保留昔日华校的优良传统和价值观，而设立了特选学校。让学生能够沉浸在双语环境里， 并且有更多使用华文华语的机会。我希望特选学校在新的时代里再接再厉，为国家培养新一代的双语双文化人才。与此同时，学校应该让学生多接触其他族群，让他们从小就知道维护多元种族社会的重要。我们需要继续重视这项工作。
+
+**
