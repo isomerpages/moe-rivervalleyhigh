@@ -60,24 +60,5 @@ Description automatically generated](https://lh6.googleusercontent.com/nZ_T0ACQj
   
 
 ![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动 与印尼学生交流      ![](https://lh5.googleusercontent.com/mMzgWI1ywI0AEWhHRKax-RA_K4O3IMZFw4mBIJaJKUaJ2z_DduAuXKyhnEIRQ_1tXlH4gMOp-k87lXZnzVoAZIpjdC4E_eW1TkaIArAC7Rn8wXfGfHiHYfnaibinbSpebxF1DgphWaWKwzua6GdnAw)双文化领袖学研中心研讨会 主题分享会
-  
-
-立化是一所历史悠久、校风优良的学校，也是最早一批获选成为特选学校。最早发展为双语兼优的学校。特选学校传承了传统华校作育英才的精神，延续了华校的特别使命。培养学生具有传统文化价值观和工作道德。了解自己的文化历史，建立文化底蕴，自信、信心满满地使用自己的母语，能抬头挺胸的底气。多懂一种语言会多了解一种不同的文化、不同的文明，会对他人有更多的了解和容忍。
-
-  
-
-立化具有华族文化传统、卓越的学业和课外活动成绩，有完善的设备、敬业乐业的教职员和优良的校风
-
-  
-
-肩负着为新加坡培养双语人才以及传承华族传统文化的使命，挑起了为华文教育薪火相传的重任。
-
-作为特选学校，华中没有很多非华族学生，但校方还是设法通过各种活动，让学生有机会跟不同背景的同辈交流，认识更多不同种族的朋友。
-
-  
-
-他也指出，华中的学生除了熟悉中西文化，对新加坡多元文化的社会特色，也有充分的认识。“保持这样的多元文化交流，对促进我国社会的凝聚力和融合至关重要。”
-
-这体现了华人饮水思源的传统美德，也凸显了华校的良好校风。我们为了保留昔日华校的优良传统和价值观，而设立了特选学校。让学生能够沉浸在双语环境里， 并且有更多使用华文华语的机会。我希望特选学校在新的时代里再接再厉，为国家培养新一代的双语双文化人才。与此同时，学校应该让学生多接触其他族群，让他们从小就知道维护多元种族社会的重要。我们需要继续重视这项工作。
 
 **
