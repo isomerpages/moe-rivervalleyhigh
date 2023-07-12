@@ -4,7 +4,7 @@ permalink: /our-curriculum/Talent-Academies/biculturalldra/
 description: ""
 third_nav_title: Talent Development
 ---
-**双文化课程 — 立足立足狮城   探索中华文化   培养宏观的环球视野**
+**双文化课程 — 立足立足狮城 &nbsp; 探索中华文化 &nbsp; 培养宏观的环球视野**
 
 中二年级成绩优秀，对双文化课程有热忱，并有意在中三选修双文化课程的新加坡学生可申请由教育部颁发的双文化课程奖学金（BSP Scholarship）。
 
@@ -52,11 +52,11 @@ third_nav_title: Talent Development
     
 “透视中国学生双语论坛” 的构想由通商中国与立化中学共同提出，旨在建立一个真正双语双文化的校园平台，让各具东、西方视角的演讲嘉宾，从独特的学术及专业高度，同台交流探讨中国当下热点课题，从而培养一批深刻了解中国、具环球视野的学生。
 
-![](![](/images/2023/Curriculum/2023-bla01.jpg)https://lh6.googleusercontent.com/_P4TJg7GJWD3y8MdSBk5oknxbfNfmevKSgiNN7KlwjKJSriALLFlLmx9UI--NSJvxgdTe1Lkl8RnNHq8PKbC0XDFd3qdc8Q34ZZlsDieotGCpy4ejanX6HWQ3g2kKpk1HAsSNzWhpSTM5r0tF4GCxg) 第六届 透视中国 学生双语论坛  ![A group of people wearing face masks
+![](![](/images/2023/Curriculum/2023-bla01.jpg)https://lh6.googleusercontent.com/_P4TJg7GJWD3y8MdSBk5oknxbfNfmevKSgiNN7KlwjKJSriALLFlLmx9UI--NSJvxgdTe1Lkl8RnNHq8PKbC0XDFd3qdc8Q34ZZlsDieotGCpy4ejanX6HWQ3g2kKpk1HAsSNzWhpSTM5r0tF4GCxg)&nbsp;第六届 透视中国 学生双语论坛&nbsp; ![A group of people wearing face masks
 Description automatically generated]
 
-(![](/images/2023/Curriculum/2023-bla02.jpg)https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照      
-                   
+(![](/images/2023/Curriculum/2023-bla02.jpg)https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 **2.  立化双文化课程研讨会**
     
@@ -68,9 +68,10 @@ Description automatically generated]
 (https://lh6.googleusercontent.com/nZ_T0ACQj4-zHKuQjncBGLkcszchERqhjjQPqogr3cmisDsxoLXKyTGppi9R9X-p725J1kZx9B8E4gS8SyN5FZsSh1UVCTcT0X0j3EDQAkn50JRIh7ZcfkK1ZIOZPyn-a91jsBZX4zLNDghrlk6TzQ) 双文化越南浸濡学习之旅 访问新越工业园
   
 
-![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动与印尼学生交流      ![](![](/images/2023/Curriculum/2023-![](/images/2023/Curriculum/2023-bla06.jpg)bla06.jpg)
+![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动与印尼学生交流&nbsp; &nbsp; &nbsp; ![](![]
 
-/images/2023/Curriculum/2023-bla06.jpg
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:30%">
+<br clear="left"><br>
 双文化领袖学研中心研讨会主题分享会
 
 **
