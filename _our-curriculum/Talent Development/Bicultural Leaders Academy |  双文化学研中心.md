@@ -68,8 +68,9 @@ Description automatically generated]
 (https://lh6.googleusercontent.com/nZ_T0ACQj4-zHKuQjncBGLkcszchERqhjjQPqogr3cmisDsxoLXKyTGppi9R9X-p725J1kZx9B8E4gS8SyN5FZsSh1UVCTcT0X0j3EDQAkn50JRIh7ZcfkK1ZIOZPyn-a91jsBZX4zLNDghrlk6TzQ) 双文化越南浸濡学习之旅 访问新越工业园
   
 
-![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动与印尼学生交流      ![]
+![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动与印尼学生交流      ![](![](/images/2023/Curriculum/2023-![](/images/2023/Curriculum/2023-bla06.jpg)bla06.jpg)
 
-(https://lh5.googleusercontent.com/mMzgWI1ywI0AEWhHRKax-RA_K4O3IMZFw4mBIJaJKUaJ2z_DduAuXKyhnEIRQ_1tXlH4gMOp-k87lXZnzVoAZIpjdC4E_eW1TkaIArAC7Rn8wXfGfHiHYfnaibinbSpebxF1DgphWaWKwzua6GdnAw)双文化领袖学研中心研讨会主题分享会
+/images/2023/Curriculum/2023-bla06.jpg
+双文化领袖学研中心研讨会主题分享会
 
 **
