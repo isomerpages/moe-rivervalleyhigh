@@ -52,10 +52,10 @@ third_nav_title: Talent Development
     
 “透视中国学生双语论坛” 的构想由通商中国与立化中学共同提出，旨在建立一个真正双语双文化的校园平台，让各具东、西方视角的演讲嘉宾，从独特的学术及专业高度，同台交流探讨中国当下热点课题，从而培养一批深刻了解中国、具环球视野的学生。
 
-![](https://lh6.googleusercontent.com/_P4TJg7GJWD3y8MdSBk5oknxbfNfmevKSgiNN7KlwjKJSriALLFlLmx9UI--NSJvxgdTe1Lkl8RnNHq8PKbC0XDFd3qdc8Q34ZZlsDieotGCpy4ejanX6HWQ3g2kKpk1HAsSNzWhpSTM5r0tF4GCxg) 第六届 透视中国 学生双语论坛  ![A group of people wearing face masks
+![](![](/images/2023/Curriculum/2023-bla01.jpg)https://lh6.googleusercontent.com/_P4TJg7GJWD3y8MdSBk5oknxbfNfmevKSgiNN7KlwjKJSriALLFlLmx9UI--NSJvxgdTe1Lkl8RnNHq8PKbC0XDFd3qdc8Q34ZZlsDieotGCpy4ejanX6HWQ3g2kKpk1HAsSNzWhpSTM5r0tF4GCxg) 第六届 透视中国 学生双语论坛  ![A group of people wearing face masks
 Description automatically generated]
 
-(https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照      
+(![](/images/2023/Curriculum/2023-bla02.jpg)https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照      
                    
 
 **2.  立化双文化课程研讨会**
@@ -63,9 +63,13 @@ Description automatically generated]
 立化双文化领袖学研中心举办研习论文研讨会，旨在让创造一个让学生们呈献自己的优秀研究项目，与同侪们分享自己的研究成果。学生们根据自己感兴趣的课题，自由组成小组一起研习。此活动的主办目的是让学生们能够切身体验东西方文化的博大精深，开拓他们的视野并加深他们对时事课题的认知。
 
 ![](https://lh3.googleusercontent.com/-5WjXmXhZDfBjqqIbXNpIDWtR1oWnrPN12Z7Xe4ZvPuU0Wyy8MeJE9p8gaASpnwfgHNFipW7qTiuZLhT5LnqhvJqzFV0XIkvQlfF_wctr3ZqIrTbzFVBaI5wNqZbTm44yIAC2L7XPio8F1zrfvYsuw)双文化越南浸濡学习之旅 访问新加坡大使馆 ![A group of people posing for a photo
-Description automatically generated](https://lh6.googleusercontent.com/nZ_T0ACQj4-zHKuQjncBGLkcszchERqhjjQPqogr3cmisDsxoLXKyTGppi9R9X-p725J1kZx9B8E4gS8SyN5FZsSh1UVCTcT0X0j3EDQAkn50JRIh7ZcfkK1ZIOZPyn-a91jsBZX4zLNDghrlk6TzQ) 双文化越南浸濡学习之旅 访问新越工业园
+Description automatically generated]
+
+(https://lh6.googleusercontent.com/nZ_T0ACQj4-zHKuQjncBGLkcszchERqhjjQPqogr3cmisDsxoLXKyTGppi9R9X-p725J1kZx9B8E4gS8SyN5FZsSh1UVCTcT0X0j3EDQAkn50JRIh7ZcfkK1ZIOZPyn-a91jsBZX4zLNDghrlk6TzQ) 双文化越南浸濡学习之旅 访问新越工业园
   
 
-![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动 与印尼学生交流      ![](https://lh5.googleusercontent.com/mMzgWI1ywI0AEWhHRKax-RA_K4O3IMZFw4mBIJaJKUaJ2z_DduAuXKyhnEIRQ_1tXlH4gMOp-k87lXZnzVoAZIpjdC4E_eW1TkaIArAC7Rn8wXfGfHiHYfnaibinbSpebxF1DgphWaWKwzua6GdnAw)双文化领袖学研中心研讨会 主题分享会
+![](https://lh6.googleusercontent.com/L_gXZ_tPDhGcMK9wte2YYZvd07soDMK5925EDxSnFgkJHwHH2_-Ks-z213CDdxlxzKUbeRcAEef8Xkcal989dy1zN5LnIcy5nFtXp3UX6qhGcwOYHC39Ck1_Yfj8oOtfOaVKi8Uam0ZdDyJIRiXBNA)本地浸濡活动与印尼学生交流      ![]
+
+(https://lh5.googleusercontent.com/mMzgWI1ywI0AEWhHRKax-RA_K4O3IMZFw4mBIJaJKUaJ2z_DduAuXKyhnEIRQ_1tXlH4gMOp-k87lXZnzVoAZIpjdC4E_eW1TkaIArAC7Rn8wXfGfHiHYfnaibinbSpebxF1DgphWaWKwzua6GdnAw)双文化领袖学研中心研讨会主题分享会
 
 **
