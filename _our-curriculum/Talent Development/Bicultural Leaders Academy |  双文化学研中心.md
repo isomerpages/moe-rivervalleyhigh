@@ -18,6 +18,7 @@ third_nav_title: Talent Development
 
   
 
+
 **双文化领袖学研中心（Bicultural Leaders Academy）**
 
 自立化中学于2006年开办双文化课程以来，双文化课程一直都是我校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提升学生对学习东西文化的热忱，扎根本土，放眼世界。
@@ -30,25 +31,31 @@ third_nav_title: Talent Development
 
 双文化学研中心的课程活动设计，包含以下三大核心内容：
 
-1.  中英语表达能力 （Proficiency in Chinese and English）
+1.  中英语表达能力 （**P**roficiency in Chinese and English）
     
-2.  华族历史文化鉴赏能力（Appreciation of Chinese History, Culture and Values）
+2.  华族历史文化鉴赏能力（**A**ppreciation of Chinese History, Culture and Values）
     
-3.  跨文化技能与环球知识（Cross-Cultural Skills and Global Awareness）
+3.  跨文化技能与环球知识（**C**ross-Cultural Skills and Global Awareness）
     
 
   
 
 通过丰富有趣的专题讨论，以及本地和海外的深度学习浸濡，学生能够切身体验东西文化的博大精深，成为游走于东西方的双语双文化人才。
 
+
+
+
 **双文化领袖学研中心旗舰项目：**
+
 
 **1.  透视中国研讨会（China Perspectives）**
     
 “透视中国学生双语论坛” 的构想由通商中国与立化中学共同提出，旨在建立一个真正双语双文化的校园平台，让各具东、西方视角的演讲嘉宾，从独特的学术及专业高度，同台交流探讨中国当下热点课题，从而培养一批深刻了解中国、具环球视野的学生。
 
 ![](https://lh6.googleusercontent.com/_P4TJg7GJWD3y8MdSBk5oknxbfNfmevKSgiNN7KlwjKJSriALLFlLmx9UI--NSJvxgdTe1Lkl8RnNHq8PKbC0XDFd3qdc8Q34ZZlsDieotGCpy4ejanX6HWQ3g2kKpk1HAsSNzWhpSTM5r0tF4GCxg) 第六届 透视中国 学生双语论坛  ![A group of people wearing face masks
-Description automatically generated](https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照      
+Description automatically generated]
+
+(https://lh5.googleusercontent.com/osn-GF57V_KxIQUTdDyqwLEp-A1kEAkoTMAy5h8HVkvNNzYAJeLgY04yFP4g7F3A-ngioEJLMRHlz-wSrA4kLiROrnrD63UsWWX5Ltktw5tkk8vvZdznlIWbbYbME7q3nlxGREqGq5V0iZgmX_pCeQ) BLA学生和与会嘉宾合照      
                    
 
 **2.  立化双文化课程研讨会**
