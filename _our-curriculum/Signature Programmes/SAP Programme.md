@@ -56,7 +56,18 @@ Description automatically generated with medium confidence](https://lh6.googleus
 通过“母语双周”双周活动，学生参与了宗乡会馆学习之旅、文化讲座、文化营、传统节日与习俗庆祝等，提升学生的文化素养，扩大他们的文化视野。
 
 ![A group of people wearing masks
-Description automatically generated with low confidence](https://lh6.googleusercontent.com/oLD05CqOdvMgGnn3D2TxcRc8M0Fghp0uZv5n2jRNPQjY2TmtPNJQgKJA4ZZvDoUxqqCMPVArCd2TqeTxSilm2Cjm4tueqogHc1wOEy03fNGrRWjTmwh9BDdbpX2mtpLBnbitlUAvDyu1f3f0zMGixQ)学生制作![](https://lh6.googleusercontent.com/5hUJtmLkjnR6pF56LxCO0RpktZX7hbJqkhYW1Yw8KjgYnDP42czkiwcFBVRIsrJGIzCZZyXjAfcrvqkqGOdUOF-wO_8qmlwZjFte-Bkqbjw48TkTbB2hmnpCNo08lgEEXcY1Iv27XE7kqqIoadjsKA)《西游记》棒偶 难忘的晚晴园学习之旅
+Description automatically generated with low confidence](https://lh6.googleusercontent.com/oLD05CqOdvMgGnn3D2TxcRc8M0Fghp0uZv5n2jRNPQjY2TmtPNJQgKJA4ZZvDoUxqqCMPVArCd2TqeTxSilm2Cjm4tueqogHc1wOEy03fNGrRWjTmwh9BDdbpX2mtpLBnbitlUAvDyu1f3f0zMGixQ)![]
+
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-sap13.jpeg" align="left" style="width:70%">
+<br clear="left">
+学生制作《西游记》棒偶
+<br clear="left"><br>
+
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-sap14.jpeg" align="left" style="width:70%">
+<br clear="left">
+难忘的晚晴园学习之旅
+<br clear="left"><br>
+
 
 **5\. 双语辩论**
 
@@ -65,7 +76,7 @@ Description automatically generated with low confidence](https://lh6.googleuserc
 <img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-sap15.jpeg" align="left" style="width:70%">
 <br clear="left">
 创贤杯辩论比赛 冠军 (中学组)
-<br clear="left"><br>&nbsp; &nbsp;
+<br clear="left"><br>
 
 <img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-sap16.jpeg" align="left" style="width:70%">
 <br clear="left">
