@@ -28,7 +28,6 @@ third_nav_title: Talent Development
 2.  华族历史文化鉴赏能力（**A**ppreciation of Chinese History, Culture and Values）
     
 3.  跨文化技能与环球知识（**C**ross-Cultural Skills and Global Awareness）
-<br clear="left"><br>
 
 通过丰富有趣的专题讨论，以及本地和海外的深度学习浸濡，学生能够切身体验东西文化的博大精深，成为游走于东西方的双语双文化人才。
 <br clear="left"><br>
