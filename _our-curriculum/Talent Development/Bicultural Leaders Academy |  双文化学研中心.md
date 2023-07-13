@@ -42,12 +42,12 @@ third_nav_title: Talent Development
 “透视中国学生双语论坛” 的构想由通商中国与立化中学共同提出，旨在建立一个真正双语双文化的校园平台，让各具东、西方视角的演讲嘉宾，从独特的学术及专业高度，同台交流探讨中国当下热点课题，从而培养一批深刻了解中国、具环球视野的学生。
 <br clear="left">
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla01.jpg" align="left" style="width:40%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla01.jpg" align="left" style="width:70%">
 <br clear="left">
 第六届 透视中国 学生双语论坛
 <br clear="left"><br>
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla02.jpg" align="left" style="width:40%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla02.jpg" align="left" style="width:70%">
 <br clear="left">
 BLA学生和与会嘉宾合照
 <br clear="left"><br>
@@ -58,21 +58,21 @@ BLA学生和与会嘉宾合照
 立化双文化领袖学研中心举办研习论文研讨会，旨在让创造一个让学生们呈献自己的优秀研究项目，与同侪们分享自己的研究成果。学生们根据自己感兴趣的课题，自由组成小组一起研习。此活动的主办目的是让学生们能够切身体验东西方文化的博大精深，开拓他们的视野并加深他们对时事课题的认知。
 <br clear="left">
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla03.jpg" align="left" style="width:40%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla03.jpg" align="left" style="width:70%">
 <br clear="left">
 双文化越南浸濡学习之旅 访问新加坡大使馆
 <br clear="left"><br>
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla04.jpg" align="left" style="width:40%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla04.jpg" align="left" style="width:70%">
 <br clear="left">
 双文化越南浸濡学习之旅访问新越工业园
 <br clear="left"><br>
  
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla05.jpg" align="left" style="width:40%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla05.jpg" align="left" style="width:70%">
 <br clear="left">
 本地浸濡活动与印尼学生交流
 <br clear="left"><br>
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:40%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:70%">
 <br clear="left">
 双文化领袖学研中心研讨会主题分享会
