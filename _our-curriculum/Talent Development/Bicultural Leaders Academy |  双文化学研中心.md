@@ -68,12 +68,13 @@ Description automatically generated]
 (https://lh6.googleusercontent.com/nZ_T0ACQj4-zHKuQjncBGLkcszchERqhjjQPqogr3cmisDsxoLXKyTGppi9R9X-p725J1kZx9B8E4gS8SyN5FZsSh1UVCTcT0X0j3EDQAkn50JRIh7ZcfkK1ZIOZPyn-a91jsBZX4zLNDghrlk6TzQ) 双文化越南浸濡学习之旅 访问新越工业园
   
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla05.jpg" align="left" style="width:30%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla05.jpg" align="left" style="width:40%">
+<br clear="left">
 本地浸濡活动与印尼学生交流
-
-
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:30%">
 <br clear="left"><br>
+
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:40%">
+<br clear="left">
 双文化领袖学研中心研讨会主题分享会
 
 **
