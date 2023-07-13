@@ -64,7 +64,7 @@ BLA学生和与会嘉宾合照
 
 <img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla04.jpeg" align="left" style="width:70%">
 <br clear="left">
-双文化越南浸濡学习之旅访问新越工业园
+双文化越南浸濡学习之旅 访问新越工业园
 <br clear="left"><br>
  
 <img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla05.jpeg" align="left" style="width:70%">
@@ -72,6 +72,6 @@ BLA学生和与会嘉宾合照
 本地浸濡活动与印尼学生交流
 <br clear="left"><br>
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:70%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:70%"> 
 <br clear="left">
-双文化领袖学研中心研讨会主题分享会
+双文化领袖学研中心研讨会 主题分享会
