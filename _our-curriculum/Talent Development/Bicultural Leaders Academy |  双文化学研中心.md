@@ -20,7 +20,6 @@ third_nav_title: Talent Development
 自立化中学于2006年开办双文化课程以来，双文化课程一直都是我校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提升学生对学习东西文化的热忱，扎根本土，放眼世界。
 
 成立双文化领袖学研中心，是为整合现有课程活动，并加强我校双文化人才的遴选机制与培养计划。一个真正的双文化人，须具备三方面的知识与技能（简称“PAC”），缺一不可。
-<br clear="left"><br>
  
 双文化学研中心的课程活动设计，包含以下三大核心内容：
 
@@ -29,7 +28,6 @@ third_nav_title: Talent Development
 2.  华族历史文化鉴赏能力（**A**ppreciation of Chinese History, Culture and Values）
     
 3.  跨文化技能与环球知识（**C**ross-Cultural Skills and Global Awareness）
-<br clear="left"><br>
 
 通过丰富有趣的专题讨论，以及本地和海外的深度学习浸濡，学生能够切身体验东西文化的博大精深，成为游走于东西方的双语双文化人才。
 <br clear="left"><br>
@@ -65,7 +63,7 @@ BLA学生和与会嘉宾合照
 
 <img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla04.jpeg" align="left" style="width:70%">
 <br clear="left">
-双文化越南浸濡学习之旅访问新越工业园
+双文化越南浸濡学习之旅 访问新越工业园
 <br clear="left"><br>
  
 <img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla05.jpeg" align="left" style="width:70%">
@@ -73,6 +71,6 @@ BLA学生和与会嘉宾合照
 本地浸濡活动与印尼学生交流
 <br clear="left"><br>
 
-<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:70%">
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-bla06.jpg" align="left" style="width:70%"> 
 <br clear="left">
-双文化领袖学研中心研讨会主题分享会
+双文化领袖学研中心研讨会 主题分享会
