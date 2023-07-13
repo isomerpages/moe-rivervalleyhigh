@@ -7,7 +7,7 @@ third_nav_title: Signature Programmes
 立化中学是一所集特选、综合课程及自治于一身的学校，肩负着为新加坡培养双语双文化人才的重要使命。通过学校精心设计的课程，以及参与相关的语文及文化活动，学生可以体会丰富多彩的华文文化，借此提升自身的内涵与修养。
 
 
-![](https://lh4.googleusercontent.com/Gvjk1vxsyPtixubtauqyvM2QPM3KfEHh_JfXvbPNChxjh5awnmI6habCpu0ZVP9WOMDGqKnyUdtONSUF-svDDqx52vITO27By9g29B_CngzpkTp4qL4qTS19mGdQmnr-G_OjkKmGTwh7uByWsgZgdw)农历新年庆典校长们与咨询委员林大山先生合影   ![](https://lh6.googleusercontent.com/DArLnvq0sJYZ7_P9t_JSSrkyxmJmcQljXbevNcOOjA7APTmbM8brV-3Bo95_g_-m3L7K0-nlo7NWNpUf6wGURFOQtCBcbJNOq_gkXBlSRIT7SRVz48tu_BUDHAxiKb31NUQwycJm59vmocCAslo2rg)月下同行 齐齐提灯笼
+![](https://lh4.googleusercontent.com/Gvjk1vxsyPtixubtauqyvM2QPM3KfEHh_JfXvbPNChxjh5awnmI6habCpu0ZVP9WOMDGqKnyUdtONSUF-svDDqx52vITO27By9g29B_CngzpkTp4qL4qTS19mGdQmnr-G_OjkKmGTwh7uByWsgZgdw)农历新年庆典校长们与咨询委员林大山先生合影 &nbsp; ![](https://lh6.googleusercontent.com/DArLnvq0sJYZ7_P9t_JSSrkyxmJmcQljXbevNcOOjA7APTmbM8brV-3Bo95_g_-m3L7K0-nlo7NWNpUf6wGURFOQtCBcbJNOq_gkXBlSRIT7SRVz48tu_BUDHAxiKb31NUQwycJm59vmocCAslo2rg)月下同行 齐齐提灯笼
 
   
 
@@ -20,7 +20,7 @@ third_nav_title: Signature Programmes
 **立化特选计划旗舰项目（SAP Flagship Programme）**
 
 ![A person holding a red banner with writing on it
-Description automatically generated with low confidence](https://lh4.googleusercontent.com/8_Clxh18Ju9T2QZzS1EuvNzahZlmoNV81cQLmRHrKVfCOuEgFFxWIFDZxLwRiSbjU2T3LLXllgJQz4y1ej4po7Zzzcth4fVuz4uMSK6K3OnWReu4vPOSQxJ4taC6U-x2zikh-TOa6JryOuq-l-IuWA) 刘伟智副校长为中二年级挥春比赛开幕 ![A group of people posing for a photo in front of a statue
+Description automatically generated with low confidence](https://lh4.googleusercontent.com/8_Clxh18Ju9T2QZzS1EuvNzahZlmoNV81cQLmRHrKVfCOuEgFFxWIFDZxLwRiSbjU2T3LLXllgJQz4y1ej4po7Zzzcth4fVuz4uMSK6K3OnWReu4vPOSQxJ4taC6U-x2zikh-TOa6JryOuq-l-IuWA)&nbsp;刘伟智副校长为中二年级挥春比赛开幕 ![A group of people posing for a photo in front of a statue
 Description automatically generated with medium confidence](https://lh5.googleusercontent.com/aEesL-AsdMD6BXA30zf87sUs_KeimYxA-r9_vajraRzPT3bbIfncpL6ahPk02-ny__7D1B6fmu3ODU7GG1ukUTj_cN5auFQvjjo3kCMUAXfaYKVaJJbBDqvdE633wgiAXsyq3CH1k1jWTwOHKwqVVw) 晚晴园导览活动
 
 **1\. 格物致知学习课程（CID Programme）**
@@ -39,7 +39,7 @@ Description automatically generated with medium confidence](https://lh5.googleus
 
 立化成立华文校园广播站RVFM●课间好时光，以“青春之上，活力最强”为口号，让对华文广播感兴趣的学生在午餐时间，轮流为师生们提供最有活力的午餐广播。学生也借助社交平台，制作播客，与听众分享他们的阅读心得和生活感悟。
 
-![](https://lh3.googleusercontent.com/CV4QB2QcIrP-tnq-1vRkwvV9JsXKCRi5pTzpc7jVG7Fy2aBHF6D_N8fOz3dP3weMzHie7nKI4zUqFWS69UpWGrzpQdei-F6r8NIzgpkUdpkSCS6rDSaY2fT-pDp8wri07WqO6_gS89Svkg-YzmO8xQ)RVFM 广播员与部长面对面    ![](https://lh4.googleusercontent.com/dhvpw5b3vUM6ZACubcrZHcKpaFIJEkdcKiyvTJA9o6-5MOn4y1o-YpHn3T3JCokUSC6aZltf47UW3gaEyuKO46tlL--LRX7DSoIdfItGipJ4V43PWdgjpFBx3Ha6ZrGrUadQnSORoj_lKBUvsYeDvA)与经济部老师一同讨论《2023 财政预算案》
+![](https://lh3.googleusercontent.com/CV4QB2QcIrP-tnq-1vRkwvV9JsXKCRi5pTzpc7jVG7Fy2aBHF6D_N8fOz3dP3weMzHie7nKI4zUqFWS69UpWGrzpQdei-F6r8NIzgpkUdpkSCS6rDSaY2fT-pDp8wri07WqO6_gS89Svkg-YzmO8xQ)RVFM 广播员与部长面对面&nbsp; &nbsp; ![](https://lh4.googleusercontent.com/dhvpw5b3vUM6ZACubcrZHcKpaFIJEkdcKiyvTJA9o6-5MOn4y1o-YpHn3T3JCokUSC6aZltf47UW3gaEyuKO46tlL--LRX7DSoIdfItGipJ4V43PWdgjpFBx3Ha6ZrGrUadQnSORoj_lKBUvsYeDvA)与经济部老师一同讨论《2023 财政预算案》
   
 
 **3\. 跨文化、跨族群交流活动**
@@ -47,7 +47,7 @@ Description automatically generated with medium confidence](https://lh5.googleus
 身为一所特选中学，我校倡导开放包容的精神，维护新加坡多元文化社会的根本。特选计划课程除了继续肩负传承华族文化的责任，也拓展学生对国家多元文化的社会特色的充分认识。通过各种活动，让学生有机会跟不同背景的同辈交流，认识更多不同种族的朋友，为促进我国社会的凝聚力和融合尽一份力。
 
 ![A screenshot of a video conference
-Description automatically generated with low confidence](https://lh4.googleusercontent.com/ViBVbjGzsfmtrcOHu8Siwi5m1Qxp9aZg9yB-iE7jPOlPjrxqkyOQpq3Dc0IkExt1C44yvpddthJCEWsMjP0ksmkqA9twa3WHOlDM36rDUsHIGHW1p20G4HtodOLFUnOlzvKZyTONgLwMyIEcO8FUuQ)与JPJC MELP学生进行文化分享会     ![A screenshot of a video conference
+Description automatically generated with low confidence](https://lh4.googleusercontent.com/ViBVbjGzsfmtrcOHu8Siwi5m1Qxp9aZg9yB-iE7jPOlPjrxqkyOQpq3Dc0IkExt1C44yvpddthJCEWsMjP0ksmkqA9twa3WHOlDM36rDUsHIGHW1p20G4HtodOLFUnOlzvKZyTONgLwMyIEcO8FUuQ)与JPJC MELP学生进行文化分享会 &nbsp; &nbsp; ![A screenshot of a video conference
 Description automatically generated with medium confidence](https://lh6.googleusercontent.com/csCccyCps41IwM7VbyQGLc2rNqGyTefXT_iCS50dpM2VYw-LAhfJrjuXnJ44XG8_pISkwrAvnIhYNt1_c7tJ0Q9u29wZiHOfx_dp18njrDN91jc1Jc1jRvv2c_7VDWtlm8Q5S-ZIyZEQJ_BB4Gy6rg)与语文中心印族同胞进行文化交流
 
 
@@ -62,7 +62,15 @@ Description automatically generated with low confidence](https://lh6.googleuserc
 
 透过有系统的训练，让学生认识辩论，唇枪舌剑而不失风度，同时建立个人自信和一套正确的价值观；让学生从中学习到辩论技巧及逻辑思维策略，培养敏锐的时事触角。
 
-![](https://lh5.googleusercontent.com/hQ8rluLDVbKchG2lsmypoIexlznZopyZQ2DmEtMz__avzWD0_eln1NmSxAMQvvdbJt89X5OUxlzWkkMcUtvofIDKmqGYgdTO7KyTrqYTAO57vV5JBtgfhugHAHeABfUp-_SonlMyFgepxzh__LX6og) 创贤杯辩论比赛 冠军（中学组） ![](https://lh4.googleusercontent.com/OsKM4QqTVnSnXqvoGoiJ2EoQUyJUsRzwZAnGBjeVPVukSGksgA9Js_d76nk7vQiad1CHV_85YXraemv8kI7YbNhuKVzrVSHAZPtm_Ke1QD5XN3gli68WzzKLhvRNq89QRwvaZME3AiKz7GJiscpHig)创贤杯辩论比赛  冠军  (高中组)                  
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-sap15.jpeg" align="left" style="width:70%">
+<br clear="left">
+创贤杯辩论比赛 冠军 (中学组)
+<br clear="left"><br>&nbsp; &nbsp;
+
+<img src="https://www.rivervalleyhigh.moe.edu.sg/images/2023/Curriculum/2023-sap16.jpeg" align="left" style="width:70%">
+<br clear="left">
+创贤杯辩论比赛&nbsp;冠军 (高中组)
+<br clear="left"><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 **6\. 小作家课程**
 
@@ -72,5 +80,3 @@ Description automatically generated with low confidence](https://lh6.googleuserc
 **7\. 双文化幼苗计划**
 
 幼苗计划旨在培养学贯中西，通晓双语、具备国际视野的学生，此计划让双语能力优秀的学生参与一系列相关的培训活动，包括文化讲座、学习之旅、时事新闻课题讨论等，通过此平台拓展他们的能力。
-
-**
