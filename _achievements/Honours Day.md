@@ -11,6 +11,3 @@ description: ""
 [2022 Honours Day Booklet](/files/2022%20honours%20day%20booklet.pdf)
 
 [2023 Honours Day Booklet](https://indd.adobe.com/view/9e5d462a-7695-4d6b-a5c0-d162ee0fd966)
-
-
-
