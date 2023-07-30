@@ -4,8 +4,7 @@ title: River Valley High School
 description: A world-class institution that develops leaders of distinction for Singapore
 image: /images/photo_2022-12-22_18-20-23.jpg
 permalink: /
-notification: "Honours Day: RV will be celebrating our students' achievements on
-  Sat 29 Jul, 9am!"
+notification: ""
 sections:
   - hero:
       title: River Valley High School
