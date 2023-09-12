@@ -10,7 +10,13 @@ The Construct, Integrate and Differentiate (CID) Programme is one of the flagshi
 
 CID is designed as a four-year programme that provides RV students with opportunities to construct their learning by integrating knowledge from various disciplines and apply their learning to real-life situations.
 
-<img src="/images/photo1670418954.jpeg" style="width:85%"><br>
+![](/images/cid%201%20students%20trying%20out%20their%20vuca%20games.jpg) CID 1 students trying out their VUCA games
+
+![](/images/cid%202%20students%20having%20a%20virtual%20exchange%20with%20shanghai%20wei%20yu%20middle%20school.jpg) CID 2 students having a virtual exchange with Shanghai Wei Yu Middle School
+
+![](/images/cid%203%20students%20making%20prototype%20for%20their%20problem%20solving%20project.jpg) CID 3 students making prototype for their problem solving project
+
+![](/images/cid%204%20community%20module%20build-a-book%20project.JPG) CID 4 Community Module Build-a-Book project
 
 | Secondary | Programme | Description |
 |:---:|---|---|
@@ -21,7 +27,7 @@ CID is designed as a four-year programme that provides RV students with opportun
 |  |  |  |
 
 
-### CID 4+ Projects featured on 8world.com
+### CID 4 Projects featured on 8world.com
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="英式海南餐馆" src="https://www.youtube.com/embed/eU9fDBaYbyY" height="253" width="380"></iframe>
 
