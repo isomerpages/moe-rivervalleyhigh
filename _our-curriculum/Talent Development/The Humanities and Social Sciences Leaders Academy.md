@@ -16,13 +16,7 @@ The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS was conceived
 
 Through various platforms, HSSLA students gain insights in the multi-faceted field of the humanities and learn about issues that are pertinent to the human condition. The academy runs both teacher-led and student-led interdisciplinary modules that explore topics from what makes a humanist to ethical considerations in science. Students may also propose to lead a module on a topic of their choice and hone their leadership skills.
 
-<figure>
-<img style="width:70%" src="/images/humanities%20month_faultlines%20and%20bridges%202022.PNG">
-Theme of Humanities Month 2022</figure>
-
-<figure>
-<img style="width:70%" src="/images/kaleidoscope_humanities%20now%202023.PNG">
-Theme of Humanities Now! 2023</figure>
+![Humanities now ](/images/students%20participating%20in%20humanities%20now!%20activities.jpeg)*Students participating in Humanities Now!, a student-led school-wide event organised by HSSLA members*
 
 In 2023, HSSLA brought a group of students to Ireland and the U.K. for an Overseas Experential Learning Programme (OELP). Through opportunities such as these, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
 
