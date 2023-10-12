@@ -12,13 +12,13 @@ Throughout the course of history, the humanities have served to enrich and infor
 
 The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS was conceived to cater to students who have a passion to pursue further studies in the Humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
 
-![Learning Journey War HSSLA](/images/students%20engaged%20in%20a%20learning%20journey%20as%20part%20of%20the%20slam%20on%20war!!.JPG)Students engaged in a learning journey as part of a student-led module on war
+![Learning Journey War HSSLA](/images/students%20engaged%20in%20a%20learning%20journey%20as%20part%20of%20the%20slam%20on%20war!!.JPG)*Students engaged in a learning journey as part of a student-led module on war*
 
-Through various platforms, HSSLA students gain insights in the multi-faceted field of the humanities and learn about issues that are pertinent to the human condition. The academy runs both teacher-led and student-led interdisciplinary modules that explore topics from what makes a humanist to ethical considerations in science. Students may also propose to lead a module on a topic of their choice and hone their leadership skills.
+Through various platforms, HSSLA students gain insights in the multi-faceted field of the humanities and learn about issues that are pertinent to the human condition. The academy runs both teacher-led and student-led interdisciplinary modules that explore topics from "What is a humanist?" to ethical considerations in science. Students may also propose to lead a module on a topic of their choice and hone their leadership skills.
 
 ![Humanities now ](/images/students%20participating%20in%20humanities%20now!%20activities.jpeg)*Students participating in Humanities Now!, a student-led school-wide event organised by HSSLA members*
 
-In 2023, HSSLA brought a group of students to Ireland and the U.K. for an Overseas Experential Learning Programme (OELP). Through opportunities such as these, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
+In 2023, HSSLA brought a group of students to Ireland and the U.K. for an Overseas Experential Learning Programme (OELP). Through such opportunities, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
 
 ![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry Derry*
 
