@@ -17,19 +17,162 @@ third_nav_title: Junior College
 *   The MOE-CAMBRIDGE H3 programme provides students with diverse learning opportunities for in-depth study. The syllabus of a H3 subject offered at 'A' level can be found online at the following URL: [https://www.seab.gov.sg](https://www.seab.gov.sg)
 *   The H3 programmes offered by MOE Partners (such as NUS, NTU and SMU) may take the modes of an extended research essay or a university-taught course.
 
-##### Table 1: MOE-Cambridge and MOE Partner H3 programmes
-
-| **Pre-requisite**<br>**H2 subjects** | **MOE-Cambridge H3 programmes / Subject Code** | **MOE Partner H3 programmes (NTU)** | **MOE-Partner H3 programmes (NUS)** | **MOE-Partner H3 programmes (SMU)** | **Language Medium** |
-|---|---|---|---|---|---|
-| **H2 Mathematics** | **Mathematics / 9820** |  |  |  | **English** |
-| **H2 Physics** | **H2 Physics** | **NTU Semiconductor Physics and Devices** |  |  | **English** |
-| **H2 Chemistry** | **Chemistry**&nbsp;**/ 9813** |  |  |  | **English** |
-| **H2 Biology** | **Biology / 9816** | **NTU Molecular Biology** |  |  | **English** |
-| **H2 Biology/ Chemistry/ Physics** |  | **NTU Nanyang Research**<br><br>**(started in mid 2022)** | **NUS-MOE Science Research (started in mid 2022)** |  | **English** |
-| **H2 Literature in English** | **Literature in English**<br><br>**/ 9805** |  | **NUS-MOE Humanities &amp; Social Science Research (ELit)** |  | **English** |
-| **H2 Economics/History/Geography/Chinese Language &amp; Literature** |  |  | **NUS-MOE Humanities &amp; Social Science Research (Econs/Hist/ Geo/CLL)** | **SMU Game Theory**<br><br>**(Econs)** | **English;**<br><br>**Chinese (for CLL)** |
-| **H2 Geography / History** | **History / 9823** |  | **NUS Geopolitics: Geographies of War and Peace** |  | **English** |
-|  |  |  |  |  |  |
+<p style="margin:0in;font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;text-align:justify;"><strong><span style="font-size:13px;color:black;">Table 1:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MOE-Cambridge and MOE Partner H3 programmes</span></strong></p>
+<table style="float: left;width: 5.2e+2pt;border: none;border-collapse:collapse;margin-left:6.75pt;margin-right:6.75pt;">
+    <tbody>
+        <tr>
+            <td style="width: 97.65pt;border: 1pt solid black;background: rgb(23, 54, 93);padding: 0.75pt 5.25pt 0in;height: 41.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">Pre-requisite</span></p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">H2 subjects</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(23, 54, 93);padding: 0.75pt 5.25pt 0in;height: 41.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">MOE-Cambridge H3 programmes / Subject Code</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(23, 54, 93);padding: 0.75pt 5.25pt 0in;height: 41.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">MOE Partner H3 programmes (NTU)</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(23, 54, 93);padding: 0.75pt 5.25pt 0in;height: 41.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">MOE-Partner H3 programmes (NUS)</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(23, 54, 93);padding: 0.75pt 5.25pt 0in;height: 41.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">MOE-Partner H3 programmes (SMU)</span></p>
+            </td>
+            <td style="width: 53.05pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(23, 54, 93);padding: 0.75pt 5.25pt 0in;height: 41.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:white;">Language Medium</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:97.65pt;border:solid black 1.0pt;border-top:none;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Mathematics</p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#CCFF99;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">Mathematics / 9820</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width:53.05pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:97.65pt;border:solid black 1.0pt;border-top:none;padding:.75pt 5.25pt 0in 5.25pt;height:38.8pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Physics</p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#CCFF99;padding:.75pt 5.25pt 0in 5.25pt;height:38.8pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">Physics / 9814</span></p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#FFCCFF;padding:.75pt 5.25pt 0in 5.25pt;height:38.8pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NTU Semiconductor Physics and Devices</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 38.8pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">&nbsp;</p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 38.8pt;vertical-align: top;"><br></td>
+            <td style="width:53.05pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt 5.25pt 0in 5.25pt;height:38.8pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:97.65pt;border:solid black 1.0pt;border-top:none;padding:.75pt 5.25pt 0in 5.25pt;height:.4in;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Chemistry</p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#CCFF99;padding:.75pt 5.25pt 0in 5.25pt;height:.4in;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">Chemistry</span><span style="color:black;">&nbsp;</span><span style="color:black;">/ 9813</span></p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#A6A6A6;padding:.75pt 5.25pt 0in 5.25pt;height:.4in;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 0.4in;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 0.4in;vertical-align: top;"><br></td>
+            <td style="width:53.05pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt 5.25pt 0in 5.25pt;height:.4in;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:97.65pt;border:solid black 1.0pt;border-top:none;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Biology</p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#CCFF99;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">Biology / 9816</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width:53.05pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:97.65pt;border:solid black 1.0pt;border-top:none;padding:.75pt 5.25pt 0in 5.25pt;height:43.75pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Biology/ Chemistry/ Physics</p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#A6A6A6;padding:.75pt 5.25pt 0in 5.25pt;height:43.75pt;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 43.75pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NTU Nanyang Research</span></p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">(started in mid 2023)</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 43.75pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NUS-MOE Science Research (started in mid 2023)</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 43.75pt;vertical-align: top;"><br></td>
+            <td style="width:53.05pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt 5.25pt 0in 5.25pt;height:43.75pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:97.65pt;border:solid black 1.0pt;border-top:none;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Literature in English</p>
+            </td>
+            <td style="width:92.65pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:#CCFF99;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">Literature in English</span></p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">/ 9805</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(245, 202, 250);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NUS-MOE Humanities &amp; Social Science Research (ELit)</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 30.05pt;vertical-align: top;"><br></td>
+            <td style="width:53.05pt;border-top:none;border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt 5.25pt 0in 5.25pt;height:30.05pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 97.65pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Economics/ History/Geography/Chinese Language &amp; Literature</p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NUS-MOE Humanities &amp; Social Science Research (Hist/ Geo/CLL)</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">SMU Game Theory</span></p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">(Econs)</span></p>
+            </td>
+            <td style="width: 53.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English;</p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">Chinese (for CLL)</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 97.65pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0.75pt 5.25pt 0in;height: 49.8pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H2 Geography/ History</p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(204, 255, 153);padding: 0.75pt 5.25pt 0in;height: 49.8pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">History / 9823</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 49.8pt;vertical-align: top;"><br></td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 49.8pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NUS Geopolitics: Geographies of War and Peace &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 49.8pt;vertical-align: top;"><br></td>
+            <td style="width: 53.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.25pt 0in;height: 49.8pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">English</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="margin:0in;font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;text-align:justify;"><strong><span style="font-size:13px;color:black;">&nbsp;</span></strong></p>
+<p style="margin:0in;font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;text-align:justify;"><strong><span style="font-size:13px;color:black;">&nbsp;</span></strong></p>
 
 #### ADMISSION CRITERIA AND TIMEFRAME FOR MOE PARTNER H3 PROGRAMMES
 
@@ -50,7 +193,8 @@ The admission criteria and timeframe for MOE Partner H3 programmes is shown in T
 |  |  |  |  |
 
 \* Timeframe is subject to changes by the relevant Universities<br>
-\* Student [attendance policy ](/files/Attendance%20Guidelines_Sep%202018.pdf) offered by MOE Partners.
+\* Student&nbsp;[attendance policy](https://staging.d27a28nqo6ie0z.amplifyapp.com/files/Attendance%20Guidelines_Sep%202018.pdf)&nbsp;offered by MOE Partners.
+
 
 #### HIGHER 3 GRADING SYSTEM
 
@@ -86,24 +230,85 @@ Withdrawal of&nbsp; students after the start of instruction:
 | MOE Partner H3 Programme | Syllabus |
 |---|---|
 | **NTU** | * **[Online Application Form](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications)** |
-| **NUS** | * **[Module Information](/files/NUS%20H3%20Programme%20Synopsis%20-%20Sem%202%20AY2022-23.pdf)**<br> * **[Application Instructions](/files/Userguide-for-local-ng-application-system.pdf)**<br> * **[Programme Timetable ](/files/NUS%20H3%20Programme%20Timetable%20-%20Sem%202%20AY2022-23.pdf)** |
-| **SMU** | * **[Application Form](/files/H3_Application_Form%202023.pdf)** |
+| **NUS** | * [Module Information](/files/nus%20h3%20programme%20synopsis%20-%20sem%202%20ay2023-24%20(module%20info).pdf)<br>*[Programme Timetable](/files/nus%20h3%20programme%20timetable%20-%20sem%202%20ay2023-24%20(progrmme%20timetable).pdf)<br> *[Application Instructions](/files/userguide-for-local-ng-application-system%20(application%20instructions).pdf)<br> 
+| **SMU** | *[Application Form](/files/smu_h3_application_form%202024.pdf)  |
 |  |  |
 
 #### Application Timeline
 
-Table 3: Application Timeline
+<table style="width: 100%;border: none;border-collapse:collapse;">
+    <thead>
+        <tr>
+            <td style="width:19.68%;border:solid black 1.0pt;border-right:   none;background:#002060;padding:0in 5.4pt 0in 5.4pt;height:13.65pt;">
+                <p style="margin:0in;font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;text-align:center;"><strong><span style="font-size:13px;color:white;">Date</span></strong></p>
+            </td>
+            <td style="width:80.32%;border:solid black 1.0pt;border-right:   none;background:#002060;padding:0in 5.4pt 0in 5.4pt;height:13.65pt;">
+                <p style="margin:0in;font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;text-align:center;"><strong><span style="font-size:13px;color:white;">Activity</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 19.68%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">13 Oct 2023</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">Publicise H3 programmes (MOE-UCLES and&nbsp;MOE Partner) and open for application for 2023.</p>
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><em>Students sign up with school’s H3 coordinator using RVHS H3 Application Form &amp; RVHS Online H3 Application.</em></p>
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><em>If applying to NUS/NTU/SMU, fill in their (online) applications as well.</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 19.68%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">20 Oct 2023</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">RVHS Close applications.&nbsp;</p>
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">H3 coordinator to process and submit all documents to NUS, NTU, SMU.</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:19.68%;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.65pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">17 Nov 2023</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">MOE partners (NUS, NTU, SMU) offer admission letters to <em>successful applicants</em> through schools/JCs.</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:19.68%;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.65pt;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">24 Nov 2023</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">Deadline for acceptance of offers for MOE Partner H3 Programme</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 19.68%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">Week 2 and 3 of Jan 2024</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">Check with JC2 Subject Tutor successful application for MOE-Cambridge modules.</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 19.68%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">NUS, NTU, SMU</p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">&nbsp;– Jan 2024</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">Start of instruction/Start of withdrawal period for NUS, NTU, SMU Programme.</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 19.68%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">2 weeks after start of instruction&nbsp;</p>
+            </td>
+            <td style="width: 80.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.65pt;vertical-align: top;">
+                <p style="margin:0in;text-align:justify;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;">End of withdrawal period.</p>
+            </td>
+        </tr>
+    </thead>
+</table>
 
-| **Date** | **Activity**|
-|---|---|
-| 14 Oct 2022 | Publicise H3 programmes (MOE-UCLES and MOE Partner) and open for application for 2023.<br><br>Students sign up with school’s H3 coordinator using RVHS H3 Application Form &amp; RVHS Online H3 Application.<br><br>If applying to NUS/NTU/SMU, fill in their (online) applications as well. |
-| 21 Oct 2022 | RVHS Close applications.<br><br>H3 coordinator to process and submit all documents to NUS, NTU, SMU |
-| 18 Nov 2022 | MOE partners (NUS, NTU, SMU) offer admission letters to successful applicants through schools/JCs. |
-| 25 Nov 2022 | Deadline for acceptance of offers for MOE Partner H3 Programme. |
-| Week 2 and 3 of Jan 2023 | Check with JC2 Subject Tutor successful application for&nbsp; MOE-Cambridge modules. |
-| NUS, NTU, SMU<br><br>&nbsp;-Jan 2023 | Start of instruction/Start of withdrawal period for NUS, NTU, SMU Programme. |
-| 2 weeks after start of instruction | End of withdrawal period. |
-|  |  |
 
 #### FAQs on H3 Programme
 
