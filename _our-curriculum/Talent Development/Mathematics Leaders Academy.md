@@ -6,13 +6,15 @@ third_nav_title: Talent Development
 ---
 ### Mathematics Leaders Academy
 
-![MLA Logo](/images/mla%20logo%20(final%20without%20bg).png)
+<figure>
+<img src="/images/mla%20logo%20(final%20without%20bg).png" style="width:60%">
+</figure>
 
-The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
+The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&amp;i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
  
 #### Broad-based Learning
 
-Students’ perspectives are broadened through enrichment workshops conducted in-house or by external speakers, as well as learning journeys designed to enhance their mathematical learning experience. There are also opportunities for student-directed research where students engage in self-initiated learning to explore, discover, construct knowledge and apply their mathematical understanding in areas of their interest. 
+Students’ perspectives are broadened through enrichment workshops conducted in-house or by external speakers, as well as learning journeys designed to enhance their mathematical learning experience. There are also opportunities for student-directed research where students engage in self-initiated learning to explore, discover, construct knowledge and apply their mathematical understanding in areas of their interest.&nbsp;
 
 ![Sharing session by MLA Alumni](/images/sharing%20session%20by%20mla%20alumni.jpg)Sharing session by MLA alumni
 
@@ -31,9 +33,8 @@ Rigorous training is conducted to equip students with higher-order critical thin
 
 #### Leadership Development
 
-Students have the opportunity to hone their leadership skills through leading, planning and implementing events such as the River Valley Mathematics Challenge, the Mathematics department’s key student-centered event organised for primary school students. MLA further promotes student agency though MyMLA, a leadership platform that empowers students to propose bottom-up initiatives which they are passionate in, to lead and take charge. As students value-create in support of MLA’s objectives, they also find greater purpose as contributing members of the academy. 
+Students have the opportunity to hone their leadership skills through leading, planning and implementing events such as the River Valley Mathematics Challenge, the Mathematics department’s key student-centered event organised for primary school students. MLA further promotes student agency though MyMLA, a leadership platform that empowers students to propose bottom-up initiatives which they are passionate in, to lead and take charge. As students value-create in support of MLA’s objectives, they also find greater purpose as contributing members of the academy.&nbsp;
 
 ![river valley mathematics 2023](/images/river%20valley%20mathematics%20challenge%202023%20organised%20by%20sec%204%20mla%20members.jpg) River Valley Mathematics Challenge 2023 organised by Sec 4 MLA members
 
  ![MLA workshop on python programming](/images/senior%20mla%20members%20conducted%20a%20workshop%20on%20python%20programming%20for%20sec%202%20juniors.jpg) Senior MLA members conducted a workshop on Python Programming for Sec 2 juniors
-
