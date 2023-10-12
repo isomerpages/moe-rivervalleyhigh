@@ -6,7 +6,7 @@ third_nav_title: Talent Development
 ---
 ## The Humanities and Social Sciences Leaders Academy
 
-<figure><img style="width:80%" src="/images/hssla%20logo.png"></figure>
+<figure><img style="width:60%" src="/images/hssla%20logo.png"></figure>
 
 Throughout the course of history, the humanities have served to enrich and inform society, and provide the context in which policy and technological innovations can advance meaningfully. In addition, the humanities and social sciences also have an important role to play in the development of critical and independent thinking as learners grapple with changing contexts, shifting viewpoints and intricate philosophies. 
 
