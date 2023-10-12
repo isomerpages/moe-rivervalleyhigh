@@ -10,7 +10,7 @@ third_nav_title: Talent Development
 
 Throughout the course of history, the humanities have served to enrich and inform society, and provide the context in which policy and technological innovations can advance meaningfully. In addition, the humanities and social sciences also have an important role to play in the development of critical and independent thinking as learners grapple with changing contexts, shifting viewpoints and intricate philosophies. 
 
-The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS was conceived to cater to students who have a passion to pursue further studies in the Humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
+The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS was conceived to cater to students who have a passion to pursue further studies in the humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
 
 ![Learning Journey War HSSLA](/images/students%20engaged%20in%20a%20learning%20journey%20as%20part%20of%20the%20slam%20on%20war!!.JPG)*Students engaged in a learning journey as part of a student-led module on war*
 
