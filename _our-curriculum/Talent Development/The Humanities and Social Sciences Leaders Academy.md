@@ -20,7 +20,7 @@ Through various platforms, HSSLA students gain insights in the multi-faceted fie
 
 In 2023, HSSLA brought a group of students to Ireland and the U.K. for an Overseas Experential Learning Programme (OELP). Through such opportunities, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
 
-![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry Derry*
+![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry*
 
 ![Enjoying life and writing poems in Dublin](/images/enjoying%20life%20and%20writing%20poems%20in%20dublin%202023.jpeg)*Enjoying life and writing poems in Dublin*
 
