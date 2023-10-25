@@ -10,7 +10,7 @@ third_nav_title: Talent Development
 
 Throughout the course of history, the humanities have served to enrich and inform society, and provide the context in which policy and technological innovations can advance meaningfully. In addition, the humanities and social sciences also have an important role to play in the development of critical and independent thinking as learners grapple with changing contexts, shifting viewpoints and intricate philosophies. 
 
-The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS was conceived to cater to students who have a passion to pursue further studies in the humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
+The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS seeks to deepen students' understanding of the humanities and social sciences and to cater to those who have a passion to pursue further studies in the humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
 
 ![Learning Journey War HSSLA](/images/students%20engaged%20in%20a%20learning%20journey%20as%20part%20of%20the%20slam%20on%20war!!.JPG)*Students engaged in a learning journey as part of a student-led module on war*
 
@@ -20,7 +20,7 @@ Through various platforms, HSSLA students gain insights in the multi-faceted fie
 
 In 2023, HSSLA brought a group of students to Ireland and the U.K. for an Overseas Experential Learning Programme (OELP). Through such opportunities, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
 
-![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry Derry*
+![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry*
 
 ![Enjoying life and writing poems in Dublin](/images/enjoying%20life%20and%20writing%20poems%20in%20dublin%202023.jpeg)*Enjoying life and writing poems in Dublin*
 
