@@ -12,6 +12,14 @@ sections:
       subtitle: A world-class institution that develops leaders of distinction for
         Singapore
   - infopic:
+      title: Open House
+      subtitle: 18 Nov 2023 (Sat)
+      id: infopic
+      description: Join us for live performances, campus tours, academic & CCA booths,
+        and a School Leader's talk (10am)!
+      image: /images/open house sec 2023 pic.JPG
+      alt: RVHS Open House 18 Nov
+  - infopic:
       title: Sports
       subtitle: National School Games
       description: Congratulations to our student athletes for their stellar
