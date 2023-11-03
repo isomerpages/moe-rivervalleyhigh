@@ -13,8 +13,10 @@ sections:
         Singapore
   - infopic:
       title: Open House
+      subtitle: 18 Nov 2023 (Sat)
       id: infopic
-      description: 18 Nov 2023 (Sat)
+      description: Join us for live performances, campus tours, academic & CCA booths,
+        and a School Leader's talk (10am)!
       image: /images/motd pic for website_open house sec 2023.png
       alt: RVHS Open House 18 Nov
   - infopic:
