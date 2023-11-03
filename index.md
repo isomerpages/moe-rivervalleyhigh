@@ -17,7 +17,7 @@ sections:
       id: infopic
       description: Join us for live performances, campus tours, academic & CCA booths,
         and a School Leader's talk (10am)!
-      image: /images/motd pic for website_open house sec 2023.png
+      image: /images/open house sec 2023 pic.JPG
       alt: RVHS Open House 18 Nov
   - infopic:
       title: Sports
