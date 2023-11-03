@@ -13,7 +13,6 @@ sections:
         Singapore
   - infopic:
       title: Open House
-      subtitle: Add an image and text
       id: infopic
       description: 18 Nov 2023 (Sat)
       image: /images/motd pic for website_open house sec 2023.png
