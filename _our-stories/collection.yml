@@ -2,8 +2,8 @@ collections:
   our-stories:
     output: true
     order:
-      - RV Events.md
       - RV67 Art Exhibition.md
       - RV65.md
       - RV60.md
+      - RV Events.md
       - 立化情 • RV Songs.md
