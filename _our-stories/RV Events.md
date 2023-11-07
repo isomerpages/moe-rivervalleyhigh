@@ -14,7 +14,7 @@ Read about what's happening in RV on RVTribune, a publIcation run by the Student
 
 ![](/images/reviewatrvhs.PNG)
 
-Interested in Student Life at RV? Watch our videos on the official YouTube channel of the Students' Council:![]
+Interested in Student Life at RV? Watch our videos on the official YouTube channel of the Students' Council:
 https://www.youtube.com/@ReViewAtRVHS
 
 ----------------
