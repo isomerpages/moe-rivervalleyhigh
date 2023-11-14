@@ -9,6 +9,45 @@ third_nav_title: Scholarship Recipients
 
 ### [A] Graduated Students
 
+#### Public Service Commission (Psc) Scholarship (Open) 2023  
+Phua Jun Hao (21J08)  
+Gan Chee Joon (21J08)  
+  
+#### Ministry Of Education (Moe) Teaching Award 2023  
+Zhang Chuying (20J18)  
+Li Yingying (19J15)  
+Ong Xue Ren (19J04)  
+Irene Ti Li Ling (18J16)  
+  
+#### Ministry Of Education (Moe) Teaching Scholarship 2023  
+Chua Yin Ern (21J13)  
+  
+#### Ministry Of Health Holdings (Mohh) Healthcare Merit Award (Mid-Term) 2023  
+See Jia Xuan, Charmaine (20J09)  
+  
+#### Ministry Of Health Holdings (Mohh) Healthcare Merit Award (Full-Term) 2023  
+Su Ki Fui Phoebe (21J17)  
+  
+#### Ministry Of Home Affairs Civilian Scholarship (Intelligence) 2022  
+Hoo Yu Shing (19J12)  
+  
+#### Ministry Of Home Affairs Civilian Scholarship (Science And Technology) 2022  
+Tng Yan Ning Jamie (20J02)  
+  
+#### Singapore Armed Forces (Saf) Merit Scholarship 2022  
+Ngiow Han Bin (19J07)  
+  
+#### Smart Nation Scholarship 2022  
+Zhuo Huangyi (20J10)  
+  
+#### Singapore Industry (Sg-Is) Mid-Term Scholarship 2022  
+Liu Ziyu (18J11)  
+Xu Hao (6H’2016)  
+  
+#### Singapore Industry (Sg-Is) Full Term Scholarship 2022  
+Wong Qi Qi (20J01)  
+Ho Wan Sing (20J12)
+
 ### [B] Current Students
 
 #### MOE Engineering &amp; Technology Programme Scholarship (ETPS)
@@ -25,12 +64,12 @@ third_nav_title: Scholarship Recipients
 |---|---|
 | Zong Yi (4A) <br> Tan Zi Jun (4A) <br> Lai Xin Yan (4A) <br> Soh Zhi Qian (4A) <br> Teo Shen Han (4A) <br> Loh Zheng Xiang (4A) <br> Ong En Yi, Seifer (4A) <br> Chong Chee Wen (4A) <br> | So Yixuan, Melody (4A) <br> Christine Chuah Hui Qi (4A) <br> Shernice Phang Kai Xuan (4A) <br> Lim En Qi (4C) <br> Chng Qian Hui (4C) <br> Sim Jia Ying, Shanice (4C) <br> Xing Zian (4I) <br> Ong Kai Jie, Keegan (4I) <br>|
 
-#### Agency for Science, Technology &amp; Research Science Award (Junior College) 2022
+##### Agency for Science, Technology &amp; Research Science Award (Junior College) 2022
 |  |
 |---|
 | Tan Beng Yang (22J02) <br> Vera Ng Jing Wen (22J02) <br> Soh Wei Kean, Adrina (22J02) <br> |
 
-#### Young Defence Scientists Programme (YDSP) Scholarship
+##### Young Defence Scientists Programme (YDSP) Scholarship
 
 <img src="/images/2023/Achievements/2023_YDSP_Scholarship.jpg" style="width:60%" align="left">
 
@@ -38,7 +77,7 @@ third_nav_title: Scholarship Recipients
 |---|
 | Toh Rui Shey Dylan (3E) <br>|
 
-#### Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
+##### Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
 <img src="/images/2023/Achievements/2023_DSTA_Scholarship.jpg" style="width:60%" align="left">
 
