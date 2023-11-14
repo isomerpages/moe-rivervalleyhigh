@@ -66,6 +66,21 @@ Zhuo Huangyi (20J10)
 
 ### [B] Current Students
 
+##### 2022 Ministry of Education (MOE) Pre-University Scholarship  
+|  |  |
+|---|---|
+| Vera Ng Jing Wen (22J02) <br> Chua Yu Xin (22J03) <br> Lim Ser Hwee (22J19) <br> | Roxanne Lim Yu Tian (22J19) <br> Chyann Cheah Yu Han (22J20) <br> |
+
+##### 2023 MOE Bicultural Studies Programme Scholarship (Secondary)  
+|  |  |
+|---|---|
+| Luo Bei Ni (3F) <br> Tang Kexin (3F) <br> Wang Ruoxi (3F) <br> Lim Shu Xian (3F) <br> Ally Ho Min Xuan (3F) <br> Lau Jing Wun Ginny (3F) <br> Yap Xuan, Evangeline (3F) <br> Tang Yu Kun, Clarence (3F) <br> Eliana Huang Chuming (3F) <br> Wong Nee Cheng, Adelia (3F) <br> | Gu Jiale (3G) <br> Wang Xinyi (3G) <br> Chua Yi Tian (3G) <br> Tong Yuxuan (3G) <br> Chen Rouyan (3G) <br> Zhu Chengan (3G) <br> Huang Xiaosui (3G) <br> Chua Yee Tien (3G) <br> Lucas Wee Jing Sern (3G) <br> |  
+  
+##### 2023 MOE Bicultural Studies Programme Scholarship (Junior College)  
+|  |  |
+|---|---|
+| Geng Tong (23J08) | Doris Goh Kee Ying (23J14) |
+
 ##### 2023 MOE Engineering &amp; Technology Programme Scholarship (ETPS)
 
 <img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left">
@@ -91,7 +106,7 @@ Zhuo Huangyi (20J10)
 
 |  |
 |---|
-| Toh Rui Shey Dylan (3E) <br>|
+Toh Rui Shey Dylan (3E)
 
 ##### 2023 Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
@@ -108,3 +123,18 @@ Zhuo Huangyi (20J10)
 |  |  |
 |---|---|
 | Shi Yu Xiang (23J17) <br> | Chua Zhong Ding (23J17) <br>|
+
+##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (High Performance U18 Category)  
+|  |
+|---|
+Caleb Ng Bin Rong (2F)
+
+##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Secondary Category)  
+|  |
+|---|
+Shavonne Toh You Ting (4D)  
+  
+##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Tertiary Category)  
+|  |  |
+|---|---|
+| Ng Kai Li (23J05) <br> | Lee Si Lin (23J12) <br> |
