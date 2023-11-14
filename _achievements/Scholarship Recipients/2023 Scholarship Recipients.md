@@ -13,7 +13,7 @@ third_nav_title: Scholarship Recipients
 
 #### MOE Engineering &amp; Technology Programme Scholarship
 
-<img src="/images/2023/Achievements/2023_MOE_ETPS.jpg" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left">
 
 Lim Jun Chuan (23J08) <br>
 Chua Jia Rong (23J09) <br>
@@ -61,13 +61,13 @@ Soh Wei Kean, Adrina (22J02) <br clear="left">
 
 #### Young Defence Scientists Programme (YDSP) Scholarship
 
-<img src="/images/PSC.jpeg" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_YDSP_Scholarship.JPG" style="width:60%" align="left">
 
 Toh Rui Shey Dylan (3E) <br clear="left">
 
 #### Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
-<img src="/images/PSC.jpeg" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_DSTA_Scholarship.jpg" style="width:60%" align="left">
 
 Chen Qingyuan (23J10) <br>
 Wang Ting An (23J13) <br>
