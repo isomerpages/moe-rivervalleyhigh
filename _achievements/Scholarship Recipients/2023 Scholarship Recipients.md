@@ -5,18 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Scholarship Recipients
 ---
-\#### Public Service Commission (PSC) Scholarship
+## 2023 Scholarship Recipients
 
-<img src="/images/PSC.jpeg" style="width:60%" align="left">
+### [A] Graduated Students
 
-\*\*PSC Masters:\*\*&nbsp;
+### [B] Current Students
 
-Debbie Chew Yannie (Class of 2014)&nbsp; <br>
-
-\*\*PSC Scholarship:\*\*&nbsp;
-
-Lim Ren Jie (Class of 2019)&nbsp; <br>
-
-\*\*PSC Engineering:\*\*&nbsp;
-
-Chua Yao Xuan (Class of 2021)<br clear="left">
+#### Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
