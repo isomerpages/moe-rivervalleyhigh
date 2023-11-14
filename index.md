@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: River Valley High School
-      background: /images/66ffbc851_442.jpg
+      background: /images/School_Website_Banner_14nov2023_2.jpg
       subtitle: A world-class institution that develops leaders of distinction for
         Singapore
   - infopic:
