@@ -20,38 +20,38 @@ third_nav_title: Scholarship Recipients
 | Irene Ti Li Ling (18J16) <br> Ong Xue Ren (19J04) |  Li Yingying (19J15) <br> Zhang Chuying (20J18) |  
   
 ##### Ministry of Education (MOE) Teaching Scholarship 2023  
-|  |  |
-|---|---|
+|  |
+|---|
 Chua Yin Ern (21J13)  
   
 ##### Ministry of Health Holdings (MOHH) Healthcare Merit Award (Mid-Term) 2023  
-|  |  |
-|---|---|
+|  |
+|---|
 See Jia Xuan, Charmaine (20J09)  
   
 ##### Ministry of Health Holdings (MOHH) Healthcare Merit Award (Full-Term) 2023  
-|  |  |
-|---|---|
+|  |
+|---|
 Su Ki Fui Phoebe (21J17)  
   
 ##### Ministry of Home Affairs Civilian Scholarship (Intelligence) 2022  
-|  |  |
-|---|---|
+|  |
+|---|
 Hoo Yu Shing (19J12)  
   
 ##### Ministry of Home Affairs Civilian Scholarship (Science &amp; Technology) 2022  
-|  |  |
-|---|---|
+|  |
+|---|
 Tng Yan Ning Jamie (20J02)  
   
 ##### Singapore Armed Forces (SAF) Merit Scholarship 2022  
-|  |  |
-|---|---|
+|  |
+|---|
 Ngiow Han Bin (19J07)  
   
 ##### SMART Nation Scholarship 2022  
-|  |  |
-|---|---|
+|  |
+|---|
 Zhuo Huangyi (20J10)  
   
 ##### Singapore Industry (SG-IS) Mid-Term Scholarship 2022  
@@ -81,8 +81,8 @@ Zhuo Huangyi (20J10)
 | Zong Yi (4A) <br> Tan Zi Jun (4A) <br> Lai Xin Yan (4A) <br> Soh Zhi Qian (4A) <br> Teo Shen Han (4A) <br> Loh Zheng Xiang (4A) <br> Ong En Yi, Seifer (4A) <br> Chong Chee Wen (4A) <br> | So Yixuan, Melody (4A) <br> Christine Chuah Hui Qi (4A) <br> Shernice Phang Kai Xuan (4A) <br> Lim En Qi (4C) <br> Chng Qian Hui (4C) <br> Sim Jia Ying, Shanice (4C) <br> Xing Zian (4I) <br> Ong Kai Jie, Keegan (4I) <br>|
 
 ##### Agency for Science, Technology &amp; Research Science Award (Junior College) 2022
-|  |
-|---|
+|  |  |
+|---|---|
 | Tan Beng Yang (22J02) <br> Vera Ng Jing Wen (22J02) <br> | Soh Wei Kean, Adrina (22J02) <br>|
 
 ##### Young Defence Scientists Programme (YDSP) Scholarship
