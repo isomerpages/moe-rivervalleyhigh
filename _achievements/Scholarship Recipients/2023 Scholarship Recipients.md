@@ -13,7 +13,7 @@ third_nav_title: Scholarship Recipients
 
 #### MOE Engineering &amp; Technology Programme Scholarship
 
-<img src="/images/PSC.jpeg" style="width:60%" align="left">
+<img src="/images/2023_MOE_ETPS.jpg" style="width:60%" align="left">
 
 Lim Jun Chuan (23J08) <br>
 Chua Jia Rong (23J09) <br>
