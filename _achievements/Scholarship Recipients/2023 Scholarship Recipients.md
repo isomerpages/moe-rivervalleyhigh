@@ -54,12 +54,12 @@ Ngiow Han Bin (19J07)
 |---|
 Zhuo Huangyi (20J10)  
   
-##### 2022 Singapore Industry (SG-IS) Mid-Term Scholarship
+##### 2022 Singapore Industry (SgIS) Mid-Term Scholarship
 |  |  |
 |---|---|
 | Liu Ziyu (18J11) | Xu Hao (2016: 6H) |  
   
-##### 2022 Singapore Industry (SG-IS) Full Term Scholarship
+##### 2022 Singapore Industry (SgIS) Full Term Scholarship
 |  |  |
 |---|---|
 | Wong Qi Qi (20J01) | Ho Wan Sing (20J12) |
