@@ -11,11 +11,36 @@ third_nav_title: Scholarship Recipients
 
 ### [B] Current Students
 
-#### MOE Engineering &amp; Technology Programme Scholarship
+#### MOE Engineering &amp; Technology Programme Scholarship (ETPS)
 
 <img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Lim Jun Chuan (23J08) <br>
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
+
+
+| 1 | ASK Foundation | Students enhance their understanding of competencies valued in the VUCA world and engage in everyday problem solving. |
+| 2 | Global Perspective | Students enhance their understanding and appreciation of Chinese culture and contemporary China. |
+| 3 | Problem Solving | Students engage in creative problem solving to address real-life problems. |
+| 4 | Independent Studies | Students engage in a year-long mentorship programme based on their interest or talent. |
+|  |  |  |
+
+ <br>
 Chua Jia Rong (23J09) <br>
 Chen Qingyuan (23J10) <br>
 Tang Tian Le (23J12) <br>
