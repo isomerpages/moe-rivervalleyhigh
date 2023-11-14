@@ -26,10 +26,9 @@ third_nav_title: Scholarship Recipients
 | Zong Yi (4A) <br> Tan Zi Jun (4A) <br> Lai Xin Yan (4A) <br> Soh Zhi Qian (4A) <br> Teo Shen Han (4A) <br> Loh Zheng Xiang (4A) <br> Ong En Yi, Seifer (4A) <br> Chong Chee Wen (4A) <br> | So Yixuan, Melody (4A) <br> Christine Chuah Hui Qi (4A) <br> Shernice Phang Kai Xuan (4A) <br> Lim En Qi (4C) <br> Chng Qian Hui (4C) <br> Sim Jia Ying, Shanice (4C) <br> Xing Zian (4I) <br> Ong Kai Jie, Keegan (4I) <br>|
 
 #### Agency for Science, Technology &amp; Research Science Award (Junior College) 2022
-
-Tan Beng Yang (22J02) <br>
-Vera Ng Jing Wen (22J02) <br>
-Soh Wei Kean, Adrina (22J02) <br clear="left">
+|  |
+|---|
+| Tan Beng Yang (22J02) <br> Vera Ng Jing Wen (22J02) <br> Soh Wei Kean, Adrina (22J02) <br> |
 
 #### Young Defence Scientists Programme (YDSP) Scholarship
 
