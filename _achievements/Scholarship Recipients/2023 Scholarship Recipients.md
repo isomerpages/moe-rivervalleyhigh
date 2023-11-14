@@ -23,37 +23,22 @@ third_nav_title: Scholarship Recipients
 <br>
 <br>
 
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-
-
-
-| 1 | ASK Foundation | Students enhance their understanding of competencies valued in the VUCA world and engage in everyday problem solving. |
-| 2 | Global Perspective | Students enhance their understanding and appreciation of Chinese culture and contemporary China. |
-| 3 | Problem Solving | Students engage in creative problem solving to address real-life problems. |
-| 4 | Independent Studies | Students engage in a year-long mentorship programme based on their interest or talent. |
-|  |  |  |
-
- <br>
-Chua Jia Rong (23J09) <br>
+|  |  |
+|:---:|---|
+| Chua Jia Rong (23J09) <br>
 Chen Qingyuan (23J10) <br>
 Tang Tian Le (23J12) <br>
 Ong Yi Qian (23J13) <br>
 Chan Si Yu, David (23J13) <br>
 Chan Xing Yu, James (23J13) <br>
-Lim Sing Yang Stanley (23J16) <br>
-Tan Yi Jun (23J17) <br>
+Lim Sing Yang Stanley (23J16) <br> 
+| Tan Yi Jun (23J17) <br>
 Yeo Su Gar (23J17) <br>
 Hong Wenqi (23J17) <br>
 Wang Ting An (23J17) <br>
 Goh Rou Hui Ashley (23J17) <br>
-Ng Shi Qing, Eugenia (23J17) <br clear="left">
+Ng Shi Qing, Eugenia (23J17) <br> |
+
 
 #### Agency for Science, Technology &amp; Research Science Award (Upper Secondary) 2022
 
