@@ -12,7 +12,7 @@ third_nav_title: Scholarship Recipients
 ##### Public Service Commission (PSC) Scholarship (Open) 2023  
 |  |  |
 |---|---|
-| Phua Jun Hao (21J08)  <br> Gan Chee Joon (21J08) |  
+| Phua Jun Hao (21J08) | Gan Chee Joon (21J08) |  
   
 ##### Ministry of Education (MOE) Teaching Award 2023  
 |  |  |
