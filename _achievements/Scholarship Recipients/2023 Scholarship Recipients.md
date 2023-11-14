@@ -9,57 +9,57 @@ third_nav_title: Scholarship Recipients
 
 ### [A] Graduated Students
 
-#### Public Service Commission (PSC) Scholarship (Open) 2023  
+##### Public Service Commission (PSC) Scholarship (Open) 2023  
 |  |  |
 |---|---|
 | Phua Jun Hao (21J08)  <br> Gan Chee Joon (21J08) |  
   
-#### Ministry of Education (MOE) Teaching Award 2023  
+##### Ministry of Education (MOE) Teaching Award 2023  
 |  |  |
 |---|---|
 | Irene Ti Li Ling (18J16) <br> Ong Xue Ren (19J04) |  Li Yingying (19J15) <br> Zhang Chuying (20J18) |  
   
-#### Ministry of Education (MOE) Teaching Scholarship 2023  
+##### Ministry of Education (MOE) Teaching Scholarship 2023  
 |  |  |
 |---|---|
 Chua Yin Ern (21J13)  
   
-#### Ministry of Health Holdings (MOHH) Healthcare Merit Award (Mid-Term) 2023  
+##### Ministry of Health Holdings (MOHH) Healthcare Merit Award (Mid-Term) 2023  
 |  |  |
 |---|---|
 See Jia Xuan, Charmaine (20J09)  
   
-#### Ministry of Health Holdings (MOHH) Healthcare Merit Award (Full-Term) 2023  
+##### Ministry of Health Holdings (MOHH) Healthcare Merit Award (Full-Term) 2023  
 |  |  |
 |---|---|
 Su Ki Fui Phoebe (21J17)  
   
-#### Ministry of Home Affairs Civilian Scholarship (Intelligence) 2022  
+##### Ministry of Home Affairs Civilian Scholarship (Intelligence) 2022  
 |  |  |
 |---|---|
 Hoo Yu Shing (19J12)  
   
-#### Ministry of Home Affairs Civilian Scholarship (Science &amp; Technology) 2022  
+##### Ministry of Home Affairs Civilian Scholarship (Science &amp; Technology) 2022  
 |  |  |
 |---|---|
 Tng Yan Ning Jamie (20J02)  
   
-#### Singapore Armed Forces (SAF) Merit Scholarship 2022  
+##### Singapore Armed Forces (SAF) Merit Scholarship 2022  
 |  |  |
 |---|---|
 Ngiow Han Bin (19J07)  
   
-#### SMART Nation Scholarship 2022  
+##### SMART Nation Scholarship 2022  
 |  |  |
 |---|---|
 Zhuo Huangyi (20J10)  
   
-#### Singapore Industry (SG-IS) Mid-Term Scholarship 2022  
+##### Singapore Industry (SG-IS) Mid-Term Scholarship 2022  
 |  |  |
 |---|---|
 | Liu Ziyu (18J11) | Xu Hao (2016: 6H) |  
   
-#### Singapore Industry (SG-IS) Full Term Scholarship 2022  
+##### Singapore Industry (SG-IS) Full Term Scholarship 2022  
 |  |  |
 |---|---|
 | Wong Qi Qi (20J01) | Ho Wan Sing (20J12) |
