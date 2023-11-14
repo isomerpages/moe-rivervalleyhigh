@@ -49,7 +49,7 @@ Tng Yan Ning Jamie (20J02)
 |---|
 Ngiow Han Bin (19J07)  
   
-##### 2022 SMART Nation Scholarship
+##### 2022 Smart Nation Scholarship
 |  |
 |---|
 Zhuo Huangyi (20J10)  
