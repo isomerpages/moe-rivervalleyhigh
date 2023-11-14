@@ -76,7 +76,7 @@ Chan Xing Yu, James (23J13) <br clear="left">
 
 #### Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 
-<img src="/images/2023/Achievements/2023_CSIT_Scholarship.jpg" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%" align="left">
 
 Shi Yu Xiang (23J17) <br>
 Chua Zhong Ding (23J17) <br clear="left">
