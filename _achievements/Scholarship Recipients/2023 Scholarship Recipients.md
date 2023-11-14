@@ -83,7 +83,7 @@ Zhuo Huangyi (20J10)
 ##### Agency for Science, Technology &amp; Research Science Award (Junior College) 2022
 |  |
 |---|
-| Tan Beng Yang (22J02) <br> Vera Ng Jing Wen (22J02) | Soh Wei Kean, Adrina (22J02) |
+| Tan Beng Yang (22J02) <br> Vera Ng Jing Wen (22J02) <br> | Soh Wei Kean, Adrina (22J02) <br>|
 
 ##### Young Defence Scientists Programme (YDSP) Scholarship
 
