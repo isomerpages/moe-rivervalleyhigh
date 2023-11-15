@@ -93,7 +93,7 @@ third_nav_title: Scholarship Recipients
 
 |  |  |
 |---|---|
-| Geng Tong (23J08) | Doris Goh Kee Ying (23J14) |
+| Geng Tong (23J08) <br> | Doris Goh Kee Ying (23J14) <br> |
 
 ##### 2023 MOE Engineering &amp; Technology Programme Scholarship (ETPS)
 
