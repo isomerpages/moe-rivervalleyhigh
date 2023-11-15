@@ -84,8 +84,8 @@ Zhuo Huangyi (20J10)
 ##### 2023 MOE Engineering &amp; Technology Programme Scholarship (ETPS)
 
 <figure><img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left"></figure>
-<br><br>
-<br><br>
+<br><br><br>
+<br><br><br>
 
 |  |  |
 |---|---|
