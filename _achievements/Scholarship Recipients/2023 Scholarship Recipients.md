@@ -97,7 +97,7 @@ Zhuo Huangyi (20J10)
 
 ##### 2022 Agency for Science, Technology &amp; Research (A*STAR) Science Award (Junior College)
 
-|  |  |
+|   |   |
 |---|---|
 | Tan Beng Yang (22J02) <br> Vera Ng Jing Wen (22J02) <br> | Soh Wei Kean, Adrina (22J02) <br> |
 
