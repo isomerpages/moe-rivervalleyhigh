@@ -2,10 +2,11 @@
 title: Principal’s Message
 permalink: /about-rv/pm/
 description: ""
+variant: markdown
 ---
 ## Principal’s Message
 
-<img src="/images/Mdm Choy Photo New.jpeg" style="width:49%" align="left">
+![Principal chatting with students](/images/School_Website_Banner_14nov2023_2.jpg)
 
 A very warm welcome to River Valley High School!  
   
