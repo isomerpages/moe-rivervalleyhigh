@@ -93,7 +93,7 @@ Zhuo Huangyi (20J10)
 
 |  |  |
 |---|---|
-| Zong Yi (4A) <br> Tan Zi Jun (4A) <br> Lai Xin Yan (4A) <br> Soh Zhi Qian (4A) <br> Teo Shen Han (4A) <br> Loh Zheng Xiang (4A) <br> Ong En Yi, Seifer (4A) <br> Chong Chee Wen (4A) <br> | So Yixuan, Melody (4A) <br> Christine Chuah Hui Qi (4A) <br> Shernice Phang Kai Xuan (4A) <br> Lim En Qi (4C) <br> Chng Qian Hui (4C) <br> Sim Jia Ying, Shanice (4C) <br> Xing Zian (4I) <br> Ong Kai Jie, Keegan (4I) <br>|
+| Zong Yi (4A) <br> Tan Zi Jun (4A) <br> Lai Xin Yan (4A) <br> Soh Zhi Qian (4A) <br> Teo Shen Han (4A) <br> Loh Zheng Xiang (4A) <br> Ong En Yi, Seifer (4A) <br> Chong Chee Wen (4A) <br> | So Yixuan, Melody (4A) <br> Christine Chuah Hui Qi (4A) <br> Shernice Phang Kai Xuan (4A) <br> Lim En Qi (4C) <br> Chng Qian Hui (4C) <br> Sim Jia Ying, Shanice (4C) <br> Xing Zian (4I) <br> Ong Kai Jie, Keegan (4I) <br> |
 
 ##### 2022 Agency for Science, Technology &amp; Research (A*STAR) Science Award (Junior College)
 
