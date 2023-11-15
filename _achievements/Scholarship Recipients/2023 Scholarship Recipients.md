@@ -107,15 +107,15 @@ Zhuo Huangyi (20J10)
 
 |  |
 |---|
-| Toh Rui Shey Dylan (3E) <br>|
+| Toh Rui Shey Dylan (3E) <br>| <br>
 
 ##### 2023 Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
-<img src="/images/2023/Achievements/2023_DSTA_Scholarship.jpg" style="width:60%" align="left"><br>
+<img src="/images/2023/Achievements/2023_DSTA_Scholarship.jpg" style="width:60%" align="left"> <br>
 
 |  |  |
 |---|---|
-| Chen Qingyuan (23J10) <br> Wang Ting An (23J13) <br> | Chan Si Yu, David (23J13) <br> Chan Xing Yu, James (23J13) <br> |
+| Chen Qingyuan (23J10) <br> Wang Ting An (23J13) <br> | Chan Si Yu, David (23J13) <br> Chan Xing Yu, James (23J13) <br> | <br>
 
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 
@@ -123,7 +123,7 @@ Zhuo Huangyi (20J10)
 
 |  |  |
 |---|---|
-| Shi Yu Xiang (23J17) <br> | Chua Zhong Ding (23J17) <br>|
+| Shi Yu Xiang (23J17) <br> | Chua Zhong Ding (23J17) <br>| <br>
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (High Performance U18 Category)  
 |  |
