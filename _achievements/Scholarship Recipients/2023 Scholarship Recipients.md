@@ -137,11 +137,8 @@ Toh Rui Shey Dylan (3E)
 Caleb Ng Bin Rong (2F)
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Secondary Category)  
-|  |
-|---|
+---
 Shavonne Toh You Ting (4D)  
   
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Tertiary Category)  
-|  |  |
-|---|---|
-| Ng Kai Li (23J05) <br> | Lee Si Lin (23J12) <br> |
+---| Ng Kai Li (23J05) <br> | Lee Si Lin (23J12) <br> |
