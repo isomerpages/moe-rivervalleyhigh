@@ -131,7 +131,6 @@ third_nav_title: Scholarship Recipients
 |---|---|
 | Chen Qingyuan (23J10) <br> Wang Ting An (23J13) <br> | Chan Si Yu, David (23J13) <br> Chan Xing Yu, James (23J13) <br> |
 
-<br>
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 <picture>
 <img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%" align="left"></picture>
