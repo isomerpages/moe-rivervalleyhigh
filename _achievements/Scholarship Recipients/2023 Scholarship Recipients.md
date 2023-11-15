@@ -16,9 +16,10 @@ third_nav_title: Scholarship Recipients
 | Phua Jun Hao (21J08) <br> | Gan Chee Joon (21J08) <br> |  
   
 ##### 2023 Ministry of Education (MOE) Teaching Award  
+
 |  |  |
 |---|---|
-| Irene Ti Li Ling (18J16) <br> Ong Xue Ren (19J04) |  Li Yingying (19J15) <br> Zhang Chuying (20J18) |  
+| Irene Ti Li Ling (18J16) <br> Ong Xue Ren (19J04) |  Li Yingying (19J15) <br> Zhang Chuying (20J18) <br> |  
   
 ##### 2023 Ministry of Education (MOE) Teaching Scholarship 
 |  |
