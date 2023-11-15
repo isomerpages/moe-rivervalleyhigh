@@ -131,6 +131,7 @@ Zhuo Huangyi (20J10)
 Caleb Ng Bin Rong (2F)
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Secondary Category)  
+
 |  |
 |---|
 | Shavonne Toh You Ting (4D) <br> |  
