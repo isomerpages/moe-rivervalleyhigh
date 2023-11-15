@@ -117,7 +117,7 @@ third_nav_title: Scholarship Recipients
 
 ##### 2023 Young Defence Scientists Programme (YDSP) Scholarship
 
-<img src="/images/2023/Achievements/2023_YDSP_Scholarship.jpg" style="width:60%" align="left"> <br>
+<img src="/images/2023/Achievements/2023_YDSP_Scholarship.jpg" style="width:60%" align="left">
 
 |  |
 |---|
