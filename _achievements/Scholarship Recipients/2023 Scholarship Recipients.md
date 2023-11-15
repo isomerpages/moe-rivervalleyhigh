@@ -137,7 +137,7 @@ third_nav_title: Scholarship Recipients
 
 |  |  |
 |---|---|
-| Shi Yu Xiang (23J17) <br> | Chua Zhong Ding** (23J17) <br> |
+| Shi Yu Xiang (23J17) <br> | Chua Zhong Ding12 (23J17) <br> |
 
 |  |  |
 |---|---|
