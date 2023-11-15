@@ -85,7 +85,7 @@ Zhuo Huangyi (20J10)
 
 <figure><img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left"></figure>
 <br><br>
-|  |  |
+<br><br>
 |  |  |
 |---|---|
 | Chua Jia Rong (23J09) <br> Chen Qingyuan (23J10) <br> Tang Tian Le (23J12) <br> Ong Yi Qian (23J13) <br> Chan Si Yu, David (23J13) <br> Chan Xing Yu, James (23J13) <br> Lim Sing Yang Stanley (23J16) <br> | Tan Yi Jun (23J17) <br> Yeo Su Gar (23J17) <br> Hong Wenqi (23J17) <br> Wang Ting An (23J17) <br> Goh Rou Hui Ashley (23J17) <br> Ng Shi Qing, Eugenia (23J17) <br> |
