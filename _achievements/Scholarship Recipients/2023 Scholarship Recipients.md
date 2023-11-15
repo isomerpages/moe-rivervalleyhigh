@@ -107,7 +107,7 @@ Zhuo Huangyi (20J10)
 
 |  |
 |---|
-Toh Rui Shey Dylan (3E)
+| Toh Rui Shey Dylan (3E) <br>|
 
 ##### 2023 Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
