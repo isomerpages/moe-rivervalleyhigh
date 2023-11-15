@@ -126,9 +126,10 @@ Zhuo Huangyi (20J10)
 | Shi Yu Xiang (23J17) <br> | Chua Zhong Ding (23J17) <br>| <br>
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (High Performance U18 Category)  
+
 |  |
 |---|
-Caleb Ng Bin Rong (2F)
+| Caleb Ng Bin Rong (2F) <br> |
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Secondary Category)  
 
