@@ -103,7 +103,7 @@ Zhuo Huangyi (20J10)
 
 ##### 2023 Young Defence Scientists Programme (YDSP) Scholarship
 
-<img src="/images/2023/Achievements/2023_YDSP_Scholarship.jpg" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_YDSP_Scholarship.jpg" style="width:60%" align="left"> <br>
 
 |  |
 |---|
@@ -111,7 +111,7 @@ Zhuo Huangyi (20J10)
 
 ##### 2023 Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
-<img src="/images/2023/Achievements/2023_DSTA_Scholarship.jpg" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_DSTA_Scholarship.jpg" style="width:60%" align="left"><br>
 
 |  |  |
 |---|---|
@@ -119,7 +119,7 @@ Zhuo Huangyi (20J10)
 
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 
-<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%" align="left">
+<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%" align="left"><br>
 
 |  |  |
 |---|---|
