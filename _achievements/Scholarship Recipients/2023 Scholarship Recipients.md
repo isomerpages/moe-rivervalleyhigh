@@ -122,10 +122,10 @@ third_nav_title: Scholarship Recipients
 |  |
 |---|
 | Toh Rui Shey Dylan (3E) <br> | <br>
-| <br> | <br> |
-| <br> | <br> |
-| <br> | <br> |
-| <br> | <br> |
+| <br> |
+| <br> |
+| <br> |
+| <br> |
 
 ##### 2023 Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
