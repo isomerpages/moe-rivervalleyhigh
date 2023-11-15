@@ -118,14 +118,12 @@ Zhuo Huangyi (20J10)
 | Chen Qingyuan (23J10) <br> Wang Ting An (23J13) <br> | Chan Si Yu, David (23J13) <br> Chan Xing Yu, James (23J13) <br> | <br>
 
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
-
 <p>
 <img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%" align="left"></p>
 
 |  |  |
 |---|---|
 | Shi Yu Xiang (23J17) <br> | Chua Zhong Ding (23J17) <br> |
-<p></p>
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (High Performance U18 Category)  
 
