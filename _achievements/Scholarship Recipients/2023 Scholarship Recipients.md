@@ -85,8 +85,7 @@ Zhuo Huangyi (20J10)
 
 |  |
 |---|---|
-|<img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left">|
-
+| <img src="/images/2023/Achievements/2023_MOE_ETPS.JPG" style="width:60%" align="left"> | <br>
 
 |  |  |
 |---|---|
