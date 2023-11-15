@@ -135,7 +135,7 @@ Caleb Ng Bin Rong (2F)
 Shavonne Toh You Ting (4D)  
   
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (Tertiary Category)  
+
 |  |  |
 |---|---|
 | Ng Kai Li (23J05) <br> | Lee Si Lin (23J12) <br> |
-|  |  |
