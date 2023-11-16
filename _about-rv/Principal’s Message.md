@@ -26,9 +26,9 @@ We strongly believe that our students have the capacity and potential for leader
   
 Let us forge ahead as we commemorate RV 67 and build a promising future for our students in the years to come!  
   
-**Choy Wai Yin (Mdm)  
-  
-**
+**Choy Wai Yin (Mdm)**
+**Principal**
+ 
 
 \-------
 
