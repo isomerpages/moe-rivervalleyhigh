@@ -133,11 +133,11 @@ third_nav_title: Scholarship Recipients
 
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 
-<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="max-width: 60%; height: auto; display: block;" align="left">
+<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="display: block;" align="left">
 
 |  |  |
 |---|---|
-| Shi Yu Xiang (23J17) <br> <br> <br> <br> | Chua Zhong Ding99 (23J17) <br> <br> <br> <br> |	
+| Shi Yu Xiang (23J17) <br> <br> <br> <br> | Chua Zhong Ding00 (23J17) <br> <br> <br> <br> |	
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (High Performance U18 Category)  
 
