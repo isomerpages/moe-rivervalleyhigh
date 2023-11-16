@@ -137,7 +137,7 @@ third_nav_title: Scholarship Recipients
 
 |  |  |
 |---|---|
-| Shi Yu Xiang (23J17) <br> <br> <br> <br> | Chua Zhong Ding88 (23J17) <br> <br> <br> <br> |	
+| Shi Yu Xiang (23J17) <br> <br> <br> <br> | Chua Zhong Ding99 (23J17) <br> <br> <br> <br> |	
 
 ##### 2023 Singapore Olympic Foundation - Peter Lim Scholarship (High Performance U18 Category)  
 
