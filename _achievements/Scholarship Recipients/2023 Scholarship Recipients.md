@@ -122,10 +122,6 @@ third_nav_title: Scholarship Recipients
 |  |
 |---|
 | Toh Rui Shey Dylan (3E) <br> | <br>
-| <br> |
-| <br> |
-| <br> |
-| <br> |
 
 ##### 2023 Defence Science &amp; Technology Agency (DSTA) Junior College Scholarship
 
@@ -134,10 +130,6 @@ third_nav_title: Scholarship Recipients
 |  |  |
 |---|---|
 | Chen Qingyuan (23J10) <br> Wang Ting An (23J13) <br> | Chan Si Yu, David (23J13) <br> Chan Xing Yu, James (23J13) <br> |
-| <br> | <br> |
-| <br> | <br> |
-| <br> | <br> |
-| <br> | <br> |
 
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 
