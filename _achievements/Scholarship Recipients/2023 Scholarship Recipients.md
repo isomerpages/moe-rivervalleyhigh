@@ -133,7 +133,7 @@ third_nav_title: Scholarship Recipients
 
 ##### 2023 Centre for Strategic Infocomm Technologies (CSIT) Computing Scholarship
 
-<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%; padding-bottom: 20px" align="left">
+<img src="/images/2023/Achievements/2023_CSIT_Scholarship.JPG" style="width:60%; height:auto; display: block;" align="left">
 
 |  |  |
 |---|---|
