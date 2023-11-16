@@ -2,6 +2,7 @@
 title: Outstanding Achievements
 permalink: /achievements/outstanding-achievements/
 description: ""
+variant: markdown
 ---
 ## Outstanding Achievements
 
@@ -36,7 +37,7 @@ National Best Sports Girl</b></center>
 
 <figure>
 <img src="/images/Best Sports Girl (Softball).jpg" style="width:90%">
-<figcaption>Chua Jia Ying, Charmaine  (2018)
+<figcaption>Chua Jia Ying, Charmaine&nbsp; (2018)
  </figcaption>
 </figure>
 
@@ -71,10 +72,10 @@ CFC Chia Zhen You (Class of 2016)</center>
  </figcaption>
 </figure>
 
-#### The Lee Hsien Loong Award  for Outstanding Bicultural Students
+#### The Lee Hsien Loong Award&nbsp; for Outstanding Bicultural Students
 
 <figure>
 <img src="/images/Shain.jpg" style="width:90%">
-<figcaption>Yeo Wei Shain(20J18)
+<figcaption>Yeo Wei Shain (20J18)
  </figcaption>
 </figure>
