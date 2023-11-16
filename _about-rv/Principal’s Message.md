@@ -30,7 +30,7 @@ Let us forge ahead as we commemorate RV 67 and build a promising future for our 
 **Principal**
  
 
-\-------
+-------
 
   
 
