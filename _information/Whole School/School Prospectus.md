@@ -7,4 +7,4 @@ variant: markdown
 ---
 ## School Prospectus
 
-[Download a PDF of our school prospectus (2023) here](/files/20231116_RVHS_Prospectus_2023_V2__4_.pdf)
+[Download a PDF of our school prospectus here](/files/20231116_RVHS_Prospectus_2023_V2__4_.pdf)
