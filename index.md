@@ -11,6 +11,10 @@ sections:
       background: /images/66ffbc851_442.jpg
       subtitle: A world-class institution that develops leaders of distinction for
         Singapore
+      key_highlights:
+        - title: RVHS Sec 1 Posting Exercise
+          description: Click here for more info
+          url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/
   - infopic:
       title: Sports
       subtitle: National School Games
