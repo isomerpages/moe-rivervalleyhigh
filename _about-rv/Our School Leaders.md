@@ -6,8 +6,6 @@ variant: markdown
 ---
 ## Our School Leaders
 
-<img src="/images/garden.jpeg" style="width:85%">
-
 ![](/images/SL1.jpg)
 
 From Left to Right:<br>
