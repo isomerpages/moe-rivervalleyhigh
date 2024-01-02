@@ -17,15 +17,15 @@ Upholding Virtues, Contributing to Society
 ----
 
 **School Vision**<br>
-Leaders of distinction for Singapore.
+Leaders of distinction for Singapore
 
 **学校愿景**<br>
-为国家培育卓越领袖的世界顶尖学府
+为国家培育卓越领袖
 
 ----
 
 **School Mission**<br>
-To nurture thinkers, leaders and achievers with bicultural acumen, good character and a global perspective.
+To nurture thinkers, leaders and achievers with bicultural acumen, good character and a global perspective
 
 **学校的使命**<br>
 培养品行端正，慎思明辨，融贯中西，具环球视野的国家栋梁
