@@ -10,7 +10,7 @@ sections:
       background: /images/BDD3EAAF_FB7E_4C30_9C6E_944C21F65240.jpeg
       key_highlights:
         - title: RVHS Sec 1 Posting Exercise
-          description: Click here for more info
+          description: ""
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/
         - title: JC Open House
           description: ""
