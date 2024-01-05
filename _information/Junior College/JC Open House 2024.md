@@ -6,3 +6,4 @@ description: RVHS JC Open House 2024
 image: /images/BE958F2F_25FA_4278_91BA_AAEA36691877.jpeg
 third_nav_title: Junior College
 ---
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE958F2F_25FA_4278_91BA_AAEA36691877.jpeg"></div><p>RVHS will be holding a JC Open House on 12 January from 9am to 12pm! </p><p></p><p></p>
