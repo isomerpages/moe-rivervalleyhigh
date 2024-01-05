@@ -13,6 +13,7 @@ sections:
           description: Click here for more info
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
+      button: Click here for more info
   - infopic:
       title: Sports
       subtitle: National School Games
