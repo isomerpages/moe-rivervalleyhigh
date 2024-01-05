@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/C7175BD4_A6B1_4D67_A292_E47C1A36DF66.jpeg
+      background: /images/BDD3EAAF_FB7E_4C30_9C6E_944C21F65240.jpeg
       key_highlights:
         - title: RVHS Sec 1 Posting Exercise
           description: Click here for more info
