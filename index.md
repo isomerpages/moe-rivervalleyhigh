@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RVHS_JC_Open_House_2024.jpeg
+      background: /images/C7175BD4_A6B1_4D67_A292_E47C1A36DF66.jpeg
       key_highlights:
         - title: RVHS Sec 1 Posting Exercise
           description: Click here for more info
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/
-        - title: JC Open House (12 Jan, 9-12pm)
+        - title: JC Open House
           description: Click here for more info
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
   - infopic:
