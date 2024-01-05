@@ -14,7 +14,7 @@ sections:
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/
         - title: JC Open House
           description: ""
-          url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
+          url: https://rivervalleyhigh.moe.edu.sg/information/junior-college/openhouse2024/
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
   - infopic:
       title: Sports
