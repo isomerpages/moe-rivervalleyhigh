@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: River Valley High School
-      background: /images/66ffbc851_442.jpg
-      subtitle: Leaders of distinction for Singapore
+      background: /images/RVHS_JC_Open_House_2024.jpeg
       key_highlights:
         - title: RVHS Sec 1 Posting Exercise
           description: Click here for more info
