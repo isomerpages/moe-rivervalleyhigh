@@ -15,6 +15,7 @@ sections:
         - title: JC Open House
           description: Click here for more info
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
+      url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
   - infopic:
       title: Sports
       subtitle: National School Games
