@@ -3,19 +3,6 @@ title: Contact Info
 permalink: /about-rv/Contact-Info/ci/
 description: ""
 third_nav_title: Contact Info
-variant: markdown
+variant: tiptap
 ---
-## Contact Info
-
-**River Valley High School**  <br>
-Address: 6 Boon Lay Avenue Singapore 649961<br>
-Telephone: 6567 8115<br>
-Fax: 6567 7351&nbsp;<br>
-Email:&nbsp;&nbsp;[rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg)&nbsp;(for general enquiries)
-
-**General Office Opening Hours**<br>
-Mondays to Fridays: 0700 to 1800 hrs (School is closed on Sat, Sun and public holidays)
-
-**Contact our staff**<br>
-School Management: 
-<br>[2024 RVHS Management Team Contact List](/files/2024_RVHS_Management_Team_Contact_List.pdf)
+<h2>Contact Info</h2><p><strong>River Valley High School</strong> <br>Address: 6 Boon Lay Avenue Singapore 649961<br>Telephone: 6567 8115<br>Fax: 6567 7351&nbsp;<br>Email:&nbsp;&nbsp;<a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>&nbsp;(for general enquiries)</p><p><strong>General Office Opening Hours</strong><br>Mondays to Fridays: 0700 to 1800 hrs (School is closed on Sat, Sun and public holidays)</p><p><strong>Contact our staff</strong></p><p><em>Form teachers/ Civic Tutors</em><br><a href="/files/2024_FT_CT_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Form Teachers/ Civic Tutors List</a></p><p><em>School Management</em><br><a href="/files/2024_RVHS_Management_Team_Contact_List.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 RVHS Management Team Contact List</a></p>
