@@ -18,4 +18,4 @@ Mondays to Fridays: 0700 to 1800 hrs (School is closed on Sat, Sun and public ho
 
 **Contact our staff**<br>
 School Management: 
-<br>[2023 RVHS Management Team Contact List](/files/Rev1_RVHS_Management_Team_Contact_List_2023_11072023.pdf)
+<br>[2024 RVHS Management Team Contact List](/files/2024_RVHS_Management_Team_Contact_List.pdf)
