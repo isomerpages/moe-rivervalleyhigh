@@ -7,15 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BDD3EAAF_FB7E_4C30_9C6E_944C21F65240.jpeg
+      background: /images/66ffbc851_442.jpg
       key_highlights:
-        - title: JC Open House
-          description: ""
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/junior-college/openhouse2024/
         - title: RVHS Sec 1 Posting Exercise
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
+      title: River Valley High School
+      subtitle: Leaders of distinction for Singapore
   - infopic:
       title: Sports
       subtitle: National School Games
