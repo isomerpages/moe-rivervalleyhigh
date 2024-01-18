@@ -37,7 +37,7 @@ sections:
       description: RV's anniversary on 16 Jan celebrated our commitment to creating a
         nurturing and flourishing community.
       button: Read more
-      url: https://www.rivervalleyhigh.moe.edu.sg/
+      url: /our-stories/rv68/
       image: /images/IMG_7283_small.jpg
       alt: Image alt text
 ---
