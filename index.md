@@ -15,8 +15,8 @@ sections:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
-      description: RV's anniversary on 16 Jan celebrated our commitment to creating a
-        nurturing and flourishing community.
+      description: On 16 Jan, we celebrated our commitment to creating a nurturing and
+        flourishing community. Happy birthday, RV!
       button: Read more
       url: /our-stories/rv68/
       image: /images/IMG_7283_small.jpg
