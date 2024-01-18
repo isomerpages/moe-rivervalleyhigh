@@ -30,4 +30,14 @@ sections:
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
+  - infopic:
+      title: RV68
+      subtitle: RV Celebrates
+      id: infopic
+      description: RV's anniversary on 16 Jan celebrated our commitment to creating a
+        nurturing and flourishing community.
+      button: Read more
+      url: https://www.rivervalleyhigh.moe.edu.sg/
+      image: /images/IMG_7283_small.jpg
+      alt: Image alt text
 ---
