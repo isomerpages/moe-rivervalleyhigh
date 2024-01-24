@@ -1,0 +1,18 @@
+collections:
+  about-rv:
+    output: true
+    order:
+      - School Overview/.keep
+      - School Overview/A World Class Educational Institution.md
+      - School Overview/Academic Departments.md
+      - School Overview/Non Academic Departments.md
+      - Vision, Mission, Motto.md
+      - School Values and Spirit.md
+      - Principal’s Message.md
+      - Our School Leaders.md
+      - School History.md
+      - School Partners/.keep
+      - School Partners/School Partners.md
+      - School Partners/Parent Teacher Association.md
+      - Contact Info/.keep
+      - Contact Info/Contact Info.md

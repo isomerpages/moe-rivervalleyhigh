@@ -1,0 +1,15 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Scholarship Recipients/2023 Scholarship Recipients.md
+      - Scholarship Recipients/.keep
+      - Scholarship Recipients/2022 Scholarship Recipients.md
+      - Scholarship Recipients/2021 Scholarship Recipients.md
+      - Outstanding Achievements.md
+      - 2023 Achievements.md
+      - 2022 Achievements.md
+      - 2021 Achievements.md
+      - 2020 Achievements.md
+      - 2019 Achievements.md
+      - Honours Day.md
