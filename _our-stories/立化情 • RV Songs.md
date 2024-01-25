@@ -98,6 +98,9 @@ variant: tiptap
     quality that has distinguished the school for the last 60&nbsp;years!</p>
 <p>RV Student Productions</p>
 <div class="iframe-wrapper">
+    <iframe height="253" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RIrFioWe3IA?si=Mh4v0ORK-hR1u2yJ"></iframe>
+</div>
+<div class="iframe-wrapper">
     <iframe height="253" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NEUpPG6rIcc"></iframe>
 </div>
 <div class="iframe-wrapper">
@@ -105,9 +108,6 @@ variant: tiptap
 </div>
 <div class="iframe-wrapper">
     <iframe height="253" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u7ywYv7G4PA"></iframe>
-</div>
-<div class="iframe-wrapper">
-    <iframe height="253" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RIrFioWe3IA?si=Mh4v0ORK-hR1u2yJ"></iframe>
 </div>
 <p></p>
 <p>RV Student Productions</p>
