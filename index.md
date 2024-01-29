@@ -22,8 +22,8 @@ sections:
       image: /images/IMG_7283_small.jpg
       alt: Image alt text
   - infopic:
-      title: Eco-Trail
-      subtitle: Launch
+      title: Eco-Trail @ RV
+      subtitle: Official opening of
       id: infopic
       description: The Eco-Trail @ RV was officially opened on 16 Jan 2024 during our
         RV’s 68th Anniversary!
