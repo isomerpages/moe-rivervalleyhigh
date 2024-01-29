@@ -45,10 +45,10 @@ in front of the school General Office.</p>
 <p>The first day will involve getting to know your Orientation Group (OG)
 members as well as the dissemination of key information about programmes
 and opportunities in RVHS.</p>
-<p>JAE students will also attend subject combination briefing and visit the
-respective subject booths, before embarking on a mini school tour with
-our Orientation Group Leaders (OGLs). You may click <a href="https://www.rivervalleyhigh.moe.edu.sg/files/2024_JC1_Subject_Combinations__For_School_Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about the 2024 JC1 Subject Combinations offered.</p>
+<p>JAE students will also attend subject combination briefing and have an
+opportunity to visit the respective subject booths before embarking on
+a mini school tour with our Orientation Group Leaders (OGLs). You may click
+<a href="https://www.rivervalleyhigh.moe.edu.sg/files/2024_JC1_Subject_Combinations__For_School_Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>to find out more about the 2024 JC1 Subject Combinations offered.</p>
 <p>&nbsp;There will be an <strong>optional qualifying test</strong> at 2pm,
 for students intending to offer:</p>
 <ul data-tight="true" class="tight">
