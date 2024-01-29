@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Eco Trail @ RV.md
       - RV68.md
       - RV67 Art Exhibition.md
       - RV65.md
