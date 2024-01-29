@@ -57,4 +57,13 @@ sections:
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
+  - infopic:
+      title: JC Orientation 2024
+      subtitle: Welcome to RVHS
+      id: infopic
+      description: We look forward to meeting you on 02 Feb 2024 (Friday) at 7.45am
+      button: Find Out More
+      url: /information/junior-college/permalink/
+      image: /images/Orientation_Pic.jpg
+      alt: Image alt text
 ---
