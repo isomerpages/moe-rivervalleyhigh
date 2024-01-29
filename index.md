@@ -56,5 +56,5 @@ sections:
       description: Welcome to RV! We look forward to meeting you on 02 Feb 2024
         (Friday) at 7.45am.
       button: Read More
-      url: https://www.rivervalleyhigh
+      url: /information/junior-college/permalink/
 ---
