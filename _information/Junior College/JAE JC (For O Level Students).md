@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/IMG_46750-cropped.jpg">
 </div>
-<p><strong>Joint Admission Exercise to JC Programme for Sec 4 students</strong>
+<p><strong>Joint Admission Exercise to JC Programme for Sec 4 students</strong> 
 <br>River Valley High School (RVHS) has been admitting JC students via the&nbsp;Joint
 Admissions Exercise (JAE)&nbsp;from 2019. O-Level students interested in
 the JC route and who would like an experience in an Integrated Programme
