@@ -16,7 +16,7 @@ sections:
       id: infobar
       description: Welcome to RVHS! We look forward to meeting you on 02 Feb 2024
         (Friday) at 7.45am.
-      button: Read More
+      button: Find Out More
       url: /information/junior-college/permalink/
   - infopic:
       title: RV68
