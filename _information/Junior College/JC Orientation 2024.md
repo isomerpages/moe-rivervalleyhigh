@@ -64,12 +64,16 @@ OR at least A2 for Chinese at the GCE O-Level Examinations.</p>
 </ul>
 <p><strong>&nbsp;Dismissal Time for First Day</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For RVIP students not taking the
-H2 Computing or H2 Translation qualifying tests, the programme on the first
-day will end by 11am.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For JAE students not taking the
-H2 Computing or H2 Translation qualifying tests, the programme will end
-by 2pm.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For RVIP students not taking the H2 Computing or H2 Translation qualifying
+tests, the programme on the first day will end by 11am.</p>
+</li>
+<li>
+<p>For JAE students not taking the H2 Computing or H2 Translation qualifying
+tests, the programme will end by 2pm.</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For all students taking the H2 Computing
 or H2 Translation qualifying tests at 2pm, you will be dismissed after
 the test is concluded. There will be time given for lunch at the canteen.</p>
