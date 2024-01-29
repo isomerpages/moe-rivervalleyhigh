@@ -22,6 +22,16 @@ sections:
       image: /images/IMG_7283_small.jpg
       alt: Image alt text
   - infopic:
+      title: Eco-Trail
+      subtitle: Launch
+      id: infopic
+      description: The Eco-Trail @ RV was officially opened on 16 Jan 2024 during our
+        RV’s 68th Anniversary!
+      button: Read more
+      url: https://rivervalleyhigh.moe.edu.sg/
+      image: /images/RV_EcoTrail.jpg
+      alt: Image alt text
+  - infopic:
       title: Sports
       subtitle: National School Games
       description: Congratulations to our student athletes for their stellar
