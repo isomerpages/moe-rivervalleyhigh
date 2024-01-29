@@ -51,13 +51,17 @@ tour with our Orientation Group Leaders (OGLs). You may click <a href="https://w
 find out more about the 2024 JC1 Subject Combinations offered.</p>
 <p>&nbsp;There will be an <strong>optional qualifying test</strong> at 2pm,
 for students intending to offer:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Computing</strong>; and
-did not offer GCE O-Level Computing OR did not obtain at least A2 for GCE
-O-Level Computing;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Translation</strong>;
-and have not met the MOE subject pre-requisite of at least A2 for English
-Language AND at least B3 for Higher Chinese OR at least A2 for Chinese
-at the GCE O-Level Examinations.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>H2 Computing</strong>; and did not offer GCE O-Level Computing
+OR did not obtain at least A2 for GCE O-Level Computing;</p>
+</li>
+<li>
+<p><strong>H2 Translation</strong>; and have not met the MOE subject pre-requisite
+of at least A2 for English Language AND at least B3 for Higher Chinese
+OR at least A2 for Chinese at the GCE O-Level Examinations.</p>
+</li>
+</ul>
 <p><strong>&nbsp;Dismissal Time for First Day</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For RVIP students not taking the
