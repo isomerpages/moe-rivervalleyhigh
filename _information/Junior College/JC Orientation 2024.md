@@ -73,10 +73,12 @@ tests, the programme on the first day will end by 11am.</p>
 <p>For JAE students not taking the H2 Computing or H2 Translation qualifying
 tests, the programme will end by 2pm.</p>
 </li>
+<li>
+<p>For all students taking the H2 Computing or H2 Translation qualifying
+tests at 2pm, you will be dismissed after the test is concluded. There
+will be time given for lunch at the canteen.</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For all students taking the H2 Computing
-or H2 Translation qualifying tests at 2pm, you will be dismissed after
-the test is concluded. There will be time given for lunch at the canteen.</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>Please contact our general office at 65678115 during office hours or email
