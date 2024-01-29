@@ -50,4 +50,11 @@ sections:
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
+  - infobar:
+      title: JC Orientation 2024
+      subtitle: Add informational text
+      id: infobar
+      description: "Welcome to RV!  We look forward to meeting you on 02 Feb 2024
+        (Friday) at 7.45am. "
+      button: Button Text
 ---
