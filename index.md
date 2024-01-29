@@ -14,10 +14,10 @@ sections:
   - infobar:
       title: JC Orientation 2024
       id: infobar
-      description: Welcome to RVHS! We look forward to meeting you on 02 Feb 2024
-        (Friday) at 7.45am.
+      description: We look forward to meeting you on 02 Feb 2024 (Friday) at 7.45am.
       button: Find Out More
       url: /information/junior-college/permalink/
+      subtitle: Welcome to RVHS
   - infopic:
       title: RV68
       subtitle: RV Celebrates
