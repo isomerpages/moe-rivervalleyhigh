@@ -49,8 +49,8 @@ and opportunities in RVHS.</p>
 opportunity to visit the respective subject booths before embarking on
 a mini school tour with our Orientation Group Leaders (OGLs). You may click
 <a href="https://www.rivervalleyhigh.moe.edu.sg/files/2024_JC1_Subject_Combinations__For_School_Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>to find out more about the 2024 JC1 Subject Combinations offered.</p>
-<p>&nbsp;There will be an <strong>optional qualifying test</strong> at 2pm,
-for students intending to offer:</p>
+<p>There will be an <strong>optional qualifying test</strong> at 2pm, for students
+intending to offer:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>H2 Computing</strong>; and did not offer GCE O-Level Computing
