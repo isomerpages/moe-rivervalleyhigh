@@ -25,8 +25,8 @@ skirt</p>
 assembly beginning at 8am. Signages will be placed at all entry points
 directing you to the hall. Our Orientation Committee members will also
 be stationed around the campus to provide directions to the hall.</p>
-<p>&nbsp;Students arriving by private transport may alight at the drop-off
-point in front of the school General Office.</p>
+<p>Students arriving by private transport may alight at the drop-off point
+in front of the school General Office.</p>
 <p><strong>&nbsp;Things to Bring</strong>
 </p>
 <ul data-tight="true" class="tight">
