@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Junior College
 ---
 <p>Dear students,</p>
-<p>For a well-prepared start to your Junior College journey with us, do take
-note of the following information:</p>
+<p>For a well-prepared start to your Junior College journey with us, please
+take note of the following information:</p>
 <p><strong>Attire</strong>
 </p>
 <ul data-tight="true" class="tight">
