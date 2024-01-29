@@ -28,7 +28,7 @@ sections:
       description: The Eco-Trail @ RV was officially opened on 16 Jan 2024 during our
         RV’s 68th Anniversary!
       button: Read more
-      url: https://rivervalleyhigh.moe.edu.sg/
+      url: /our-stories/rv-eco-trail/
       image: /images/RV_EcoTrail.jpg
       alt: Image alt text
   - infopic:
