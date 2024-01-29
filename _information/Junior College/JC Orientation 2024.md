@@ -8,7 +8,7 @@ third_nav_title: Junior College
 <p>Dear students,</p>
 <p>To ensure that you are well-prepared to start your junior college journey
 with us, please take note of the following information:</p>
-<p>&nbsp;<strong>Attire</strong>
+<p><strong>Attire</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students:</strong> RVHS
 PE T-shirt and pants / skirt</p>
