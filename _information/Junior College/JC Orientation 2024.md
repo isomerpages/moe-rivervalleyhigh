@@ -40,7 +40,7 @@ in front of the school General Office.</p>
 <p>Money for lunch / PayLah account on mobile device</p>
 </li>
 </ul>
-<p><strong>&nbsp;First Day Programme</strong>
+<p><strong>First Day Programme</strong>
 </p>
 <p>The first day will involve getting to know your Orientation Group (OG)
 members as well as the dissemination of key information about programmes
