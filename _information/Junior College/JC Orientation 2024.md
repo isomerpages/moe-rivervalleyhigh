@@ -10,10 +10,15 @@ third_nav_title: Junior College
 note of the following information:</p>
 <p><strong>Attire</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students:</strong> RVHS
-PE T-shirt and pants / skirt</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
-School PE T-Shirt and pants / skirt</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Returning RVIP Students:</strong> RVHS PE T-shirt and pants / skirt</p>
+</li>
+<li>
+<p><strong>JAE Students:</strong> Secondary School PE T-Shirt and pants /
+skirt</p>
+</li>
+</ul>
 <p><strong>&nbsp;Reporting Venue</strong>
 </p>
 <p>The reporting venue will be the <strong>School Hall</strong>, with morning
@@ -24,10 +29,17 @@ be stationed around the campus to provide directions to the hall.</p>
 point in front of the school General Office.</p>
 <p><strong>&nbsp;Things to Bring</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / PayLah account
-on mobile device</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Water bottle</p>
+</li>
+<li>
+<p>Writing materials</p>
+</li>
+<li>
+<p>Money for lunch / PayLah account on mobile device</p>
+</li>
+</ul>
 <p><strong>&nbsp;First Day Programme</strong>
 </p>
 <p>The first day will involve getting to know your Orientation Group (OG)
