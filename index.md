@@ -29,7 +29,7 @@ sections:
         flourishing community. Happy birthday, RV!
       button: Read more
       url: /our-stories/rv68/
-      image: /images/IMG_7283_small.jpg
+      image: /images/RV68_frontpage.jpg
       alt: Image alt text
   - infopic:
       title: Eco-Trail @ RV
