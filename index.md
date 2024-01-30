@@ -39,7 +39,7 @@ sections:
         RV’s 68th Anniversary!
       button: Read more
       url: /our-stories/rv-eco-trail/
-      image: /images/Eco_Trail_RV2.jpeg
+      image: /images/Eco_Trail_RV2__3_.jpeg
       alt: Image alt text
   - infopic:
       title: Sports
