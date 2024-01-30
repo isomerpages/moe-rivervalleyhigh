@@ -17,5 +17,5 @@ the JC route and who would like an experience in an Integrated Programme
 <p>The Joint Admission Exercise (JAE) to junior colleges is conducted by
 the Ministry of Education. If you wish to apply for a transfer to River
 Valley High School Junior College section, please complete the online form
-here by 7 Feb 2024 (5pm):&nbsp;&nbsp;<a href="https://go.gov.sg/2022rvhs-jc1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024rvhsjc1appeal</a>
+here by 6 Feb 2024 (2pm):&nbsp;&nbsp;<a href="https://go.gov.sg/2022rvhs-jc1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024rvhsjc1appeal</a>
 </p>
