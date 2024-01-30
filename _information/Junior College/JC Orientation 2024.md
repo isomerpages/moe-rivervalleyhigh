@@ -79,6 +79,12 @@ tests at 2pm, you will be dismissed after the test is concluded. There
 will be time given for lunch at the canteen.</p>
 </li>
 </ul>
+<p><strong>Appeal </strong>
+</p>
+<p>If you wish to apply for a transfer to River Valley High School Junior
+College section, please complete the online form here by 6 Feb 2024 (2pm):&nbsp;
+<a href="https://go.gov.sg/2024rvhsjc1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024rvhsjc1appeal</a>
+</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>Please contact our general office at 65678115 during office hours or email
