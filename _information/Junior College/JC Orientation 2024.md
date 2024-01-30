@@ -79,7 +79,7 @@ tests at 2pm, you will be dismissed after the test is concluded. There
 will be time given for lunch at the canteen.</p>
 </li>
 </ul>
-<p><strong>Appeal </strong>
+<p><strong>Appeal</strong>
 </p>
 <p>If you wish to apply for a transfer to River Valley High School Junior
 College section, please complete the online form here by 6 Feb 2024 (2pm):&nbsp;
