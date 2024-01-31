@@ -12,6 +12,16 @@ sections:
       title: River Valley High School
       subtitle: Leaders of distinction for Singapore
   - infopic:
+      title: JC Orientation 2024
+      subtitle: Welcome to RVHS
+      id: infopic
+      description: Dear JC1s, we look forward to meeting you on 02 Feb 2024 (Friday)
+        at 7.45am.
+      button: Find Out More
+      url: /information/junior-college/permalink/
+      image: /images/Orientation_Pic.jpg
+      alt: Image alt text
+  - infopic:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
@@ -19,7 +29,17 @@ sections:
         flourishing community. Happy birthday, RV!
       button: Read more
       url: /our-stories/rv68/
-      image: /images/IMG_7283_small.jpg
+      image: /images/RV68_frontpage.jpg
+      alt: Image alt text
+  - infopic:
+      title: Eco-Trail @ RV
+      subtitle: Official opening of
+      id: infopic
+      description: The Eco-Trail @ RV was officially opened on 16 Jan 2024 during our
+        RV’s 68th Anniversary!
+      button: Read more
+      url: /our-stories/rv-eco-trail/
+      image: /images/Eco_Trail_RV2__3_.jpeg
       alt: Image alt text
   - infopic:
       title: Sports
