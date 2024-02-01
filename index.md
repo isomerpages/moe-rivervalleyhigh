@@ -10,7 +10,7 @@ sections:
       background: /images/66ffbc851_442.jpg
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
       title: River Valley High School
-      subtitle: Leaders of distinction for Singapore
+      subtitle: Leaders of Distinction for Singapore
   - infopic:
       title: JC Orientation 2024
       subtitle: Welcome to RVHS
@@ -39,7 +39,7 @@ sections:
         RV’s 68th Anniversary!
       button: Read more
       url: /our-stories/rv-eco-trail/
-      image: /images/Eco_Trail_RV2__3_.jpeg
+      image: /images/eco_trail_frontpage_cropped.jpg
       alt: Image alt text
   - infopic:
       title: Sports
