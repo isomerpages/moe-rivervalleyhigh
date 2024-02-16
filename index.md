@@ -58,4 +58,5 @@ sections:
       title: RV in the News
       subtitle: Celebrating RVIANS
       id: resources
+      button: Read More
 ---
