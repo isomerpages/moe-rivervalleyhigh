@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chia_Kwan_Hi_NYAA.jpg">
+</div>
+<p>.</p>
 <blockquote>
 <p>CNA938 on Friday, 12 January 2024: <a href="https://www.channelnewsasia.com/listen/daily-cuts/nyaa-recipient-helped-young-students-prepare-psle-english-oral-exam-4048206" rel="noopener noreferrer nofollow" target="_blank">Podcast Link&nbsp;</a>
 </p>
