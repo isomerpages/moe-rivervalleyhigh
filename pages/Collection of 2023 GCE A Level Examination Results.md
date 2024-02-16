@@ -33,7 +33,7 @@ in slippers (it will be great if you can come in covered footwear).</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Graduates may view their results online via Singapore Examinations and
 Assessment Board’s (SEAB) Candidates Portal at&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">https://myexams.seab.gov.sg</a>&nbsp; </strong>from
-23 February 2024, 1445 hrs. The system will be available for candidates
+23 February 2024, 1515 hrs. The system will be available for candidates
 to access their results for 2 weeks until 7 March 2024.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Graduates who are eligible for SingPass can use their SingPass account
