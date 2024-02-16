@@ -10,11 +10,6 @@ description: ""
 <p>Below outlines a set of instructions for your attention.</p>
 <p><strong><em>For Graduates who are well to return to RVHS to collect results</em></strong>
 </p>
-<p><strong><u>SMM Matters:</u></strong>
-</p>
-<p>Graduates are required to observe prevailing Safe Management Measures
-and to continue to be socially responsible. If you are unwell or have a
-positive ART result, you should not report to school.</p>
 <p><strong><u>Access into the school:</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All Graduates
