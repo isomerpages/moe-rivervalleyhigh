@@ -21,13 +21,11 @@ positive ART result, you should not report to school.</p>
 of Class of 2023 will be directed to enter the school at <strong>Gate 5</strong>.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gate 5 (Zebra
 Crossing) will be open between <strong>1330 and 1445 hrs</strong>.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may drop
-off and pick up their children at the foyer.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduates will
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduates will
 proceed directly to the hall.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduates are
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduates are
 to remain in and be seated in the hall by 1415 hrs.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please be appropriately
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please be appropriately
 dressed for the collection of your results. Do be reminded not to come
 in slippers (it will be great if you can come in covered footwear).</p>
 <p><strong><em>For Graduates who are not returning to RVHS to collect results</em></strong>
@@ -54,4 +52,5 @@ on site when collecting the results.</p>
 seeing you at RVHS on Friday 23 February 2024!</p>
 <p>Thank you.</p>
 <p>Warm regards,</p>
-<p>Your teachers from RVHS</p>
+<p>Your teachers at RVHS</p>
+<p></p>
