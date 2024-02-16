@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Information for students collecting GCE A-Level results
           description: 23 Feb 2024
-          url: https://rivervalleyhigh.moe.edu.sg/
+          url: /collection-2023-a-level-results/
   - infopic:
       title: JC Orientation 2024
       subtitle: Welcome to RVHS
