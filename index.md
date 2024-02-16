@@ -11,6 +11,10 @@ sections:
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
+      key_highlights:
+        - title: Info for students collecting 'A' level results
+          description: 23 Feb 2024
+          url: https://rivervalleyhigh.moe.edu.sg/
   - infopic:
       title: JC Orientation 2024
       subtitle: Welcome to RVHS
