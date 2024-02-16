@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Graduates of Class of 2023,</p>
-<p>The 2023 GCE A-level Examination results will be released on 23 February
+<p>The 2023 GCE A-Level Examination results will be released on 23 February
 2024 at 1430 hrs at the School Hall.</p>
 <p>Below outlines a set of instructions for your attention.</p>
 <p><strong><u>&nbsp;</u></strong>
