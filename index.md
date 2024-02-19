@@ -11,16 +11,10 @@ sections:
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
-  - infopic:
-      title: JC Orientation 2024
-      subtitle: Welcome to RVHS
-      id: infopic
-      description: Dear JC1s, we look forward to meeting you on 02 Feb 2024 (Friday)
-        at 7.45am.
-      button: Find Out More
-      url: /information/junior-college/permalink/
-      image: /images/Orientation_Pic.jpg
-      alt: Image alt text
+      key_highlights:
+        - title: Information for students collecting GCE A-Level results
+          description: 23 Feb 2024
+          url: /collection-2023-a-level-results/
   - infopic:
       title: RV68
       subtitle: RV Celebrates
@@ -60,4 +54,9 @@ sections:
       url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
+  - resources:
+      title: RV in the News
+      subtitle: Celebrating RVIANS
+      id: resources
+      button: Read More
 ---
