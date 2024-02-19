@@ -7,7 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<blockquote>
+<p>Straits Times Article (6 Nov 2023) <a href="https://www.straitstimes.com/singapore/river-valley-high-economics-teacher-wins-outstanding-economics-teacher-award" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/river-valley-high-economics-teacher-wins-outstanding-economics-teacher-award</a>
+</p>
+<p></p>
+</blockquote>
 <p>Congratulations Ms Tee for receiving the Outstanding Economics Teacher
 2023 award!</p>
-<p><a href="https://www.straitstimes.com/singapore/river-valley-high-economics-teacher-wins-outstanding-economics-teacher-award" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/river-valley-high-economics-teacher-wins-outstanding-economics-teacher-award</a>
-</p>
