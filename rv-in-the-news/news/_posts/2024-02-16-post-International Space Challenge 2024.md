@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LHZB_international_space_challenge_2024.PNG">
 </div>
-<blockquote>
 <p></p>
 <p>Lianhe Zaobao (14 Feb 2024) <a href="https://www.zaobao.com.sg/news/singapore/story20240214-1468111" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20240214-1468111</a>
 </p>
