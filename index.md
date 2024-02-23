@@ -20,7 +20,7 @@ sections:
       subtitle: Class of 2023
       id: infopic
       alt: Image alt text
-      url: /permalink/
+      url: /achievements/2024ALevelResults
       button: Read more
       image: /images/Class_of_2023.jpg
       description: Congratulations to our 430 RVians for having achieved strong
