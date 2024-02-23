@@ -59,4 +59,9 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: A Level Results
+      subtitle: "Class of 2023 "
+      id: infopic
+      alt: Image alt text
 ---
