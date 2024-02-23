@@ -20,7 +20,7 @@ sections:
       subtitle: Class of 2023
       id: infopic
       alt: Image alt text
-      url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2024Alevelresults
+      url: /permalink/
       button: Read more
       image: /images/Class_of_2023.jpg
       description: Congratulations to our 430 RVians for having achieved strong
