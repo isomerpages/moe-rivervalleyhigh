@@ -4,6 +4,10 @@ permalink: /achievements/2024results/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/class_of_2023_P.png">
+</div>
 <p>We are proud of our 430 RVians who have sat for the 2023 GCE A-Level Examination!
 We would like to congratulate them for continuing to exemplify our school’s
 values and spirit. They have continued to achieve strong results at the
