@@ -16,6 +16,11 @@ sections:
           description: 23 Feb 2024
           url: /collection-2023-a-level-results/
   - infopic:
+      title: A Level Results
+      subtitle: Class of 2023
+      id: infopic
+      alt: Image alt text
+  - infopic:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
@@ -24,11 +29,6 @@ sections:
       button: Read more
       url: /our-stories/rv68/
       image: /images/RV68_frontpage.jpg
-      alt: Image alt text
-  - infopic:
-      title: A Level Results
-      subtitle: Class of 2023
-      id: infopic
       alt: Image alt text
   - infopic:
       title: Eco-Trail @ RV
