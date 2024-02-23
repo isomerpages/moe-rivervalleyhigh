@@ -16,6 +16,15 @@ sections:
           description: 23 Feb 2024
           url: /collection-2023-a-level-results/
   - infopic:
+      title: Release of 2023 GCE A-Level Results
+      id: infopic
+      alt: Image alt text
+      url: /achievements/2024results/
+      button: Read more
+      image: /images/class_of_2023_P.png
+      description: Congratulations to our 430 RVians for having achieved strong
+        results and for continuing to exemplify our school’s values and spirit.
+  - infopic:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
