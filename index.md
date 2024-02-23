@@ -26,6 +26,11 @@ sections:
       image: /images/RV68_frontpage.jpg
       alt: Image alt text
   - infopic:
+      title: A Level Results
+      subtitle: Class of 2023
+      id: infopic
+      alt: Image alt text
+  - infopic:
       title: Eco-Trail @ RV
       subtitle: Official opening of
       id: infopic
@@ -59,9 +64,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: A Level Results
-      subtitle: "Class of 2023 "
-      id: infopic
-      alt: Image alt text
 ---
