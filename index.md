@@ -21,6 +21,7 @@ sections:
       id: infopic
       alt: Image alt text
       url: /achievements/permalink/
+      button: Read more
   - infopic:
       title: RV68
       subtitle: RV Celebrates
