@@ -20,7 +20,7 @@ sections:
       subtitle: Class of 2023
       id: infopic
       alt: Image alt text
-      url: /achievements/permalink/
+      url: https://cms.isomer.gov.sg/sites/moe-rivervalleyhigh/folders/achievements/editPage/2024%20A%20Level%20Results.md
       button: Read more
       image: /images/Class_of_2023.jpg
       description: Congratulations to our 430 RVians for having achieved strong
