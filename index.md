@@ -16,8 +16,8 @@ sections:
           description: 23 Feb 2024
           url: /collection-2023-a-level-results/
   - infopic:
-      title: Release of 2024 GCE A-Level Results
-      subtitle: Class of 2023
+      title: Release of 2023 GCE A-Level Results
+      subtitle: Class of 2022
       id: infopic
       alt: Image alt text
       url: /achievements/2024results/
