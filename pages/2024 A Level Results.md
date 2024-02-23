@@ -6,11 +6,10 @@ description: ""
 ---
 <p>We are proud of our 430 RVians who have sat for the 2023 GCE A-Level Examination!
 We would like to congratulate them for continuing to exemplify our school’s
-values and spirit.</p>
-<p>They have continued to achieve strong results at the 2023 GCE A-Level
-examinations. About 1 in 3 students has 5 distinctions or above and about
-1 in 2 students achieved 83 and above University Admissions Scores (UAS)
-points.
+values and spirit. They have continued to achieve strong results at the
+2023 GCE A-Level examinations. About 1 in 3 students has 5 distinctions
+or above and about 1 in 2 students achieved 83 and above University Admissions
+Scores (UAS) points.
 <br>
 <br>We thank our teachers and parents for giving our students their fullest
 support.</p>
