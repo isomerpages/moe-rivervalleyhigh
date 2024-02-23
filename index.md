@@ -23,6 +23,9 @@ sections:
       url: /achievements/permalink/
       button: Read more
       image: /images/Class_of_2023.jpg
+      description: "Congratulations to our 430 RVians for having achieved strong
+        results and for continuing to exemplify our school’s values and spirit.
+        "
   - infopic:
       title: RV68
       subtitle: RV Celebrates
