@@ -11,7 +11,8 @@ values and spirit. They have continued to achieve strong results at the
 or above and about 1 in 2 students achieved 83 and above University Admissions
 Scores (UAS) points.
 <br>
-<br>We thank our teachers and parents for giving our students their fullest
+</p>
+<p>We thank our teachers and parents for giving our students their fullest
 support.</p>
 <p>Dear class of 2023, as you embark on the next chapter, know that you are
 capable of creating a unique masterpiece—one that transcends grades and
