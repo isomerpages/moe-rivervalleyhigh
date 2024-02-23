@@ -22,6 +22,7 @@ sections:
       alt: Image alt text
       url: /achievements/permalink/
       button: Read more
+      image: /images/Class_of_2023.jpg
   - infopic:
       title: RV68
       subtitle: RV Celebrates
