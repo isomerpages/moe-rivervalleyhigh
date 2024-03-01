@@ -11,10 +11,6 @@ sections:
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
-      key_highlights:
-        - title: Information for students collecting GCE A-Level results
-          description: 23 Feb 2024
-          url: /collection-2023-a-level-results/
   - infopic:
       title: Release of 2023 GCE A-Level Results
       id: infopic
