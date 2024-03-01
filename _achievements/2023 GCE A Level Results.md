@@ -26,7 +26,7 @@ leaves an indelible mark on the world.</p>
 <p><strong>Lutfil Hadi Bin Iskandar</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Lutfil.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Lutfil.jpg">
 </div>
 <p>As the first JAE student to be our Junior College Students' Council President,
 Lutfil’s unwavering commitment to&nbsp;make a positive impact on the student
@@ -38,7 +38,7 @@ his peers to thrive together.</p>
 <p><strong>Ng Qi Heng</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Qi_Heng.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Qi_Heng.jpg">
 </div>
 <p>A valedictorian for the Class of 2023, Qi Heng took on leadership as the
 Vice President of&nbsp;the Science Leaders Academy, Infocomm Club, and
@@ -52,7 +52,7 @@ in various competitions.&nbsp;&nbsp;</p>
 <p><strong>Gan Xi Yee</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Xi_Yee.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Xi_Yee.jpg">
 </div>
 <p>As Vice President of Junior College Students' Council and an EXCO member
 of the school’s Bicultural Leaders Academy (BLA) and RV Chamber Singers,
@@ -72,7 +72,7 @@ Language, she received the&nbsp;Ee Hoe Hean Chinese Book Prize Award in
 <p><strong>Wong Kang Lim</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Kang_Lim.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Kang_Lim.jpg">
 </div>
 <p>An environmentalist at heart, Kang Lim was&nbsp;deeply involved in environmental-related
 activities. As the President of The Eco Sustainability Leaders' Academy,
@@ -86,7 +86,7 @@ advocate for a more sustainable future.</p>
 <p><strong>Chen Zhe Rui</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Zhe_Rui.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Zhe_Rui.jpg">
 </div>
 <p>Zhe Rui’s avid interest in Mathematics and the Sciences is evident when
 he relished every opportunity to&nbsp;utilise his knowledge in real-world
@@ -98,7 +98,7 @@ eager to explore the wonders of Mathematics.&nbsp;&nbsp;</p>
 <p><strong>Shermaine Kuah</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Shermaine.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Shermaine.jpg">
 </div>
 <p>With a heart for community service, Shermaine went above and beyond her
 school responsibilities to serve the community tirelessly. She proactively
@@ -111,7 +111,7 @@ she managed truly set her apart as a compassionate and empathetic leader.</p>
 <p><strong>Chyann Cheah</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Chyann.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Chyann.jpg">
 </div>
 <p>Chyann was a multifaceted leader and achiever whose talents span across
 various domains. As the Captain of the Floorball team, she consistently
@@ -124,7 +124,7 @@ her passions.</p>
 <p><strong>Ganesh S</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Ganesh_S.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ganesh_S.jpg">
 </div>
 <p>A role model and servant leader at heart, Ganesh finds joy in helping
 others and working towards the greater good. Having demonstrated exceptional
@@ -144,7 +144,7 @@ to all who know him.</p>
 <p><strong>Jessie Wong</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Jessie_Wong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Jessie_Wong.jpg">
 </div>
 <p>After Jessie graduated from her secondary school, she pursued banking
 and finance at a polytechnic in 2021. However, when she realised that she
