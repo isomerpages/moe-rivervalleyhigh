@@ -321,7 +321,7 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>36th Singapore Physics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bronze Medal</strong>
+<p><strong>Bronze Medal</strong> 
 <br>Chan Xing Yu, James (23J13)</p>
 <p>Chen Qing Yuan (23J10)
 <br>Chua Jia Rong (23J09)
