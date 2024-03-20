@@ -3,6 +3,7 @@ title: School Partners
 permalink: /about-rv/School-Partners/sp/
 description: ""
 third_nav_title: School Partners
+variant: markdown
 ---
 ## School Partners
 
@@ -20,4 +21,4 @@ The School Advisory Committee (SAC) comprises members from the private and publi
 Another vital support group is the School Alumni where members have been generous in its sponsorship of pupils in need of financial assistance. The School Alumni, drawing on their wide networks of former pupils, helped to organise talks and writers' series for the school community and provide a liaison between the former pupils and the School.
 
 **Parent-Teacher Association**<br>
-River Valley High School PTA plays an active role in fostering close ties between the school and its members. Besides organising parenting talks and seminars for parents, the PTA is also involved in many of the school's programme. With a continuous enrolment of parent members every year, RVHS PTA is able to provide much valuable support to both parents and the school. More information on PTA is available [here](/about-rv/School-Partners/pta/).
+River Valley High School PTA plays an active role in fostering close ties between the school and its members. Besides organising parenting talks and seminars for parents, the PTA is also involved in many of the school's programme. With a continuous enrolment of parent members every year, RVHS PTA is able to provide much valuable support to both parents and the school. More information on PTA is available&nbsp;[here](/about-rv/School-Partners/pta/).
