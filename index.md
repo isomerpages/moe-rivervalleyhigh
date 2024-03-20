@@ -16,6 +16,7 @@ sections:
       id: infopic
       image: /images/2024/open_house_MOTD__final_.jpg
       alt: Image alt text
+      subtitle: RV Welcomes
   - infopic:
       title: Release of 2023 GCE A-Level Results
       id: infopic
