@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/GIF4.gif
+      background: /images/66ffbc851_442.jpg
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
