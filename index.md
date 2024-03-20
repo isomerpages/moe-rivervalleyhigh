@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
       url: /achievements/2024results/
       button: Read more
-      image: /images/class_of_2023_P.png
+      image: /images/2024/class_of_2023_P.png
       description: Congratulations to our 430 RVians for having achieved strong
         results and for continuing to exemplify our school’s values and spirit.
   - infopic:
