@@ -13,6 +13,10 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
   - infopic:
+      id: infopic
+      image: /images/2024/open_house_MOTD__final_.jpg
+      alt: Image alt text
+  - infopic:
       title: Release of 2023 GCE A-Level Results
       id: infopic
       alt: Image alt text
@@ -65,8 +69,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      id: infopic
-      image: /images/2024/open_house_MOTD__final_.jpg
-      alt: Image alt text
 ---
