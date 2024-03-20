@@ -11,13 +11,20 @@ sections:
       url: https://rivervalleyhigh.moe.edu.sg/information/secondary-section/sec1postingexercise-2024intake/information/junior-college/openhouse2024/
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
+      variant: center
+  - infopic:
+      id: infopic
+      image: /images/2024/open_house_MOTD__final_.jpg
+      alt: Image alt text
+      subtitle: RV Welcomes
+      title: OPEN HOUSE
   - infopic:
       title: Release of 2023 GCE A-Level Results
       id: infopic
       alt: Image alt text
       url: /achievements/2024results/
       button: Read more
-      image: /images/class_of_2023_P.png
+      image: /images/2024/class_of_2023_P.png
       description: Congratulations to our 430 RVians for having achieved strong
         results and for continuing to exemplify our school’s values and spirit.
   - infopic:
