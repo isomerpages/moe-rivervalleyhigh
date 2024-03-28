@@ -477,9 +477,7 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>Singapore Young Physicists’ Tournament</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Category A: Junior College</strong>
-</p>
-<p><strong>Commendation Award (Team)</strong>
+<p><strong>Category A: Junior College Commendation Award (Team)</strong>
 </p>
 <p>Fabius Tan Choon Keong (23J09)</p>
 <p>Lim Yu Yang (23J10)</p>
@@ -494,8 +492,7 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Space</p>
-<p>Challenge</p>
+<p>International Space Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Starter Category (for Secondary Schools)</strong>
@@ -520,9 +517,7 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School of Computer</p>
-<p>Science and Engineering</p>
-<p>Challenge</p>
+<p>School of Computer Science and Engineering Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st</strong>
@@ -544,9 +539,7 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Challenge For The Urban</p>
-<p>And Built Environment</p>
-<p>(CUBE) Competition 2023</p>
+<p>Challenge For The Urban And Built Environment (CUBE) Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Merit Award</strong>
