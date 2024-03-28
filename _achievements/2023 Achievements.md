@@ -88,10 +88,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton National</p>
-<p>School Games (NSG)</p>
-<p>West Zone Competition B</p>
-<p>Division Boys</p>
+<p>Badminton National School Games (NSG) West Zone Competition B Division
+Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Champions</strong>
