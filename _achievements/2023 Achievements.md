@@ -280,8 +280,7 @@ team win two engineering special awards. &nbsp;</p>
 <br>- Merit Award
 <br>
 <br>Vera Ng Jing Wen (22J02) &amp; Huang Changwen (22J04) [SRP]
-<br>- Merit Award</p>
-<p>&nbsp;</p>
+<br>- Merit Award&nbsp;</p>
 </td>
 </tr>
 <tr>
