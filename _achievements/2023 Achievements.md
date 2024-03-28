@@ -56,9 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis NSG West</p>
-<p>Zone Competition</p>
-<p>B Division Girls</p>
+<p>Table Tennis NSG West Zone Competition B Division Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3rd Place</strong>
