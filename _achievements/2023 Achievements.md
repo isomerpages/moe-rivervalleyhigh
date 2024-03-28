@@ -38,6 +38,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Table Tennis NSG West</p>
+<p>Zone Competition</p>
+<p>B Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd Place</strong>
+</p>
+<p>Alexander David Goh Yuen Jun (3C)</p>
+<p>Chen Jieren, Jairus (3D)</p>
+<p>Chong Tze Tung (4A)</p>
+<p>Lee Wen Yu Spencer (4F)</p>
+<p>Lim Xuan Han, Zavi (3F)</p>
+<p>Liu Yancheng (4G)</p>
+<p>Ng Jia Enn (4D)</p>
+<p>Xu Tianyou (4C)</p>
+<p>Yang Maolong (3J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>West Zone Table Tennis Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,7 +507,16 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>(CUBE) Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Merit Award</strong>
+</p>
+<p>Li Hanyu (23J02)</p>
+<p>Zhang Wenya&nbsp;(23J06)</p>
+<p>Siak Jing Wen&nbsp;(23J06)</p>
+<p>Deborah Seng&nbsp;(23J20)</p>
+<p>Chua Wen Zhe&nbsp;(23J20)</p>
+<p>Averyl Cheong&nbsp;(23J20)</p>
+<p>Liu Xi&nbsp;(23J20)</p>
+<p>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
 </td>
 </tr>
 </tbody>
