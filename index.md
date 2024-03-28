@@ -54,7 +54,7 @@ sections:
         performance at the NSG! They demonstrated tenacity, teamwork and great
         sportsmanship.
       button: 2024 Achievements
-      url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2024achievements/
+      url: /achievements/2024achievements/
       image: /images/rv a div girls floorball champions 2023.jpeg
       alt: RV Floorball Champions
   - infopic:
