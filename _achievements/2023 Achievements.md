@@ -135,7 +135,61 @@ variant: tiptap
 <p>Singapore Science and Engineering Fair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Total of 2 Bronze,&nbsp;3 Merit Awards&nbsp;and&nbsp;3 Special Awards:</p>
+<p><strong>Gold Award</strong>
+</p>
+<p>Chen Qingyuan (23J10)</p>
+<p></p>
+<p><strong>Silver Award</strong>
+</p>
+<p>Goh Rou Hui Ashley (23J17)</p>
+<p></p>
+<p>Goh Rou Hui Ashley (23J17) won 4 awards:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yale – National University of Singapore College Special Award</p>
+<p>4</p>
+</li>
+<li>
+<p>Singapore University of Technology and Design Research &amp;</p>
+</li>
+</ul>
+<p>Innovation Award (Multi-disciplinary)</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Association for the Advancement of Science Poster</p>
+</li>
+</ul>
+<p>Award for Science Communication</p>
+<p></p>
+<p><strong>2 Bronze Awards (Team)</strong>
+</p>
+<p>Ng Shi Qing Eugenia (23J17)</p>
+<p>Chan Si Yu, David (23J13)</p>
+<p>Chan Xing Yu, James (23J13)</p>
+<p></p>
+<p><strong>2 Merit Awards (Team)</strong>
+</p>
+<p>Joslyn Yap Qian Ting (24J08)</p>
+<p>Chong Chee Wen (24J10)</p>
+<p>Valerie Chia Boon Hwan (24J10)</p>
+<p>Li Hanyu (23J02)</p>
+<p>Chua Jia Rong (23J09)</p>
+<p>Khow Willard (23J18)</p>
+<p></p>
+<p><strong>2 Singapore Association for the Advancement of Science Poster</strong>
+</p>
+<p><strong>Awards for Science Communication (Team)</strong>
+</p>
+<p>Kiana Loh Kai Wei (24J01)</p>
+<p>Tey Yu Xin Richelle (24J05)</p>
+<p>Lim Sin Yu (24J12)</p>
+<p>Lim En Qi (24J02)</p>
+<p>Teo Shen Han (24J02)</p>
+<p>Christine Chuah Hui Qi (24J05)</p>
+<p></p>
+<p><strong>Total of 2 Bronze,&nbsp;3 Merit Awards&nbsp;and&nbsp;3 Special Awards:</strong>
+</p>
 <p>&nbsp;Ng Qi Heng (22J18) (in a combined team with RI &amp; SJI) [YDSP]
 <br>- Bronze Award
 <br>- Special Award: SUTD Research &amp; Innovation Award (Aviation)
@@ -353,6 +407,14 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>Tan Dao En (23J10)</p>
 <p>Khor Xin Yee (23J11)<strong>&nbsp;</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science &amp; Engineering Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
