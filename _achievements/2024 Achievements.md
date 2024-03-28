@@ -53,17 +53,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone Table Tennis Championships&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division Boys - 2nd</p>
-<p>B Division Girls - 2nd</p>
-<p>C Division Boys - 2nd</p>
-<p>C Division Girls - 2nd&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Badminton National School Games (NSG) West Zone Competition B Division
 Boys</p>
 </td>
@@ -82,89 +71,6 @@ Boys</p>
 <p>Ng Zai Xi (4A)</p>
 <p>Wang Zekai (3F)</p>
 <p>Zheng Yichun (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>West Zone Badminton Championships&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division Boys - 3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>West Zone Netball Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division Girls - 4th&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>West Zone Volleyball Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Division - 4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Orchestra (Sec): Distinction</p>
-<p>Chinese Orchestra (JC): Distinction</p>
-<p>Concert Band (Sec): Accomplishment</p>
-<p>Guitar Ensemble: Accomplishment</p>
-<p>Chinese dance (Sec): Distinction</p>
-<p>Chinese dance (JC): Distinction</p>
-<p>Choir (Sec): Distinction</p>
-<p>Choir (JC):&nbsp;Distinction</p>
-<p>International Dance (Sec): Distinction</p>
-<p>Street Dance (JC): Distinction</p>
-<p>CLDDS (Sec): Accomplishment</p>
-<p>ELDDS (Sec): Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St John Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Division First Aid Competition</p>
-<p>Ambulance adult - Overall 2nd Runner-up</p>
-<p>Nursing Adult Bravo - 2nd Runner-up</p>
-<p>Nursing Adult Alpha - Champion</p>
-<p>Ambulance cadet - 2nd Runner-up</p>
-<p>Nursing cadet - 2nd Runner-up&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guides</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Baden Powell&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual unit &nbsp;recognition award 2022- Distinction</p>
-<p>National Precision Drill Squad - 2nd Runner-up</p>
-<p>National Freestyle drill - Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit overall proficiency award for 2022 - Distinction</p>
 </td>
 </tr>
 <tr>
@@ -222,35 +128,6 @@ Boys</p>
 <p>Lim En Qi (24J02)</p>
 <p>Teo Shen Han (24J02)</p>
 <p>Christine Chuah Hui Qi (24J05)</p>
-<p></p>
-<p><strong>Total of 2 Bronze,&nbsp;3 Merit Awards&nbsp;and&nbsp;3 Special Awards:</strong>
-</p>
-<p>&nbsp;Ng Qi Heng (22J18) (in a combined team with RI &amp; SJI) [YDSP]
-<br>- Bronze Award
-<br>- Special Award: SUTD Research &amp; Innovation Award (Aviation)
-<br>- Special Award: James Dyson Foundation Design Engineering Award</p>
-<p>Ng Qi Heng has been taking part in the Young Defence Scientists Programme’s
-(YDSP) aerodynamics programme every year since 2020. Last year, he submitted
-his self-initiated project on the re-design and optimisation of wings of
-autonomous drones. The project idea was adopted by engineers from DSO National
-Laboratories as a research project under YDSP. He also led two Sec 4 juniors
-from RGS and SJI to engineer the design of their drone, and helped the
-team win two engineering special awards. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Soh Wei Kean, Adrina (22J02), &amp; Dyann Saw Xinmei (22J05) [SRP]
-<br>- Merit Award
-<br>- L’Oréal Special Award for Innovation in Dermatology &amp; Cosmetology
-<br>
-<br>Clarissa Chua (22J10) (in a combined team with RI) [YDSP]
-<br>- Merit Award</p>
-<p>Chen Zhe Rui (22J12) (in a combined team with VJC) [NRP]
-<br>- Bronze Award
-<br>
-<br>Rayner Sim Zhi Heng (22J17) [SRP]
-<br>- Merit Award
-<br>
-<br>Vera Ng Jing Wen (22J02) &amp; Huang Changwen (22J04) [SRP]
-<br>- Merit Award&nbsp;</p>
 </td>
 </tr>
 <tr>
