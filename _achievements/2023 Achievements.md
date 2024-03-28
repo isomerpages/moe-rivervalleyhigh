@@ -38,9 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis NSG West</p>
-<p>Zone Competition</p>
-<p>B Division Boys</p>
+<p>Table Tennis NSG West Zone Competition B Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2nd Place</strong>
@@ -476,8 +474,7 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Young</p>
-<p>Physicists’ Tournament</p>
+<p>Singapore Young Physicists’ Tournament</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Category A: Junior College</strong>
