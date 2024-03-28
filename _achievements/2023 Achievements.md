@@ -210,7 +210,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Yale – National University of Singapore College Special Award</p>
-<p>4</p>
+<p></p>
 </li>
 <li>
 <p>Singapore University of Technology and Design Research &amp;</p>
@@ -240,9 +240,7 @@ variant: tiptap
 <p>Chua Jia Rong (23J09)</p>
 <p>Khow Willard (23J18)</p>
 <p></p>
-<p><strong>2 Singapore Association for the Advancement of Science Poster</strong>
-</p>
-<p><strong>Awards for Science Communication (Team)</strong>
+<p><strong>2 Singapore Association for the Advancement of Science Poster Awards for Science Communication (Team)</strong>
 </p>
 <p>Kiana Loh Kai Wei (24J01)</p>
 <p>Tey Yu Xin Richelle (24J05)</p>
