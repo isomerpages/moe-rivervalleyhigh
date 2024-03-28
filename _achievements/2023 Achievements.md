@@ -458,7 +458,33 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School of Computer</p>
+<p>Science and Engineering</p>
+<p>Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+<p>Dylan Zihong Saga&nbsp;(23J17)</p>
+<p>Foo Chuan Yuan (23J17)</p>
+<p>Mah Kian Siong Jerald&nbsp;(23J17)</p>
+<p>Tan Ik Kai Ayden (23J17)</p>
+<p>Tan Yi Jun (23J17)</p>
 <p></p>
+<p><strong>3rd</strong>
+</p>
+<p>Lin Lejing, Fanny&nbsp;(23J13)</p>
+<p>Ong Yi Qian&nbsp;(23J13)</p>
+<p>Ng Shi Qing, Eugenia (23J17)</p>
+<p>Yeo Su Gar&nbsp;(23J17)</p>
+<p>Nicholas Ng Yi Jie&nbsp;(23J17)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Challenge For The Urban</p>
+<p>And Built Environment</p>
+<p>(CUBE) Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
