@@ -8,9 +8,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Name of Competition / Event</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -20,9 +17,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games</p>
 </td>
@@ -44,9 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>West Zone Table Tennis Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,9 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>West Zone Badminton Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,9 +56,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>West Zone Netball Championships</p>
 </td>
@@ -81,9 +66,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>West Zone Volleyball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,9 +73,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
@@ -114,9 +93,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>St John Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,9 +106,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Guides</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,9 +113,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>NCC</p>
 </td>
@@ -154,9 +124,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,9 +131,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Singapore Science and Engineering Fair</p>
 </td>
@@ -261,9 +225,6 @@ team win two engineering special awards. &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Junior League of ACJC Orators Trophy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,9 +232,6 @@ team win two engineering special awards. &nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ee Hoe Hean Book Prize</p>
 </td>
@@ -283,9 +241,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>双文化课程</p>
 <p>2023年学生论文获奖名单</p>
@@ -315,9 +270,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2023年镜头会说话</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,9 +278,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>2023 Global Robotics Games</p>
 <p>&nbsp;</p>
@@ -345,9 +294,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>2023 World Robot Olympiad (Singapore Nationals)</p>
 </td>
@@ -367,9 +313,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National Robotics Competition 2023 (Regular Category)</p>
 </td>
@@ -394,9 +337,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2023年全国中学编采比赛 (高年级）</p>
 <p>Create Your Own Newspaper Competition 2023 (Upper Secondary)</p>
 <p>&nbsp;</p>
@@ -415,9 +355,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2023年全国中学编采比赛（低年级）</p>
 <p>Create Your Own Newspaper Competition 2023 (Lower Secondary)</p>
 <p>&nbsp;</p>
@@ -434,9 +371,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>36th Singapore Physics Olympiad</p>
 </td>
@@ -458,9 +392,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>35th Singapore Chemistry Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -479,9 +410,6 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Singapore Young</p>
 <p>Physicists’ Tournament</p>
@@ -507,6 +435,28 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>International Space</p>
 <p>Challenge</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Starter Category (for Secondary Schools)</strong>
+</p>
+<p><strong>Distinction Award (Team)</strong>
+</p>
+<p>Chin Xiao Rou (24J08)</p>
+<p>Tan Zi Jun (24J11)</p>
+<p>Ching Yuhui, Natalie (24J13)</p>
+<p>Yang Lin Xuan (24J15)</p>
+<p>Merit Award (Team)</p>
+<p>Li Xin Hui (4E)</p>
+<p>Lin Yushan (4E)</p>
+<p>Lew Rui Ling (4E)</p>
+<p>Lim Jia Jing Bernice (4E)</p>
+<p></p>
+<p><strong>Best Mentor Award</strong>
+</p>
+<p>Ms Khiu Yi Wen</p>
+<p>Ms Lau Shi Yun</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
