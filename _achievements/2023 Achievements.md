@@ -411,10 +411,23 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Science &amp; Engineering Fair</p>
+<p>Singapore Young</p>
+<p>Physicists’ Tournament</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Category A: Junior College</strong>
+</p>
+<p><strong>Commendation Award (Team)</strong>
+</p>
+<p>Fabius Tan Choon Keong (23J09)</p>
+<p>Lim Yu Yang (23J10)</p>
+<p>Nicholas Ng Yi Jie (23J17)</p>
 <p></p>
+<p><strong>Category B: Secondary School Bronze Award (Team)</strong>
+</p>
+<p>Li Xin Hui (4E)</p>
+<p>Lucius Oo (4E)</p>
+<p>Lew Rui Ling (4E)</p>
 </td>
 </tr>
 </tbody>
