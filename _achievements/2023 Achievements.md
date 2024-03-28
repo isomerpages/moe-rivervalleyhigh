@@ -58,6 +58,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Table Tennis NSG West</p>
+<p>Zone Competition</p>
+<p>B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3rd Place</strong>
+</p>
+<p>Anais Ensi Marmonier (3A)</p>
+<p>Avery Ng Yi Wei (3A)</p>
+<p>Celeste Tang Xinyun (4C)</p>
+<p>Cheong Xiu Li Nicole (3F)</p>
+<p>Cheyenne Chua (4C)</p>
+<p>Chiun Yi Yun (4A)</p>
+<p>Gu Jiale (4G)</p>
+<p>Neo Xin Yu, Kylie (4A)</p>
+<p>Shayna Lee Zhi En (4D)</p>
+<p>Yong Xin Yu, Chloe (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>West Zone Table Tennis Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
