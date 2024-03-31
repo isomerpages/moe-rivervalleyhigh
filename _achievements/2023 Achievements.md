@@ -132,45 +132,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Science and Engineering Fair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Total of 2 Bronze,&nbsp;3 Merit Awards&nbsp;and&nbsp;3 Special Awards:</p>
-<p>&nbsp;Ng Qi Heng (22J18) (in a combined team with RI &amp; SJI) [YDSP]
-<br>- Bronze Award
-<br>- Special Award: SUTD Research &amp; Innovation Award (Aviation)
-<br>- Special Award: James Dyson Foundation Design Engineering Award
-<br>
-</p>
-<p>Ng Qi Heng has been taking part in the Young Defence Scientists Programme’s
-(YDSP) aerodynamics programme every year since 2020. Last year, he submitted
-his self-initiated project on the re-design and optimisation of wings of
-autonomous drones. The project idea was adopted by engineers from DSO National
-Laboratories as a research project under YDSP. He also led two Sec 4 juniors
-from RGS and SJI to engineer the design of their drone, and helped the
-team win two engineering special awards. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Soh Wei Kean, Adrina (22J02), &amp; Dyann Saw Xinmei (22J05) [SRP]
-<br>- Merit Award
-<br>- L’Oréal Special Award for Innovation in Dermatology &amp; Cosmetology
-<br>
-<br>Clarissa Chua (22J10) (in a combined team with RI) [YDSP]
-<br>- Merit Award
-<br>
-</p>
-<p>Chen Zhe Rui (22J12) (in a combined team with VJC) [NRP]
-<br>- Bronze Award
-<br>
-<br>Rayner Sim Zhi Heng (22J17) [SRP]
-<br>- Merit Award
-<br>
-<br>Vera Ng Jing Wen (22J02) &amp; Huang Changwen (22J04) [SRP]
-<br>- Merit Award</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Junior League of ACJC Orators Trophy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
