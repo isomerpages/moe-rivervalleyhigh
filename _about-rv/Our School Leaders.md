@@ -10,6 +10,6 @@ variant: markdown
 
 From Left to Right:<br>
 Mr Alvin Lau (Vice-Principal) <br>
-Ms Chua Shi Qian (Vice-Principal) <br>
 Mdm Choy Wai Yin (Principal) <br>
+Ms Chua Shi Qian (Vice-Principal) <br>
 Mr Michael Lau (Vice-Principal) <br>
