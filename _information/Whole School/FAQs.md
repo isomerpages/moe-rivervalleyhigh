@@ -3,8 +3,9 @@ title: FAQs
 permalink: /information/faqs/
 description: ""
 third_nav_title: Whole School
+variant: markdown
 ---
-## FAQs for Prospective Students (2023)
+## FAQs for Prospective Students
 
 <ul class="jekyllcodex_accordion">
 <li>
