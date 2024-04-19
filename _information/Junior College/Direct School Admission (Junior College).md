@@ -58,7 +58,7 @@ respective talent area.</p>
 <p>Note that the DSA-JC timeline, application process, selection process
 and selection criteria will be provided on our school website in early
 May.</p>
-<p><strong>DSA-JC Application 2023 Information</strong>
+<p><u>DSA-JC Application 2023 Information</u>
 </p>
 <p><strong>Note for all applicants</strong>: Achievements at the national/international
 level would be an advantage. Applicants will need to provide evidence of
@@ -74,7 +74,7 @@ proficiency and an e-portfolio in any of these domains:
 <p>Successful applicants will join RVHS in January in the year 2024. Students
 will be assessed on both their demonstrated and potential ability to ensure
 that they benefit from the rigorous curriculum offered at RVHS.</p>
-<p><strong>Important Information:</strong>
+<p><strong>Important Information:</strong> 
 <br>Application for RVHS DSA-JC application starts from 4 May 2023 and will
 end on 26 June 2023 via the following link https://go.gov.sg/2023rvhsdsajc.</p>
 <p>RVHS will conduct our DSA-JC selection tests and interviews from 26 Jun
