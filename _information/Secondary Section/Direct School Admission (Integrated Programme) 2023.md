@@ -3,8 +3,9 @@ title: Direct School Admission (Integrated Programme) 2023
 permalink: /information/dsa-integrated-programme/dsa2023/
 description: ""
 third_nav_title: Secondary Section
+variant: markdown
 ---
-## Direct School Admission (Integrated Programme) 2023
+## Direct School Admission (Integrated Programme) 2024
 
 #### Our former students share about their DSA Journey in RV!
 
