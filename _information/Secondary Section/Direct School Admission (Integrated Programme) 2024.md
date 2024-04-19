@@ -14,13 +14,13 @@ variant: tiptap
 and provide students with an opportunity to demonstrate a more diverse
 range of achievements and talent when seeking admission to a secondary
 school.</p>
-<p><strong>The River Valley Integrated Programme (RVIP)</strong>
+<p><strong>The River Valley Integrated Programme (RVIP)</strong> 
 <br>River Valley High School’s (RVHS) 6-year single-track Integrated Programme
 is designed to develop leaders of distinction for Singapore. We aim to
 nurture thinkers, leaders and achievers with good character, bicultural
 acumen and global perspective. You may want to find out more about&nbsp;&nbsp;
 <a href="/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>&nbsp;.</p>
-<p><strong>DSA Talent Categories</strong>
+<p><strong>DSA Talent Categories</strong> 
 <br>We are looking for promising Primary 6 students who demonstrate talent.
 There are 4 categories of talent that are open for our DSA-Sec Exercise
 in <strong>2024</strong>:</p>
