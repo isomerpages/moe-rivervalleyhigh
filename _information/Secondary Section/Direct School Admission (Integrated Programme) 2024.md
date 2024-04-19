@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (Integrated Programme) 2024
-permalink: /information/dsa-integrated-programme/dsa2023/
+permalink: /information/dsa-integrated-programme/dsa2024/
 description: ""
 third_nav_title: Secondary Section
 variant: tiptap
