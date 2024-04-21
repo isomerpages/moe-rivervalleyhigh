@@ -6,6 +6,10 @@ third_nav_title: Secondary Section
 variant: tiptap
 ---
 <h2>Direct School Admission (Integrated Programme) 2024</h2>
+<h4>Student leaders driving student engagement and empowerment in their CCAs</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/54IuFbAgWPU?si=xV6AXcYNz4B2RtRX"></iframe>
+</div>
 <h4>Our former students share about their DSA Journey in RV!</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4vca6BI44wY"></iframe>
