@@ -10,7 +10,9 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/54IuFbAgWPU?si=xV6AXcYNz4B2RtRX"></iframe>
 </div>
-<h4>Our former students share about their DSA Journey in RV!</h4>
+<p>Check out our video to see our CCA leaders in action!</p>
+<p>
+<br>Our former students share about their DSA Journey in RV!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4vca6BI44wY"></iframe>
 </div>
