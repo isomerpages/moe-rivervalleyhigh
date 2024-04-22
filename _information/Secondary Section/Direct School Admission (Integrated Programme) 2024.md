@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h2>Direct School Admission (Integrated Programme) 2024</h2>
 <h4>Student leaders driving student engagement and empowerment in their CCAs</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/54IuFbAgWPU?si=xV6AXcYNz4B2RtRX"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Leaders Montage 2024" src="/images/2024/CCA_Leaders_Montage_2024.png">
 </div>
 <p>Check out our video to see our CCA leaders in action!</p>
 <p>
