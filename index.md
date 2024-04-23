@@ -12,6 +12,10 @@ sections:
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
       variant: center
+      key_highlights:
+        - title: "CCA Leaders "
+          description: Check out our Video Montage
+          url: ""
   - infopic:
       id: infopic
       image: /images/2024/open_house_MOTD__final_.jpg
