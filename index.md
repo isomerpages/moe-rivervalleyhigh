@@ -13,7 +13,7 @@ sections:
       variant: center
       key_highlights:
         - title: CCA Leaders
-          description: See our CCA Leaders in action
+          description: See our CCA Leaders in action!
           url: https://rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2024/
   - infopic:
       id: infopic
