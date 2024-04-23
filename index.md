@@ -13,9 +13,9 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: "CCA Leaders "
+        - title: CCA Leaders
           description: Check out our Video Montage
-          url: ""
+          url: /information/dsa-integrated-programme/dsa2024/
   - infopic:
       id: infopic
       image: /images/2024/open_house_MOTD__final_.jpg
