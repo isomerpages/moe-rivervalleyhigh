@@ -8,14 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/2024/GIF4.gif
-      url: https://rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2024/
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
         - title: CCA Leaders
           description: Check out our Video Montage
-          url: /information/dsa-integrated-programme/dsa2024/
+          url: https://rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2024/
   - infopic:
       id: infopic
       image: /images/2024/open_house_MOTD__final_.jpg
