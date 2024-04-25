@@ -6,7 +6,11 @@ third_nav_title: Secondary Section
 variant: tiptap
 ---
 <h2>Direct School Admission (Integrated Programme) 2024</h2>
-<h4>Our former students share about their DSA Journey in RV!</h4>
+<h4>Student leaders driving student engagement and empowerment in their CCAs</h4>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1VfzdNUxR001OBSKKED1h4pKl6nY1nWxd/view"><img style="width: 100%" height="auto" width="100%" alt="CCA Leaders Montage 2024" src="/images/2024/CCA_Leaders_Montage_2024.png"></a>
+<p>Check out our video above to see our CCA leaders in action!</p>
+<p>
+<br>Our former students share about their DSA Journey in RV!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4vca6BI44wY"></iframe>
 </div>
