@@ -255,6 +255,15 @@ Boys</p>
 <p>Geng Tong (23J08)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ee Hoe Hean Book Prize Award Winners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shanice Sim (24J08) ⁠Aloysius Khoo (24J14)
+<br>⁠Celeste Hong (24J16)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
