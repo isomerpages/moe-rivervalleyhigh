@@ -37,6 +37,21 @@ prestigious Mapletree-TENG scholarship.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Young Defence Scientists Programme (YDSP) Congress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Young Defence Scientists Programme (YDSP) Congress</strong>
+</p>
+<p>Three students received scholarships:
+<br>YDSP Scholarship - Ong Cheng Ling (3A) &amp; Ethan Bai Yixuan (3D)&nbsp;</p>
+<p>DSTA JC scholarship - Ching Yuhui Natalie (24J13)&nbsp;</p>
+<p>During the Students Keynote Presentation, their seniors, James Chan and
+David Chan (23J13) presented their Research @ YDSP project to the audience,
+including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Trampoline A Division Girls</p>
 </td>
 <td rowspan="1" colspan="1">
