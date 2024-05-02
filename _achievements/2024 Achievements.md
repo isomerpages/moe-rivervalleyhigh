@@ -289,6 +289,32 @@ Boys</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann National Students’ Calligraphy Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver - Teo Cheng Wei (2B)
+<br>Excellent - Lu Xin (3H)
+<br>Excellent - Lin Jia Yu (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
