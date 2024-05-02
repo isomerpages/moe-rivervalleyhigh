@@ -24,8 +24,7 @@ has been awarded the prestigious Mapletree-TENG scholarship. The scholarship
 aims to nurture a generation of Chinese musicians in Singapore by providing
 scholarship recipients with instrumental lessons as well as various public
 performance opportunities.</p>
-<p>&nbsp;
-<br>During our school’s GAP month in January this year, Yang Lin Xuan who
+<p>During our school’s GAP month in January this year, Yang Lin Xuan who
 plays the Dizi in the Chinese Orchestra (CO) served a month-long internship
 with TENG Company. Besides deepening her understanding of arts management
 and arts community engagement, Lin Xuan created original content for TENG
