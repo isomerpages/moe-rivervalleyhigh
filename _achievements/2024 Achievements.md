@@ -266,8 +266,7 @@ Boys</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>连士升文学作品读后感征文比赛 Lien Shih Sheng Literacy Review <strong>Competition</strong>
-</p>
+<p>连士升文学作品读后感征文比赛 Lien Shih Sheng Literacy Review Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>特优奖 Outstanding Winner -&nbsp; 吴䄎瑩 Doris Goh Kee Ying (23J14)
@@ -275,6 +274,19 @@ Boys</p>
 <br>佳作奖 Merit Awards
 <br>-&nbsp; 陈净慧 Edel Chan Jing Hui (23J14)
 <br>- 胡文玮 Oh Wen Wee (23J04)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024年中学生中英口译邀请赛 National Secondary Schools Invitational Intepreting Competition
+&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Prize - Tang Kexin (4F)</p>
+<p>Commendation Award - Wang Wenzhe (4F)</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
