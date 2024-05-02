@@ -16,6 +16,52 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mapletree-TENG Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Lin Xuan who plays the Dizi in the school’s Chinese Orchestra (CO)
+has been awarded the prestigious Mapletree-TENG scholarship. The scholarship
+aims to nurture a generation of Chinese musicians in Singapore by providing
+scholarship recipients with instrumental lessons as well as various public
+performance opportunities.</p>
+<p>During our school’s GAP month in January this year, Yang Lin Xuan who
+plays the Dizi in the Chinese Orchestra (CO) served a month-long internship
+with TENG Company. Besides deepening her understanding of arts management
+and arts community engagement, Lin Xuan created original content for TENG
+Company’s TikTok and Instagram accounts. Her videos were so impressive
+that they amassed more than 500,000 views, with her most viral video amassing
+95,000 views to date (check it out at <a href="https://vt.tiktok.com/ZSFuKJk7r/" rel="noopener noreferrer nofollow" target="_blank">https://vt.tiktok.com/ZSFuKJk7r/</a>)!
+Based on merit and her performance at the audition, she was awarded the
+prestigious Mapletree-TENG scholarship.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Young Defence Scientists Programme (YDSP) Congress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Young Defence Scientists Programme (YDSP) Congress</strong>
+</p>
+<p>Three students received scholarships:
+<br>YDSP Scholarship - Ong Cheng Ling (3A) &amp; Ethan Bai Yixuan (3D)&nbsp;</p>
+<p>DSTA JC scholarship - Ching Yuhui Natalie (24J13)&nbsp;</p>
+<p>During the Students Keynote Presentation, their seniors, James Chan and
+David Chan (23J13) presented their Research @ YDSP project to the audience,
+including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trampoline A Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champion</strong>
+</p>
+<p>Tan Jann (24J20)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Table Tennis NSG West Zone Competition B Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,6 +117,30 @@ Boys</p>
 <p>Ng Zai Xi (4A)</p>
 <p>Wang Zekai (3F)</p>
 <p>Zheng Yichun (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th: B Division Badminton Boys&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu National School Games&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wushu National Champions: B Division Boys</p>
+<p>Individual events: Team RV won 8 Gold, 10 Silver, and 11 Bronze medals</p>
+<p>Group events:</p>
+<p>Champions of the Group Weapon event: B Division Boys</p>
+<p>
+<br>Champions of the Group Weapon event and Divisional 4th placing: C Division
+Girls</p>
+<p>
+<br>Divisional 3rd placing: A Division Boys and Girls&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -210,6 +280,108 @@ Boys</p>
 <p>Averyl Cheong&nbsp;(23J20)</p>
 <p>Liu Xi&nbsp;(23J20)</p>
 <p>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lion Cup Chinese Debate Competition (JC Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd</strong>
+</p>
+<p><strong>Best Debater Award</strong>
+</p>
+<p>Geng Tong (23J08)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ee Hoe Hean Book Prize Award Winners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shanice Sim (24J08) ⁠Aloysius Khoo (24J14)
+<br>⁠Celeste Hong (24J16)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>连士升文学作品读后感征文比赛 Lien Shih Sheng Literacy Review Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>特优奖 Outstanding Winner -&nbsp; 吴䄎瑩 Doris Goh Kee Ying (23J14)
+<br>优秀奖 Runner-Up - 杨慕允 Abigail Yeo Moo Woon (22J19)
+<br>佳作奖 Merit Awards
+<br>-&nbsp; 陈净慧 Edel Chan Jing Hui (23J14)
+<br>- 胡文玮 Oh Wen Wee (23J04)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024年中学生中英口译邀请赛 National Secondary Schools Invitational Intepreting Competition
+&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Prize - Tang Kexin (4F)</p>
+<p>Commendation Award - Wang Wenzhe (4F)</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann National Students’ Calligraphy Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver - Teo Cheng Wei (2B)
+<br>Excellent - Lu Xin (3H)
+<br>Excellent - Lin Jia Yu (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024年全国中学生现场翻译比赛（National Secondary School Translation Competition 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>团体优胜奖(Team Award):</p>
+<p>Wang Xinyi (4G)
+<br>Zhu Jingxuan (4G)
+<br>Tong Yuxuan (4G)
+<br>
+<br>Individual Award
+<br>Lu Xin (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation for Drama (JC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our JC English and Chinese Drama collaborated&nbsp;to put up a bilingual
+skit for this year's SYF Arts Presentation and despite a small cast and
+crew, they were awarded a Distinction!</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Wushu Invitational Tournament in Jiangsu, China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Le Bon (23J09) won a silver medal in the spear event&nbsp;</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
