@@ -301,10 +301,16 @@ Boys</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024年全国中学生现场翻译比赛（National Secondary School Translation Competition 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>团体优胜奖(Team Award):</p>
+<p>Wang Xinyi (4G)
+<br>Zhu Jingxuan (4G)
+<br>Tong Yuxuan (4G)
+<br>
+<br>Individual Award
+<br>Lu Xin (3H)</p>
 </td>
 </tr>
 <tr>
