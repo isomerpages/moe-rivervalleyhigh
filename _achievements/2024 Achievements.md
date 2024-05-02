@@ -315,6 +315,19 @@ Boys</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SYF Arts Presentation for Drama (JC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our JC English and Chinese Drama collaborated&nbsp;to put up a bilingual
+skit for this year's SYF Arts Presentation and despite a small cast and
+crew, they were awarded a Distinction!</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
