@@ -328,6 +328,17 @@ crew, they were awarded a Distinction!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>International Wushu Invitational Tournament in Jiangsu, China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Le Bon (23J09) won a silver medal in the spear event&nbsp;</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
