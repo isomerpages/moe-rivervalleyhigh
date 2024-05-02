@@ -243,6 +243,18 @@ Boys</p>
 <p>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lion Cup Chinese Debate Competition (JC Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd</strong>
+</p>
+<p><strong>Best Debater Award</strong>
+</p>
+<p>Geng Tong (23J08)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
