@@ -264,6 +264,19 @@ Boys</p>
 <br>⁠Celeste Hong (24J16)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>连士升文学作品读后感征文比赛 Lien Shih Sheng Literacy Review <strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>特优奖 Outstanding Winner -&nbsp; 吴䄎瑩 Doris Goh Kee Ying (23J14)
+<br>优秀奖 Runner-Up - 杨慕允 Abigail Yeo Moo Woon (22J19)
+<br>佳作奖 Merit Awards
+<br>-&nbsp; 陈净慧 Edel Chan Jing Hui (23J14)
+<br>- 胡文玮 Oh Wen Wee (23J04)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
