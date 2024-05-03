@@ -3,7 +3,7 @@ title: FAQs
 permalink: /information/faqs/
 description: ""
 third_nav_title: Whole School
-variant: markdown
+variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
