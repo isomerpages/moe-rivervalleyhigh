@@ -416,17 +416,6 @@ projects) are good evidence in the student portfolios, which indicate their
 interests in these domains.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If my child is a prefect in primary school, will my child be a prefect
-in RV?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>If your child comes into RV through DSA Leadership, your child will be
-given leadership opportunities to join the Students' Council, and be part
-of leadership projects and initiatives.</p>
-</td>
-</tr>
 </tbody>
 </table>
 </li>
