@@ -5,10 +5,12 @@ description: ""
 third_nav_title: Whole School
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary One Direct School Admission Exercise</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Secondary One Direct School Admission Exercise</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -182,10 +184,15 @@ is based on talents and ability to cope with the rigour of an IP school.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>DSA enquiries on Performing Arts CCAs</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>DSA enquiries on Performing Arts CCAs</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -293,10 +300,15 @@ passion, you may consider applying for it.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>DSA enquiries on Sports CCAs</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>DSA enquiries on Sports CCAs</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -354,10 +366,15 @@ in the CCA Certificate.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>DSA Enquiries on Other Talent Areas</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>DSA Enquiries on Other Talent Areas</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -421,10 +438,15 @@ interests in these domains.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>General enquiries on Co-Curricular Activities</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>General enquiries on Co-Curricular Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -520,10 +542,15 @@ to join.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>Academic Enquiries</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Academic Enquiries</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -774,10 +801,15 @@ websites.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>General enquiries about RV</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>General enquiries about RV</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -862,9 +894,15 @@ the school remains committed to students' safety and well-being.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Admission into RVIP</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admission into RVIP</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -930,6 +968,7 @@ to take effect.</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p></p>
