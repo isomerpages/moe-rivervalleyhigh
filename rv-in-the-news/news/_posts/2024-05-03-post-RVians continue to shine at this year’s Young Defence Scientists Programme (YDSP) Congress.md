@@ -10,12 +10,12 @@ variant: tiptap
 ---
 <p>James Chan Xing Yu and David Chan Si Yu (23J13) were one of two teams
 selected to showcase their research project “Can Large Language Models
-(LLM) Have a Fever? Investigating the Effects of Temperature on LLM Security”
+(LLM) Have a Fever? investigating the Effects of Temperature on LLM Security”
 at the Student Keynote Presentation before an audience that included Senior
 Minister of State for Ministry of Defence, Mr Heng Chee How. Three other
 students also won the YDSP Scholarships and Defence Science &amp; Technology
 Agency JC Scholarship.</p>
 <p><a href="https://www.instagram.com/883jia/reel/C6OtDYZJ6nP/" rel="noopener noreferrer nofollow" target="_blank">88Jia FM Instagram</a>
 </p>
-<p>Read</p>
+<p></p>
 <p></p>
