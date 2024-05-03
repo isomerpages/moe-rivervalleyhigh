@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Whole School
 variant: tiptap
 ---
-<h2>FAQs for Prospective Students</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary One Direct School Admission Exercise</p>
+<p><strong>Secondary One Direct School Admission Exercise</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -184,7 +184,8 @@ is based on talents and ability to cope with the rigour of an IP school.</p>
 </table>
 </li>
 <li>
-<p>DSA enquiries on Performing Arts CCAs</p>
+<p><strong>DSA enquiries on Performing Arts CCAs</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -294,7 +295,8 @@ passion, you may consider applying for it.</p>
 </table>
 </li>
 <li>
-<p>DSA enquiries on Sports CCAs</p>
+<p><strong>DSA enquiries on Sports CCAs</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -354,7 +356,8 @@ in the CCA Certificate.</p>
 </table>
 </li>
 <li>
-<p>DSA Enquiries on Other Talent Areas</p>
+<p><strong>DSA Enquiries on Other Talent Areas</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -420,7 +423,8 @@ interests in these domains.</p>
 </table>
 </li>
 <li>
-<p>General enquiries on Co-Curricular Activities</p>
+<p><strong>General enquiries on Co-Curricular Activities</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -518,7 +522,8 @@ to join.</p>
 </table>
 </li>
 <li>
-<p>Academic Enquiries</p>
+<p><strong>Academic Enquiries</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -771,7 +776,8 @@ websites.</p>
 </table>
 </li>
 <li>
-<p>General enquiries about RV</p>
+<p><strong>General enquiries about RV</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
