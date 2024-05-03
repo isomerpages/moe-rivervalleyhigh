@@ -18,12 +18,12 @@ variant: tiptap
 students with an opportunity to seek admission to a secondary school based
 on a diverse range of achievements and talents beyond the Primary School
 Leaving Examination (PSLE)</p>
-<p><strong>The River Valley Integrated Programme (RVIP)</strong>
+<p><strong>The River Valley Integrated Programme (RVIP)</strong> 
 <br>River Valley High School’s (RVHS) 6-year Integrated Programme is designed
 to develop leaders of distinction for Singapore. We aim to nurture thinkers,
 leaders and achievers with good character, bicultural acumen and global
 perspective. You may find out more about <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>&nbsp;.</p>
-<p><strong>2024 RVHS DSA-Sec Categories</strong>
+<p><strong>2024 RVHS DSA-Sec Categories</strong> 
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
 under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp;
@@ -61,7 +61,7 @@ as follows:</p>
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra<sup>[1]</sup>
+<p>Chinese Orchestra<sup>[1]</sup> 
 <br>
 <br>
 </p>
@@ -79,7 +79,7 @@ as follows:</p>
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Concert Band<sup>[1]</sup>
+<p>Concert Band<sup>[1]</sup> 
 <br>
 <br>
 </p>
@@ -233,15 +233,14 @@ interview:</p>
 </p>
 <p><strong><u>DSA Process Stage 2 - DSA Selection Tests and Interviews</u></strong>
 </p>
-<p>Ø&nbsp; Students shortlisted for the respective eDSA talent area will
-be informed of the <strong>date &amp; time</strong> for their DSA test and <strong>preparations needed</strong> for
+<p>Students shortlisted for the respective eDSA talent area will be informed
+of the <strong>date &amp; time</strong> for their DSA test and <strong>preparations needed</strong> for
 the test<strong> via email</strong>.</p>
-<p>&nbsp;Ø&nbsp; The following are the <strong>scheduled dates</strong> for
-the <strong>DSA tests</strong> for RVHS for 2024:</p>
+<p>The following are the <strong>scheduled dates</strong> for the <strong>DSA tests</strong> for
+RVHS for 2024:</p>
 <p>&nbsp;</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -260,10 +259,6 @@ the <strong>DSA tests</strong> for RVHS for 2024:</p>
 <p><strong>STEM</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
@@ -271,6 +266,22 @@ the <strong>DSA tests</strong> for RVHS for 2024:</p>
 <p>5<sup>th</sup> July (Fri)</p>
 <p>9<sup>th</sup> July (Tues)</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>9th July (Tues)</p>
 <p>12<sup>th</sup> July (Fri)</p>
@@ -279,10 +290,8 @@ the <strong>DSA tests</strong> for RVHS for 2024:</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Ø&nbsp; Shortlisted students for the respective DSA talent areas will
-be notified <strong>via email</strong> and be informed of the <strong>interview </strong>session
-on one of the following <strong>scheduled dates</strong>:</p>
+<p>Shortlisted students for the respective DSA talent areas will be notified <strong>via email</strong> and
+be informed of the <strong>interview </strong>session on one of the following <strong>scheduled dates</strong>:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30<sup>th</sup> July (Tues)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2<sup>nd</sup> August (Fri)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6<sup>th</sup> August (Tues)</p>
@@ -304,7 +313,6 @@ also apply and will be assessed on the basis of their potential.</p>
 to honour their commitment to the school for the duration of the 6-year
 Integrated Programme, and participate in the activities related to the
 talent they are selected for from Sec 1 - 4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>FAQs (for 2024) Click&nbsp;<strong><a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 <hr>
