@@ -373,23 +373,21 @@ in the CCA Certificate.</p>
 <td rowspan="1" colspan="1">
 <p>Your child’s primary school CCA record should reflect that he/she holds
 a key position (head prefect, vice-head prefect, or EXCO member) in the
-school prefectorial board or a key leadership position in a Uniformed Groups
-CCA.
-<br>
-<br>For DSA leadership, we are specifically looking for a greater leadership
-capacity. Being in a key leadership position is a signal that the student
-has been recognised to have the capacity to be stretched and developed,
-hence chosen, among their peers whom they work together, to be the representative
-of the prefectorial board.</p>
+school prefectorial board. For DSA leadership, we are specifically looking
+for a greater leadership capacity. Being in a key leadership position is
+a signal that the student has been recognised to have the capacity to be
+stretched and developed, hence chosen, among their peers whom they work
+together, to be the representative of the prefectorial board.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What will be required of the child if she is accepted through DSA leadership?</p>
+<p>What will be the development plan for the child if he/she is accepted
+through DSA leadership?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Upon entering RV, your child will be in our Student Leadership Development
-Academy and Students' Council.</p>
+<p>Upon entering RV, the child will be in our Student Leadership Development
+Academy and Students' Council and be part of leadership projects and initiatives.</p>
 </td>
 </tr>
 <tr>
@@ -397,13 +395,10 @@ Academy and Students' Council.</p>
 <p>What are the selection criteria for robotics?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The following are the requirements for DSA robotics applicants:
-<br>- Ability to quickly build and programme Lego robotics (mainly EV3)
-<br>- Competition-ready for any Lego competition such as FLL, RoboCup, NRC
-or WRO etc.
-<br>- Proficient in Python programming language
-<br>Shortlisted applicants will be assessed based on their level of Python
-programming and Lego robot building and programming skills.</p>
+<p>Students need to be proficient in Python programming and be able to use
+computational thinking to solve problems. They will also need to pass a
+Python programming test that assess their skills and knowledge in the DSA
+test stage.</p>
 </td>
 </tr>
 <tr>
@@ -411,10 +406,14 @@ programming and Lego robot building and programming skills.</p>
 <p>What do you look for in students who apply for DSA Science Investigation?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Scientific Investigation, candidates should have a deep passion in
-science and innovative problem-solving skills. They should also demonstrate
-a natural curiosity in Science through their performance in science inquiry
-tasks.</p>
+<p>For Scientific Investigation, students should have a deep passion in science
+and innovative problem-solving skills. They should also demonstrate a natural
+curiosity in Science through their performance in science inquiry tasks.
+Besides academic excellence in Science and Mathematics in school-based
+exams, students' involvements in related competitions and enrichment activities
+(e.g. Primary School Science Club programmes and science / innovation research
+projects) are good evidence in the student portfolios, which indicate their
+interests in these domains.</p>
 </td>
 </tr>
 <tr>
