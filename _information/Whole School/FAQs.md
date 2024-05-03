@@ -480,16 +480,13 @@ to handle a diverse range of commitments in CCAs and Academies.</p>
 <td rowspan="1" colspan="1">
 <p>There are three training sessions per week for sports CCAs. Generally,
 training sessions are held on Tuesdays, Fridays and one other weekday.
-Each training session is 3 hours long, from 3pm to 6pm.&nbsp;
-<br>
-<br>Performing Arts CCAs are held on Tuesdays and Fridays, except for Chorale
-which conducts CCA on Wednesdays and Fridays. More practices are arranged
-only when there is a need to prepare for a competition or a performance.
-In such instances, parents and students will be notified at least two weeks
-in advance.
-<br>
-<br>Our students’ well-being is our priority, hence during the post-season
-and end-of-year examination period, CCA sessions will be phased down.</p>
+Each training session is 3 hours long, from 3pm to 6pm. Performing Arts
+CCAs are held on Tuesdays and Fridays, except for Chorale which conducts
+CCA on Wednesdays and Fridays. More practices are arranged only when there
+is a need to prepare for a competition or a performance. In such instances,
+parents and students will be notified at least two weeks in advance. Our
+students’ well-being is our priority, hence during the post-season and
+end-of-year examination period, CCA sessions will be phased down.</p>
 </td>
 </tr>
 <tr>
@@ -500,12 +497,10 @@ and end-of-year examination period, CCA sessions will be phased down.</p>
 <p>Besides the biennial SYF performances, students in the performing arts
 CCA have many platforms to perform such as our annual month-long Arts Fest.
 In addition, the Performing Arts CCAs perform in many internal and external
-school events ranging from Honours Day to performances at the Istana.
-<br>
-<br>Under the guidance of our experienced instructors, they also get to take
-part in competitions and when they are at their apex, they may be sent
-for external MOE courses such as the conductor’s course, to hone their
-skills.</p>
+school events ranging from Honours Day to performances at the Istana. Under
+the guidance of our experienced instructors, they also get to take part
+in competitions and when they are at their apex, they may be sent for external
+MOE courses such as the conductor’s course, to hone their skills.</p>
 </td>
 </tr>
 <tr>
