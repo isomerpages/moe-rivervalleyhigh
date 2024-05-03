@@ -15,9 +15,8 @@ at the Student Keynote Presentation before an audience that included Senior
 Minister of State for Ministry of Defence, Mr Heng Chee How. Three other
 students also won the YDSP Scholarships and Defence Science &amp; Technology
 Agency JC Scholarship.</p>
-<p>Read&nbsp; the media coverage by&nbsp;<a href="https://www.zaobao.com.sg/news/singapore/story20240428-3508650" rel="noopener noreferrer nofollow" target="_blank"><u>Lianhe Zaobao</u></a>
-<a href="https://www.zaobao.com.sg/realtime/singapore/story20220531-1278156" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
-</a>and <a href="https://www.instagram.com/883jia/reel/C6OtDYZJ6nP/" rel="noopener noreferrer nofollow" target="_blank">88Jia FM Instagram</a>
+<p>Read&nbsp; the media coverage by&nbsp;<a href="https://www.zaobao.com.sg/news/singapore/story20240428-3508650" rel="noopener noreferrer nofollow" target="_blank"><u>Lianhe Zaobao</u></a> and
+<a href="https://www.instagram.com/883jia/reel/C6OtDYZJ6nP/" rel="noopener noreferrer nofollow" target="_blank">88Jia FM Instagram</a>
 </p>
 <p></p>
 <p></p>
