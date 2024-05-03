@@ -144,16 +144,7 @@ even if he receives a Confirmed Offer from your school?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>There is no fixed quota. The objective of DSA is to identify talent, taking
-into consideration the student’s interest and long term development potential.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Are there CCAs which are more popular and see a higher number of DSA applicants?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>No, there is no discernible trend.</p>
+into consideration the student’s interest and long-term development potential.</p>
 </td>
 </tr>
 <tr>
@@ -164,10 +155,9 @@ CCA? What if his interest changes?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Your child must remain in the same CCA so that we can develop his/her
-full potential over four years from Sec 1 to 4.
-<br>
-<br>If choice of CCA is important, then your child should avoid applying for
-entry via DSA as there are conditions attached.</p>
+full potential over four years from Sec 1 to 4. If choice of CCA is important,
+then your child should avoid applying for admission via DSA as there are
+conditions attached.</p>
 </td>
 </tr>
 <tr>
@@ -177,13 +167,13 @@ than the others?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No, for sports, they will train thrice a week and for the performing arts,
-they will train twice a week, just like the rest of their team.</p>
+they will train twice a week, just like the rest of their teammates.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Would my daughter be at a disadvantage during the DSA exercise if she
-is not a Singaporean?</p>
+<p>Would my child be at a disadvantage during the DSA exercise for being
+a non-Singaporean?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Your child’s nationality does not matter in the DSA exercise. Our assessment
@@ -230,17 +220,9 @@ they want to learn.</p>
 <p>My child is in Hip Hop in primary school, can my child apply for DSA dance?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes, having any dance skills would be an advantage but please note that
-in RV Dance society, the dancers do not take hip hop or street dance at
-the secondary level. Street Dance CCA is offered at the JC levels.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How is the assessment for dance conducted?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>There will be an audition for dance candidates.</p>
+<p>Yes, having any dance skills would be an advantage but do note that in
+RV Dance society, the dancers do not take hip hop or street dance at the
+secondary level. Street Dance CCA is offered at the JC levels.</p>
 </td>
 </tr>
 <tr>
@@ -257,19 +239,15 @@ preference to for DSA? For example, is the CCA short of certain instrument
 players so more priority will be given to these students?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The school will assess a student’s musicality,&nbsp;which is the ability
-to perceive and reproduce differences in the&nbsp;<a href="https://en.wikipedia.org/wiki/Elements_of_music" rel="noopener noreferrer nofollow" target="_blank">aspects of music</a>&nbsp;including
-pitch, rhythm, and harmony. Basically, it is the ability to be able to
-reproduce music in addition to creating music (musical creativity).
-<br>
-<br>At the application phase, past achievements, competition involvement and
-academic requirements will be taken into consideration for short-listing.
-<br>
-<br>For Chinese Orchestra, the school will consider all musical instruments
-excluding guzheng and violin.
-<br>
-<br>For Concert Band, the school will consider all musical instruments excluding
-piano and violin.</p>
+<p>The school will assess a student’s musicality, which is the ability to
+perceive and reproduce differences in the aspects of music including pitch,
+rhythm, and harmony. Basically, it is the ability to be able to reproduce
+music in addition to creating music (musical creativity). At the application
+phase, past achievements, competition involvement and academic requirements
+will be taken into consideration for shortlisting. For Chinese Orchestra,
+the school will consider all musical instruments excluding guzheng and
+violin. For Concert Band, the school will consider all musical instruments
+excluding piano and violin.</p>
 </td>
 </tr>
 <tr>
@@ -279,17 +257,23 @@ Language Debate or English Drama?
 <br>
 <br>What competencies are you looking for when it comes to debates?&nbsp;
 <br>
-<br>If my child gets accepted for Drama through DSA, does it mean he/she has
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It depends on your child’s interest and talents/competencies. Both CCAs
+require your child to have a strong command of the language, confidence
+in public speaking, passion for the language and the ability to analyse
+facts and present spontaneously.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If my child gets accepted for Drama through DSA, does it mean he/she has
 to do drama as a subject in RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It depends on your child’s interest and talents/competencies.
-<br>
-<br>Both CCAs require your child to have a strong command of the language,
-confidence in public speaking, passion for the language and the ability
-to analyse facts and present spontaneously.
-<br>
-<br>Your child has to take up Drama as his/her CCA if he/she accepts the offer
+<p>Your child has to take up Drama as his/her CCA if he/she accepts the offer
 to come into RV via Drama.</p>
 </td>
 </tr>
@@ -303,7 +287,7 @@ outside school, can my child apply?</p>
 <td rowspan="1" colspan="1">
 <p>If the primary school does not have a debate team but your child has debate
 training or participated in debate competitions, and wishes to pursue his/her
-passion, please go ahead and apply for it.</p>
+passion, you may consider applying for it.</p>
 </td>
 </tr>
 </tbody>
@@ -326,33 +310,27 @@ via DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school team is selected only prior to the team registration for the
-National School Games.
-<br>
-<br>Generally, most DSA students qualify for the school team due to their
-talent, ability and sustained commitment to training.</p>
+National School Games. Generally, most DSA students qualify for the school
+team due to their talent, ability and sustained commitment to training.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What are the requirements to qualify for the various DSA sports?
-<br>
-<br>Can we apply for DSA even though we are not in the school team or if our
-primary school does not have that particular sport?</p>
+<p>What are the requirements to qualify for the various DSA sports?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students should display strong aptitude in the talent area they applied
 for. Trials and interviews will be conducted to assess their suitability
-in that talent area.
-<br>
-<br>Yes, you can still apply for DSA.</p>
+in that talent area.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Can we apply for DSA even though we are not in the school team or if our
+primary school does not have that particular sport?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes, you can still apply for DSA.</p>
 </td>
 </tr>
 <tr>
