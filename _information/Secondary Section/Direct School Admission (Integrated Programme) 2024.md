@@ -238,9 +238,9 @@ of the <strong>date &amp; time</strong> for their DSA test and <strong>preparati
 the test<strong> via email</strong>.</p>
 <p>The following are the <strong>scheduled dates</strong> for the <strong>DSA tests</strong> for
 RVHS for 2024:</p>
-<p>&nbsp;</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -259,28 +259,27 @@ RVHS for 2024:</p>
 <p><strong>STEM</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>2<sup>nd</sup> July (Tues)</p>
-<p>5<sup>th</sup> July (Fri)</p>
-<p>9<sup>th</sup> July (Tues)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Performing Arts</strong>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> July (Tues)</p>
+<p>5<sup>th</sup> July (Fri)</p>
+<p>9<sup>th</sup> July (Tues)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> July (Tues)</p>
+<p>5<sup>th</sup> July (Fri)</p>
+<p>9<sup>th</sup> July (Tues)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> July (Tues)</p>
+<p>5<sup>th</sup> July (Fri)</p>
+<p>9<sup>th</sup> July (Tues)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>9th July (Tues)</p>
 <p>12<sup>th</sup> July (Fri)</p>
@@ -312,6 +311,6 @@ also apply and will be assessed on the basis of their potential.</p>
 to honour their commitment to the school for the duration of the 6-year
 Integrated Programme, and participate in the activities related to the
 talent they are selected for from Sec 1 - 4.&nbsp;</p>
-<p>FAQs (for 2024) Click&nbsp;<strong><a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>
+<p>FAQs (for 2024) Click&nbsp;<strong><a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 <p></p>
