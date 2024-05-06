@@ -12,15 +12,12 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: CCA Leaders
-          description: See our CCA Leaders in action!
-          url: /information/dsa-integrated-programme/dsa2024/
-  - infopic:
-      id: infopic
-      image: /images/2024/open_house_MOTD__final_.jpg
-      alt: Image alt text
-      subtitle: Join us
-      title: RVHS OPEN HOUSE
+        - title: DSA (Sec)
+          description: Click here for more info
+          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2024/
+        - title: DSA (JC)
+          description: Click here for more info
+          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
       title: Release of 2023 GCE A-Level Results
       id: infopic
