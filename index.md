@@ -19,12 +19,6 @@ sections:
           description: Click here for more info
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
-      id: infopic
-      image: /images/2024/open_house_MOTD__final_.jpg
-      alt: Image alt text
-      subtitle: Join us
-      title: RVHS OPEN HOUSE
-  - infopic:
       title: Release of 2023 GCE A-Level Results
       id: infopic
       alt: Image alt text
