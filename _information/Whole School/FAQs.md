@@ -217,10 +217,10 @@ heavy workload, can she still apply for dance DSA and does she need to
 be the key dancer in her CCA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes, having ballet or any dance skills would be an advantage, thus she
+<p>Yes, having ballet or any dance skills would be an advantage, but she
 does not need to be the key dancer. In RV Dance society, our dancers learn&nbsp;<strong>both Chinese and modern contemporary dance</strong>.
-All dancers would have to learn both genres, they cannot choose which genre
-they want to learn.</p>
+All dancers would have to learn both genres, i.e. they cannot choose which
+genre they want to learn.</p>
 </td>
 </tr>
 <tr>
