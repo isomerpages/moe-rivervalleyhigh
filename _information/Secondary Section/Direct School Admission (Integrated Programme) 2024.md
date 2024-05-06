@@ -233,7 +233,7 @@ interview:</p>
 </p>
 <p><strong><u>DSA Process Stage 2 - DSA Selection Tests and Interviews</u></strong>
 </p>
-<p>Students shortlisted for the respective eDSA talent area will be informed
+<p>Students shortlisted for the respective DSA talent area will be informed
 of the <strong>date &amp; time</strong> for their DSA test and <strong>preparations needed</strong> for
 the test<strong> via email</strong>.</p>
 <p>The following are the <strong>scheduled dates</strong> for the <strong>DSA tests</strong> for
