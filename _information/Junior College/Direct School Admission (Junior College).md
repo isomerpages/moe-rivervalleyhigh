@@ -15,9 +15,9 @@ leaders of distinction for Singapore. We aim to nurture thinkers, leaders
 and achievers with good character, bicultural acumen and global perspective.
 You may want to find out more about&nbsp;<a href="/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>.</p>
 <h5>DSA Talent Areas</h5>
-<p>We invite Secondary 4 students who are highly motivated and demonstrate
-passion, grit and talent to apply to our school under for our DSA-JC Exercise
-in 2024:&nbsp;</p>
+<p>We invite Secondary students who are highly motivated and demonstrate
+passion, grit and talent in the following areas to apply to our school
+under the Direct School Admission (DSA) JC Exercise.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Badminton</p>
