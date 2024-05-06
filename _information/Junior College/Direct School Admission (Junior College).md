@@ -6,18 +6,18 @@ third_nav_title: Junior College
 variant: tiptap
 ---
 <h2>Direct School Admission (Junior College)</h2>
-<p>Introduced in 2004, the DSA scheme seeks to promote holistic education
-and provide students with an opportunity to demonstrate a more diverse
-range of achievements and talent when seeking admission to a secondary
-school.</p>
+<p>The DSA-JC exercise seeks to promote holistic education and provide students
+with an opportunity to demonstrate a more diverse range of achievements
+and talent when seeking admission to a Junior College.</p>
 <h5>The River Valley High School Junior College programme&nbsp;</h5>
 <p>River Valley High School’s (RVHS) 2-year JC programme is designed to develop
 leaders of distinction for Singapore. We aim to nurture thinkers, leaders
 and achievers with good character, bicultural acumen and global perspective.
 You may want to find out more about&nbsp;<a href="/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>.</p>
 <h5>DSA Talent Areas</h5>
-<p>We are looking for promising Secondary 4 students who demonstrate talent
-in the following areas for our DSA-JC Exercise in 2024:&nbsp;</p>
+<p>We invite Secondary 4 students who are highly motivated and demonstrate
+passion, grit and talent to apply to our school under for our DSA-JC Exercise
+in 2024:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Badminton</p>
