@@ -33,9 +33,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>For DSA 2024 exercise, the online MOE application portal will be opened
-from 7th May to 3rd Jun. For RVHS, the shortlisted applicants will be informed
-of their DSA test and interview sessions via email on specified dates in
-July and August as highlighted on our school webpage for DSA Exercise.
+from 7th May to 3rd Jun (3pm). For RVHS, the shortlisted applicants will
+be informed of their DSA test and interview sessions via email on specified
+dates in July and August as highlighted on our school webpage for DSA Exercise.
 All applicants will be notified of the outcome of their application via
 email by 30th August 2024.</p>
 </td>
