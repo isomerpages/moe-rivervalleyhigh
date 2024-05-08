@@ -905,8 +905,8 @@ the school remains committed to students' safety and well-being.</p>
 <p>Now that the PSLE scoring system has changed, what is RV’s Cut-Off Point?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Secondary 1 Posting indicative AL Cut-Off Point range for RV is between
-4 and 9. You may refer to this link for more information:
+<p>The Secondary 1 Posting AL Cut-Off Point range for RV is between 4 and
+9. You may refer to this link for more information:
 <br>
 <br>
 </p>
