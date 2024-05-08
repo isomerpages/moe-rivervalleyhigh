@@ -26,7 +26,9 @@ perspective. You may find out more about <a href="https://www.rivervalleyhigh.mo
 <p><strong>2024 RVHS DSA-Sec Categories</strong> 
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
-under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp;
+under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
+is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a> from
+7th May to 3rd June, 3pm.
 <br>
 <br>The DSA talent areas that students can apply for in&nbsp;<strong>2024 </strong>are
 as follows:</p>
