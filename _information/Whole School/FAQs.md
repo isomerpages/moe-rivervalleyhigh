@@ -125,15 +125,6 @@ to RVHS, all students in RV must do Higher Mother Tongue from Sec 1 to
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Must my child’s PSLE Achievement Level Score fall within a specific range
-even if he receives a Confirmed Offer from your school?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Your child’s PSLE Achievement Level Score needs to be from 4 – 20 points.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Where can I find the list of CCAs for DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -961,8 +952,8 @@ we have nine Secondary One Classes.</p>
 <p>International students (IS) who want to join RV at Secondary 1 to 3 will
 have to apply through MOE. Please refer to MOE’s webpage on admissions
 for international students. For Secondary 1 DSA application, IS will have
-to obtain a reference number from MOE first before participating in RVIP
-DSA exercise. They will also have to pass MOE AEIS for their DSA results
+to obtain a registration number from MOE first before participating in
+RVIP DSA exercise. They will also have to pass MOE AEIS for their DSA results
 to take effect.</p>
 </td>
 </tr>
