@@ -33,9 +33,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>For DSA 2024 exercise, the online MOE application portal will be opened
-from 7th May to 3rd Jun. For RVHS, the shortlisted applicants will be informed
-of their DSA test and interview sessions via email on specified dates in
-July and August as highlighted on our school webpage for DSA Exercise.
+from 7th May to 3rd Jun (3pm). For RVHS, the shortlisted applicants will
+be informed of their DSA test and interview sessions via email on specified
+dates in July and August as highlighted on our school webpage for DSA Exercise.
 All applicants will be notified of the outcome of their application via
 email by 30th August 2024.</p>
 </td>
@@ -121,15 +121,6 @@ order to apply for a place in RV?</p>
 <p>While Higher Chinese Language (HCL) is not a prerequisite for admission
 to RVHS, all students in RV must do Higher Mother Tongue from Sec 1 to
 4.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Must my child’s PSLE Achievement Level Score fall within a specific range
-even if he receives a Confirmed Offer from your school?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Your child’s PSLE Achievement Level Score needs to be from 4 – 20 points.</p>
 </td>
 </tr>
 <tr>
@@ -914,8 +905,8 @@ the school remains committed to students' safety and well-being.</p>
 <p>Now that the PSLE scoring system has changed, what is RV’s Cut-Off Point?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Secondary 1 Posting indicative AL Cut-Off Point range for RV is between
-4 and 9. You may refer to this link for more information:
+<p>The Secondary 1 Posting AL Cut-Off Point range for RV is between 4 and
+9. You may refer to this link for more information:
 <br>
 <br>
 </p>
@@ -961,8 +952,8 @@ we have nine Secondary One Classes.</p>
 <p>International students (IS) who want to join RV at Secondary 1 to 3 will
 have to apply through MOE. Please refer to MOE’s webpage on admissions
 for international students. For Secondary 1 DSA application, IS will have
-to obtain a reference number from MOE first before participating in RVIP
-DSA exercise. They will also have to pass MOE AEIS for their DSA results
+to obtain a registration number from MOE first before participating in
+RVIP DSA exercise. They will also have to pass MOE AEIS for their DSA results
 to take effect.</p>
 </td>
 </tr>
