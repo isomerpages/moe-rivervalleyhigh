@@ -9,7 +9,7 @@ variant: markdown
 
 <img src="/images/2019 Singapore Economy Quiz Live Game show.jpeg" style="width:85%">
 
-River Valley High School offers the 6-year Integrated Programme and our students undertake the ‘A’ Level curriculum. The curriculum is aimed at preparing students well for the rapidly changing world of the 21st century. Learn more about the current 'A' Level curriculum here[here](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses).
+River Valley High School offers the 6-year Integrated Programme and our students undertake the ‘A’ Level curriculum. The curriculum is aimed at preparing students well for the rapidly changing world of the 21st century. Learn more about the current 'A' Level curriculum [here](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses).
 
 Specific to RVHS, we customise and design our programme to provide a seamless development of RVians' talent and potential to the fullest.
 
