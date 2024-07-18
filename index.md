@@ -19,15 +19,6 @@ sections:
           description: Click here for more info
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
-      title: Release of 2023 GCE A-Level Results
-      id: infopic
-      alt: Image alt text
-      url: /achievements/2024results/
-      button: Read more
-      image: /images/2024/class_of_2023_P.png
-      description: Congratulations to our 430 RVians for having achieved strong
-        results and for continuing to exemplify our school’s values and spirit.
-  - infopic:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
