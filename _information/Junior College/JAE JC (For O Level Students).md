@@ -14,8 +14,9 @@ variant: tiptap
 Admissions Exercise (JAE)&nbsp;from 2019. O-Level students interested in
 the JC route and who would like an experience in an Integrated Programme
 (IP) school can apply to us.&nbsp;</p>
-<p>The Joint Admission Exercise (JAE) to junior colleges is conducted by
-the Ministry of Education. If you wish to apply for a transfer to River
-Valley High School Junior College section, please complete the online form
-here by 6 Feb 2024 (2pm):&nbsp;&nbsp;<a href="https://go.gov.sg/2022rvhs-jc1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024rvhsjc1appeal</a>
+<p>The Joint Admission Exercise (JAE) to junior colleges, Millennia Institute,
+polytechnic and Institute of Technical Education is conducted by the Ministry
+of Education. If you wish to apply for a transfer to River Valley High
+School Junior College section, please complete the online form here by
+6 Feb 2024 (2pm):&nbsp;&nbsp;<a href="https://go.gov.sg/2022rvhs-jc1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024rvhsjc1appeal</a>
 </p>
