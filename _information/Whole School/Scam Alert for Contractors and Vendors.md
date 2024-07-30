@@ -49,8 +49,8 @@ etc.</p>
 <p>Make a police report</p>
 </li>
 <li>
-<p>Visit&nbsp;<a href="https://www.scamalert.sg/" rel="noopener noreferrer nofollow" target="_blank">this website</a>&nbsp;(
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.scamalert.sg/</a>) to find out more</p>
+<p>Visit&nbsp;<a href="https://www.scamalert.sg/" rel="noopener noreferrer nofollow" target="_blank">this website</a> to
+find out more</p>
 </li>
 </ul>
 <p></p>
