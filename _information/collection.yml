@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Whole School/Scam Alert for Contractors and Vendors.md
       - Whole School/.keep
       - Whole School/School Prospectus.md
       - Whole School/School Fees.md
