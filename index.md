@@ -18,6 +18,9 @@ sections:
         - title: DSA (JC)
           description: Click here for more info
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
+        - title: SCAM ALERT FOR CONTRACTORS AND VENDORS
+          description: ""
+          url: ""
   - infopic:
       title: RV68
       subtitle: RV Celebrates
