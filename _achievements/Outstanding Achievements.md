@@ -15,7 +15,7 @@ variant: tiptap
 <p><em>The Prime Minister's Book Prize Award is given to outstanding students in the secondary schools category who exemplify academic and bilingual achievement.</em>
 </p>
 <hr>
-<p><strong>President's Guide Award</strong> 
+<p><strong>President's Guide Award</strong>
 </p>
 <p>Chan Jia Wei (2019)
 <br>Tang Rui Yi (2019)
