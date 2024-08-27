@@ -3,6 +3,7 @@ title: RVHS ICT
 permalink: /information/rvhs-ict/
 description: ""
 third_nav_title: Whole School
+variant: markdown
 ---
 ## RVHS ICT
 
@@ -64,7 +65,7 @@ The DMA serves 3 purposes:
 Click [here](/files/Function%20of%20DMA.pdf) for details of DMA features.<br>
 Click [here](/files/Privacy%20and%20Data%20Security.pdf) for details of the data that will be monitored by the DMA.
 
-The DMA will enforce a school prescribed settings during school hours from 0730 to 1500 during school days. For after school hours, weekends and holidays, DMA settings will follow that of parents choice.  
+The DMA will enforce a school prescribed settings during school hours from 0700 to 1500 during school days. For after school hours, weekends and holidays, DMA settings will follow that of parents choice.  
 
 Parents can have the option to choose DMA settings for after school hours,, weekends and holidays. There are 3 options to choose from:
 
@@ -91,9 +92,8 @@ Students can approach ICT Helpdesk in school for PLD technical support:.
 
 For DMA support, contact&nbsp;
 
-*   ICT Associate, Mdm Asifa ([asifa\_sultana\_naushad@moe.edu.sg](mailto:asifa_sultana_naushad@moe.edu.sg))
-*   SH Computing Studies, Mr Chan Him Nok ([chan\_him\_nok@moe.edu.sg](mailto:chan_him_nok@moe.edu.sg))
-*   HOD Education Technology. Mr Oh Chee Wee ([oh\_chee\_wee@moe.edu.sg](mailto:oh_chee_wee@moe.edu.sg))
+*   ICT Manager ([muhammad\_nabil\_rakman@moe.edu.sg](mailto:muhammad_nabil_rakman@moe.edu.sg))
+*   ICT Associate, Mr Darren Ng Wei Jun ([darren\_ng\_wei\_jun@moe.edu.sg](mailto:darren_ng_wei_jun@moe.edu.sg))
 
 **Indication for PLD purchase**<br>
 Click&nbsp;[here](https://go.gov.sg/pdlpadmin)&nbsp;to access the FormSG to&nbsp;**indicate purchase of PLD**.  <br>
