@@ -10,7 +10,7 @@ description: ""
 <tr></tr>
 </tbody>
 </table>
-<p>Spaces for learning</p>
+<h4>Spaces for learning</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -133,7 +133,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Spaces for activities</p>
+<h4>Spaces for activities</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
