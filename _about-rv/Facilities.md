@@ -133,4 +133,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Spaces for activities</p>
