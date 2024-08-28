@@ -62,4 +62,10 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Check out our school facilities here!
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
