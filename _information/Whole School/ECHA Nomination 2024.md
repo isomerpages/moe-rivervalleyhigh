@@ -17,7 +17,9 @@ a high level of civic responsibility, and/or qualities associated with
 resilience.</p>
 <p>Also, the nominee is a role model in his/her conduct (behaviour and actions)
 and attitude.</p>
-<p>To submit a nomination for a RIVER VALLEY HIGH SCHOOL student:</p>
+<p>To submit a nomination for a RIVER VALLEY HIGH SCHOOL student, please
+use this form: <a href="https://go.gov.sg/rvhs-echa24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rvhs-echa24</a>
+</p>
 <p>*********</p>
 <p>(1) Please enter the particulars of the nominee correctly,</p>
 <p>(2) Please enter the particulars of the nominator (i.e. you) correctly.</p>
