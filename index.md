@@ -44,6 +44,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Facilities   Library/WhatsApp_Image_2024_04_26_at_17_49_41.jpg
   - infopic:
       title: Sports
       subtitle: National School Games
