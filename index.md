@@ -39,6 +39,14 @@ sections:
       image: /images/eco_trail_frontpage_cropped.jpg
       alt: Image alt text
   - infopic:
+      title: Check out our School Facilities
+      id: infopic
+      button: View Here!
+      alt: Image alt text
+      image: /images/Facilities   Library/WhatsApp_Image_2024_04_26_at_17_49_41.jpg
+      url: /facilities/
+      subtitle: Our Spaces
+  - infopic:
       title: Sports
       subtitle: National School Games
       description: Congratulations to our student athletes for their stellar
