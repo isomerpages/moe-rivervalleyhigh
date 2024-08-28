@@ -63,7 +63,7 @@ description: ""
 <hr>
 <hr>
 <hr>
-<p>Spaces for collaboration</p>
+<h4>Spaces for collaboration</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
