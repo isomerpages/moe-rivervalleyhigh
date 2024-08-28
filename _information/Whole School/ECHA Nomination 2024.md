@@ -8,8 +8,8 @@ third_nav_title: Whole School
 <p>The Edusave Character Award (ECHA) was introduced by MOE in 2012 to recognise
 students who demonstrate exemplary character and outstanding personal qualities
 through their behaviour and actions.</p>
-<p>Eligibility Criteria:</p>
-<p>******</p>
+<p><strong>Eligibility Criteria</strong>
+</p>
 <p>The nominee demonstrates good character and values, such as the RV School
 Values (Pursuit of Excellence, People-centricity, Perseverance &amp; Proactiveness),
 character traits (e.g. RV Spirit, respect, integrity, care, harmony, etc.),
@@ -20,7 +20,8 @@ and attitude.</p>
 <p>To submit a nomination for a RIVER VALLEY HIGH SCHOOL student, please
 use this form: <a href="https://go.gov.sg/rvhs-echa24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rvhs-echa24</a>
 </p>
-<p>*********</p>
+<p><strong>Instructions:</strong>
+</p>
 <p>(1) Please enter the particulars of the nominee correctly,</p>
 <p>(2) Please enter the particulars of the nominator (i.e. you) correctly.</p>
 <p>(3) Please provide clear evidence of how the nominee has demonstrated
