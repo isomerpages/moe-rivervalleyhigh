@@ -39,6 +39,12 @@ sections:
       image: /images/eco_trail_frontpage_cropped.jpg
       alt: Image alt text
   - infopic:
+      title: Check out our school facilities here!
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Sports
       subtitle: National School Games
       description: Congratulations to our student athletes for their stellar
@@ -62,10 +68,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: Check out our school facilities here!
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
