@@ -170,7 +170,7 @@ the school's 5th Principal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>he school shifted to a new campus at West Coast Road in December 1986.
+<p>The school shifted to a new campus at West Coast Road in December 1986.
 <br>
 <br>Mr Chan Kok Heng became its Vice Principal.</p>
 </td>
