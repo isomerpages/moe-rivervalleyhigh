@@ -60,9 +60,6 @@ description: ""
 <tr></tr>
 </tbody>
 </table>
-<hr>
-<hr>
-<hr>
 <h4>Spaces for collaboration</h4>
 <table style="minWidth: 75px">
 <colgroup>
