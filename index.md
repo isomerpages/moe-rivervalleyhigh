@@ -42,8 +42,8 @@ sections:
       title: Check out our School Facilities
       id: infopic
       button: View Here!
-      alt: Image alt text
-      image: /images/Facilities   Library/WhatsApp_Image_2024_04_26_at_17_49_41.jpg
+      alt: school field
+      image: /images/Facilities/Large Venue/school_field.jpg
       url: /facilities/
       subtitle: Our Spaces
   - infopic:
