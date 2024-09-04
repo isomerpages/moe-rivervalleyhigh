@@ -4,13 +4,7 @@ permalink: /facilities/
 variant: tiptap
 description: ""
 ---
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<h4>Spaces for learning</h4>
+<h4>Spaces for Learning</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,46 +15,41 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities   Library/Facil_Library4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Library Entrance" src="/images/Facilities   Library/Library/lib_sign.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities   Library/facil_library8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="entrance" src="/images/Facilities   Library/Library/lib_indoor_sign.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities   Library/Facil_Library7.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities   Library/Facil_Library5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities   Library/Facil_Library2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities   Library/Facil_Library6.jpg">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
-<table style="width: 0px">
-<colgroup></colgroup>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr></tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="study seats" src="/images/Facilities   Library/Library/lib_diner_seat.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="box seat" src="/images/Facilities   Library/Library/lib_box_seat.jpg">
+</div>
+</th>
+</tr>
 </tbody>
 </table>
-<h4>Spaces for collaboration</h4>
+<p></p>
+<h4>Spaces for Collaboration</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
