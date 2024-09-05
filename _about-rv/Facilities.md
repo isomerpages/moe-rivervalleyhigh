@@ -65,6 +65,46 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LT 4" src="/images/Facilities/Large Venue/lt_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ecg room" src="/images/Facilities/Special Rooms/hecg_rm.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science lab" src="/images/Facilities/Special Rooms/science_lab_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="analytical lab" src="/images/Facilities/Special Rooms/science_lab_2_w_analytical.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <hr>
 <h4>Spaces for Collaboration</h4>
 <table style="minWidth: 50px">
@@ -101,27 +141,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ecg room" src="/images/Facilities/Special Rooms/hecg_rm.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="comp lab" src="/images/Facilities/Special Rooms/comp_lab_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="science lab" src="/images/Facilities/Special Rooms/science_lab_1.jpg">
 </div>
 </th>
 </tr>
@@ -204,7 +224,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LT4" src="/images/Facilities/Large Venue/lt_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="scholar court" src="/images/Facilities/Large Venue/scholar_court.jpg">
 </div>
 </th>
 </tr>
