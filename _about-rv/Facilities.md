@@ -99,7 +99,47 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="analytical lab" src="/images/Facilities/Special Rooms/science_lab_2_w_analytical.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="eco trail" src="/images/Facilities/Special Rooms/eco_trail_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="teaching lab" src="/images/Facilities/Special Rooms/teaching_lab.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="white space" src="/images/Facilities/Special Rooms/white_space_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="math cid" src="/images/Facilities/Special Rooms/math_cid.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="white space 2" src="/images/Facilities/Special Rooms/white_space.jpg">
 </div>
 </th>
 </tr>
@@ -147,11 +187,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
-<h4>Spaces for Activities</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -159,12 +196,33 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eco garden" src="/images/Facilities/Special Rooms/eco_trail.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="big e 2" src="/images/Facilities/Special Rooms/big_e_1.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student lounge" src="/images/Facilities/Special Rooms/student_lounge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="lib amphi" src="/images/Facilities/Library/lib_amphitheatre.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4>Spaces for Activities</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student lounge 1" src="/images/Facilities/Special Rooms/student_lounge_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student lounge 2" src="/images/Facilities/Special Rooms/student_lounge.jpg">
 </div>
 </th>
 </tr>
@@ -184,7 +242,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ISH" src="/images/Facilities/Large Venue/ish.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="field 2" src="/images/Facilities/Large Venue/track_field_2.jpg">
 </div>
 </th>
 </tr>
@@ -224,7 +282,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="scholar court" src="/images/Facilities/Large Venue/scholar_court.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="rvfm" src="/images/Facilities/Special Rooms/rvfm_broadcast.jpg">
 </div>
 </th>
 </tr>
