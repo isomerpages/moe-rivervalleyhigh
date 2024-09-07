@@ -62,12 +62,10 @@ description: ""
 <p>Lim Yi Fan 23J05 (Softball)</p>
 <p>Verity Claire Neo Jia En 23J06 (Softball)</p>
 <p>Cholene Aw Rui En 3I (Wushu)</p>
-<p>&nbsp;</p>
-<p><strong>Tertiary</strong>
+<p>&nbsp;<strong>Tertiary</strong>
 </p>
 <p>Lee Si Lin 23J12 (Softball)</p>
-<p>&nbsp;</p>
-<p><strong>Secondary</strong>
+<p>&nbsp;<strong>Secondary</strong>
 </p>
 <p>Jaedon Chua Hao Cheng 2D (Table Tennis)</p>
 </td>
@@ -84,7 +82,6 @@ description: ""
 <p>王新懿&nbsp;Wang Xinyi (4G)
 <br>童钰轩&nbsp;Tong Yuxuan (4G)
 <br>朱婧萱&nbsp;Zhu Jingxuan (4G)</p>
-<p></p>
 <p><strong>个人优异奖</strong>
 </p>
 <p>卢欣&nbsp;Lu Xin (3H)</p>
