@@ -36,17 +36,14 @@ description: ""
 <p><strong>National 1st</strong>
 </p>
 <p>Wushu – B Division Boys</p>
-<p>&nbsp;</p>
-<p><strong>National 2nd</strong>
+<p>&nbsp;<strong>National 2nd</strong>
 </p>
 <p>Floorball – A Division Girls</p>
-<p>&nbsp;</p>
-<p><strong>National 3rd</strong>
+<p>&nbsp;<strong>National 3rd</strong>
 </p>
 <p>Softball – A Division Boys &amp; Girls</p>
 <p>Wushu – A Division Boys &amp; Girls</p>
-<p>&nbsp;</p>
-<p><strong>National 4th</strong>
+<p>&nbsp;<strong>National 4th</strong>
 </p>
 <p>Badminton – A &amp; B Division Boys</p>
 <p>Table Tennis – A Division Boys &amp; B Division Girls</p>
@@ -59,8 +56,7 @@ description: ""
 <p>High Performance (Under-18 Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 RV student athletes are awarded the above scholarship this year.</p>
-<p>&nbsp;</p>
+<p>5 RV student athletes are awarded the above scholarship this year.&nbsp;</p>
 <p><strong>High Performance (U18)</strong>
 </p>
 <p>Lim Yi Fan 23J05 (Softball)</p>
