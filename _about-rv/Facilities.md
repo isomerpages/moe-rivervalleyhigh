@@ -119,7 +119,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="white space" src="/images/Facilities/Special Rooms/white_space_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="white space 3" src="/images/Facilities/Special Rooms/white_space_3.jpg">
 </div>
 </th>
 </tr>
@@ -196,13 +196,11 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="big e 2" src="/images/Facilities/Special Rooms/big_e_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="big e 2" src="/images/Facilities/Special Rooms/big_e_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lib amphi" src="/images/Facilities/Library/lib_amphitheatre.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
