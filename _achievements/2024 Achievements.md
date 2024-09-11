@@ -36,17 +36,14 @@ description: ""
 <p><strong>National 1st</strong>
 </p>
 <p>Wushu – B Division Boys</p>
-<p>&nbsp;</p>
-<p><strong>National 2nd</strong>
+<p>&nbsp;<strong>National 2nd</strong>
 </p>
 <p>Floorball – A Division Girls</p>
-<p>&nbsp;</p>
-<p><strong>National 3rd</strong>
+<p>&nbsp;<strong>National 3rd</strong>
 </p>
 <p>Softball – A Division Boys &amp; Girls</p>
 <p>Wushu – A Division Boys &amp; Girls</p>
-<p>&nbsp;</p>
-<p><strong>National 4th</strong>
+<p>&nbsp;<strong>National 4th</strong>
 </p>
 <p>Badminton – A &amp; B Division Boys</p>
 <p>Table Tennis – A Division Boys &amp; B Division Girls</p>
@@ -59,19 +56,16 @@ description: ""
 <p>High Performance (Under-18 Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 RV student athletes are awarded the above scholarship this year.</p>
-<p>&nbsp;</p>
+<p>5 RV student athletes are awarded the above scholarship this year.&nbsp;</p>
 <p><strong>High Performance (U18)</strong>
 </p>
 <p>Lim Yi Fan 23J05 (Softball)</p>
 <p>Verity Claire Neo Jia En 23J06 (Softball)</p>
 <p>Cholene Aw Rui En 3I (Wushu)</p>
-<p>&nbsp;</p>
-<p><strong>Tertiary</strong>
+<p>&nbsp;<strong>Tertiary</strong>
 </p>
 <p>Lee Si Lin 23J12 (Softball)</p>
-<p>&nbsp;</p>
-<p><strong>Secondary</strong>
+<p>&nbsp;<strong>Secondary</strong>
 </p>
 <p>Jaedon Chua Hao Cheng 2D (Table Tennis)</p>
 </td>
@@ -88,7 +82,6 @@ description: ""
 <p>王新懿&nbsp;Wang Xinyi (4G)
 <br>童钰轩&nbsp;Tong Yuxuan (4G)
 <br>朱婧萱&nbsp;Zhu Jingxuan (4G)</p>
-<p></p>
 <p><strong>个人优异奖</strong>
 </p>
 <p>卢欣&nbsp;Lu Xin (3H)</p>
@@ -131,12 +124,10 @@ description: ""
 <p><strong>特优奖</strong>
 </p>
 <p>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
-<p></p>
 <p><strong>优秀奖</strong>
 </p>
 <p>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
-<p>
-<br><strong>佳作奖</strong>
+<p><strong>佳作奖</strong>
 </p>
 <p>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
 <p>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
@@ -201,8 +192,7 @@ description: ""
 <p>Alicia Kok Yun Ting</p>
 <p>Khoo Xuan Mun</p>
 <p>Mr Liu Gongkai</p>
-<p>&nbsp;</p>
-<p><strong>Lyrics Writing Category – Merit Award</strong>
+<p>&nbsp;<strong>Lyrics Writing Category – Merit Award</strong>
 </p>
 <p>Guo Jingyou</p>
 <p>Li Anqi</p>
@@ -220,7 +210,6 @@ description: ""
 <p>Wang Si Yin (24J03)</p>
 <p>Valerie Chia Boon Hwan (24J10)</p>
 <p>Celeste Chua Lin Gi (24J13)</p>
-<p></p>
 <p><strong>Distinction</strong>
 </p>
 <p>Ayden-Luke Tan Jing En (23J11)</p>
@@ -272,7 +261,6 @@ Explore Track</p>
 <p>Zhang Jingxuan (4G)</p>
 <p>Gabriel Lim Zhexi (4G)</p>
 <p>Loh Ying Jie, Ryo (4G)</p>
-<p></p>
 <p><strong>Junior College</strong>
 </p>
 <p>Ng Zhi Xi (23J03)</p>
@@ -318,17 +306,14 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <p>Lim En Qi (24J02)</p>
 <p>Teo Shen Han (24J02)</p>
 <p>Christine Chuah Hui Qi (24J05)</p>
-<p></p>
 <p>Chong Qing Ya (23J01)</p>
 <p>Eaindra Khin (23J04)</p>
 <p>Ng Jia Ying (23J05)</p>
-<p></p>
 <p><strong>2 Bronze Awards (Team)</strong>
 </p>
 <p>Chua Wan Zhen Kevina (24J02)</p>
 <p>Kong Teck Nyin (24J10)</p>
 <p>Chua Chin Tat (24J16)</p>
-<p></p>
 <p>Mya Cherry (23J03)</p>
 <p>Ngieng Xin Hui (23J03)</p>
 <p>Hong Shi Ting, Geraldine (23J03)</p>
@@ -355,7 +340,6 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <p>Zhang Hengwei (4C)</p>
 <p>Chen Qingyuan (23J10)</p>
 <p>Chua Zhong Ding (23J17)</p>
-<p></p>
 <p><strong>5 Bronze Medals</strong>
 </p>
 <p>Megan Miranda Khoo (4C)</p>
@@ -393,12 +377,11 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>One of our Physics CID4 teams received the Merit Award for the Engineering
-Innovation Challenge during National Engineers Day.</p>
-<p>
-<br>Their project is about using a more effective approach to recycle plastic
-food containers by first removing food waste more effectively using enzymes
-followed by cutting the plastic container into pieces and compacting them
-into cube blocks for recycling companies to do further processing.</p>
+Innovation Challenge during National Engineers Day. Their project is about
+using a more effective approach to recycle plastic food containers by first
+removing food waste more effectively using enzymes followed by cutting
+the plastic container into pieces and compacting them into cube blocks
+for recycling companies to do further processing.</p>
 </td>
 </tr>
 <tr>
@@ -409,12 +392,10 @@ into cube blocks for recycling companies to do further processing.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Secondary Schools Category</u></strong>
 </p>
-<p></p>
 <p><strong>3rd Prize (Team)</strong>
 </p>
 <p>Hoo Rui Ting (2B)</p>
 <p>Emmaus Wong Rui (2B)</p>
-<p></p>
 <p><strong>3 Merit Awards (Team)</strong>
 </p>
 <p>Luan Jiahui (2C)</p>
@@ -422,7 +403,6 @@ into cube blocks for recycling companies to do further processing.</p>
 <p></p>
 <p>Boo Jia Chen (2H)</p>
 <p>Han Chengxi Javen (2H)</p>
-<p></p>
 <p>Lovelle Tan (4C)</p>
 <p>Lin Yushan (4E)</p>
 <p>Toh Zheng Yu (4G)</p>
@@ -436,7 +416,6 @@ into cube blocks for recycling companies to do further processing.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Category 1: Secondary 3 &amp; 4</u></strong>
 </p>
-<p></p>
 <p><strong>6 Gold Awards</strong>
 </p>
 <p>Mok Jia Xuan (4E)</p>
@@ -450,30 +429,24 @@ into cube blocks for recycling companies to do further processing.</p>
 </p>
 <p>Koh Wie Millie (4E)</p>
 <p>Gu Jiale (4G)</p>
-<p></p>
 <p><strong>2 Bronze Awards</strong>
 </p>
 <p>Zhao Jiayi Felicity (4E)</p>
 <p>Chua Yu Jun, Lucas (4E)</p>
-<p></p>
 <p><strong>1 Honourable Mention Award</strong>
 </p>
 <p>Lew Rui Ling (4E)</p>
-<p></p>
 <p><strong>2 Merit Awards</strong>
 </p>
 <p>Lim Jia Jing Bernice (4E)</p>
 <p>Zhang Jingxuan (4G)</p>
-<p></p>
 <p><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
 </p>
-<p></p>
 <p><strong>3 Gold Awards</strong>
 </p>
 <p>Wai Rui Enn (23J02)</p>
 <p>Chiew Pui See Sarah (23J04)</p>
 <p>Lim Qian Hui (23J05)</p>
-<p></p>
 <p><strong>5 Silver Awards</strong>
 </p>
 <p>Li Hanyu (23J02)</p>
@@ -481,7 +454,6 @@ into cube blocks for recycling companies to do further processing.</p>
 <p>Leo Kit Yee (23J03)</p>
 <p>Hong Shi Ting, Geraldine (23J03)</p>
 <p>Pour Zhi Lin (23J05)</p>
-<p></p>
 <p><strong>6 Bronze Awards</strong>
 </p>
 <p>Low Zi Ting (23J02)</p>
@@ -489,7 +461,6 @@ into cube blocks for recycling companies to do further processing.</p>
 <p>Ng Jia Ying (23J05)</p>
 <p>Pua Jia Yee (23J05)</p>
 <p>Ang Yi En Jerlene (23J05)</p>
-<p></p>
 <p><strong>3 Honourable Mention Awards</strong>
 </p>
 <p>Chan Wen Hsin (23J03)</p>
@@ -687,36 +658,30 @@ Girls</p>
 <p><strong>Gold Award</strong>
 </p>
 <p>Chen Qingyuan (23J10)</p>
-<p></p>
 <p><strong>Silver Award</strong>
 </p>
 <p>Goh Rou Hui Ashley (23J17)</p>
-<p></p>
 <p>Goh Rou Hui Ashley (23J17) won 4 awards:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yale – National University of Singapore College Special Award</p>
-<p></p>
 </li>
 <li>
 <p>Singapore University of Technology and Design Research &amp;</p>
 </li>
 </ul>
 <p>Innovation Award (Multi-disciplinary)</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Association for the Advancement of Science Poster</p>
 </li>
 </ul>
 <p>Award for Science Communication</p>
-<p></p>
 <p><strong>2 Bronze Awards (Team)</strong>
 </p>
 <p>Ng Shi Qing Eugenia (23J17)</p>
 <p>Chan Si Yu, David (23J13)</p>
 <p>Chan Xing Yu, James (23J13)</p>
-<p></p>
 <p><strong>2 Merit Awards (Team)</strong>
 </p>
 <p>Joslyn Yap Qian Ting (24J08)</p>
@@ -725,7 +690,6 @@ Girls</p>
 <p>Li Hanyu (23J02)</p>
 <p>Chua Jia Rong (23J09)</p>
 <p>Khow Willard (23J18)</p>
-<p></p>
 <p><strong>2 Singapore Association for the Advancement of Science Poster Awards for Science Communication (Team)</strong>
 </p>
 <p>Kiana Loh Kai Wei (24J01)</p>
@@ -746,7 +710,6 @@ Girls</p>
 <p>Fabius Tan Choon Keong (23J09)</p>
 <p>Lim Yu Yang (23J10)</p>
 <p>Nicholas Ng Yi Jie (23J17)</p>
-<p></p>
 <p><strong>Category B: Secondary School Bronze Award (Team)</strong>
 </p>
 <p>Li Xin Hui (4E)</p>
@@ -772,7 +735,6 @@ Girls</p>
 <p>Lin Yushan (4E)</p>
 <p>Lew Rui Ling (4E)</p>
 <p>Lim Jia Jing Bernice (4E)</p>
-<p></p>
 <p><strong>Best Mentor Award</strong>
 </p>
 <p>Ms Khiu Yi Wen</p>
@@ -791,7 +753,6 @@ Girls</p>
 <p>Mah Kian Siong Jerald&nbsp;(23J17)</p>
 <p>Tan Ik Kai Ayden (23J17)</p>
 <p>Tan Yi Jun (23J17)</p>
-<p></p>
 <p><strong>3rd</strong>
 </p>
 <p>Lin Lejing, Fanny&nbsp;(23J13)</p>

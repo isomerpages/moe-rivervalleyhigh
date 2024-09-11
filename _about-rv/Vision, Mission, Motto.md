@@ -25,7 +25,7 @@ Leaders of distinction for Singapore
 ----
 
 **School Mission**<br>
-To nurture thinkers, leaders and achievers with bicultural acumen, good character and a global perspective
+To nurture thinkers, leaders and achievers with good character, bicultural acumen and global perspective
 
 **学校的使命**<br>
 培养品行端正，慎思明辨，融贯中西，具环球视野的国家栋梁
