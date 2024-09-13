@@ -12,9 +12,6 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Nominate an RVian for ECHA Here
-          description: Click here for more info
-          url: https://www.rivervalleyhigh.moe.edu.sg/echa-nomination-2024/
         - title: SCAM ALERT FOR CONTRACTORS AND VENDORS
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/scam-alert-for-contractors-and-vendors/
