@@ -14,6 +14,10 @@ variant: tiptap
 <p><em>The Prime Minister's Book Prize Award is given to outstanding students in the secondary schools category who exemplify academic and bilingual achievement.</em>
 </p>
 <hr>
+<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>President's Guide Award</strong></h4>
 <p>Chua Yi Tien (2024)
 <br>Chan Jia Wei (2019)
@@ -36,7 +40,7 @@ variant: tiptap
 <br>
 </p>
 <hr>
-<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong> </h4>
+<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
 <p>Lai Sin Yee (Class of 2018)
 <br>Tan Yu Jia (Class of 2015)</p>
 <p><em>The LHLA-OBS is presented to up to three outstanding students in the Bicultural Special Programme (Chinese) [BSP(C)]. The award underpins the strategic importance of developing a core group of students who are able to engage China as well as relate to the West.</em>
