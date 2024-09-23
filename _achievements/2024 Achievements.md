@@ -643,11 +643,17 @@ Boys</p>
 <p>Individual events: Team RV won 8 Gold, 10 Silver, and 11 Bronze medals</p>
 <p>Group events:</p>
 <p>Champions of the Group Weapon event: B Division Boys</p>
-<p>
-<br>Champions of the Group Weapon event and Divisional 4th placing: C Division
+<p></p>
+<p>Champions of the Group Weapon event and Divisional 4th placing: C Division
 Girls</p>
 <p>
 <br>Divisional 3rd placing: A Division Boys and Girls&nbsp;</p>
+<p></p>
+<p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
+in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
+<p></p>
+<p>Koh Le Bon won a silver medal in the spear event at the International
+Wushu Invitational Tournament in Jiangsu, China.</p>
 </td>
 </tr>
 <tr>
