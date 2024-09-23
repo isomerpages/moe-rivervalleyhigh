@@ -36,7 +36,7 @@ variant: tiptap
 <br>
 </p>
 <hr>
-<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong> </h4>
+<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
 <p>Lai Sin Yee (Class of 2018)
 <br>Tan Yu Jia (Class of 2015)</p>
 <p><em>The LHLA-OBS is presented to up to three outstanding students in the Bicultural Special Programme (Chinese) [BSP(C)]. The award underpins the strategic importance of developing a core group of students who are able to engage China as well as relate to the West.</em>
@@ -60,7 +60,28 @@ variant: tiptap
 </div>
 <p>Gan Xi Yee (22J08)</p>
 <hr>
-<h4><strong>The Lee Hsien Loong Award&nbsp; for Outstanding Bicultural Students</strong></h4>
+<p></p>
+<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Goh Jun Yu (Class of 2023)" src="/images/2024/WhatsApp_Image_2024_09_23_at_09_32_20__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/WhatsApp_Image_2024_09_23_at_09_32_20.jpg">
+</div>
+<p>Goh Jun Yu (Class of 2023) was awarded the Lee Hsien Loong Award for Outstanding
+Bicultural Students at the MOE Special Awards Ceremony. This award recognises
+outstanding students in the Bicultural Studies Programme, underpinning
+the strategic importance of developing bicultural students who harness
+global perspectives.</p>
+<p>In a separate competition, Jun Yu won the third prize for the MAS-Economic
+Society of Singapore (ESS) essay competition. What is amazing about this
+is that he did not take A-Level Economics when he was in JC but he was
+able to apply what he had learnt from other disciplines to write an essay
+on the impact of global industrial policies on Singapore's economy.</p>
+<hr>
+<h4><strong>Lee Hsien Loong Award&nbsp; for Outstanding Bicultural Students</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/Shain.jpg">
 </div>

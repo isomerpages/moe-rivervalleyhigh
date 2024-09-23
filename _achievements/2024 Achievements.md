@@ -643,11 +643,14 @@ Boys</p>
 <p>Individual events: Team RV won 8 Gold, 10 Silver, and 11 Bronze medals</p>
 <p>Group events:</p>
 <p>Champions of the Group Weapon event: B Division Boys</p>
-<p>
-<br>Champions of the Group Weapon event and Divisional 4th placing: C Division
+<p></p>
+<p>Champions of the Group Weapon event and Divisional 4th placing: C Division
 Girls</p>
 <p>
 <br>Divisional 3rd placing: A Division Boys and Girls&nbsp;</p>
+<p></p>
+<p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
+in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 </tr>
 <tr>
@@ -875,10 +878,19 @@ crew, they were awarded a Distinction!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>President's Guide Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chua Yee Tien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Taijiquan Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
+in New Yang Style Taijiquan.</p>
 </td>
 </tr>
 </tbody>
