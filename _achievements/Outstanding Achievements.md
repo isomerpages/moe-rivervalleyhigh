@@ -14,10 +14,6 @@ variant: tiptap
 <p><em>The Prime Minister's Book Prize Award is given to outstanding students in the secondary schools category who exemplify academic and bilingual achievement.</em>
 </p>
 <hr>
-<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
-<p></p>
-<p></p>
-<p></p>
 <h4><strong>President's Guide Award</strong></h4>
 <p>Chua Yi Tien (2024)
 <br>Chan Jia Wei (2019)
@@ -64,7 +60,12 @@ variant: tiptap
 </div>
 <p>Gan Xi Yee (22J08)</p>
 <hr>
-<h4><strong>The Lee Hsien Loong Award&nbsp; for Outstanding Bicultural Students</strong></h4>
+<p></p>
+<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
+<p></p>
+<p></p>
+<hr>
+<h4><strong>Lee Hsien Loong Award&nbsp; for Outstanding Bicultural Students</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/Shain.jpg">
 </div>
