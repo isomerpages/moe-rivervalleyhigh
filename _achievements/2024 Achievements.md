@@ -884,6 +884,15 @@ crew, they were awarded a Distinction!</p>
 <p>Chua Yee Tien</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Taijiquan Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
+in New Yang Style Taijiquan.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
