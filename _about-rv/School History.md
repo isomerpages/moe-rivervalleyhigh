@@ -818,6 +818,20 @@ champions.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Yee Tien attained the President's Guide Award.</p>
+<p>Our B Division Wushu Boys are the champions of the National Wushu Championships.</p>
+<p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
+in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
+<p>Koh Le Bon won a silver medal in the spear event at the International
+Wushu Invitational Tournament in Jiangsu, China.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
