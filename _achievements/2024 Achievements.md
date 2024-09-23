@@ -878,10 +878,10 @@ crew, they were awarded a Distinction!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>President's Guide Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chua Yee Tien</p>
 </td>
 </tr>
 </tbody>
