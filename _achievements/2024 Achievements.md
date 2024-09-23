@@ -651,9 +651,6 @@ Girls</p>
 <p></p>
 <p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
 in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
-<p></p>
-<p>Koh Le Bon won a silver medal in the spear event at the International
-Wushu Invitational Tournament in Jiangsu, China.</p>
 </td>
 </tr>
 <tr>
