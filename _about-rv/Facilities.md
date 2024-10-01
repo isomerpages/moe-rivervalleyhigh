@@ -43,6 +43,14 @@ description: ""
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A cozy corner in the library</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
