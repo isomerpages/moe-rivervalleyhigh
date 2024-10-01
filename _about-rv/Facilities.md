@@ -185,23 +185,13 @@ description: ""
 </div>
 </th>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="big e 2" src="/images/Facilities/Special Rooms/big_e_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coding, one byte at a time</p>
+</td>
 </tr>
 </tbody>
 </table>
