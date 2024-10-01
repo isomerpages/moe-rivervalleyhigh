@@ -165,6 +165,14 @@ description: ""
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recording in progress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student-led sharing at the Big E!</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
