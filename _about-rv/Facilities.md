@@ -170,7 +170,7 @@ description: ""
 <p>Recording in progress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student-led sharing at the Big E!</p>
+<p>Working on CID projects at the Big E!</p>
 </td>
 </tr>
 </tbody>
@@ -195,7 +195,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ideas come to life at the Collabortion hub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coding, one byte at a time</p>
@@ -228,7 +228,7 @@ description: ""
 <p>Collaborating at the White Space</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ideas come to life at the Collaboration Hub</p>
+<p>Collaborative problem-solving</p>
 </td>
 </tr>
 </tbody>
