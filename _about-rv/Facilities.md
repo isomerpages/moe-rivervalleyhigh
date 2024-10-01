@@ -132,7 +132,7 @@ description: ""
 <p>Experimenting with new ideas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students exploring the fruit tree...ni-rainforest at our Eco-Trail</p>
 </td>
 </tr>
 </tbody>
