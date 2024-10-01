@@ -24,6 +24,3 @@ is that he did not take A-Level Economics when he was in JC but he was
 able to apply what he had learnt from other disciplines to write an essay
 on the impact of global industrial policies on Singapore's economy.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
