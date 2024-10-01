@@ -824,6 +824,8 @@ champions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Goh Jun Yu (Class of 2023) received the Lee Hsien Loong Award for Outstanding
+Bicultural Students.</p>
 <p>Chua Yee Tien attained the President's Guide Award.</p>
 <p>Our B Division Wushu Boys are the champions of the National Wushu Championships.</p>
 <p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
