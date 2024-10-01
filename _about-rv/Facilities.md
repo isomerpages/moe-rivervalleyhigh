@@ -99,6 +99,14 @@ description: ""
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joyful learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -142,9 +150,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="white space 3" src="/images/Facilities/Special Rooms/white_space_3.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -157,14 +163,10 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="math cid" src="/images/Facilities/Special Rooms/math_cid.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="white space 2" src="/images/Facilities/Special Rooms/white_space.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
