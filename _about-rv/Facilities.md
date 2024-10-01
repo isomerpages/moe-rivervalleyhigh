@@ -195,6 +195,36 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Collaborating at the White Space</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ideas come to life at the Collaboration Hub</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Spaces for Activities</h4>
 <table style="minWidth: 50px">
 <colgroup>
