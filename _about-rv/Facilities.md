@@ -195,7 +195,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ideas come to life at the Collabortion hub</p>
+<p>Ideas come to life at the Collaboration hub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coding, one byte at a time</p>
