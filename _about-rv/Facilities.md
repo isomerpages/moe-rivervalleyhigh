@@ -555,18 +555,22 @@ analytical instruments</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_dance.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_a_cultural_dance.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mass dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Learning a cultural dance</p>
 </td>
 </tr>
 </tbody>
