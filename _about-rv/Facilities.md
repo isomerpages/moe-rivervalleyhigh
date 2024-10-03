@@ -372,7 +372,7 @@ analytical instruments</p>
 <p>Mass formation at the school field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participating in bonding activities</p>
 </td>
 </tr>
 </tbody>
