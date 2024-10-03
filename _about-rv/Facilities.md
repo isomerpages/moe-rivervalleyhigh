@@ -133,9 +133,8 @@ Room</p>
 </th>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Experimenting_with_new_ideas.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharpening_our_culinary_skills.jpg">
 </div>
 </blockquote>
 </th>
@@ -145,7 +144,7 @@ Room</p>
 <p>Self-directed learners</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Experimenting with new ideas</p>
+<p>Sharpening our culinary skills</p>
 </td>
 </tr>
 </tbody>
