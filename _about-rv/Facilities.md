@@ -114,7 +114,7 @@ Room</p>
 <p>Experimenting with new ideas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students exploring the fruit tree...ni-rainforest at our Eco-Trail</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -142,7 +142,7 @@ Room</p>
 <p>Self-directed learners</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Experimenting with new ideas</p>
 </td>
 </tr>
 </tbody>
@@ -203,7 +203,9 @@ Room</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Special Rooms/eco_trail_2.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -211,7 +213,7 @@ Room</p>
 <p>Our environmental stewards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students exploring the fruit tree...ni-rainforest at our Eco-Trail</p>
 </td>
 </tr>
 </tbody>
