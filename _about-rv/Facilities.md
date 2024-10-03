@@ -57,7 +57,7 @@ description: ""
 <p>If you are going to get anywhere...a lot of books</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hooked onto the page turners</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -85,7 +85,8 @@ description: ""
 <p>Joyful learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Learning more about university courses at the Education and Career Guidance
+Room</p>
 </td>
 </tr>
 </tbody>
