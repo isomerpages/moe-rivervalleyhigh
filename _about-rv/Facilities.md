@@ -128,43 +128,13 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="teaching lab" src="/images/Facilities/Special Rooms/teaching_lab.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharpening_our_culinary_skills.jpg">
-</div>
-</blockquote>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Self-directed learners</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharpening our culinary skills</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharpening_our_culinary_skills.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -173,11 +143,12 @@ Room</p>
 analytical instruments</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sharpening our culinary skills</p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
