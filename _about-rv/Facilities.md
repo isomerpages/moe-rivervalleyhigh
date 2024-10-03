@@ -48,7 +48,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="amphitheatre" src="/images/Facilities/Library/lib_amphitheatre_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_lecture.jpg">
 </div>
 </th>
 </tr>
@@ -57,7 +57,7 @@ description: ""
 <p>If you are going to get anywhere...a lot of books</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mass Lecture</p>
 </td>
 </tr>
 </tbody>
