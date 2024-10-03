@@ -428,7 +428,7 @@ analytical instruments</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bringing you the latest news</p>
 </td>
 </tr>
 </tbody>
