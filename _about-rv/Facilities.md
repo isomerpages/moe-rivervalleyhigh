@@ -397,7 +397,7 @@ analytical instruments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Eat, Play, Laugh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A game of kinball in our multi-purpose hall</p>
