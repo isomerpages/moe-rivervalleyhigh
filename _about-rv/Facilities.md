@@ -425,7 +425,7 @@ analytical instruments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students attending a talk at the school auditorium</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bringing you the latest news</p>
