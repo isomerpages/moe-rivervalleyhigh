@@ -150,9 +150,8 @@ Room</p>
 </tbody>
 </table>
 <hr>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -160,9 +159,9 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -170,21 +169,8 @@ Room</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Students working at a special laboratory that is equipped with advanced
+analytical instruments</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
