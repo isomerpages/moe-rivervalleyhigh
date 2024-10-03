@@ -362,7 +362,6 @@ analytical instruments</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Getting_a_kick_out_of_a_game_of_soccer.jpg">
 </div>
@@ -471,7 +470,9 @@ analytical instruments</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Target_setting.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -479,7 +480,7 @@ analytical instruments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Target setting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
