@@ -332,17 +332,19 @@ analytical instruments</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student lounge 2" src="/images/Facilities/Special Rooms/student_lounge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Getting_a_kick_out_of_a_game_of_soccer.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Going for goal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Getting a kick out of a game of soccer</p>
 </td>
 </tr>
 </tbody>
