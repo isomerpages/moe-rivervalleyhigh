@@ -13,8 +13,9 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="box reading seats" src="/images/Facilities/Library/lib_box_seat.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library/lib_amphitheatre.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -25,7 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hooked onto the page turners</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A cozy corner in the library</p>
