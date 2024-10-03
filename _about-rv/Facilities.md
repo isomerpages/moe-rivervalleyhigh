@@ -56,7 +56,7 @@ description: ""
 <p>If you are going to get anywhere...a lot of books</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hooked onto the page turners</p>
 </td>
 </tr>
 </tbody>
