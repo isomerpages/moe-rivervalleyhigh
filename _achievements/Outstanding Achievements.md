@@ -15,12 +15,16 @@ variant: tiptap
 </p>
 <hr>
 <h4><strong>President's Guide Award</strong></h4>
-<p>Chua Yi Tien (2024)
-<br>Chan Jia Wei (2019)
-<br>Tang Rui Yi (2019)
-<br>Lee Yan Qing (2019)
-<br>Yeoh Hui Qing (2016)
-<br>Bernice Lim Si Min (2015)</p>
+<p></p>
+<p>Chua Yi Tien (2024)</p>
+<p>Toh Quanxiu Javelle (2023)</p>
+<p>Vera Ng Jing Wen (2021)</p>
+<p>Chan Jia Wei (2019)</p>
+<p>Tang Rui Yi (2019)</p>
+<p>Lee Yan Qing (2019)</p>
+<p>Yeoh Hui Qing (2016)</p>
+<p>Bernice Lim Si Min (2015)</p>
+<p></p>
 <p><em>The President's Guide Award is the highest level of achievement attainable by a Guide below the age of 18. It is given in recognition of the Guides' love for Guiding, her commitment towards the Guiding Movement, and her efforts in upholding Guiding values and skills to respectable standards.</em>
 </p>
 <hr>
