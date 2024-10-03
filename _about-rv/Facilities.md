@@ -387,6 +387,14 @@ analytical instruments</p>
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A game of kinball in our multi-purpose hall</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
