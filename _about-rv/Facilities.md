@@ -583,7 +583,9 @@ analytical instruments</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Giving_his_best_shot.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -591,7 +593,7 @@ analytical instruments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Giving his best shot</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
