@@ -532,7 +532,9 @@ analytical instruments</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Symposium.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -540,7 +542,7 @@ analytical instruments</p>
 <p>Scholars Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Learning Symposium</p>
 </td>
 </tr>
 </tbody>
@@ -593,4 +595,8 @@ analytical instruments</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Symposium.jpg">
+</div>
 <p></p>
