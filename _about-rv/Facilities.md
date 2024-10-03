@@ -105,7 +105,7 @@ Room</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eco trail" src="/images/Facilities/Special Rooms/eco_trail_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_students_working_on_their_D_T_project.jpg">
 </div>
 </th>
 </tr>
@@ -114,7 +114,7 @@ Room</p>
 <p>Experimenting with new ideas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our students working on their D&amp;T project</p>
 </td>
 </tr>
 </tbody>
