@@ -676,80 +676,75 @@ for the H3 subject.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13 Oct 2023</strong>
+<p><strong>11 Oct 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Publicise H3 programmes (MOE-UCLES and&nbsp;MOE Partner) and open for application for 2023.</strong>
+<p>Publicise H3 programmes (MOE-Cambridge and MOE-Partner) and open &nbsp;application
+for 2024.</p>
+<p><em>Students sign up with school’s H3 coordinator using RVHS H3 Application Form &amp; RVHS Online H3 Application.</em>
 </p>
-<p><strong><em>Students sign up with school’s H3 coordinator using RVHS H3 Application Form &amp; RVHS Online H3 Application.</em></strong>
-</p>
-<p><strong><em>If applying to NUS/NTU/SMU, fill in their (online) applications as well.</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>20 Oct 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>RVHS Close applications.&nbsp;</strong>
-</p>
-<p><strong>H3 coordinator to process and submit all documents to NUS, NTU, SMU.</strong>
+<p><em>If applying to NUS/NTU/SMU, fill in their (online) applications as well.</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>17 Nov 2023</strong>
+<p><strong>18 Oct 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MOE partners (NUS, NTU, SMU) offer admission letters to <em>successful applicants</em> through schools/JCs.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>24 Nov 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Deadline for acceptance of offers for MOE Partner H3 Programme</strong>
-</p>
+<p>RVHS Close applications.</p>
+<p>H3 coordinator to process and submit all documents to NUS, NTU, SMU.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Week 2 and 3 of Jan 2024</strong>
+<p><strong>15 Nov 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Check with JC2 Subject Tutor successful application for MOE-Cambridge modules.</strong>
+<p>MOE partners (NUS, NTU, SMU) offer admission letters to <em>successful applicants</em> through
+schools/JCs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>22 Nov 2024</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deadline for acceptance of offers for MOE-Partner H3 Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 1 Week 1 &amp; 2 of Jan 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check with JC2 Subject Tutor successful application for MOE-Cambridge
+modules.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>NUS, NTU, SMU</strong>
 </p>
-<p><strong>&nbsp;– Jan 2024</strong>
+<p><strong>&nbsp;– Jan 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start of instruction/Start of withdrawal period for NUS, NTU, SMU Programme.</strong>
-</p>
+<p>Start of instruction/Start of withdrawal period for NUS, NTU, SMU Programme.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 weeks after start of instruction&nbsp;</strong>
+<p><strong>2 weeks after start of instruction</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>End of withdrawal period.</strong>
-</p>
+<p>End of withdrawal period.</p>
 </td>
 </tr>
 </tbody>
