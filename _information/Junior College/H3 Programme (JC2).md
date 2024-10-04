@@ -3,6 +3,7 @@ title: H3 Programme (JC2)
 permalink: /information/h3-jc2/
 description: ""
 third_nav_title: Junior College
+variant: markdown
 ---
 ## H3 Programme (JC2)
 
@@ -142,7 +143,7 @@ third_nav_title: Junior College
             <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;"><br></td>
             <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(166, 166, 166);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;"><br></td>
             <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;">
-                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NUS-MOE Humanities &amp; Social Science Research (Hist/ Geo/CLL)</span></p>
+                <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">NUS-MOE Humanities &amp; Social Science Research (Hist/ Geo/CLL/EC)</span></p>
             </td>
             <td style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(255, 204, 255);padding: 0.75pt 5.25pt 0in;height: 58.35pt;vertical-align: top;">
                 <p style="margin:0in;text-align:center;font-size:12px;font-family:&quot;Arial&quot;,sans-serif;font-weight:bold;"><span style="color:black;">SMU Game Theory</span></p>
