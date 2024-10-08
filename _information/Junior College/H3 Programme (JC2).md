@@ -207,11 +207,11 @@ take the modes of an extended research essay or a university-taught course.</p>
 <td rowspan="1" colspan="1">
 <p><strong>NTU Nanyang Research</strong>
 </p>
-<p><strong>(started in mid 2023)</strong>
+<p><strong>(started in mid 2024)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NUS-MOE Science Research (started in mid 2023)</strong>
+<p><strong>NUS-MOE Science Research (started in mid 2024)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
