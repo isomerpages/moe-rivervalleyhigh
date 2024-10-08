@@ -15,12 +15,16 @@ variant: tiptap
 </p>
 <hr>
 <h4><strong>President's Guide Award</strong></h4>
-<p>Chua Yi Tien (2024)
-<br>Chan Jia Wei (2019)
-<br>Tang Rui Yi (2019)
-<br>Lee Yan Qing (2019)
-<br>Yeoh Hui Qing (2016)
-<br>Bernice Lim Si Min (2015)</p>
+<p></p>
+<p>Chua Yi Tien (2024)</p>
+<p>Toh Quanxiu Javelle (2023)</p>
+<p>Vera Ng Jing Wen (2021)</p>
+<p>Chan Jia Wei (2019)</p>
+<p>Tang Rui Yi (2019)</p>
+<p>Lee Yan Qing (2019)</p>
+<p>Yeoh Hui Qing (2016)</p>
+<p>Bernice Lim Si Min (2015)</p>
+<p></p>
 <p><em>The President's Guide Award is the highest level of achievement attainable by a Guide below the age of 18. It is given in recognition of the Guides' love for Guiding, her commitment towards the Guiding Movement, and her efforts in upholding Guiding values and skills to respectable standards.</em>
 </p>
 <hr>
@@ -60,26 +64,6 @@ variant: tiptap
 </div>
 <p>Gan Xi Yee (22J08)</p>
 <hr>
-<p></p>
-<h4><strong>Lee Hsien Loong Award for Outstanding Bicultural Students</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Goh Jun Yu (Class of 2023)" src="/images/2024/WhatsApp_Image_2024_09_23_at_09_32_20__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/WhatsApp_Image_2024_09_23_at_09_32_20.jpg">
-</div>
-<p>Goh Jun Yu (Class of 2023) was awarded the Lee Hsien Loong Award for Outstanding
-Bicultural Students at the MOE Special Awards Ceremony. This award recognises
-outstanding students in the Bicultural Studies Programme, underpinning
-the strategic importance of developing bicultural students who harness
-global perspectives.</p>
-<p>In a separate competition, Jun Yu won the third prize for the MAS-Economic
-Society of Singapore (ESS) essay competition. What is amazing about this
-is that he did not take A-Level Economics when he was in JC but he was
-able to apply what he had learnt from other disciplines to write an essay
-on the impact of global industrial policies on Singapore's economy.</p>
 <hr>
 <h4><strong>Lee Hsien Loong Award&nbsp; for Outstanding Bicultural Students</strong></h4>
 <div class="isomer-image-wrapper">
