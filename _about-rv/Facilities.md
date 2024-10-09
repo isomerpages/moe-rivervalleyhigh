@@ -397,7 +397,6 @@ analytical instruments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Going for goal</p>
 </td>
 <td rowspan="1" colspan="1">
