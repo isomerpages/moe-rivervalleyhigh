@@ -656,7 +656,7 @@ analytical instruments</p>
 <p>Going for a slam dunk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our indoor sports hall is fully furnished with badminton court mats (1)_5_11zon</p>
+<p>Our indoor sports hall is fully furnished with badminton court mats</p>
 </td>
 </tr>
 </tbody>
@@ -669,7 +669,9 @@ analytical instruments</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/PE_lesson_at_the_multi_purpose_hall__1__11zon.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -677,7 +679,7 @@ analytical instruments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PE lesson at the multi-purpose hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
