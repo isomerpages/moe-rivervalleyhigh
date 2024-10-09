@@ -358,12 +358,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ready_for_an_overnight_camp_in_school_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ready_for_an_overnight_camp_in_school_RR.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_R.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_2000.jpg">
 </div>
 </th>
 </tr>
