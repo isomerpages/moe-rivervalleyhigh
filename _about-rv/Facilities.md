@@ -269,15 +269,13 @@ analytical instruments</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space_resized.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving_resized.jpg">
 </div>
 </th>
 </tr>
