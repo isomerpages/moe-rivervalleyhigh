@@ -674,7 +674,9 @@ analytical instruments</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Outdoor_cooking_at_the_field__1__6_11zon.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -682,7 +684,7 @@ analytical instruments</p>
 <p>PE lesson at the multi-purpose hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outdoor cooking at the field</p>
 </td>
 </tr>
 </tbody>
