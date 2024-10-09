@@ -159,12 +159,12 @@ analytical instruments</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_environmental_stewards.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_environmental_stewards__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Special Rooms/eco_trail_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_exploring_the_fruit_tree_garden__ornamental_ponds__wetland_zone__and_mini_rainforest_at_our_Eco_Trail_resized.jpg">
 </div>
 </th>
 </tr>
@@ -173,7 +173,8 @@ analytical instruments</p>
 <p>Our environmental stewards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students exploring the fruit tree...ni-rainforest at our Eco-Trail</p>
+<p>Students exploring the fruit tree garden, ornamental ponds, wetland zone,
+and mini-rainforest at our Eco-Trail</p>
 </td>
 </tr>
 </tbody>
