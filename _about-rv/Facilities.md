@@ -386,12 +386,12 @@ analytical instruments</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student lounge 1" src="/images/Facilities/Special Rooms/student_lounge_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Going_for_goal_resized.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Getting_a_kick_out_of_a_game_of_soccer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting_a_kick_out_of_a_game_of_soccer_resized.jpg">
 </div>
 </th>
 </tr>
