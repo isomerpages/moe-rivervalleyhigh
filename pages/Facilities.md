@@ -334,6 +334,9 @@ analytical instruments</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/2nd_level_of_the_multi_purpose_hall__1__2_11zon.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -341,7 +344,7 @@ analytical instruments</p>
 <p>Morning assembly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2nd level of the multi-purpose hall</p>
 </td>
 </tr>
 </tbody>
