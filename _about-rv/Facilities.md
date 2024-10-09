@@ -499,13 +499,14 @@ and mini-rainforest at our Eco-Trail</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Target_setting.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Target_setting_resized.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_resized.jpg">
 </div>
 </th>
 </tr>
