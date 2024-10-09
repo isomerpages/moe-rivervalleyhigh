@@ -646,7 +646,9 @@ analytical instruments</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Our_indoor_sports_hall_is_fully_furnished_with_badminton_court_mats__1__5_11zon.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -654,7 +656,7 @@ analytical instruments</p>
 <p>Going for a slam dunk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our indoor sports hall is fully furnished with badminton court mats (1)_5_11zon</p>
 </td>
 </tr>
 </tbody>
