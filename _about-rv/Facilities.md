@@ -633,6 +633,18 @@ analytical instruments</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -641,8 +653,9 @@ analytical instruments</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Going_for_a_slam_dunk___1__3_11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Going_for_a_slam_dunk___1__3_11zon_1_.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
