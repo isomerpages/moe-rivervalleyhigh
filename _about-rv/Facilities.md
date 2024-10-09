@@ -43,18 +43,19 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="reading corner" src="/images/Facilities/Library/llib_reading_corner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/If_you_are_going_to_get_anywhere_in_life__you_have_to_read_a_lot_of_books_____Roald_Dahl_resized.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_lecture.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_lecture_resized.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>If you are going to get anywhere...a lot of books</p>
+<p>“If you are going to get anywhere in life, you have to read a lot of books.”
+- Roald Dahl</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mass Lecture</p>
