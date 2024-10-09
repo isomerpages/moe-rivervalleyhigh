@@ -371,7 +371,7 @@ and mini-rainforest at our Eco-Trail</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ready for an overnight camp in school_</p>
+<p>Ready for an overnight camp in school</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Trying to net a goal</p>
