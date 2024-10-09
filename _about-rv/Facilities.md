@@ -363,7 +363,7 @@ and mini-rainforest at our Eco-Trail</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_R.jpg">
 </div>
 </th>
 </tr>
