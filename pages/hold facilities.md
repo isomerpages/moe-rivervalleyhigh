@@ -608,12 +608,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Giving_his_best_shot_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Giving_his_best_shot.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_having_a_ball_resized.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Students_having_a_ball.jpg">
 </div>
 </td>
 </tr>
