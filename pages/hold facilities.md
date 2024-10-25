@@ -128,19 +128,18 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Facilities/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Facilities/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/Facilities/Sharpening_our_culinary_skills.jpg">
+<img style="width: 71%;" height="auto" width="100%" alt="" src="/images/Facilities/Sharpening_our_culinary_skills.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students working at a special laboratory that is equipped with advanced
-analytical instruments</p>
+<p>Students working with advanced analytical instruments</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sharpening our culinary skills</p>
@@ -178,21 +177,30 @@ and mini-rainforest at our Eco-Trail</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Facilities/Self_directed_learners.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities/Self_directed_learners.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities/blank.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Self-directed learners</p>
+<p>Self directed Learners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -207,12 +215,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="recording studio" src="/images/Facilities/Special Rooms/recording_studio.jpg">
+<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/Facilities/Recording_in_progress.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="big e" src="/images/Facilities/Special Rooms/big_e_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Working_on_CID_projects_at_the_Big_E_.jpg">
 </div>
 </th>
 </tr>
