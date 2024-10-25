@@ -648,12 +648,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Going_for_a_slam_dunk___1__3_11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Going_for_a_slam_dunk_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Our_indoor_sports_hall_is_fully_furnished_with_badminton_court_mats__1__5_11zon.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Our_indoor_sports_hall_is_fully_furnished_with_badminton_court_mats.jpg">
 </div>
 </th>
 </tr>
@@ -676,12 +676,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/PE_lesson_at_the_multi_purpose_hall__1__11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/PE_lesson_at_the_multi_purpose_hall.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Outdoor_cooking_at_the_field__1__6_11zon.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Outdoor_cooking_at_the_field.jpg">
 </div>
 </th>
 </tr>
