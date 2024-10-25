@@ -271,12 +271,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space_updated.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving_resized.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving_updated.jpg">
 </div>
 </th>
 </tr>
@@ -298,13 +298,14 @@ and mini-rainforest at our Eco-Trail</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Student_led_sharing_at_the_Big_E_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Student_led_sharing_at_the_Big_E__edited.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/blank_lanscape.png">
+</div>
 </th>
 </tr>
 <tr>
