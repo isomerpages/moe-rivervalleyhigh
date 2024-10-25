@@ -2,7 +2,6 @@ collections:
   about-rv:
     output: true
     order:
-      - hold facilities.md
       - School Overview/.keep
       - School Overview/A World Class Educational Institution.md
       - School Overview/Academic Departments.md
@@ -15,5 +14,6 @@ collections:
       - School Partners/.keep
       - School Partners/School Partners.md
       - School Partners/Parent Teacher Association.md
+      - hold facilities.md
       - Contact Info/.keep
       - Contact Info/Contact Info.md
