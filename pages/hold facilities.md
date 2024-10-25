@@ -552,12 +552,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scholars_Court.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Scholars_Court.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Symposium.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/Learning_Symposium.jpg">
 </div>
 </th>
 </tr>
