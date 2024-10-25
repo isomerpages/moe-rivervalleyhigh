@@ -440,12 +440,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="canteen" src="/images/Facilities/Large Venue/canteen.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Eat__play__laugh.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hall" src="/images/Facilities/Large Venue/school_hall.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/A_game_of_kinball_in_our_multi_purpose_hall.jpg">
 </div>
 </th>
 </tr>
