@@ -327,15 +327,13 @@ and mini-rainforest at our Eco-Trail</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Morning_assembly__1__4_11zon.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Morning_assembly.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/2nd_level_of_the_multi_purpose_hall__1__2_11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/2nd_level_of_the_multi_purpose_hall.jpg">
 </div>
 </th>
 </tr>
@@ -358,12 +356,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ready_for_an_overnight_camp_in_school_RR.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/Ready_for_an_overnight_camp_in_school_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_2000.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Trying_to_net_a_goal.jpg">
 </div>
 </th>
 </tr>
