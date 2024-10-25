@@ -243,12 +243,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="collab hub" src="/images/Facilities/Special Rooms/colab_hub.jpg">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Facilities/Ideas_come_to_life_at_the_Collaboration_Hub.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="comp lab" src="/images/Facilities/Special Rooms/comp_lab_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/4_Mac_Lab____.jpg">
 </div>
 </th>
 </tr>
