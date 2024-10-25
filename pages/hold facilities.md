@@ -215,7 +215,7 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/Facilities/Recording_in_progress.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Recording_in_progress_edit.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
