@@ -13,14 +13,13 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library/lib_amphitheatre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Hooked_onto_the_page_turners.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="self study diner seats" src="/images/Facilities/Library/lib_self_stud_.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="self study diner seats" src="/images/Facilities/Library/lib_self_stud_.jpg">
 </div>
 </th>
 </tr>
@@ -43,12 +42,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/If_you_are_going_to_get_anywhere_in_life__you_have_to_read_a_lot_of_books_____Roald_Dahl_resized.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/If_you_are_going_to_get_anywhere_in_life__you_have_to_read_a_lot_of_books_____Roald_Dahl.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_lecture_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Mass_lecture.jpg">
 </div>
 </th>
 </tr>
@@ -72,12 +71,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LT 4" src="/images/Facilities/Large Venue/lt_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Joyful_learning.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ecg room" src="/images/Facilities/Special Rooms/hecg_rm.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Learning_more_about_university_courses_at_the_Education_and_Career_Guidance_Room.jpg">
 </div>
 </th>
 </tr>
@@ -101,12 +100,12 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="science lab" src="/images/Facilities/Special Rooms/science_lab_1.jpg">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_students_working_on_their_D_T_project.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Our_students_working_on_their_D_T_project.jpg">
 </div>
 </th>
 </tr>
@@ -129,12 +128,12 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG_resized.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Facilities/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharpening_our_culinary_skills_resized.jpg">
+<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/Facilities/Sharpening_our_culinary_skills.jpg">
 </div>
 </th>
 </tr>
@@ -159,12 +158,12 @@ analytical instruments</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_environmental_stewards__1_.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Our_environmental_stewards.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_exploring_the_fruit_tree_garden__ornamental_ponds__wetland_zone__and_mini_rainforest_at_our_Eco_Trail_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Students_exploring_the_fruit_tree_garden__ornamental_ponds__wetland_zone__and_mini_rainforest_at_our_Eco_Trail.jpg">
 </div>
 </th>
 </tr>
@@ -179,29 +178,21 @@ and mini-rainforest at our Eco-Trail</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Self_directed_learners_resized.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Facilities/Self_directed_learners.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Self-directed learners</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
