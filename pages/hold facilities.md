@@ -580,18 +580,18 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Mass_dance.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_a_cultural_dance.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Facilities/Learning_a_cultural_dance.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass dance</p>
+<p>ass dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning a cultural dance</p>
