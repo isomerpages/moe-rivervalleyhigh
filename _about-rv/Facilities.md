@@ -19,7 +19,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="self study diner seats" src="/images/Facilities/Library/lib_self_stud_.jpg">
+<img style="width: 93%;" height="auto" width="100%" alt="self study diner seats" src="/images/Facilities/Library/lib_self_stud_.jpg">
 </div>
 </th>
 </tr>
@@ -100,7 +100,7 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -243,7 +243,7 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Facilities/Ideas_come_to_life_at_the_Collaboration_Hub.jpg">
+<img style="width: 81%;" height="auto" width="100%" alt="" src="/images/Facilities/Ideas_come_to_life_at_the_Collaboration_Hub.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -356,7 +356,7 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/Ready_for_an_overnight_camp_in_school_.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Facilities/Ready_for_an_overnight_camp_in_school_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -496,12 +496,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Target_setting_edited.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities/Target_setting_edited.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Trying_to_net_a_goal.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/Warming_up.jpg">
 </div>
 </th>
 </tr>
@@ -510,7 +510,7 @@ and mini-rainforest at our Eco-Trail</p>
 <p>Target setting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Trying to net a goal</p>
+<p>Warming Up</p>
 </td>
 </tr>
 </tbody>
@@ -524,7 +524,7 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Warming_up.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/PE_lesson_at_the_multi_purpose_hall.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -535,7 +535,7 @@ and mini-rainforest at our Eco-Trail</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Warming up</p>
+<p>PE lesson at the multi-purpose hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We'll steal the show</p>
@@ -676,21 +676,22 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/PE_lesson_at_the_multi_purpose_hall.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Outdoor_cooking_at_the_field.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Outdoor_cooking_at_the_field.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/blank_lanscape.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE lesson at the multi-purpose hall</p>
+<p>Outdoor cooking at the field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor cooking at the field</p>
+<p></p>
 </td>
 </tr>
 </tbody>
