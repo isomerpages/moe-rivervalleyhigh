@@ -1,5 +1,5 @@
 ---
-title: hold facilities
+title: Facilities
 permalink: /hold-facilities/
 variant: tiptap
 description: ""
@@ -13,14 +13,13 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library/lib_amphitheatre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Hooked_onto_the_page_turners.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="self study diner seats" src="/images/Facilities/Library/lib_self_stud_.jpg">
+<img style="width: 93%;" height="auto" width="100%" alt="self study diner seats" src="/images/Facilities/Library/lib_self_stud_.jpg">
 </div>
 </th>
 </tr>
@@ -43,12 +42,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/If_you_are_going_to_get_anywhere_in_life__you_have_to_read_a_lot_of_books_____Roald_Dahl_resized.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/If_you_are_going_to_get_anywhere_in_life__you_have_to_read_a_lot_of_books_____Roald_Dahl.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_lecture_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Mass_lecture.jpg">
 </div>
 </th>
 </tr>
@@ -72,12 +71,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LT 4" src="/images/Facilities/Large Venue/lt_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Joyful_learning.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ecg room" src="/images/Facilities/Special Rooms/hecg_rm.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Learning_more_about_university_courses_at_the_Education_and_Career_Guidance_Room.jpg">
 </div>
 </th>
 </tr>
@@ -101,12 +100,12 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="science lab" src="/images/Facilities/Special Rooms/science_lab_1.jpg">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_students_working_on_their_D_T_project.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Our_students_working_on_their_D_T_project.jpg">
 </div>
 </th>
 </tr>
@@ -129,19 +128,18 @@ Room</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG_resized.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Facilities/Students_working_at_a_special_laboratory_that_is_equipped_with_advanced_analytical_instrumentsJPG.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharpening_our_culinary_skills_resized.jpg">
+<img style="width: 71%;" height="auto" width="100%" alt="" src="/images/Facilities/Sharpening_our_culinary_skills.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students working at a special laboratory that is equipped with advanced
-analytical instruments</p>
+<p>Students working with advanced analytical instruments</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sharpening our culinary skills</p>
@@ -159,12 +157,12 @@ analytical instruments</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_environmental_stewards__1_.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Our_environmental_stewards.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_exploring_the_fruit_tree_garden__ornamental_ponds__wetland_zone__and_mini_rainforest_at_our_Eco_Trail_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Students_exploring_the_fruit_tree_garden__ornamental_ponds__wetland_zone__and_mini_rainforest_at_our_Eco_Trail.jpg">
 </div>
 </th>
 </tr>
@@ -187,18 +185,19 @@ and mini-rainforest at our Eco-Trail</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Self_directed_learners_resized.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities/Self_directed_learners.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities/blank.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Self-directed learners</p>
+<p>Self directed Learners</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -216,12 +215,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="recording studio" src="/images/Facilities/Special Rooms/recording_studio.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Recording_in_progress_edit.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="big e" src="/images/Facilities/Special Rooms/big_e_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Working_on_CID_projects_at_the_Big_E_.jpg">
 </div>
 </th>
 </tr>
@@ -244,12 +243,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="collab hub" src="/images/Facilities/Special Rooms/colab_hub.jpg">
+<img style="width: 81%;" height="auto" width="100%" alt="" src="/images/Facilities/Ideas_come_to_life_at_the_Collaboration_Hub.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="comp lab" src="/images/Facilities/Special Rooms/comp_lab_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/4_Mac_Lab____.jpg">
 </div>
 </th>
 </tr>
@@ -272,12 +271,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborating_at_the_White_Space_updated.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving_resized.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Collaborative_problem_solving_updated.jpg">
 </div>
 </th>
 </tr>
@@ -299,13 +298,14 @@ and mini-rainforest at our Eco-Trail</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Student_led_sharing_at_the_Big_E_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Student_led_sharing_at_the_Big_E__edited.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/blank_lanscape.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -327,15 +327,13 @@ and mini-rainforest at our Eco-Trail</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Morning_assembly__1__4_11zon.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Morning_assembly.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/2nd_level_of_the_multi_purpose_hall__1__2_11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/2nd_level_of_the_multi_purpose_hall.jpg">
 </div>
 </th>
 </tr>
@@ -358,12 +356,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ready_for_an_overnight_camp_in_school_RR.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Facilities/Ready_for_an_overnight_camp_in_school_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_2000.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Trying_to_net_a_goal.jpg">
 </div>
 </th>
 </tr>
@@ -386,12 +384,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Going_for_goal_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Going_for_goal.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting_a_kick_out_of_a_game_of_soccer_resized.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Getting_a_kick_out_of_a_game_of_soccer_updated.jpg">
 </div>
 </th>
 </tr>
@@ -414,12 +412,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="track" src="/images/Facilities/Large Venue/track_display.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Mass_formation_at_the_school_field.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="field 2" src="/images/Facilities/Large Venue/track_field_2.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Facilities/Participating_in_bonding_activities.jpg">
 </div>
 </th>
 </tr>
@@ -442,12 +440,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="canteen" src="/images/Facilities/Large Venue/canteen.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Eat__play__laugh.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hall" src="/images/Facilities/Large Venue/school_hall.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/A_game_of_kinball_in_our_multi_purpose_hall.jpg">
 </div>
 </th>
 </tr>
@@ -470,12 +468,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/school_auditorium.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/2_Students_attending_a_talk_at_the_school_auditorium.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="rvfm" src="/images/Facilities/Special Rooms/rvfm_broadcast.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Bringing_you_the_latest_news.jpg">
 </div>
 </th>
 </tr>
@@ -498,12 +496,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Target_setting_resized.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facilities/Target_setting_edited.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trying_to_net_a_goal_resized.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/Warming_up.jpg">
 </div>
 </th>
 </tr>
@@ -512,7 +510,7 @@ and mini-rainforest at our Eco-Trail</p>
 <p>Target setting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Trying to net a goal</p>
+<p>Warming Up</p>
 </td>
 </tr>
 </tbody>
@@ -526,19 +524,18 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Warming_up.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/PE_lesson_at_the_multi_purpose_hall.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/We_ll_steal_the_show.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/We_ll_steal_the_show.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Warming up</p>
+<p>PE lesson at the multi-purpose hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We'll steal the show</p>
@@ -555,12 +552,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scholars_Court.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Scholars_Court.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Symposium.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Facilities/Learning_Symposium.jpg">
 </div>
 </th>
 </tr>
@@ -583,18 +580,18 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mass_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Mass_dance.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_a_cultural_dance.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Facilities/Learning_a_cultural_dance.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass dance</p>
+<p>ass dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning a cultural dance</p>
@@ -611,12 +608,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Giving_his_best_shot_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Giving_his_best_shot.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_having_a_ball_resized.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Students_having_a_ball.jpg">
 </div>
 </td>
 </tr>
@@ -651,12 +648,12 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Going_for_a_slam_dunk___1__3_11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Going_for_a_slam_dunk_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Our_indoor_sports_hall_is_fully_furnished_with_badminton_court_mats__1__5_11zon.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Our_indoor_sports_hall_is_fully_furnished_with_badminton_court_mats.jpg">
 </div>
 </th>
 </tr>
@@ -679,21 +676,22 @@ and mini-rainforest at our Eco-Trail</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/PE_lesson_at_the_multi_purpose_hall__1__11zon.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Facilities/Outdoor_cooking_at_the_field.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Large Venue/Outdoor_cooking_at_the_field__1__6_11zon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/blank_lanscape.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE lesson at the multi-purpose hall</p>
+<p>Outdoor cooking at the field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor cooking at the field</p>
+<p></p>
 </td>
 </tr>
 </tbody>
