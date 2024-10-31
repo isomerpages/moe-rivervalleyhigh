@@ -123,7 +123,9 @@ colleagues and the&nbsp;mathematics teaching fraternity in&nbsp;Singapore.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sim Lea Kheng was the finalist for&nbsp;Outstanding Science Teacher
+Award (2018) which recognises teachers who are dedicated role models in
+the teaching and learning of Science.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
