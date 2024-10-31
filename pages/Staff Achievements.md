@@ -14,8 +14,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Ms Faith Goh Li-Ern received&nbsp;the Inspiring Teacher of&nbsp;English
 Award 2024-Leadership Award for leading&nbsp;the General Paper (GP) and&nbsp;Literature
-in English (E. Lit)&nbsp;teams in the design and&nbsp;implementation of
-an innovative&nbsp;and effective JC curriculum.</p>
+in English (E. Lit)&nbsp;teams in the design and implementation of an innovative&nbsp;and
+effective JC curriculum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
