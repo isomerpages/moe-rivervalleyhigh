@@ -54,14 +54,6 @@ teams of students, 2 of which won the Distinction and Merit Awards.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Miss Tee Lay Hoon received the 2023&nbsp;Outstanding Economics Teacher
 Award&nbsp;which recognises passionate teachers who demonstrate mastery
@@ -83,14 +75,6 @@ contributions to the teaching and learning of Economics in Singapore.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Pearl Lam was 1 of 4 recipients to&nbsp;receive the 2021 Excellence
