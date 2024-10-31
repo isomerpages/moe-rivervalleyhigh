@@ -35,8 +35,8 @@ effective JC curriculum.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Khiu Yi Wen and Ms Lau Shi Yun won the Best Mentor Award at the&nbsp;2024
-International Space Challenge due to the stellar submissions from</p>
-<p>all 5 teams of students, 2 of which won the Distinction and Merit Awards.</p>
+International Space Challenge due to the stellar submissions from all 5
+teams of students, 2 of which won the Distinction and Merit Awards.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
