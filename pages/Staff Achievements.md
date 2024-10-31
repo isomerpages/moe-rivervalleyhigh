@@ -131,6 +131,25 @@ the teaching and learning of Science.&nbsp;</p>
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lum Chee Fai was the winner of the 2018 Dr. J. M Nathan Memorial Prize
+for&nbsp;Curriculum Project in Management and&nbsp;Leadership in Schools,
+for demonstrating the highest level of standard in the Assessment for Curriculum
+Project.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
