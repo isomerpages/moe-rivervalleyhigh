@@ -56,9 +56,10 @@ teams of students, 2 of which won the Distinction and Merit Awards.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Tee Lay Hoon received the 2023&nbsp;Outstanding Economics Teacher
-Award&nbsp;which recognises passionate teachers who demonstrate mastery
-of Economics, and pedagogical and assessment approaches, as they make significant
-contributions to the teaching and learning of Economics in Singapore.</p>
+Award&nbsp;which recognises passionate
+<br>teachers who demonstrate mastery of Economics, and pedagogical and assessment
+approaches, as they make significant contributions to the teaching and
+learning of Economics in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
