@@ -2,13 +2,13 @@ collections:
   achievements:
     output: true
     order:
-      - Staff Achievements.md
-      - Scholarship Recipients/2024 Scholarship Recipients.md
       - Scholarship Recipients/.keep
+      - Scholarship Recipients/2024 Scholarship Recipients.md
       - Scholarship Recipients/2023 Scholarship Recipients.md
       - Scholarship Recipients/2022 Scholarship Recipients.md
       - Scholarship Recipients/2021 Scholarship Recipients.md
       - Outstanding Achievements.md
+      - Staff Achievements.md
       - 2023 GCE A Level Results.md
       - 2024 Achievements.md
       - 2023 Achievements.md
