@@ -34,6 +34,14 @@ effective JC curriculum.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Khiu Yi Wen and Ms Lau Shi Yun won the Best Mentor Award at the&nbsp;2024
 International Space Challenge due to the stellar submissions from all 5
 teams of students, 2 of which won the Distinction and Merit Awards.</p>
@@ -53,6 +61,14 @@ teams of students, 2 of which won the Distinction and Merit Awards.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Tee Lay Hoon received the 2023&nbsp;Outstanding Economics Teacher
@@ -76,6 +92,14 @@ learning of Economics in Singapore.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Pearl Lam was 1 of 4 recipients
@@ -105,6 +129,14 @@ mathematics, and are role&nbsp;models to their colleagues
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Sim Lea Kheng was the finalist for&nbsp;Outstanding Science Teacher
 Award (2018) which recognises teachers who are dedicated role models in
 the teaching and learning of Science.&nbsp;</p>
@@ -121,6 +153,14 @@ the teaching and learning of Science.&nbsp;</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lum Chee Fai was the winner of the 2018 Dr. J. M Nathan Memorial Prize
