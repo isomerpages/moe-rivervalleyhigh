@@ -84,9 +84,8 @@ learning of Economics in Singapore.</p>
 <br>which affirms Singapore teachers
 <br>who are passionate in mathematics
 <br>teaching,&nbsp;have displayed exemplary efforts in the&nbsp;teaching of
-mathematics, and are
-<br>role&nbsp;models
-<br>to their colleagues and the&nbsp;mathematics teaching fraternity in&nbsp;Singapore.
+mathematics, and are role&nbsp;models to their colleagues
+<br>and the&nbsp;mathematics teaching fraternity in&nbsp;Singapore.
 <br>
 </p>
 </td>
@@ -104,14 +103,6 @@ mathematics, and are
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Sim Lea Kheng was the finalist for&nbsp;Outstanding Science Teacher
@@ -141,7 +132,30 @@ Project.&nbsp;</p>
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
