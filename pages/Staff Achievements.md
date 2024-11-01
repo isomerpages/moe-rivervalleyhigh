@@ -78,16 +78,22 @@ learning of Economics in Singapore.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pearl Lam was 1 of 4 recipients to&nbsp;receive the 2021 Excellence
-in&nbsp; Mathematics Teaching Award which affirms Singapore teachers who
-are passionate in mathematics teaching,&nbsp;have displayed exemplary efforts
-in the&nbsp;teaching of mathematics, and are role&nbsp;models to their
-colleagues and the&nbsp;mathematics teaching fraternity in&nbsp;Singapore.
+<p>Ms Pearl Lam was 1 of 4 recipients
+<br>to&nbsp;receive the 2021 Excellence
+<br>in&nbsp; Mathematics Teaching Award
+<br>which affirms Singapore teachers
+<br>who are passionate in mathematics
+<br>teaching,&nbsp;have displayed exemplary efforts in the&nbsp;teaching of
+mathematics, and are
+<br>role&nbsp;models
+<br>to their colleagues and the&nbsp;mathematics teaching fraternity in&nbsp;Singapore.
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Staff Achievements/WhatsApp_Image_2021_09_02_at_10_37_49_AM.jpg">
+</div>
 </td>
 </tr>
 </tbody>
