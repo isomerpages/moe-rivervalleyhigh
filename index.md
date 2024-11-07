@@ -60,10 +60,11 @@ sections:
       id: resources
       button: Read More
   - infopic:
-      title: Infopic
+      title: Check out our School Facilities
       subtitle: Our Spaces
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: View Here!
       alt: Image alt text
+      image: /images/2024/For_school_homepage.jpg
+      url: https://moe-nationaljc-staging.netlify.app/research-at-njc/
 ---
