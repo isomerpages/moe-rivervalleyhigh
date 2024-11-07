@@ -66,5 +66,5 @@ sections:
       button: View Here!
       alt: Image alt text
       image: /images/2024/For_school_homepage.jpg
-      url: https://moe-nationaljc-staging.netlify.app/research-at-njc/
+      url: https://
 ---
