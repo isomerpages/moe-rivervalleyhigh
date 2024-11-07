@@ -42,7 +42,7 @@ sections:
       button: View Here!
       alt: Image alt text
       image: /images/2024/For_school_homepage.jpg
-      url: https://cms.isomer.gov.sg/sites/moe-rivervalleyhigh/folders/about-rv/editPage/Facilities.md
+      url: /hold-facilities/
   - infopic:
       title: Sports
       subtitle: National School Games
