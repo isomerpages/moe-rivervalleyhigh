@@ -36,6 +36,14 @@ sections:
       image: /images/eco_trail_frontpage_cropped.jpg
       alt: Image alt text
   - infopic:
+      title: Check out our School Facilities
+      subtitle: Our Spaces
+      id: infopic
+      button: View Here!
+      alt: Image alt text
+      image: /images/2024/For_school_homepage.jpg
+      url: Page URL https://rivervalleyhigh.moe.edu.sg/hold-facilities/
+  - infopic:
       title: Sports
       subtitle: National School Games
       description: Congratulations to our student athletes for their stellar
@@ -59,12 +67,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: Check out our School Facilities
-      subtitle: Our Spaces
-      id: infopic
-      button: View Here!
-      alt: Image alt text
-      image: /images/2024/For_school_homepage.jpg
-      url: Page URL https://rivervalleyhigh.moe.edu.sg/hold-facilities/
 ---
