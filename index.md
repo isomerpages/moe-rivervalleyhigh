@@ -66,5 +66,5 @@ sections:
       button: View Here!
       alt: Image alt text
       image: /images/2024/For_school_homepage.jpg
-      url: https://
+      url: Page URL https://rivervalleyhigh.moe.edu.sg/hold-facilities/
 ---
