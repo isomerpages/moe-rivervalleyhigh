@@ -58,8 +58,8 @@ sections:
       subtitle: Singapore Youth Festival
       description: Our Performing Arts students worked hard and achieved commendable
         results at the 2023 Singapore Youth Festival Arts Presentation!
-      button: 2023 Achievements
-      url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
+      button: 2024 Achievements
+      url: /achievements/2024achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
   - resources:
