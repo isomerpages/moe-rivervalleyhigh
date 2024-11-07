@@ -42,7 +42,7 @@ sections:
       button: View Here!
       alt: Image alt text
       image: /images/2024/For_school_homepage.jpg
-      url: Page URL https://rivervalleyhigh.moe.edu.sg/hold-facilities/
+      url: https://rivervalleyhigh.moe.edu.sg/hold-facilities/
   - infopic:
       title: Sports
       subtitle: National School Games
