@@ -59,4 +59,11 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Infopic
+      subtitle: Our Spaces
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
