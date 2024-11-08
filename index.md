@@ -73,7 +73,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: View Here
       url: /hold-facilities/
       image: /images/2024/For_school_homepage.jpg
       alt: Image alt text
