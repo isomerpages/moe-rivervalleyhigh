@@ -16,6 +16,15 @@ sections:
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/scam-alert-for-contractors-and-vendors/
   - infopic:
+      title: Open House
+      subtitle: RV Welcomes
+      id: infopic
+      description: Saturday 16 November
+        2024                                                                                                       8.30
+        to 12.30pm
+      image: /images/2024/Slide1.jpg
+      alt: Image alt text
+  - infopic:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
@@ -49,9 +58,9 @@ sections:
       title: The Arts
       subtitle: Singapore Youth Festival
       description: Our Performing Arts students worked hard and achieved commendable
-        results at the 2023 Singapore Youth Festival Arts Presentation!
-      button: 2023 Achievements
-      url: https://www.rivervalleyhigh.moe.edu.sg/achievements/2023achievements/
+        results at the 2024 Singapore Youth Festival Arts Presentation!
+      button: 2024 Achievements
+      url: /achievements/2024achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
   - resources:
