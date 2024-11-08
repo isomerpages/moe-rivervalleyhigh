@@ -67,4 +67,11 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Open House
+      subtitle: RV Invites
+      id: infopic
+      description: Saturday 16 Nov 2024 8.30 to 12.30pm
+      image: /images/2024/Slide1.jpg
+      alt: Image alt text
 ---
