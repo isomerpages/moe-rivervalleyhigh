@@ -51,7 +51,6 @@ sections:
       button: View Here
       url: /hold-facilities/
       image: /images/2024/For_school_homepage.jpg
-      alt: Image alt text
   - infopic:
       title: Sports
       subtitle: National School Games
