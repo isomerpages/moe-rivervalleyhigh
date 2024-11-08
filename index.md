@@ -17,7 +17,7 @@ sections:
           url: https://rivervalleyhigh.moe.edu.sg/scam-alert-for-contractors-and-vendors/
   - infopic:
       title: Open House
-      subtitle: RV Invites
+      subtitle: RV Welcomes
       id: infopic
       description: Saturday 16 Nov
         2024,                                                                                                       8.30
