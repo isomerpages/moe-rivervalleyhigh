@@ -69,10 +69,9 @@ sections:
       id: resources
       button: Read More
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Check out our School Facilities
+      subtitle: Our Spaces
       id: infopic
-      description: Infopic description
       button: View Here
       url: /hold-facilities/
       image: /images/2024/For_school_homepage.jpg
