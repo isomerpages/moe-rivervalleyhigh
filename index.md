@@ -74,6 +74,6 @@ sections:
       id: infopic
       description: Infopic description
       button: View Here
-      url: /voices
+      url: /hold-facilities/
       image: /images/2024/For_school_homepage.jpg
 ---
