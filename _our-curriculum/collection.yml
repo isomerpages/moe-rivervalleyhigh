@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Inspiring Classroom Innovators.md
       - Our Curriculum.md
       - Balanced Education/.keep
       - Balanced Education/Cognitive Interest Development.md
