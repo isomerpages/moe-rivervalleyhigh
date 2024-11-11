@@ -906,8 +906,7 @@ will sit for the aptitude tests.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The cohort size varies every year. Due to a shrinking population, there
-is a reduction in the number of students being admitted to RV. In 2021,
-we have nine Secondary One Classes.</p>
+is a reduction in the number of students being admitted to RV.</p>
 </td>
 </tr>
 <tr>
