@@ -845,19 +845,6 @@ and many buses go to our school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Does RV provide a safe environment for students to study in?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our students and staff feel comfortable in the school due to the strong
-culture of care as evinced by our staff and students who support and look
-out for one another. Although an unfortunate incident took place, RV continues
-to be a safe place for growth and development. With strong support from
-the Ministry of Education and stakeholders as well as the RV community,
-the school remains committed to students' safety and well-being.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Are there any scholarships that students can apply for?</p>
 </td>
 <td rowspan="1" colspan="1">
