@@ -820,15 +820,6 @@ may attend supplementary classes or enrichment programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How much fees do students pay monthly?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please click <a href="/information/sch-fees/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the school fees.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>How many students are there in each class?</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -850,29 +841,6 @@ the school fees.</p>
 <td rowspan="1" colspan="1">
 <p>No, we do not offer bus services as we are located near Boon Lay MRT station
 and many buses go to our school.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>What are the food options and what is the price range of the food sold
-in RV?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our canteen has an extensive selection of food options and there is also
-a cafe on site. Typically, students spend between $2 and $3.50 for lunch.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Does RV provide a safe environment for students to study in?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our students and staff feel comfortable in the school due to the strong
-culture of care as evinced by our staff and students who support and look
-out for one another. Although an unfortunate incident took place, RV continues
-to be a safe place for growth and development. With strong support from
-the Ministry of Education and stakeholders as well as the RV community,
-the school remains committed to students' safety and well-being.</p>
 </td>
 </tr>
 <tr>
@@ -938,8 +906,7 @@ will sit for the aptitude tests.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The cohort size varies every year. Due to a shrinking population, there
-is a reduction in the number of students being admitted to RV. In 2021,
-we have nine Secondary One Classes.</p>
+is a reduction in the number of students being admitted to RV.</p>
 </td>
 </tr>
 <tr>

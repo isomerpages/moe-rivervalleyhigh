@@ -35,6 +35,14 @@ sections:
       image: /images/RV68_frontpage.jpg
       alt: Image alt text
   - infopic:
+      title: Check out our School Facilities
+      subtitle: Our Spaces
+      id: infopic
+      button: View Here
+      url: /hold-facilities/
+      image: /images/2024/For_school_homepage.jpg
+      alt: Image alt text
+  - infopic:
       title: Eco-Trail @ RV
       subtitle: Official opening of
       id: infopic
