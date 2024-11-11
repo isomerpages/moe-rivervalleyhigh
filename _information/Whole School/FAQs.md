@@ -845,16 +845,6 @@ and many buses go to our school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What are the food options and what is the price range of the food sold
-in RV?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our canteen has an extensive selection of food options and there is also
-a cafe on site. Typically, students spend between $2 and $3.50 for lunch.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Does RV provide a safe environment for students to study in?</p>
 </td>
 <td rowspan="1" colspan="1">
