@@ -820,15 +820,6 @@ may attend supplementary classes or enrichment programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How much fees do students pay monthly?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please click <a href="/information/sch-fees/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the school fees.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>How many students are there in each class?</p>
 </td>
 <td rowspan="1" colspan="1">
