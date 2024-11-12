@@ -3,10 +3,11 @@ title: School Fees
 permalink: /information/sch-fees/
 description: ""
 third_nav_title: Whole School
+variant: markdown
 ---
 ## School Fees
 
-#### Secondary Level (Year 1 to 4)
+#### Secondary Level (Sec 1 to 4)
 
 | **Nationality** | **School Fees** | **Standard Misc Fee #** | **2nd Tier \*** | **Autonomous School Fees** | **Total** |
 |:---:|---|---|---|---|---|
