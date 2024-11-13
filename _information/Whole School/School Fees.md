@@ -9,10 +9,10 @@ variant: markdown
 
 #### Secondary Level (Sec 1 to 4)
 
-| **Nationality** | **School Fees** | **Standard Misc Fee #** | **2nd Tier \*** | **Autonomous School Fees** | **Total** |
+| **Nationality** | **School Fees** | **Standard Misc Fee #** || **Autonomous School Fees** | **Total** |
 |:---:|---|---|---|---|---|
-| SC | $5 | $10 | $10 | $3 | $28 |
-| PR | $380 (2021)  <br>$440 (2022)  <br>$500 (2023) | $10 | $10 | $3 | $403 (2021)  <br>$463 (2022) <br>$523 (2023) |
+| SC | $5 | $20 || $3 | $28 |
+| PR | $620 (2025)  <br>$680 (2026)  | $20 || $3 | $643 (2025)  <br>$703 (2026) |
 | IS (Asean) | $780 (2021)  <br>$840 (2022)  <br>$900 (2023) | $10 | $10 | $3 | $803 (2021)  <br>$863 (2022)&nbsp; <br>&nbsp;$923 (2023) |
 | IS (non-Asean) | $1,450 (2021) <br>$1,600 (2022) <br>$1,750 (2023) | $10 | $10 | $3 | &nbsp;$1,473 (2021) <br>&nbsp;$1,623 (2022) <br>&nbsp;$1,773 (2023) |
 |  |  |  |  |  |  |
