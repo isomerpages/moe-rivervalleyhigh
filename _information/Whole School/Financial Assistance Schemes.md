@@ -3,6 +3,7 @@ title: Financial Assistance Schemes
 permalink: /information/fas/
 description: ""
 third_nav_title: Whole School
+variant: markdown
 ---
 ## Financial Assistance Schemes
 
@@ -14,7 +15,7 @@ Details on the eligibility and benefits for recipients of the MOE FAS can be fou
 
 |  Income Criterion |  Benefits <br>Secondary |  Benefits&nbsp;<br>JC |
 |:---:|---|---|
-| *   Gross Household Income (GHI)&nbsp; $2,750 or below&nbsp; &nbsp; OR<br>*   Per capita income (PCI) $690 or below | *   Full waiver of School ($5/mth) &amp; Misc Fees ($10/mth)  <br>*   Free Textbooks &amp; Sch Attire (2 sets of uniform, 2 pairs of socks and a pair of school shoes)<br>*   $180 transport credits per annum for those taking public transport<br>*   $2.90 per meal subsidy of school meals, applicable to 10 meals per school week and<br>*   Up to 80% subsidy for various school programmes (school policy) | *   Full waiver of School ($6/mth) &amp; Misc Fees ($13.50/mth)<br>*   $1,000 Bursary  <br>*   $180 transport credits per annum for those taking public transport  <br>*   Up to 80% subsidy for various school programmes (school policy) |
+| Gross Household Income (GHI)&nbsp; $3,000 or below;&nbsp; &nbsp; OR<br> Per capita income (PCI) $750 or below | *   Full waiver of School ($5/mth) &amp; Misc Fees ($10/mth)  <br>*   Free Textbooks &amp; Sch Attire (2 sets of uniform, 2 pairs of socks and a pair of school shoes)<br>*   $180 transport credits per annum for those taking public transport<br>*   $2.90 per meal subsidy of school meals, applicable to 10 meals per school week and<br>*   Up to 80% subsidy for various school programmes (school policy) | *   Full waiver of School ($6/mth) &amp; Misc Fees ($13.50/mth)<br>*   $1,000 Bursary  <br>*   $180 transport credits per annum for those taking public transport  <br>*   Up to 80% subsidy for various school programmes (school policy) |
 |  |  |  |
 
 You can download the [MOE FAS application form](/files/2022%20FAS%20Application%20Form.pdf) or collect a copy at the General Office.&nbsp; Submit the completed form with all relevant documents directly to the school.
