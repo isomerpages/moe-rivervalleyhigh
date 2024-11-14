@@ -27,7 +27,8 @@ variant: markdown
 | IS (non-Asean) | $2,400 (2025) <br>$2,540 (2026)| $27 || $3 | $2,430 (2025)  <br>$2,570 (2026)|
 |  |  |  |  |  |  |
 
-\# Miscellaneous fees - Admin fees paid to MOE<br>
-\* 2nd Tier fees - &nbsp;Fees paid to the school for printing reading materials and worksheets
 
-Information correct as of 2021.&nbsp;The rates of school and miscellaneous fees payable are reviewed by the Ministry of Education and individual schools from time to time. For the most up-to-date information, please also refer to the&nbsp;[Ministry of Education website](https://www.moe.gov.sg/financial-matters/fees).
+
+#Miscellaneous fees - Admin fees paid to MOE 
+
+Information correct as of 2024.&nbsp;The rates of school and miscellaneous fees payable are reviewed by the Ministry of Education and individual schools from time to time. For the most up-to-date information, please also refer to the&nbsp;[Ministry of Education website](https://www.moe.gov.sg/financial-matters/fees).
