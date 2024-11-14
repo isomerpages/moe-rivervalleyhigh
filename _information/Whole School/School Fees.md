@@ -19,9 +19,9 @@ variant: markdown
 
 #### JC Students (JC 1 to 2)
 
-| **Nationality** | **School Fees** | **Standard Misc Fee #** | **2nd Tier \*** | **Autonomous School Fees** | **Total** |
+| **Nationality** | **School Fees** | **Standard Misc Fee #** || **Autonomous School Fees** | **Total** |
 |:---:|---|---|---|---|---|
-| SC | $6 | $13.50 | $13.50 | $3 | $36 |
+| SC | $6 | $27 || $3 | $36 |
 | PR | $460 (2021) <br> $520 (2022) <br> $580 (2023) | $13.50 | $13.50 | $3 | $490 (2021) <br> $550 (2022)<br>$610 (2023) |
 | IS (Asean) | $1,040 (2021) <br>$1,070 (2022) <br>$1,100 (2023) | $13.50 | $13.50 | $3 | $1,070 (2021) <br>$1,100 (2022) <br>$1,130 (2023) |
 | IS (non-Asean) | $1,800 (2021) <br>$1,950 (2022) <br>$2,100 (2023) | $13.50 | $13.50 | $3 | $1,830 (2021)  <br>$1,980 (2022)  <br>$2,130 (2023) |
