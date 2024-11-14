@@ -22,4 +22,7 @@ You can apply [online](https://go.gov.sg/moe-efas). Alternatively, you can downl
 
 If you have children in different government or government-aided schools, you can submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome. 
 
-For further assistance or clarifications, please email to Ms Sophia Ying (Administration Manager) at Sophia_YING@schools.gov.sg
+For further assistance or clarifications, please email to Ms Sophia Ying (Administration Manager) at [Sophia_Ying@schools.gov.sg]
+
+
+
