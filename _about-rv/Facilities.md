@@ -591,7 +591,7 @@ and mini-rainforest at our Eco-Trail</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ass dance</p>
+<p>Mass dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning a cultural dance</p>
