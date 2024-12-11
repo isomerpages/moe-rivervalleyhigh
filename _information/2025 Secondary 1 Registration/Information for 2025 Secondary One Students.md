@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Secondary 1 Registration
 ---
-<p>Dear Parents and students,</p>
+<p>Dear Parents and Students,</p>
 <p>A warm welcome to River Valley High School!&nbsp; The Secondary One Registration
 Exercise will be conducted online and there is no need for your child to
 report to school.</p>
@@ -219,7 +219,7 @@ hardcopy form in the General Office.&nbsp;</p>
 <h4><strong>Start of School 2025 – Important Information for Students and Parents</strong></h4>
 <p>To ensure you are well-prepared for the start of your journey with us,
 please note the following information:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reporting Date &amp; Time</u>
+<p><strong>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reporting Date &amp; Time</u></strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First day of school is on <strong>13 January 2025, Monday</strong>.&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There will be student ushers
@@ -231,7 +231,7 @@ the school compound.</p>
 flu symptoms on day 1, please let him/her rest at home. Parents can contact
 the school General Office at Tel No. 65678115.</p>
 <p>&nbsp;</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp; <u>Sec 1 Orientation Programme for Term 1, Week 1</u>
+<p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp; <u>Sec 1 Orientation Programme for Term 1, Week 1</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -314,7 +314,7 @@ the school General Office at Tel No. 65678115.</p>
 <p>*<em>If you are leaving early, please inform your form teacher and facilitators beforehand.</em>
 </p>
 <p>&nbsp;</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Administrative Matters for Day 1</u>
+<p><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Administrative Matters for Day 1</u></strong>
 </p>
 <p><strong>Attire</strong>: Full RV school uniform</p>
 <p><strong>Wearing of Masks</strong>: Optional</p>
@@ -323,18 +323,18 @@ the school General Office at Tel No. 65678115.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Primary School Ez-link Card</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dry Snacks</p>
-<p>&nbsp;</p>
 <p><strong>Reporting venue</strong>: School Hall</p>
 <p>&nbsp;</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp; <u>2025 Sec 1 Class Allocation</u>
+<p><strong>d)&nbsp;&nbsp;&nbsp;&nbsp; <u>2025 Sec 1 Class Allocation</u></strong>
 </p>
 <p>Please refer to the Parents Gateway App for 2025 Year 1 Class Allocation
 on 31 December 2024.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>At the Home Page, click on the name icon of the child to see his/her class.</p>
-<p><u>&nbsp;</u>
-</p>
-<p>e)&nbsp;&nbsp;&nbsp;&nbsp; <u>River Valley High School Parent-Teacher Association</u>
+</li>
+</ul>
+<p><strong>e)&nbsp;&nbsp;&nbsp;&nbsp; <u>River Valley High School Parent-Teacher Association</u></strong>
 </p>
 <p>The Parent-Teacher Association (PTA) recognizes the importance of parents’
 participation on the learning journey of their teens.&nbsp; You can find
