@@ -36,7 +36,6 @@ the Uniform Size charts.</p>
 </ul>
 <p>The operating hours of the bookshop and the uniform vendors are:</p>
 <p>Monday – Friday (excluding 24 and 31 Dec), 9am – 3pm</p>
-<p>Monday – Friday (excluding 24 and 31 Dec): 9am – 3pm</p>
 <p>Alternative methods of purchase of Textbooks and School Uniform:</p>
 <table style="minWidth: 75px">
 <colgroup>
