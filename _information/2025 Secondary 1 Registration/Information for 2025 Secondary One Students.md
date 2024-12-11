@@ -98,7 +98,8 @@ the Uniform Size charts.</p>
 receive their textbooks before school starts in 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information here &lt;<em>see attachment: MyUniform Shop (ASIA) Pte Ltd – River Valley High School 2024 Letter to Parents.pdf</em>&gt;</p>
+<p><a href="https://for.edu.sg/ltp-myuniformshop" rel="noopener nofollow" target="_blank">Click here </a>for
+more information. &lt;<em>see attachment: MyUniform Shop (ASIA) Pte Ltd – River Valley High School 2024 Letter to Parents.pdf</em>&gt;</p>
 </td>
 </tr>
 </tbody>
