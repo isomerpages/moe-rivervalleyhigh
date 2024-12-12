@@ -96,7 +96,8 @@ the Uniform Size charts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents who make online purchases by 21 December 2024 will be able to
-receive their textbooks before school starts in 2025.</p>
+receive their textbooks before school starts in 2025. Delivery charges
+apply.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://for.edu.sg/ltp-myuniformshop" rel="noopener nofollow" target="_blank">Click here </a>for
