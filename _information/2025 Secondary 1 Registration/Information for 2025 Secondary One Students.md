@@ -34,6 +34,8 @@ the Booklist.</p>
 the Uniform Size charts.</p>
 </li>
 </ul>
+<p><strong>Students can buy their textbooks and school uniforms online or at RVHS.</strong>
+</p>
 <p>The operating hours of the bookshop and the uniform vendors are:</p>
 <p>Monday – Friday (excluding 24 and 31 Dec), 9am – 3pm</p>
 <p>Alternative methods of purchase of Textbooks and School Uniform:</p>
