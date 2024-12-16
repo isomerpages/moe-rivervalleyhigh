@@ -17,7 +17,7 @@ sections:
           url: https://rivervalleyhigh.moe.edu.sg/scam-alert-for-contractors-and-vendors/
         - title: 2025 Secondary 1 Registration Information
           description: Click here
-          url: ""
+          url: https://www.rivervalleyhigh.moe.edu.sg/information-for-2025-secondary-one-students/
   - infopic:
       title: RV68
       subtitle: RV Celebrates
