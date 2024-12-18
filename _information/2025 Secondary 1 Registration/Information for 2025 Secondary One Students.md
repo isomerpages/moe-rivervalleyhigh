@@ -85,7 +85,7 @@ the Uniform Size charts.</p>
 <td rowspan="1" colspan="1">
 <p><u>Visit:</u>
 </p>
-<p><a href="www.myuniformshop.com.sg" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
+<p><a href="https://www.myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
 </p>
 </td>
 </tr>
