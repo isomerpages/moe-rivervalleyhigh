@@ -85,8 +85,8 @@ the Uniform Size charts.</p>
 <td rowspan="1" colspan="1">
 <p><u>Visit:</u>
 </p>
-<p>209 New Upper Changi Road #03-651 Singapore 460209</p>
-<p>(Opposite Bedok MRT station)</p>
+<p><a href="www.myuniformshop.com.sg" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
+</p>
 </td>
 </tr>
 <tr>
