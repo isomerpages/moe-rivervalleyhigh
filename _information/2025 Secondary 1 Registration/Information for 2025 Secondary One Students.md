@@ -341,7 +341,7 @@ on 31 December 2024.</p>
 </p>
 <p>The Parent-Teacher Association (PTA) recognizes the importance of parents’
 participation on the learning journey of their teens.&nbsp; You can find
-out more about the PTA <a href="https://rivervalleyhigh.moe.edu.sg/about-rv/school-partners/parent-teacher-association" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+out more about the PTA <a href="https://rivervalleyhigh.moe.edu.sg/about-rv/school-partners/pta/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><strong>Personal Device for Learning Programme (PDLP)</strong></h4>
 <p>MOE had announced that every secondary student will need to have a personal
 digital device for the purpose of learning.</p>
