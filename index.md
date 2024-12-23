@@ -12,9 +12,6 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: SCAM ALERT FOR CONTRACTORS AND VENDORS
-          description: Click here
-          url: https://rivervalleyhigh.moe.edu.sg/scam-alert-for-contractors-and-vendors/
         - title: 2025 Secondary 1 Registration Information
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information-for-2025-secondary-one-students/
