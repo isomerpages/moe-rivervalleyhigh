@@ -4,4 +4,59 @@ permalink: /about-rv/pm/
 description: ""
 variant: tiptap
 ---
-<h2>Principal’s Message</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Principal chatting with students" src="/images/School_Website_Banner_14nov2023_2.jpg"></div><p>Welcome to River Valley High School!</p><p>We are happy to welcome all our students back to school and our Secondary 1&nbsp;students who are joining us in 2024.&nbsp;Let us make this year one of learning, laughter, and boundless possibilities!</p><p>2024 marks the year we celebrate RV 68. The theme of&nbsp;RV68&nbsp;is&nbsp;立德树人&nbsp;&nbsp;共筑未来&nbsp;(Nurturing &amp; Flourishing). &nbsp;It&nbsp;aptly illustrates our commitment to nurture our students and help them flourish and find purpose&nbsp;in meaningful pursuits.</p><p>River&nbsp;Valley High School,&nbsp;a school of opportunities,&nbsp;aims to develop&nbsp;our students holistically into leaders of distinction.&nbsp;Every student has unique strengths and the ability to learn and learn well. Through the robust&nbsp;RV learning experience&nbsp;of&nbsp;exploration, growth, and discovery, our students develop into thinkers, leaders and achievers with good character, bicultural&nbsp;acumen&nbsp;and global perspectives. They can navigate the world confidently, make sense of what is happening and contribute positively to the school,&nbsp;community&nbsp;and country as positive changemakers.</p><p>Our students&nbsp;develop&nbsp;knowledge, values and&nbsp;skills&nbsp;that will help them flourish both in school and in the world beyond school.&nbsp;They will&nbsp;hone and develop&nbsp;dispositions,&nbsp;attributes&nbsp;and sensitivities to be able to stay effective and relevant in a&nbsp;globalised&nbsp;and multi-cultural world.&nbsp;As&nbsp;a&nbsp;SAP school, our&nbsp;unique&nbsp;bicultural learning environment provides our students with the fluency and skills to understand, appreciate and navigate different cultural contexts, and&nbsp;acquire&nbsp;regional and global perspectives.</p><p>Our dedicated teachers and staff are committed to fostering a nurturing and inspiring learning environment. Their guidance, expertise, and passion for teaching are instrumental in shaping the future of our students.&nbsp;RV is also&nbsp;fortunate to have&nbsp;very strong and supportive alumni, parents and partners who are aligned with our vision and mission and&nbsp;who&nbsp;work collaboratively with the school to achieve the desired student outcomes.</p><p>The&nbsp;RV&nbsp;seedlings will grow stronger by the day, rooted in goodness and wisdom with branches reaching up and out. They will be fruitful and contribute well. This epitomises&nbsp;RVians&nbsp;of the past, present and future.</p><p>Let us forge ahead as we commemorate RV 68&nbsp;and build a promising future for our students in the years to come!</p><p>Choy Wai Yin (Mdm) </p><p><strong>Principal</strong></p><hr><p>欢迎来到立化中学！</p><p>在这新的一年，我们欢迎所有立化学生重返校园，也欢迎中一新生加入立化大家庭。这将是一个充满学习、欢笑和无限可能的一年！</p><p>2024年是立化创校68周年。身为一所历史悠久、华文底蕴浓郁的学府，立化本着立德树人的理念，提供优质的教育，悉心培育立化幼苗，让他们蓬勃发展，达成有意义的人生目标。</p><p>立化不仅具备特选和自治的身份，也开办六年直通车课程，为学生提供全人教育，给予无限学习机遇。我们深信每一位学生都有其独特优势，都有能力学得更好。通过我校心智合一的均衡教育，立化学子的兴趣所长将得以拓展，身心健康得以强化，在巩固学习知识和技能的同时，性情秉性和价值观得以培养，能自信地面对未来，成为国家的中流砥柱。</p><p>多年来，立化培育了无数对世界格局具有洞悉力及敏感性的双语双文化人才，在全球化、多元种族和多元文化的环境中游刃有余，发挥有效作用。在立化双语双文化环境的熏陶下，学生能自信地驾驭跨文化交流技能，鉴赏和理解跨文化语境，以此培养他们的区域和全球视角。</p><p>立化的老师敬业乐业，致力于营造积极快乐的学习氛围，启发学生努力向上。他们兢兢业业、孜孜不倦，悉心地为学生解惑，给予适当的指导，用爱心去鼓励和关怀学生，耐心地培养他们成才。</p><p>当然，除了老师们的努力与付出，立化有今日的成就，也包括了校友们对母校发展的关心、家长们对学校的支持与配合，也不忘记为立化奠定稳固基础的历任校长们。</p><p>在立化的沃土上，我们种下的幼苗植根于优良的品德与智慧，他们将日渐茁壮，结成累累硕果，茁长成有尊严诚信、善良有爱心，愿意奉献的积极变革者。</p><p>让我们在欢庆立化68的同时，砥砺前行，共筑美好的未来！</p><p>立化中学校长</p><p>蔡慧燕</p>
+<h2>Principal’s Message</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF1841a__2_.jpg">
+</div>
+<p>Welcome to River Valley High School!</p>
+<p>We are happy to welcome all our students back to school and our Secondary
+1&nbsp;students who are joining us in 2025. It is going to be an exciting
+year of learning and growth for all!</p>
+<p>River Valley High School (RVHS) will be celebrating our 69<sup>th</sup> School
+Anniversary in 2025. The theme of&nbsp;RV69&nbsp;is&nbsp;“春风化雨，睿智飞扬” (To
+bloom and soar). It&nbsp;embodies our aspiration for our students to bloom
+and soar to greater heights in RVHS. As our students embark on a personal
+journey of discovery of their strengths, aptitudes and interests, they
+will develop a positive sense of self and realise their potential.</p>
+<p>Our robust IP curriculum fosters the spirit of inquiry, innovation and
+critical thinking. Our signature programmes, co-curricular activities and
+enrichment programmes also provide age-appropriate and authentic learning
+experiences across the levels. Through the robust&nbsp;RV learning experiences&nbsp;of&nbsp;exploration,
+growth and discovery, our students develop into thinkers, leaders and achievers
+with good character, bicultural&nbsp;acumen&nbsp;and global perspectives.</p>
+<p>As&nbsp;an&nbsp;SAP school, our&nbsp;unique&nbsp;bicultural learning environment
+provides our students with the fluency and skills to understand, appreciate
+and navigate different cultural contexts, and&nbsp;develop&nbsp;regional
+and global perspectives. Our students discuss current affairs and contemporary
+issues in class and engage in dialogues with a diverse range of knowledgeable
+speakers. There are also opportunities for our students to engage with
+students from overseas throughout the year, either through hosting visiting
+schools or participating in overseas learning journeys. They hone and develop
+dispositions, attributes&nbsp;and sensitivities to be able to stay effective
+and relevant in a&nbsp;globalised&nbsp;and multi-cultural world.&nbsp;</p>
+<p>We believe strongly that our students have the capacity and potential
+for leadership and through our various student development opportunities,
+our students develop into leaders of distinction with integrity and honour,
+compassion and kindness, and the heart of service and desire to be positive
+change-makers.</p>
+<p>Educating young minds is a collaborative effort. Our dedicated teachers
+and staff are committed to fostering a nurturing and inspiring learning
+environment. We also have&nbsp;very strong and supportive alumni, parents
+and partners who are aligned with our vision and mission and&nbsp;who&nbsp;work
+collaboratively with the school to achieve the desired student outcomes.&nbsp;</p>
+<p>Let us continue to bloom, soar together to greater heights and make a
+difference. Be the change and positive change-makers!</p>
+<p>Choy Wai Yin (Mdm)</p>
+<p><strong>Principal</strong>
+</p>
+<p>我们非常高兴迎接全体同学回归校园，特别是即将在2025年加入我们的中一新生。新的一年充满了学习与成长的机遇，让我们共同期待！</p>
+<p>2025年是立化中学创校69周年的大日子。RV69的主题为 “春风化雨，睿智飞扬”，这体现了我们对立化学子的期许 —— 像春风细雨般滋润心灵，最终展翅高飞，追求卓越。在个人成长的探索旅程中，同学们将发现自己的强项、兴趣和潜能，逐步建立积极自信的人生态度，并展现无限可能。</p>
+<p>我们的综合课程（IP）培养了学生的探究精神、创新和批判性思维。学校的特色项目、课程辅助活动及丰富多样的课程体验，提供了适合各年龄段的学习机会。在探索、成长和发掘的过程中，同学们会逐步成长为具备优秀品格、双文化素养和全球视野的杰出人才。</p>
+<p>作为一所特选学校（SAP），我校独特的双文化学习环境，帮助学生掌握不同文化背景下的语言与沟通技巧，培养他们理解和鉴赏不同文化的能力，拓宽学生的区域和全球视野。通过课堂上的讨论、接待来访学校、参与海外学习之旅以及与海外学生互动，这些宝贵的经验将为立化学生在未来全球化、多元文化的世界做好准备。</p>
+<p>我们坚信每位立化学子都拥有领导潜力。通过丰富的学习活动，我们希望学生能成长为德才兼备的卓越领导者，秉持诚信与荣誉，心怀善良与关爱，积极为社会贡献。</p>
+<p>培育年轻的心灵需要各界的共同努力。我校的教职团队以热忱和专业精神，为学生创造了一个充满关爱与启发的学习环境。与此同时，校友、家长和合作伙伴的鼎力支持，也让我们携手实现学校的愿景与使命，共同推动学生的全面发展。</p>
+<p>让我们携手共进，再创高峰，追求卓越，迎接美好的2025！</p>
+<p>
+<br>立化中学校长</p>
+<p>蔡慧燕</p>
