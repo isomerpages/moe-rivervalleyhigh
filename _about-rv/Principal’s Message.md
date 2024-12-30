@@ -6,8 +6,10 @@ variant: tiptap
 ---
 <h2>Principal’s Message</h2>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF1841a__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF1841a__2___2_.jpg">
 </div>
 <p>Welcome to River Valley High School!</p>
 <p>We are happy to welcome all our students back to school and our Secondary
