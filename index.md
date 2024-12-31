@@ -67,4 +67,13 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: JC Open House
+      subtitle: All are welcome
+      id: infopic
+      description: RV Open House is on 13 Jan, Monday, 2pm - 5pm. Highlights include a
+        chance to see our CCAs in action, school tours, Principal's talk,
+        popcorn & more!
+      image: /images/JC_Open_House_2025.jpg
+      alt: RVHS J2 cohort photo
 ---
