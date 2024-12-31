@@ -16,6 +16,15 @@ sections:
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information-for-2025-secondary-one-students/
   - infopic:
+      title: JC Open House
+      subtitle: All are welcome
+      id: infopic
+      description: 13Jan (Mon) 2-5pm. Highlights include a chance to see our CCAs in
+        action, to meet our Principal and tour our premises! Grab some popcorn &
+        see what we're about!
+      image: /images/JC_Open_House_2025.jpg
+      alt: RVHS J2 cohort photo
+  - infopic:
       title: RV68
       subtitle: RV Celebrates
       id: infopic
