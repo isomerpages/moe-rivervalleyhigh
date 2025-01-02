@@ -17,7 +17,7 @@ sections:
           url: https://www.rivervalleyhigh.moe.edu.sg/information-for-2025-secondary-one-students/
         - title: Information for Students
           description: Click here
-          url: ""
+          url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
   - infopic:
       title: JC Open House
       subtitle: All are welcome
