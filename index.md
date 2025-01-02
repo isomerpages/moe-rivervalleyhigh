@@ -15,6 +15,9 @@ sections:
         - title: 2025 Secondary 1 Registration Information
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information-for-2025-secondary-one-students/
+        - title: Information for Students
+          description: Click here
+          url: ""
   - infopic:
       title: JC Open House
       subtitle: All are welcome
