@@ -51,7 +51,7 @@ Boon Lay Avenue or any other location as this poses a traffic hazard.</p>
 <p>Main Gate (Gate 1) along Boon Lay Avenue &amp; Gate 4 along Boon Lay Drive</p>
 </li>
 </ul>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To a ensure smooth traffic
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To ensure a smooth traffic
 flow, please do not wait at the drop-off points.</p>
 <p></p>
 <div class="isomer-image-wrapper">
