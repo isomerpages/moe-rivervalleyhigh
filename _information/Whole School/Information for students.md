@@ -27,8 +27,7 @@ for all Sec 1 to Sec 4 and J2 students.</p>
 </p>
 <p>The safety of our students is our top priority. We kindly request your
 cooperation with the following:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drop-off locations for vehicles
-(refer to attach document on traffic flow inside RVHS):</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drop-off locations for vehicles:</p>
 <p>Students must be dropped off only at these two designated points:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,7 +38,7 @@ cooperation with the following:</p>
 </li>
 </ul>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please do not drop off along
-Boon Lay Avenue or any other location, as this poses a traffic hazard.</p>
+Boon Lay Avenue or any other location as this poses a traffic hazard.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School entry points:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,7 +51,7 @@ Boon Lay Avenue or any other location, as this poses a traffic hazard.</p>
 <p>Main Gate (Gate 1) along Boon Lay Avenue &amp; Gate 4 along Boon Lay Drive</p>
 </li>
 </ul>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To ensure smooth traffic
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To a ensure smooth traffic
 flow, please do not wait at the drop-off points.</p>
 <p></p>
 <div class="isomer-image-wrapper">
