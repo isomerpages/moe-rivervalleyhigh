@@ -870,23 +870,13 @@ and many buses go to our school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Now that the PSLE scoring system has changed, what is RV’s Cut-Off Point?</p>
+<p>Can my child transfer out of RV after 4 years?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Secondary 1 Posting AL Cut-Off Point range for RV is between 4 and
-9.
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Will students taking Higher Chinese Language have an advantage in getting
-into RV?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In the new calculation of AL, HCL is not included.</p>
+<p>The IP is a six-year programme. Students are expected to fulfil their
+commitment to the school for the full duration, and transfers to other
+schools are strongly discouraged. In particular, transfers to other IP
+schools are not allowed, unless under exceptional circumstances.</p>
 </td>
 </tr>
 <tr>
