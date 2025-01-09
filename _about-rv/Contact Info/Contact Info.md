@@ -10,7 +10,8 @@ variant: tiptap
 <br>Address: 6 Boon Lay Avenue Singapore 649961
 <br>Telephone: 6567 8115
 <br>Fax: 6567 7351&nbsp;
-<br>Email:&nbsp;&nbsp;<a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>&nbsp;(for general enquiries)</p>
+<br>Email:&nbsp;<a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>&nbsp;(for
+general enquiries)</p>
 <p><strong>General Office Opening Hours</strong>
 <br>Mondays to Fridays: 0700 to 1800 hrs (School is closed on Sat, Sun and
 public holidays)</p>
