@@ -17,7 +17,7 @@ public holidays)</p>
 <p><strong>Contact our staff</strong>
 </p>
 <p><strong><em>Form Teachers/ Civic Tutors/ Year Masters</em></strong>
-<br><a href="/files/2024_FT_CT_Email_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 FT/ CT/ YM List</a>
+<br><a href="https://for.edu.sg/ftctcontactinfo2025" rel="noopener nofollow" target="_blank">2025 FT/CT/YM List</a>
 </p>
 <p><strong><em>School Management</em></strong>
 <br><a href="/files/RVHS_Management_Team_Contact_List_2025_Final__003_.pdf" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
