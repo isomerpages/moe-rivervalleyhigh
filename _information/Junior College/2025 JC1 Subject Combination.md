@@ -6,19 +6,20 @@ description: RVHS JC1 Subject Combination 2025
 third_nav_title: Junior College
 ---
 <h4>2025 JC1 Subject Combination</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_info_2025_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_JC1_Subject_Combinations__For_School_Website__Jan_2025_page_0001.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_info_2025_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_JC1_Subject_Combinations__For_School_Website__Jan_2025_page_0002.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_info_2025_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_JC1_Subject_Combinations__For_School_Website__Jan_2025_page_0003.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_info_2025_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_JC1_Subject_Combinations__For_School_Website__Jan_2025_page_0004.jpg">
 </div>
 <p></p>
