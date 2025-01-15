@@ -32,8 +32,8 @@ variant: tiptap
 <img style="width:60%" height="auto" width="100%" src="/images/tn1bmp2.jpg">
 </div>
 <p>
-<br>River Valley High School (RV) was the first Chinese secondary school set
-up by the government. Initially known as the Singapore Government Chinese
+<br>River Valley High School (RVHS) was the first Chinese secondary school
+set up by the government. Initially known as the Singapore Government Chinese
 Middle School when it occupied the premises of Seng Poh Primary School,
 it was renamed Queenstown Government Chinese Middle School when it moved
 to Strathmore Avenue.
