@@ -681,7 +681,7 @@ for Outstanding Bicultural Studies.
 (Softball) at the Singapore Schools Sports Council Colours Awards 2016.
 <br>
 <br>The Pedagogical Excellence Academy (PEA) was set-up to enhance curriculum
-and pedagogy at RVHS.
+and pedagogy at RV.
 <br>
 <br>RV held her first PEA symposium for teachers, showcasing the best pedagogical
 practices of RV teachers.
