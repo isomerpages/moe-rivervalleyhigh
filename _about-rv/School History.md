@@ -182,8 +182,8 @@ the school's 5th Principal.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>On 1 Jan 1987, Minister of State for Education, Mr Tang Guan Seng, flagged
-off a 16-km walk from the old RV campus at Jalan Kuala to the new RV campus
-at West Coast Road.</p>
+off a 16-km walk from the old RV campus at Jalan Kuala to the new RVHS
+campus at West Coast Road.</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ of SAC, Mr Lee Tuan, and SAC Member, Dr Ho Nai Kiong.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV celebrated its 35th School Anniversary with a dinner at the school
+<p>RVHS celebrated its 35th School Anniversary with a dinner at the school
 compound and a concert at the Kallang Theatre.
 <br>
 <br>The school began its facilities expansion programme.
@@ -219,7 +219,7 @@ compound and a concert at the Kallang Theatre.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV won the inaugural Trim and Fit Gold Award.</p>
+<p>RVHS won the inaugural Trim and Fit Gold Award.</p>
 </td>
 </tr>
 <tr>
@@ -228,8 +228,8 @@ compound and a concert at the Kallang Theatre.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>After 19 years with River Valley High School, Mdm Leong Fun Chin left
-to assume the headship at Hwa Chong Junior College.
+<p>After 19 years with RVHS, Mdm Leong Fun Chin left to assume the headship
+at Hwa Chong Junior College.
 <br>
 <br>Mr Tham Tuck Meng became the school's 6th Principal.
 <br>
@@ -285,7 +285,7 @@ at the World Trade Centre and a dinner hosted by the School Alumni.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV was awarded her first Sustained Achievement Awards for Arts, Physical
+<p>RVHS was awarded her first Sustained Achievement Awards for Arts, Physical
 Fitness and Uniformed Groups, making her amongst five secondary schools
 in Singapore to receive three Sustained Achievement Awards.
 <br>
@@ -302,11 +302,11 @@ in Singapore to receive three Sustained Achievement Awards.
 started her Fast Track @ Schools project to spearhead our IT programme.
 We were the first to officially launch the project at the 44th School Anniversary.
 <br>
-<br>RV became the West 3 Centre of Learning for Science and Technology. This
-project is co-sponsored by the National Science and Technology Board and
-the Ministry of Education.
+<br>RVHS became the West 3 Centre of Learning for Science and Technology.
+This project is co-sponsored by the National Science and Technology Board
+and the Ministry of Education.
 <br>
-<br>RV was awarded her second Sustained Achievement Awards for Arts, Physical
+<br>RVHS was awarded her second Sustained Achievement Awards for Arts, Physical
 Fitness and Uniformed Groups.</p>
 </td>
 </tr>
@@ -316,10 +316,10 @@ Fitness and Uniformed Groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV celebrated her 45th School Anniversary with a cultural night at the
+<p>RVHS celebrated her 45th School Anniversary with a cultural night at the
 Kallang Theatre and a dinner hosted by the School Alumni.
 <br>
-<br>RV was awarded a Singapore Quality Class Award by the Singapore Quality
+<br>RVHS was awarded a Singapore Quality Class Award by the Singapore Quality
 Award Council and a Best Practice Award (Teaching and Learning) by the
 Ministry of Education.
 <br>
@@ -331,15 +331,15 @@ rebuilding under PRIME Phase 3. The long-term development plans for RV
 included options for a new building with up-to-date teaching facilities
 and a performing arts centre.
 <br>
-<br>RV was presented a Singapore Quality Class by the Singapore Quality Award
-Council. We also won a Best Practice Award for Teaching and Learning (inaugural
-award).
+<br>RVHS was presented a Singapore Quality Class by the Singapore Quality
+Award Council. We also won a Best Practice Award for Teaching and Learning
+(inaugural award).
 <br>
-<br>RV won the Thinking and Learning Culture National Award, Best Zone Award
+<br>RVHS won the Thinking and Learning Culture National Award, Best Zone Award
 and Most Improved Award.
 <br>
-<br>RV was awarded the Sustained Achievement Awards for Physical Fitness and
-Uniformed Groups.</p>
+<br>RVHS was awarded the Sustained Achievement Awards for Physical Fitness
+and Uniformed Groups.</p>
 </td>
 </tr>
 <tr>
@@ -354,15 +354,15 @@ raised about $90,000.
 <br>
 <br>In June 2002, Mr Martin Koh Chin Thong, joined RV as her Vice Principal.
 <br>
-<br>The RV Concert Band was invited by the Ministry of Education to compete
+<br>The RVHS Concert Band was invited by the Ministry of Education to compete
 in the 4th Asian Symphonic Band Competition, Bangkok. The Band was awarded
 a Silver, beating strong competitors from the other Asian countries.
 <br>
 <br>On 15 December 2002, Miss Ek Soo Ben, officially became the School’s 7th
 Principal.
 <br>
-<br>RV was awarded her fourth Sustained Achievement Awards for Physical Fitness
-and Uniformed Groups, and third award for the Arts.</p>
+<br>RVHS was awarded her fourth Sustained Achievement Awards for Physical
+Fitness and Uniformed Groups, and third award for the Arts.</p>
 </td>
 </tr>
 <tr>
@@ -371,10 +371,10 @@ and Uniformed Groups, and third award for the Arts.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The RV Chinese Orchestra was the first cultural group to perform at the
-Esplanade-Theatres-by-the-Bay. This was another fund-raising effort by
-the School. Both events were well supported by the School Advisory Committee,
-RV Alumni and the Parent-Teacher Association.
+<p>The RVHS Chinese Orchestra was the first cultural group to perform at
+the Esplanade-Theatres-by-the-Bay. This was another fund-raising effort
+by the School. Both events were well supported by the School Advisory Committee,
+RVHS Alumni and the Parent-Teacher Association.
 <br>
 <br>On 26 March, MOE announced school closure due to outbreak of SARS. This
 was the first time since the war period that schools were closed. Through
@@ -383,8 +383,8 @@ All other outdoor events, contact sports as well as overseas trips were
 put on hold due to SARS. We had an extra week of lessons during the June
 holidays.
 <br>
-<br>RV won 5 Gold Medals in the Singapore Youth Festival Central Judging for
-Chinese Orchestra, Concert Band, Choir, Dance and ELDDS.
+<br>RVHS won 5 Gold Medals in the Singapore Youth Festival Central Judging
+for Chinese Orchestra, Concert Band, Choir, Dance and ELDDS.
 <br>
 <br>The Netball ‘C’ Division Girls Team emerged Champions in the West Zone
 Netball Championships and 4th placing in the National Netball Championships.
@@ -392,16 +392,16 @@ The Basketball C Division Boys Team emerged 2nd in the West Zone Basketball
 Tournament and 4th placing in the National Basketball Tournament, while
 the Cross Country ‘C’ Division Boys came in fourth.
 <br>
-<br>RV won the Best Practice Award for Arts Education (Bronze award) by the
-National Arts Council.
+<br>RVHS won the Best Practice Award for Arts Education (Bronze award) by
+the National Arts Council.
 <br>
-<br>RV won the prestigious Best Practice Award for Student All-Round Development
+<br>RVHS won the prestigious Best Practice Award for Student All-Round Development
 by the Ministry of Education.
 <br>
-<br>RV won the Orchid Award (Singapore Environmental Council) for good environmental
+<br>RVHS won the Orchid Award (Singapore Environmental Council) for good environmental
 practices.
 <br>
-<br>RV was awarded her fifth Sustained Achievement Awards for Physical Fitness
+<br>RVHS was awarded her fifth Sustained Achievement Awards for Physical Fitness
 and Uniformed Groups.
 <br>
 <br>On 25 Oct 2003, RVHS sees many distinguished guests, including the Minister
@@ -414,7 +414,7 @@ in this programme.
 <br>
 <br>11th Trim and Fit Award.
 <br>
-<br>On 15 December, RV welcomed Mr Lee Yan Kheng as the Vice Principal.</p>
+<br>On 15 December, RVHS welcomed Mr Lee Yan Kheng as the Vice Principal.</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +454,7 @@ Environment.
 <br>
 <br>12th Trim and Fit Award.
 <br>
-<br>2004 also saw RV moving out of the West Coast site to the holding site
+<br>2004 also saw RVHS moving out of the West Coast site to the holding site
 at Queensway.</p>
 </td>
 </tr>
@@ -464,13 +464,13 @@ at Queensway.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV moved out of the West Coast site to the holding site at Queensway.
+<p>RVHS moved out of the West Coast site to the holding site at Queensway.
 <br>
 <br>In January, we held a school-wide Carnival to welcome the Secondary 1
 students.
 <br>
 <br>We celebrated our 49th School Anniversary on 15 January in conjunction
-with the RV Fund Raising Donation Draw.
+with the RVHS Fund Raising Donation Draw.
 <br>
 <br>The Director and key personnel from our sister school, Samsen Wittayalai
 School in Bangkok, Thailand, visited RV as part of the STEP (Singapore
@@ -504,7 +504,7 @@ NUS Cultural Centre and a Dinner hosted by the Alumni, SAC and PTA.
 <br>RVHS was given the go ahead for the Bicultural Programme, which commenced
 in 2007.
 <br>
-<br>In June, RV moved out of the Queensway site to the holding site at Malan
+<br>In June, RVHS moved out of the Queensway site to the holding site at Malan
 Road. A school warming was organised on the last Friday of the June school
 holidays. This was to support the RVIP programme and wait for the new school
 building to be ready in 2009.
@@ -548,10 +548,10 @@ awarded all five of the SAA awards.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In February, RV’s last O-Level cohort received their results.
+<p>In February, RVHS’s last O-Level cohort received their results.
 <br>
-<br>RV had her full cohort of 1,600 Integrated Programme students across four
-levels.</p>
+<br>RVHS had her full cohort of 1,600 Integrated Programme students across
+four levels.</p>
 </td>
 </tr>
 <tr>
@@ -578,9 +578,9 @@ at Boon Lay Avenue.
 </div>
 <p>
 <br>
-<br>RV organised the 2010 Asian Young Leaders Convention which saw more than
-900 student leaders from across Asia gathering in RV, to hone their leadership
-skills and forge friendships.</p>
+<br>RVHS organised the 2010 Asian Young Leaders Convention which saw more
+than 900 student leaders from across Asia gathering in RVHS, to hone their
+leadership skills and forge friendships.</p>
 </td>
 </tr>
 <tr>
@@ -589,18 +589,18 @@ skills and forge friendships.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV celebrated her 55th anniversary.
+<p>RVHS celebrated her 55th anniversary.
 <br>
 <br>Mr Sze Guan Kheng joined the school as the Vice Principal. Mr Sherwin
 Cheng became the school’s Vice Principal.
 <br>
-<br>RV’s first Integrated Programme A-Level cohort received their results
-in March. Tan Zhi Xiang, RV’s top student, was also a national top student.
+<br>RVHS’s first Integrated Programme A-Level cohort received their results
+in March. Tan Zhi Xiang, RVHS’s top student, was also a national top student.
 <br>
-<br>RV had her Singapore Quality Class (SQC) Award and School Excellence Award
-renewed.
+<br>RVHS had her Singapore Quality Class (SQC) Award and School Excellence
+Award renewed.
 <br>
-<br>RV co-organised the 2011 Asian Young Leaders Convention with Wenjiang
+<br>RVHS co-organised the 2011 Asian Young Leaders Convention with Wenjiang
 Middle School in Wenjiang, China.</p>
 </td>
 </tr>
@@ -610,10 +610,10 @@ Middle School in Wenjiang, China.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV’s second Integrated Programme A-Level cohort also produced a national
+<p>RVHS’s second Integrated Programme A-Level cohort also produced a national
 top student. He is Soh Zhi Liang.
 <br>
-<br>RV launched her iPad one-to-one programme.
+<br>RVHS launched her iPad one-to-one programme.
 <br>
 <br>Mr Loi Guang You became the school's Vice Principal. Mr Gabriel Wong joined
 the school as the Vice Principal.
@@ -627,7 +627,7 @@ the school as the Vice Principal.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV held her first Y.Lead Seminar in July.
+<p>RVHS held her first Y.Lead Seminar in July.
 <br>
 <br>Mr Gay Choon Lin joined the school as the Vice Principal (Admin).
 <br>
@@ -640,8 +640,8 @@ the school as the Vice Principal.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV held her inaugural Arts Fest week, that included Drama Night and Combined
-Performing Arts Concert, from 28 April to 3 May.
+<p>RVHS held her inaugural Arts Fest week, that included Drama Night and
+Combined Performing Arts Concert, from 28 April to 3 May.
 <br>
 <br>The iconic 立化情 was produced by the 35th&nbsp;Students' Council.</p>
 </td>
@@ -681,9 +681,9 @@ for Outstanding Bicultural Studies.
 (Softball) at the Singapore Schools Sports Council Colours Awards 2016.
 <br>
 <br>The Pedagogical Excellence Academy (PEA) was set-up to enhance curriculum
-and pedagogy at RV.
+and pedagogy at RVHS.
 <br>
-<br>RV held her first PEA symposium for teachers, showcasing the best pedagogical
+<br>RVHS held her first PEA symposium for teachers, showcasing the best pedagogical
 practices of RV teachers.
 <br>
 <br>Mr Tay Hong Joo Steven joined the school as Vice-Principal in December.</p>
@@ -715,15 +715,15 @@ flagship IP programme -Construct, Integrate, Differentiate (CID) in innovation.<
 <p>Stefan Liew Jing Rui, from class of 2017, is the school's first President
 Scholar from the school's Integrated Programme.
 <br>
-<br>RV organised the Ministry of Education Pre-University Seminar for the
+<br>RVHS organised the Ministry of Education Pre-University Seminar for the
 first time in the school's history, with Dang Chee Wen of the Class of
 2019 producing the seminar's first-ever theme song.
 <br>
 <br>Yeoh An Ni from the Class of 2018 was awarded the Prime Minister's Book
 Prize.
 <br>
-<br>RV won her first SYF Overall Winning Theme Song, STAGE, written and produced
-by Terry Ng Tian Yu and Goh Jing Wen from the Class of 2018.
+<br>RVHS won her first SYF Overall Winning Theme Song, STAGE, written and
+produced by Terry Ng Tian Yu and Goh Jing Wen from the Class of 2018.
 <br>
 <br>Charmaine Chua Jia Ying attained the Best Sportsgirl Award (Softball)
 at the Singapore Schools Sports Council Colours Awards 2018.
@@ -773,7 +773,7 @@ at the Singapore Schools Sports Council Colours Awards 2020.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV celebrated her 65th Anniversary.
+<p>RVHS celebrated her 65th Anniversary.
 <br>
 <br>Lim Jo Xin from the Class of 2020 is awarded the Prime Minister’s Book
 Prize.
@@ -831,8 +831,13 @@ Bicultural Students.</p>
 <p>Our B Division Wushu Boys are the champions of the National Wushu Championships.</p>
 <p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
 in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
+<p></p>
 <p>Koh Le Bon won a silver medal in the spear event at the International
 Wushu Invitational Tournament in Jiangsu, China.</p>
+<p></p>
+<p>Chua Yee Tien (2024: 4G) and Lin Chuanyu (2024: 23J08), received the President's
+Guide Award and President’s Scout Award respectively from President Mr
+Tharman Shanmugaratnam at the Istana.</p>
 </td>
 </tr>
 </tbody>
