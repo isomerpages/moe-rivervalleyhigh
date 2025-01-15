@@ -182,8 +182,8 @@ the school's 5th Principal.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>On 1 Jan 1987, Minister of State for Education, Mr Tang Guan Seng, flagged
-off a 16-km walk from the old RV campus at Jalan Kuala to the new RV campus
-at West Coast Road.</p>
+off a 16-km walk from the old RV campus at Jalan Kuala to the new RVHS
+campus at West Coast Road.</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ of SAC, Mr Lee Tuan, and SAC Member, Dr Ho Nai Kiong.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RV celebrated its 35th School Anniversary with a dinner at the school
+<p>RV celebrated her 35th School Anniversary with a dinner at the school
 compound and a concert at the Kallang Theatre.
 <br>
 <br>The school began its facilities expansion programme.
@@ -228,8 +228,8 @@ compound and a concert at the Kallang Theatre.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>After 19 years with River Valley High School, Mdm Leong Fun Chin left
-to assume the headship at Hwa Chong Junior College.
+<p>After 19 years with RV, Mdm Leong Fun Chin left to assume the headship
+at Hwa Chong Junior College.
 <br>
 <br>Mr Tham Tuck Meng became the school's 6th Principal.
 <br>
@@ -374,7 +374,7 @@ and Uniformed Groups, and third award for the Arts.</p>
 <p>The RV Chinese Orchestra was the first cultural group to perform at the
 Esplanade-Theatres-by-the-Bay. This was another fund-raising effort by
 the School. Both events were well supported by the School Advisory Committee,
-RV Alumni and the Parent-Teacher Association.
+RVHS Alumni and the Parent-Teacher Association.
 <br>
 <br>On 26 March, MOE announced school closure due to outbreak of SARS. This
 was the first time since the war period that schools were closed. Through
@@ -405,16 +405,16 @@ practices.
 and Uniformed Groups.
 <br>
 <br>On 25 Oct 2003, RVHS sees many distinguished guests, including the Minister
-for Education, Mr Tharman Shanmugaratnam, arrived at RVHS for the launch
+for Education, Mr Tharman Shanmugaratnam, arrived at RV for the launch
 of the BackPack.NET – Pilot and Trials Pillar. The objective of BackPack.NET
 is to create opportunities for schools and Institutes of Higher Learning
 to use Microsoft technologies to develop innovative solutions for Tablet
-PCs for use in teaching and learning. RVHS was the first school to be involved
+PCs for use in teaching and learning. RV was the first school to be involved
 in this programme.
 <br>
 <br>11th Trim and Fit Award.
 <br>
-<br>On 15 December, RV welcomed Mr Lee Yan Kheng as the Vice Principal.</p>
+<br>On 15 December, RVHS welcomed Mr Lee Yan Kheng as the Vice Principal.</p>
 </td>
 </tr>
 <tr>
@@ -482,12 +482,12 @@ groups of students.
 <br>
 <br>13th Trim and Fit Award.
 <br>
-<br>In September, RVHS was given the approval for the Integrated Programme.
+<br>In September, RV was given the approval for the Integrated Programme.
 This was announced by Minister Mr Tharman Shanmugaratnam.
 <br>
 <br>Following the announcement, MOE also re-evaluated the West Coast Site
 and found it too small to support the 6 year programme. Hence, a new site
-at Jalan Boon Lay of 7.5 Hectares was allocated to RVHS.</p>
+at Jalan Boon Lay of 7.5 Hectares was allocated to RV.</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@ NUS Cultural Centre and a Dinner hosted by the Alumni, SAC and PTA.
 <br>
 <br>We began our Integrated Programme journey for Year 1 and 2 students.
 <br>
-<br>RVHS was given the go ahead for the Bicultural Programme, which commenced
+<br>RV was given the go ahead for the Bicultural Programme, which commenced
 in 2007.
 <br>
 <br>In June, RV moved out of the Queensway site to the holding site at Malan
@@ -509,15 +509,15 @@ Road. A school warming was organised on the last Friday of the June school
 holidays. This was to support the RVIP programme and wait for the new school
 building to be ready in 2009.
 <br>
-<br>RVHS was awarded the Singapore Quality Class, Best Practice Awards for
-Teaching and Learning, Student All Round Development, Organisational Effectiveness
+<br>RV was awarded the Singapore Quality Class, Best Practice Awards for Teaching
+and Learning, Student All Round Development, Organisational Effectiveness
 based on the School Excellence Model.
 <br>
 <br>14th Trim and Fit Award.
 <br>
-<br>RVHS was awarded the LEAD ICT@Schools. The LEAD ICT@Schools recognises
-and supports schools that are ready to achieve a higher level of ICT use
-from 2006 to 2008.</p>
+<br>RVwas awarded the LEAD ICT@Schools. The LEAD ICT@Schools recognises and
+supports schools that are ready to achieve a higher level of ICT use from
+2006 to 2008.</p>
 </td>
 </tr>
 <tr>
@@ -595,7 +595,7 @@ skills and forge friendships.</p>
 Cheng became the school’s Vice Principal.
 <br>
 <br>RV’s first Integrated Programme A-Level cohort received their results
-in March. Tan Zhi Xiang, RV’s top student, was also a national top student.
+in March. Tan Zhi Xiang, RVHS’s top student, was also a national top student.
 <br>
 <br>RV had her Singapore Quality Class (SQC) Award and School Excellence Award
 renewed.
@@ -813,7 +813,7 @@ the 4th edition of the annual Cyberthon.</p>
 <p></p>
 <p>Ganesh S attained the President's Award (Boy's Brigade).</p>
 <p></p>
-<p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank">RVHS Girl's A Division Floorball</a> emerged
+<p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank">RV Girl's A Division Floorball</a> emerged
 champions.</p>
 <p></p>
 </td>
@@ -827,12 +827,16 @@ champions.</p>
 <p>Goh Jun Yu (Class of 2023) received the Lee Hsien Loong Award for Outstanding
 Bicultural Students.</p>
 <p></p>
-<p>Chua Yee Tien attained the President's Guide Award.</p>
 <p>Our B Division Wushu Boys are the champions of the National Wushu Championships.</p>
 <p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
 in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
+<p></p>
 <p>Koh Le Bon won a silver medal in the spear event at the International
 Wushu Invitational Tournament in Jiangsu, China.</p>
+<p></p>
+<p>Chua Yee Tien (2024: 4G) and Lin Chuanyu (2024: 23J08), received the President's
+Guide Award and President’s Scout Award respectively from President Mr
+Tharman Shanmugaratnam at the Istana.</p>
 </td>
 </tr>
 </tbody>
