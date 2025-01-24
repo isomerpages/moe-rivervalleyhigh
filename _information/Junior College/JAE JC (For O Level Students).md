@@ -20,4 +20,8 @@ of Education. If you wish to apply for a transfer to River Valley High
 School Junior College section, please complete the online form here by
 7 Feb 2025 (5pm):&nbsp;&nbsp;<a href="http://go.gov.sg/2025rvhsj1appeal" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/2025rvhsj1appeal</a>
 </p>
+<p>For JAE students posted to River Valley High School in 2025, you may refer
+to the google site below to view the subject information videos and FAQs
+prepared by our teachers. <a href="https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview</a>
+</p>
 <p></p>
