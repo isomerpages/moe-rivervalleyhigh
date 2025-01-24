@@ -22,7 +22,6 @@ School Junior College section, please complete the online form here by
 </p>
 <p>For JAE students posted to River Valley High School in 2025, you may refer
 to the google site below to view the subject information videos and FAQs
-prepared by our teachers.</p>
-<p><a href="https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview</a>
+prepared by our teachers. <a href="https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview</a>
 </p>
 <p></p>
