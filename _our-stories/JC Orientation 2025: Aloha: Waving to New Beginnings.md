@@ -63,7 +63,6 @@ the test. There will be time given for you to have your lunch in the canteen.</p
 <p>&nbsp;<strong>Enquiries</strong>
 </p>
 <p>Should you require additional information, please contact our general
-office at 65678115 during office hours or email <a href="rvhs@moe.edu.sg" rel="noopener nofollow" target="_blank">rvhs@moe.edu.sg</a>
-</p>
+office at 65678115 during office hours or email rvhs@moe.edu.sg</p>
 <p><strong>&nbsp;</strong>
 </p>
