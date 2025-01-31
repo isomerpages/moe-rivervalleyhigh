@@ -85,6 +85,5 @@ given for you to have your lunch in the canteen.</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>Should you require additional information, please contact our general
-office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
+office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a> 
 </p>
-<p></p>
