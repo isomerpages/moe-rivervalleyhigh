@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Dear students,</p>
-<p>&nbsp;A warm welcome to River Valley High School! We look forward to meeting
+<p>A warm welcome to River Valley High School! We look forward to meeting
 you on <strong>05 Feb 2025 (Wednesday)</strong> at <strong>7.45am </strong>for
 JC Orientation 2025. To ensure that you are well-prepared to start your
 junior college journey with us, please take note of the following information:</p>
