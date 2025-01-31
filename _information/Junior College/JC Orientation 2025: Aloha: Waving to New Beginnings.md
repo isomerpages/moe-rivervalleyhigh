@@ -47,7 +47,7 @@ in front of the school General Office.</p>
 members as well as the opening ceremony to kickstart JC Orientation 2025:
 Aloha, Waving to New Beginnings.</p>
 <p>JAE students will also attend a subject combination briefing and visit
-the respective subject booths, to help them make an informed choice about
+the respective subject booths to help them make an informed choice about
 their subject combination choices. You may click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/junior-college/2025-jc1-sbjctcombi/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the 2025 JC1 Subject Combinations and individual subjects
 offered, prior to reporting day.</p>
