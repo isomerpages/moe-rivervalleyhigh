@@ -44,8 +44,8 @@ in front of the school General Office.</p>
 <p><strong>First Day Programme</strong>
 </p>
 <p>The first day will involve getting to know your Orientation Group (OG)
-members, as well as the opening ceremony to kickstart JC Orientation 2025:
-Aloha, Waving to New Beginnings</p>
+members as well as the opening ceremony to kickstart JC Orientation 2025:
+Aloha, Waving to New Beginnings.</p>
 <p>JAE students will also attend a subject combination briefing and visit
 the respective subject booths, to help them make an informed choice about
 their subject combination choices. You may click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/junior-college/2025-jc1-sbjctcombi/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
