@@ -15,15 +15,12 @@ junior college journey with us, please take note of the following information:</
 PE T-shirt and pants / skirt</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
 School Half-Uniform / Full-Uniform</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Reporting Venue</strong>
+<p><strong>&nbsp;Reporting Venue</strong>
 </p>
 <p>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
 with morning assembly beginning at 8am. Signages will be placed at all
 entry points to direct you to the MPC. Our Orientation Committee members
 will also be stationed around the campus to provide directions to the MPC.</p>
-<p>&nbsp;</p>
 <p>Students arriving by private transport may alight at the drop-off point
 in front of the school’s General Office.</p>
 <p><strong>Things to Bring</strong>
@@ -32,17 +29,14 @@ in front of the school’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / PayLah account
 on mobile device</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>First Day Programme</strong>
+<p><strong>&nbsp;First Day Programme</strong>
 </p>
 <p>The highlights of the first day would include getting to know your Orientation
 Group (OG) members as well as the Opening Ceremony to kickstart JC Orientation
 2025: Aloha, Waving to New Beginnings.</p>
-<p>&nbsp;</p>
-<p>JAE students will also attend a subject combination briefing and visit
-the respective subject booths to help them make an informed choice about
-their subject combination choices. You may click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/junior-college/2025-jc1-sbjctcombi/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>&nbsp;JAE students will also attend a subject combination briefing and
+visit the respective subject booths to help them make an informed choice
+about their subject combination choices. You may click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/junior-college/2025-jc1-sbjctcombi/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the 2025 JC1 Subject Combinations and individual subjects
 offered, prior to reporting day.</p>
 <p>&nbsp;There will be an <strong>optional qualifying test</strong> at <strong>2.30pm</strong>,
