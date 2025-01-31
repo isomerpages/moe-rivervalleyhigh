@@ -9,8 +9,7 @@ description: ""
 you on <strong>05 Feb 2025 (Wednesday)</strong> at <strong>7.45am </strong>for
 JC Orientation 2025. To ensure that you are well-prepared to start your
 junior college journey with us, please take note of the following information:</p>
-<p>&nbsp;</p>
-<p><strong>Attire</strong>
+<p>&nbsp;<strong>Attire</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students:</strong> RVHS
 PE T-shirt and pants / skirt</p>
