@@ -65,8 +65,8 @@ or H2 Translation qualifying tests at 2.30 pm, you will be dismissed after
 the test. There will be time given for you to have your lunch in the canteen.</p>
 <p>&nbsp;<strong>Enquiries</strong>
 </p>
-<p>Should you require additional information, please ontact our general office
-at 65678115 during office hours or email <a rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
+<p>Should you require additional information, please contact our general
+office at 65678115 during office hours or email <a rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
