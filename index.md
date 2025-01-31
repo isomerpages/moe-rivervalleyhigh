@@ -19,11 +19,11 @@ sections:
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
   - infopic:
-      title: RV68
+      title: RV69
       subtitle: RV Celebrates
       id: infopic
-      description: On 16 Jan, we celebrated our commitment to creating a nurturing and
-        flourishing community. Happy birthday, RV!
+      description: On 16 Jan, we commemorated our school's rich history and heritage.
+        Happy birthday, RV!
       button: Read more
       url: /our-stories/rv68/
       image: /images/RV68_frontpage.jpg
