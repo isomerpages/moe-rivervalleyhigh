@@ -19,7 +19,7 @@ sections:
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
   - infopic:
-      title: "JC Orientation 2025: Aloha: Waving to New Beginnings"
+      title: "JC Orientation 2025 - Aloha: Waving to New Beginnings"
       subtitle: Welcome to RV
       id: infopic
       description: We look forward to meeting you on 05 Feb 2025 (Wednesday) at 7.45am
