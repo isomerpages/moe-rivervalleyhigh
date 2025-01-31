@@ -78,8 +78,8 @@ tests, the programme will end by <strong>2.30pm.</strong>
 </li>
 <li>
 <p>For all students taking the H2 Computing or H2 Translation qualifying
-tests at 2.30 pm, you will be dismissed after the test is concluded. There
-will be time given for lunch at the canteen.</p>
+tests at 2.30 pm, you will be dismissed after the test. There will be time
+given for lunch at the canteen.</p>
 </li>
 </ul>
 <p><strong>Enquiries</strong>
