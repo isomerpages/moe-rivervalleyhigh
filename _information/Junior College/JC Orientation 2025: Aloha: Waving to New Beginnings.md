@@ -30,9 +30,7 @@ point in front of the school’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / PayLah account
 on mobile device</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>First Day Programme</strong>
+<p><strong>&nbsp;First Day Programme</strong>
 </p>
 <p>The highlights of the first day would include getting to know your Orientation
 Group (OG) members as well as the Opening Ceremony to kickstart JC Orientation
