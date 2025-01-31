@@ -19,14 +19,16 @@ sections:
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
   - infopic:
-      title: JC Open House
-      subtitle: All are welcome
+      title: "JC Orientation 2025 - Aloha: Waving to New Beginnings"
+      subtitle: Welcome to RV
       id: infopic
-      description: 13Jan (Mon) 2-5pm. Highlights include a chance to see our CCAs in
-        action, to meet our Principal and tour our premises! Grab some popcorn &
-        see what we're about!
-      image: /images/JC_Open_House_2025.jpg
-      alt: RVHS J2 cohort photo
+      description: We look forward to meeting you on 05 Feb 2025 (Wednesday) at 7.45am
+        for JC Orientation 2025. Please take note of the information found in
+        the link below.
+      button: More Information
+      url: /jc-orientation-2025-aloha-waving-to-new-beginnings/
+      image: /images/Orien_2024_Photo_4.jpg
+      alt: RVHS JC Students
   - infopic:
       title: RV68
       subtitle: RV Celebrates
