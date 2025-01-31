@@ -28,6 +28,7 @@ sections:
       button: More Information
       url: https://rivervalleyhigh.moe.edu.sg/jc-orientation-2025-aloha-waving-to-new-beginnings/
       image: /images/Orien_2024_Photo_4.jpg
+      alt: RVHS JC Students
   - infopic:
       title: RV68
       subtitle: RV Celebrates
