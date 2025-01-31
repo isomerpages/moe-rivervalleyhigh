@@ -26,7 +26,7 @@ sections:
         for JC Orientation 2025. Please take note of the information found in
         the link below.
       button: More Information
-      url: https://www.rivervalleyhigh.moe.edu.sg/
+      url: https://rivervalleyhigh.moe.edu.sg/jc-orientation-2025-aloha-waving-to-new-beginnings/
       image: /images/Orien_2024_Photo_4.jpg
   - infopic:
       title: RV68
