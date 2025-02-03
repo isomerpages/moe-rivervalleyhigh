@@ -81,4 +81,13 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: RV 69
+      subtitle: RV celebrates
+      id: infopic
+      description: On 16 Jan, we celebrated our commitment to creating a nurturing and
+        flourishing community. Happy birthday, RV!
+      button: Button Text
+      image: /images/48_library__1_Com.jpg
+      alt: Image alt text
 ---
