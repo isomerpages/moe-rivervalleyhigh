@@ -34,7 +34,7 @@ sections:
       subtitle: RV celebrates
       id: infopic
       description: On 16 Jan, we commemorated our school's rich history and
-        heritage.   Happy birthday, RV!
+        heritage.   Happy Birthday, RV!
       image: /images/48_library__1_Com.jpg
       alt: Image alt text
   - infopic:
