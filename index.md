@@ -30,14 +30,12 @@ sections:
       image: /images/Orien_2024_Photo_4.jpg
       alt: RVHS JC Students
   - infopic:
-      title: RV68
-      subtitle: RV Celebrates
+      title: RV 69
+      subtitle: RV celebrates
       id: infopic
-      description: On 16 Jan, we celebrated our commitment to creating a nurturing and
-        flourishing community. Happy birthday, RV!
-      button: Read more
-      url: /our-stories/rv68/
-      image: /images/RV68_frontpage.jpg
+      description: On 16 Jan, we commemorated our school's rich history and
+        heritage.   Happy birthday, RV!
+      image: /images/48_library__1_Com.jpg
       alt: Image alt text
   - infopic:
       title: Check out our School Facilities
@@ -81,13 +79,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: RV 69
-      subtitle: RV celebrates
-      id: infopic
-      description: On 16 Jan, we celebrated our commitment to creating a nurturing and
-        flourishing community.  Happy birthday, RV!
-      button: Button Text
-      image: /images/48_library__1_Com.jpg
-      alt: Image alt text
 ---
