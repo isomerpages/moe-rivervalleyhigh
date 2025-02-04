@@ -12,9 +12,9 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: 2025 Secondary 1 Registration Information
+        - title: JAE JC Appeal
           description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information-for-2025-secondary-one-students/
+          url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
         - title: Information for Students
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
@@ -30,14 +30,12 @@ sections:
       image: /images/Orien_2024_Photo_4.jpg
       alt: RVHS JC Students
   - infopic:
-      title: RV68
-      subtitle: RV Celebrates
+      title: RV 69
+      subtitle: RV celebrates
       id: infopic
-      description: On 16 Jan, we celebrated our commitment to creating a nurturing and
-        flourishing community. Happy birthday, RV!
-      button: Read more
-      url: /our-stories/rv68/
-      image: /images/RV68_frontpage.jpg
+      description: On 16 Jan, we commemorated our school's rich history and
+        heritage.   Happy Birthday, RV!
+      image: /images/48_library__1_Com.jpg
       alt: Image alt text
   - infopic:
       title: Check out our School Facilities
