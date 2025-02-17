@@ -14,7 +14,7 @@ River Valley High School belongs to the West 7 Cluster. The Cluster system was i
 
 Other benefits include greater financial support, wider choices in training programmes for staff and pupils, and more scope for interaction with other schools.
 
-![](/images/Chairman_Mr_Ng_Chin_Siau.png)
+![](/images/Chairman_Mr_Ng_Chin_Siau__1_.png)
 **School Advisory Committee**<br>
 The School Advisory Committee (SAC) comprises members from the private and public sector who are committed to education and want to serve as advisors to the school community. RV's SAC has continued to give its unflagging support to the school in terms of financial assistance to pupils, encouragement and support to staff and sponsorship of prizes for pupils' achievements.
 
