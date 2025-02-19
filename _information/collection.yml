@@ -2,8 +2,6 @@ collections:
   information:
     output: true
     order:
-      - 2025 Secondary 1 Registration/Information for 2025 Secondary One
-        Students.md
       - 2025 Secondary 1 Registration/.keep
       - Whole School/Information for students.md
       - Whole School/.keep
@@ -15,12 +13,12 @@ collections:
       - Whole School/RVHS ICT.md
       - Whole School/FAQs.md
       - Whole School/Scam Alert for Contractors and Vendors.md
+      - Secondary Section/Information for 2025 Secondary One Students.md
       - Secondary Section/.keep
       - Secondary Section/Direct School Admission (Integrated Programme) 2024.md
       - Secondary Section/MOE Sexuality Education in Schools (Secondary).md
-      - "Junior College/JC Orientation 2025: Aloha: Waving to New Beginnings.md"
       - Junior College/.keep
-      - Junior College/2025 JC1 Subject Combination.md
+      - Junior College/2026 JC1 Subject Combination.md
       - Junior College/Direct School Admission (Junior College).md
       - Junior College/JAE JC (For O Level Students).md
       - Junior College/H3 Programme (JC2).md

@@ -3,7 +3,7 @@ title: Information for 2025 Secondary One Students
 permalink: /information-for-2025-secondary-one-students/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Secondary 1 Registration
+third_nav_title: Secondary Section
 ---
 <p>Dear Parents and Students,</p>
 <p>A warm welcome to River Valley High School!&nbsp; The Secondary One Registration

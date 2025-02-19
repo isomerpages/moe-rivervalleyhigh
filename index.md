@@ -12,23 +12,9 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: JAE JC Appeal
-          description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
         - title: Information for Students
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
-  - infopic:
-      title: "JC Orientation 2025 - Aloha: Waving to New Beginnings"
-      subtitle: Welcome to RV
-      id: infopic
-      description: We look forward to meeting you on 05 Feb 2025 (Wednesday) at 7.45am
-        for JC Orientation 2025. Please take note of the information found in
-        the link below.
-      button: More Information
-      url: /jc-orientation-2025-aloha-waving-to-new-beginnings/
-      image: /images/Orien_2024_Photo_4.jpg
-      alt: RVHS JC Students
   - infopic:
       title: RV 69
       subtitle: RV celebrates
