@@ -12,9 +12,6 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: JAE JC Appeal
-          description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
         - title: Information for Students
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
