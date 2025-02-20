@@ -33,3 +33,5 @@ Lim (ECG Counsellor) <a href="https://cal.gov.sg/9zgk9xx0kprksz9c6dj0hlo2" rel="
 make an ECG counselling session with the ECG Centre @ MOE from 17 February
 to 19 March 2025 (Weekdays: 9.00 am to 5.00 pm; Saturdays: 9.00 am to 12.00
 pm) through the appointment booking form <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><a href="/files/2024_A_Level_Info_Sheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">Download Inforsheet for parents here</a>
+</p>
