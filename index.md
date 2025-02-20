@@ -15,6 +15,9 @@ sections:
         - title: Information for Students
           description: Click here
           url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
+        - title: Supporting your teen through the A level results release
+          description: ""
+          url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
   - infopic:
       title: RV 69
       subtitle: RV celebrates
