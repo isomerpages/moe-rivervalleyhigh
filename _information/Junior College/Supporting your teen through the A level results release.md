@@ -35,3 +35,4 @@ to 19 March 2025 (Weekdays: 9.00 am to 5.00 pm; Saturdays: 9.00 am to 12.00
 pm) through the appointment booking form <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><a href="/files/2024_A_Level_Info_Sheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">Download Inforsheet for parents here</a>
 </p>
+<p>Thank you.</p>
