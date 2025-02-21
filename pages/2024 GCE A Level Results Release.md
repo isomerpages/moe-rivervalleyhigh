@@ -4,8 +4,7 @@ permalink: /2024-gce-a-level-results-release/
 variant: tiptap
 description: ""
 ---
-<p><strong>CONGRATULATIONS!</strong>
-</p>
+<h4><strong>CONGRATULATIONS!</strong></h4>
 <p>We are proud of our&nbsp;students who have done well in the 2024 GCE&nbsp;A-Level&nbsp;Examination!
 We would like to congratulate them for continuing to exemplify our school’s
 values and spirit.&nbsp;Beyond academic achievements, they have developed
