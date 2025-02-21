@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
   - infobar:
-      title: Congratulations to the Class 2024!
+      title: Congratulations to the Class of 2024!
       id: infobar
       button: READ MORE
       url: /2024-gce-a-level-results-release/
