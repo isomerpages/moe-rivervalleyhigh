@@ -20,7 +20,6 @@ sections:
           url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
   - infopic:
       title: Congratulations!
-      subtitle: RV Celebrates
       id: infopic
       button: Read More
       url: /2024-gce-a-level-results-release/
