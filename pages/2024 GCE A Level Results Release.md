@@ -19,6 +19,7 @@ made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 <details class="isomer-details">
 <summary>Chan Xing Yu James (23J13)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>James is a promising young scientist who has a strong passion for Science,
 Technology, Engineering, and Mathematics (STEM). This can be seen from
 his active involvement in various workshops and enrichment programmes,
@@ -51,6 +52,57 @@ pursuit of knowledge, unwavering dedication to innovation, and a deep-seated
 desire to make a positive impact on the world through STEM.</p>
 <p><strong>&nbsp;</strong>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Chan Si Yu David (23J13)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>David demonstrates an exceptional aptitude for technology, evident in
+his founding of the "Singapore Students Merger Team". This team participates
+in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
+of learning and skill development. Comprising highly skilled student participants,
+it swiftly rose to become one of Singapore's top competition teams. David’s
+innovative approaches to team building, skill development, and outreach
+efforts reflect his commitment to nurturing Singapore's young cybersecurity
+talent. His prowess and efforts are further evidenced by his victory in
+the Cyber Security Agency of Singapore’s Advanced Youth Cyber Exploration
+Programme 2023 and his leadership of the school team to emerge as champions
+in the international OS CTF 2024 competition. Internships at the Ministry
+of Home Affairs and DSO National Laboratories, coupled with his DSTA Junior
+College Scholarship, further underscore his passion and potential in the
+field of cybersecurity. David’s leadership skills shine through in his
+various roles: Vice President of the Mathematics Leaders Academy, Director
+of the school’s inaugural STEM Fest, Vice President of the school’s Chess
+Club, and EXCO member of Infocomm Club. His leadership abilities and active
+engagement in academic and community endeavours exemplify his unwavering
+pursuit of excellence.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Chan Xing Yu James (23J13)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>James is aChan Si Yu David David demonstrates an exceptional aptitude
+for technology, evident in his founding of the "Singapore Students Merger
+Team". This team participates in Capture-The-Flag (CTF) cybersecurity competitions,
+fostering a community of learning and skill development. Comprising highly
+skilled student participants, it swiftly rose to become one of Singapore's
+top competition teams. David’s innovative approaches to team building,
+skill development, and outreach efforts reflect his commitment to nurturing
+Singapore's young cybersecurity talent. His prowess and efforts are further
+evidenced by his victory in the Cyber Security Agency of Singapore’s Advanced
+Youth Cyber Exploration Programme 2023 and his leadership of the school
+team to emerge as champions in the international OS CTF 2024 competition.
+Internships at the Ministry of Home Affairs and DSO National Laboratories,
+coupled with his DSTA Junior College Scholarship, further underscore his
+passion and potential in the field of cybersecurity. David’s leadership
+skills shine through in his various roles: Vice President of the Mathematics
+Leaders Academy, Director of the school’s inaugural STEM Fest, Vice President
+of the school’s Chess Club, and EXCO member of Infocomm Club. His leadership
+abilities and active engagement in academic and community endeavours exemplify
+his unwavering pursuit of excellence.</p>
 </div>
 </details>
 <details class="isomer-details">
