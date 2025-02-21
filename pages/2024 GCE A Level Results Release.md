@@ -287,9 +287,3 @@ to all.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong><u>(23J20)Chua Wen Zhe (23J20)Lin Chuanyu (23J08)</u></strong>
-</p>
