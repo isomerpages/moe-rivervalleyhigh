@@ -15,7 +15,104 @@ have taught or assisted the students, School Advisory Committee, Alumni,
 Parent-Teacher Association, and parents/guardians of all RV graduates.</p>
 <p>We would like to share the journey of the following 2024 graduates who
 made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Chan Xing Yu, James (23J13)</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>James is a promising young scientist who has a strong passion for Science,
+Technology, Engineering, and Mathematics (STEM). This can be seen from
+his active involvement in various workshops and enrichment programmes,
+including the Young Defence Scientists Programme (YDSP) World of Science
+modules in Computer Security and Quantum Technologies, YDSP Enrichment
+Workshops, and the SWIFT Accelerator Programme. As the President of the
+school’s Science Leaders Academy (SLA), James was committed to promoting
+STEM education when planning the inaugural RV STEM Festival 2024 and fostering
+strong bonds within the academy. A pivotal moment in James's journey was
+his YDSP experience at the DSO National Laboratories. Here, he researched
+on artificial intelligence, chatbots, and the security of large language
+models. This project was particularly significant as it allowed James and
+his twin brother, David, to explore uncharted territory in research. They
+traversed the entire research cycle, from hypothesis formulation to data
+analysis and conclusion drawing, gaining invaluable insights into the differences
+between practical skills and research methodologies. His strong interest
+in cybersecurity is evident from his role as Vice President of the school’s
+Capture-The-Flag (CTF), where he planned training sessions and achieved
+impressive rankings in cybersecurity competitions. In his free time, he
+attended online courses such as Harvard's cybersecurity and TryHackMe.
+He also actively participated in competitions with the locally founded
+"Singapore Students Merger Team", co-founded by David. This team participates
+in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
+of learning and skill development. It swiftly rose to prominence, becoming
+one of the top teams in Singapore. James played a crucial role in recruiting
+new members, organising training sessions, and promoting events within
+their networks. As James continues his journey in STEM, he stands as an
+inspiration to his peers and juniors alike. His story is one of relentless
+pursuit of knowledge, unwavering dedication to innovation, and a deep-seated
+desire to make a positive impact on the world through STEM.</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>David demonstrates an exceptional aptitude for technology, evident in
+his founding of the "Singapore Students Merger Team". This team participates
+in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
+of learning and skill development. Comprising highly skilled student participants,
+it swiftly rose to become one of Singapore's top competition teams. David’s
+innovative approaches to team building, skill development, and outreach
+efforts reflect his commitment to nurturing Singapore's young cybersecurity
+talent. His prowess and efforts are further evidenced by his victory in
+the Cyber Security Agency of Singapore’s Advanced Youth Cyber Exploration
+Programme 2023 and his leadership of the school team to emerge as champions
+in the international OS CTF 2024 competition. Internships at the Ministry
+of Home Affairs and DSO National Laboratories, coupled with his DSTA Junior
+College Scholarship, further underscore his passion and potential in the
+field of cybersecurity. David’s leadership skills shine through in his
+various roles: Vice President of the Mathematics Leaders Academy, Director
+of the school’s inaugural STEM Fest, Vice President of the school’s Chess
+Club, and EXCO member of Infocomm Club. His leadership abilities and active
+engagement in academic and community endeavours exemplify his unwavering
+pursuit of excellence.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
