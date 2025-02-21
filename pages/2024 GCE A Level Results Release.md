@@ -17,11 +17,26 @@ Parent-Teacher Association, and parents/guardians of all RV graduates.</p>
 <p>We would like to share the journey of the following 2024 graduates who
 made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 <p></p>
-<p><strong><u>Koh Le Bon (23J09)</u></strong>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><u>Koh Le Bon (23J09)</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
 </div>
+<p>__________________________________________</p>
+</th>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
 <p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
 of dedication, skill, and discipline. His stellar performance earned him
 top honours in two events at the National School Games of 2023 and a silver
@@ -48,4 +63,48 @@ journey culminated in his nomination as the school's valedictorian, a testament
 to his all-round achievements and the impact he has made on his school
 community. His story is truly inspiring, demonstrating how the application
 of adaptability and resilience helped him overcome all odds.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
