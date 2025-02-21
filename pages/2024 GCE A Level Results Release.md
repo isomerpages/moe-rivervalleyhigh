@@ -20,7 +20,7 @@ made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 <p></p>
 <p><strong><u>Koh Le Bon (23J09)</u></strong>
 </p>
-<p><em>&lt;img src="/images/Koh_Le_Bon.png"</em>style="width:30%" align="left"&gt;</p>
+<p><em>&lt;img src="/images/Koh_Le_Bon 1"</em>style="width:30%" align="left"&gt;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
