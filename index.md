@@ -19,12 +19,18 @@ sections:
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
   - infopic:
+      title: Congratulations!
+      id: infopic
+      button: Read More
+      url: /2024-gce-a-level-results-release/
+      image: /images/2024_GCE_A_level_results.jpg
+  - infopic:
       title: RV 69
       subtitle: RV celebrates
       id: infopic
       description: On 16 Jan, we commemorated our school's rich history and
         heritage.   Happy Birthday, RV!
-      image: /images/48_library__1_Com.jpg
+      image: /images/2025/RV69.png
       alt: Image alt text
   - infopic:
       title: Check out our School Facilities
