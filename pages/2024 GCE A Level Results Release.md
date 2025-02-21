@@ -266,6 +266,25 @@ the qualities of a well-rounded and dedicated leader.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Lim Jing Xiang Jovan (23J20)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Jovan demonstrated exceptional resilience in his academic journey as he
+sought to overcome his learning challenges. He proactively developed and
+diligently practised reading and visualisation strategies to enhance his
+reading speed and comprehension. He stepped out of his comfort zone to
+connect with others through community service and initiated a project “Rainbow
+Heroes”, an empowerment programme for young adults with special needs.
+Jovan also volunteered regularly at a reading programme for underprivileged
+children and shared his own experiences of learning as well as his passion
+for Literature in English, with the hope that his personal journey would
+inspire and create an everlasting positive impact. In the Student Editorial
+Club, his creative flair found expression in his role as Head of Publicity.
+Jovan’s journey, marked by perseverance and courage, is an inspiration
+to all.</p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
