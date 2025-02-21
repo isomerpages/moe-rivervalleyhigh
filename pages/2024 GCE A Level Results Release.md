@@ -22,8 +22,6 @@ made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 </p>
 <p><em>&lt;img src="/images/Koh_Le_Bon"&gt;</em>
 </p>
-<p></p>
-<p></p>
 <p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
 of dedication, skill, and discipline. His stellar performance earned him
 top honours in two events at the National School Games of 2023 and a silver
