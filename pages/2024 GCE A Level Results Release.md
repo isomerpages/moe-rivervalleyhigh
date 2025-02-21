@@ -58,6 +58,9 @@ desire to make a positive impact on the world through STEM.</p>
 <summary>Chan Si Yu David (23J13)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
+</div>
 <p>David demonstrates an exceptional aptitude for technology, evident in
 his founding of the "Singapore Students Merger Team". This team participates
 in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
@@ -81,7 +84,20 @@ pursuit of excellence.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary>Chan Xing Yu James (23J13)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>James is a</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>James is aChan Si Yu David David demonstrates an exceptional aptitude
