@@ -183,93 +183,41 @@ His enthusiasm illustrates the rewards that come from embracing and synthesising
 diverse cultural perspectives.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Chen Qingyuan (23J10)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Qingyuan demonstrated leadership as President of the Mathematics Leaders
+Academy (MLA) and co-founder of the school’s Informatics Olympiad team,
+mentoring juniors and fostering a love for learning. As Director of the
+inaugural RVHS Science, Technology, Engineering and Mathematics (STEM)
+Festival, he promoted STEM education among primary students. His proficiency
+in foreign languages, natural sciences, mathematics, and computational
+modelling has earned him several accolades, including an opportunity to
+represent Singapore at the International Science School held at the University
+of Sydney. From this overseas attachment, he gained valuable insights which
+he applied to the planning of MLA’s Overseas Experiential Learning Programme,
+Sydney (Australia). His passion for STEM is evident in his commitment to
+tackling global issues. His innovative proposal to improve seawater desalination
+efficiency, addressing the critical issue of water scarcity, earned him
+a Gold award at the Singapore Science and Engineering Fair 2024. Seeking
+real-world experiences, Qingyuan worked at Defence Science and Technology
+Agency (DSTA) and volunteered for the Youth STEM Empowerment Programme.
+His service in these areas reflects his belief in giving back to the community
+by sharing his acquired knowledge.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><u>Koh Le Bon (23J09)</u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
-</div>
-<p>__________________________________________</p>
-</th>
-<td rowspan="1" colspan="3">
-<p></p>
-<p></p>
-<p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
-of dedication, skill, and discipline. His stellar performance earned him
-top honours in two events at the National School Games of 2023 and a silver
-medal in the Qiangshu category at the International Wushu Invitational
-Tournament 2024 in Jiangsu, China. Le Bon’s wushu journey was not without
-its setbacks. In J1, he had an injury which prevented him from training
-for the Asian Wushu Junior trials. Although he was disappointed at having
-missed a golden opportunity, he chose to focus on his recovery, working
-diligently with his physiotherapist and coaches rather than dwelling on
-the missed trials. As Le Bon was gearing up to represent Singapore in the
-Asian Wushu Championships in September 2024, an untimely injury compelled
-him to withdraw from the competition. This was frustrating for him but
-he recognised that the situation was largely beyond his control and chose
-to redirect his energy towards his A-Level preparation, viewing this as
-the most constructive way to move forward. Beyond competitions, Le Bon
-was so passionate about wushu that he volunteered to perform and choreograph
-wushu routines for Chingay when he was in J1. In the following year, he
-took on the challenge of leading and teaching children aged 12 and below
-to perform. This was no mean feat as he had to choreograph routines that
-were manageable for the young performers, many of whom lacked a strong
-wushu foundation. He also had to constantly adapt and finetune the choreography
-to accommodate Chingay’s evolving artistic vision. Le Bon's remarkable
-journey culminated in his nomination as the school's valedictorian, a testament
-to his all-round achievements and the impact he has made on his school
-community. His story is truly inspiring, demonstrating how the application
-of adaptability and resilience helped him overcome all odds.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p>&nbsp;<strong><u>Joshua Tan Seng Hong (23J01)</u></strong>
