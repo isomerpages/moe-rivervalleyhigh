@@ -17,7 +17,10 @@ Parent-Teacher Association, and parents/guardians of all RV graduates.
 <br>
 <br>We would like to share the journey of the following 2024 graduates who
 made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
+<p></p>
 <p><strong><u>Koh Le Bon (23J09)</u></strong>
+</p>
+<p><em>&lt;img src="/images/kohlebon.png"&gt;</em>
 </p>
 <p></p>
 <p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
