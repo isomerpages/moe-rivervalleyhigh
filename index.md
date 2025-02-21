@@ -19,6 +19,12 @@ sections:
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
   - infopic:
+      title: Congratulations!
+      subtitle: RV Celebrates
+      id: infopic
+      button: Read More
+      url: /achievements/permalink/
+  - infopic:
       title: RV 69
       subtitle: RV celebrates
       id: infopic
