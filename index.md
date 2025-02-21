@@ -74,4 +74,9 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infobar:
+      title: Congratulations to the class of 2024!
+      id: infobar
+      button: READ MORE
+      url: /2024-gce-a-level-results-release/
 ---
