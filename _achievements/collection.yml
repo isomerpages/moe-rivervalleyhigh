@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - 2024 GCE A Level Results Release.md
       - Scholarship Recipients/.keep
       - Scholarship Recipients/2024 Scholarship Recipients.md
       - Scholarship Recipients/2023 Scholarship Recipients.md
