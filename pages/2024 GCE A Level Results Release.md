@@ -165,9 +165,25 @@ its category.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong><u>Joshua Tan Seng Hong (23J01)</u></strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>As President of the Bicultural Leaders Academy (BLA), Joshua demonstrated
+a strong commitment to promoting Chinese language and culture by spearheading
+innovative initiatives. These included a hands-on Pineapple Tart Workshop,
+where participants learned to craft this traditional Lunar New Year delicacy,
+and the creation of an exclusive Red Packet design for the school, incorporating
+elements of Chinese art and symbolism. His keen interest in global affairs
+is evident from his active participation in political science and international
+relations forums. Notably, Joshua served as a moderator at the 2023 China
+Studies Perspective Forum, showcasing his ability to facilitate high-level
+discussions on complex global issues. An inventive thinker, his interdisciplinary
+research on plant-based meat earned him the Outstanding Award at the Bicultural
+Studies Programme (BSP) Symposium. Joshua’s zeal for bicultural studies
+is infectious, as he actively encouraged his peers to pursue this field.
+His enthusiasm illustrates the rewards that come from embracing and synthesising
+diverse cultural perspectives.</p>
 </div>
 </details>
 </div>
@@ -259,4 +275,5 @@ of adaptability and resilience helped him overcome all odds.</p>
 </table>
 <p></p>
 <p></p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong><u>Joshua Tan Seng Hong (23J01)</u></strong>
+</p>
