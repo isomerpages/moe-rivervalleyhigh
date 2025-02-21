@@ -247,8 +247,22 @@ seeks to spark a deeper interest in Humanities among students.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Lin Chuanyu (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>As President of Venture Scouts, Chuanyu developed innovative training
+methods, inspired in his juniors a passion for Scouting, and motivated
+them to strive for the President’s Scout Award. His involvement in national
+Scouting events helped spread enthusiasm for outdoor activities. He transformed
+a Values-in-Action (VIA) project, undertaken by his Venture Scouts peers,
+into his Venture service project, benefiting seniors in the community (
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20241202-5450170</a>). Despite
+his numerous commitments, including History and Current Affairs Society
+(HACAS) and RV Model United Nations (RVMUN) responsibilities, scout assessments,
+chairperson duties, and academic pursuits, Chuanyu successfully balanced
+these with his preparation for the President’s Scout Award, which he ultimately
+achieved. Known for his humility and determination, Chuanyu exemplifies
+the qualities of a well-rounded and dedicated leader.</p>
 <p></p>
 </div>
 </details>
@@ -258,5 +272,5 @@ seeks to spark a deeper interest in Humanities among students.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong><u>(23J20)Chua Wen Zhe (23J20)</u></strong>
+<p><strong><u>(23J20)Chua Wen Zhe (23J20)Lin Chuanyu (23J08)</u></strong>
 </p>
