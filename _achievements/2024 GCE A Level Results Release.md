@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>CONGRATULATIONS!</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_GCE_A_level_results.jpg">
+</div>
 <p>We are proud of our&nbsp;students who have done well in the 2024 GCE&nbsp;A-Level&nbsp;Examination!
 We would like to congratulate them for continuing to exemplify our school’s
 values and spirit.&nbsp;Beyond academic achievements, they have developed
