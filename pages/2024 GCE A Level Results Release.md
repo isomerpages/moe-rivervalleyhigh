@@ -122,8 +122,7 @@ of adaptability and resilience helped him overcome all odds.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Wong Yu Xin (23J10)</u></strong>
-</summary>
+<summary>Wong Yu Xin (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
@@ -142,8 +141,7 @@ her to engage with various social groups beyond the school community. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Geng Tong (23J08)</u></strong>
-</summary>
+<summary>Geng Tong (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Geng Tong is a dedicated community leader, serving as team leader of the
@@ -165,8 +163,7 @@ its category.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Joshua Tan Seng Hong (23J01)</u></strong>
-</summary>
+<summary>Joshua Tan Seng Hong (23J01)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>As President of the Bicultural Leaders Academy (BLA), Joshua demonstrated
