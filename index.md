@@ -23,7 +23,7 @@ sections:
       subtitle: RV Celebrates
       id: infopic
       button: Read More
-      url: /achievements/permalink/
+      url: /2024-gce-a-level-results-release/
   - infopic:
       title: RV 69
       subtitle: RV celebrates
