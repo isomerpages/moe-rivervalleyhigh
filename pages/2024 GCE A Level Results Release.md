@@ -13,15 +13,14 @@ into confident and well-rounded individuals.</p>
 <p>We would like to thank and acknowledge everyone who has contributed to
 the success of our graduates. They include our School Leaders, staff who
 have taught or assisted the students, School Advisory Committee, Alumni,
-Parent-Teacher Association, and parents/guardians of all RV graduates.
-<br>
-<br>We would like to share the journey of the following 2024 graduates who
+Parent-Teacher Association, and parents/guardians of all RV graduates.</p>
+<p>We would like to share the journey of the following 2024 graduates who
 made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 <p></p>
 <p><strong><u>Koh Le Bon (23J09)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
 </div>
 <p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
 of dedication, skill, and discipline. His stellar performance earned him
