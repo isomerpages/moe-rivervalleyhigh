@@ -18,12 +18,11 @@ sections:
         - title: Supporting your teen through the A level results release
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
-  - infopic:
-      title: Congratulations!
-      id: infopic
-      button: Read More
+  - infobar:
+      title: Congratulations to the class of 2024!
+      id: infobar
+      button: READ MORE
       url: /2024-gce-a-level-results-release/
-      image: /images/2024 GCE A Level /A.jpg
   - infopic:
       title: RV 69
       subtitle: RV celebrates
@@ -74,9 +73,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infobar:
-      title: Congratulations to the class of 2024!
-      id: infobar
-      button: READ MORE
-      url: /2024-gce-a-level-results-release/
 ---
