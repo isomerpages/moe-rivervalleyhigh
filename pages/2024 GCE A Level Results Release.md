@@ -125,6 +125,9 @@ of adaptability and resilience helped him overcome all odds.</p>
 <summary>Wong Yu Xin (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Wong_Yu_Xin.jpg">
+</div>
 <p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
 Council, she has demonstrated exceptional leadership skills. She helmed
 numerous school events successfully, including serving as Chairperson of
@@ -144,6 +147,9 @@ her to engage with various social groups beyond the school community. &nbsp;</p>
 <summary>Geng Tong (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Geng_Tong.jpg">
+</div>
 <p>Geng Tong is a dedicated community leader, serving as team leader of the
 Boon Lay Youth PAP and secretary of the Boon Lay Resident Network for Zone
 D in 2023 to strengthen community engagement. She collaborated with six
