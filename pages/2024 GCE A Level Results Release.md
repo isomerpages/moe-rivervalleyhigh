@@ -59,7 +59,7 @@ desire to make a positive impact on the world through STEM.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
 </div>
 <p>David demonstrates an exceptional aptitude for technology, evident in
 his founding of the "Singapore Students Merger Team". This team participates
