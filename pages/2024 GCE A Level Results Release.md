@@ -208,6 +208,25 @@ by sharing his acquired knowledge.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Rajvi Rajesh Sapre (23J20)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>As Vice-President of The Eco-Sustainability Leadership Academy (TESLA),
+Rajvi played a key role in advancing environmental sustainability initiatives.
+She collaborated with an environmental social enterprise to set up a booth
+at the Eco-Carnival@PassionWave. This initiative raised awareness about
+sustainable fashion and responsible consumption. She also mentored primary
+school students on environmental sustainability, inspiring them to adopt
+eco-friendly practices. Her commitment to sustainability extended to hands-on
+initiatives like vermicomposting, where she explored effective waste management
+solutions to reduce food waste. Beyond TESLA, Rajvi leads by example, incorporating
+eco-friendly practices into her daily life and encouraging mindful resource
+use among her peers and family. Through her leadership, advocacy, and initiatives,
+she has made a meaningful impact in raising environmental awareness and
+action.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -220,5 +239,5 @@ by sharing his acquired knowledge.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>&nbsp;<strong><u>Joshua Tan Seng Hong (23J01)</u></strong>
+<p>&nbsp;<strong><u>Joshua Tan Seng Hong (23J01)Rajvi Rajesh Sapre (23J20)</u></strong>
 </p>
