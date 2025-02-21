@@ -245,6 +245,9 @@ action.</p>
 <summary>Chua Wen Zhe (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chua_Wen_Zhe.jpg">
+</div>
 <p>As President of Chinese Orchestra (CO), Wen Zhe was a talented Sheng player
 who made creative musical arrangements for CO. His musicianship was recognised
 by the Singapore National Youth Chinese Orchestra which gave him the opportunity
@@ -265,6 +268,9 @@ seeks to spark a deeper interest in Humanities among students.</p>
 <summary>Lin Chuanyu (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
+</div>
 <p>As President of Venture Scouts, Chuanyu developed innovative training
 methods, inspired in his juniors a passion for Scouting, and motivated
 them to strive for the President’s Scout Award. His involvement in national
@@ -285,6 +291,9 @@ the qualities of a well-rounded and dedicated leader.</p>
 <summary>Lim Jing Xiang Jovan (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lim_Jing_Xiang_Jovan.jpg">
+</div>
 <p>Jovan demonstrated exceptional resilience in his academic journey as he
 sought to overcome his learning challenges. He proactively developed and
 diligently practised reading and visualisation strategies to enhance his
@@ -301,4 +310,5 @@ to all.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
