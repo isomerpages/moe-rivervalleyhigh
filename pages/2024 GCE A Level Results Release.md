@@ -15,6 +15,55 @@ have taught or assisted the students, School Advisory Committee, Alumni,
 Parent-Teacher Association, and parents/guardians of all RV graduates.</p>
 <p>We would like to share the journey of the following 2024 graduates who
 made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chan Xing Yu James (23J13)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>James is a promising young scientist who has a strong passion for Science,
+Technology, Engineering, and Mathematics (STEM). This can be seen from
+his active involvement in various workshops and enrichment programmes,
+including the Young Defence Scientists Programme (YDSP) World of Science
+modules in Computer Security and Quantum Technologies, YDSP Enrichment
+Workshops, and the SWIFT Accelerator Programme. As the President of the
+school’s Science Leaders Academy (SLA), James was committed to promoting
+STEM education when planning the inaugural RV STEM Festival 2024 and fostering
+strong bonds within the academy. A pivotal moment in James's journey was
+his YDSP experience at the DSO National Laboratories. Here, he researched
+on artificial intelligence, chatbots, and the security of large language
+models. This project was particularly significant as it allowed James and
+his twin brother, David, to explore uncharted territory in research. They
+traversed the entire research cycle, from hypothesis formulation to data
+analysis and conclusion drawing, gaining invaluable insights into the differences
+between practical skills and research methodologies. His strong interest
+in cybersecurity is evident from his role as Vice President of the school’s
+Capture-The-Flag (CTF), where he planned training sessions and achieved
+impressive rankings in cybersecurity competitions. In his free time, he
+attended online courses such as Harvard's cybersecurity and TryHackMe.
+He also actively participated in competitions with the locally founded
+"Singapore Students Merger Team", co-founded by David. This team participates
+in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
+of learning and skill development. It swiftly rose to prominence, becoming
+one of the top teams in Singapore. James played a crucial role in recruiting
+new members, organising training sessions, and promoting events within
+their networks. As James continues his journey in STEM, he stands as an
+inspiration to his peers and juniors alike. His story is one of relentless
+pursuit of knowledge, unwavering dedication to innovation, and a deep-seated
+desire to make a positive impact on the world through STEM.</p>
+<p><strong>&nbsp;</strong>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
