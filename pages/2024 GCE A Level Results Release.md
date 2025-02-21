@@ -172,6 +172,9 @@ its category.</p>
 <summary>Joshua Tan Seng Hong (23J01)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Joshua_Tan_Seng_Hong.jpg">
+</div>
 <p>As President of the Bicultural Leaders Academy (BLA), Joshua demonstrated
 a strong commitment to promoting Chinese language and culture by spearheading
 innovative initiatives. These included a hands-on Pineapple Tart Workshop,
@@ -193,6 +196,9 @@ diverse cultural perspectives.</p>
 <summary>Chen Qingyuan (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chen_Qingyuan.jpg">
+</div>
 <p>Qingyuan demonstrated leadership as President of the Mathematics Leaders
 Academy (MLA) and co-founder of the school’s Informatics Olympiad team,
 mentoring juniors and fostering a love for learning. As Director of the
