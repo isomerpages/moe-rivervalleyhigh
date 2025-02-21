@@ -223,6 +223,9 @@ by sharing his acquired knowledge.</p>
 <summary>Rajvi Rajesh Sapre (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Rajvi_Rajesh_Sapre.jpg">
+</div>
 <p>As Vice-President of The Eco-Sustainability Leadership Academy (TESLA),
 Rajvi played a key role in advancing environmental sustainability initiatives.
 She collaborated with an environmental social enterprise to set up a booth
