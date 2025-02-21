@@ -22,14 +22,6 @@ made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Chan Xing Yu, James (23J13)</u></strong>
 </p>
@@ -78,16 +70,9 @@ desire to make a positive impact on the world through STEM.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Chan Si Yu, David (23J13)</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>David demonstrates an exceptional aptitude for technology, evident in
