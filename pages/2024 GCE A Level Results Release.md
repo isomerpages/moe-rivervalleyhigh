@@ -34,13 +34,14 @@ made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koh_Le_Bon.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Chan Xing Yu, James (23J13)</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koh_Le_Bon.png">
+</div>
 <p>James is a promising young scientist who has a strong passion for Science,
 Technology, Engineering, and Mathematics (STEM). This can be seen from
 his active involvement in various workshops and enrichment programmes,
