@@ -121,84 +121,47 @@ community. His story is truly inspiring, demonstrating how the application
 of adaptability and resilience helped him overcome all odds.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong><u>Wong Yu Xin (23J10)</u></strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
+Council, she has demonstrated exceptional leadership skills. She helmed
+numerous school events successfully, including serving as Chairperson of
+Boon Lay Countdown 2024 and Programme Committee Head for the Y.LEAD seminar.
+&nbsp;At the core of Yu Xin's leadership approach is a strong belief in
+people-centricity and compassion. She is empathetic towards her peers and
+has a keen understanding of their strengths. Her confidence and willingness
+to voice her convictions, even in challenging situations, have made her
+a dependable and inspiring role model. Despite her heavy school commitments,
+she found time to assist children of diverse backgrounds and needs in their
+studies every week under the Budding Minds Programme. She also volunteered
+as a production crew member for Chingay Parade Singapore 2024, allowing
+her to engage with various social groups beyond the school community. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Chan Si Yu David (23J13)</summary>
+<summary><strong><u>Geng Tong (23J08)</u></strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>David demonstrate</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Chan Si Yu David (23J13)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
-</div>
-<p>David demonstrates an exceptional aptitude for</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>James is a</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>James is aChan Si Yu David David demonstrates an exceptional aptitude
-for technology, evident in his founding of the "Singapore Students Merger
-Team". This team participates in Capture-The-Flag (CTF) cybersecurity competitions,
-fostering a community of learning and skill development. Comprising highly
-skilled student participants, it swiftly rose to become one of Singapore's
-top competition teams. David’s innovative approaches to team building,
-skill development, and outreach efforts reflect his commitment to nurturing
-Singapore's young cybersecurity talent. His prowess and efforts are further
-evidenced by his victory in the Cyber Security Agency of Singapore’s Advanced
-Youth Cyber Exploration Programme 2023 and his leadership of the school
-team to emerge as champions in the international OS CTF 2024 competition.
-Internships at the Ministry of Home Affairs and DSO National Laboratories,
-coupled with his DSTA Junior College Scholarship, further underscore his
-passion and potential in the field of cybersecurity. David’s leadership
-skills shine through in his various roles: Vice President of the Mathematics
-Leaders Academy, Director of the school’s inaugural STEM Fest, Vice President
-of the school’s Chess Club, and EXCO member of Infocomm Club. His leadership
-abilities and active engagement in academic and community endeavours exemplify
-his unwavering pursuit of excellence.</p>
+<p>Geng Tong is a dedicated community leader, serving as team leader of the
+Boon Lay Youth PAP and secretary of the Boon Lay Resident Network for Zone
+D in 2023 to strengthen community engagement. She collaborated with six
+disability organisations, helped at weekly Meet-The-People Sessions, and
+participated in community initiatives by facilitating engagement with the
+residents. Her dedication to service was also evident in school where she
+curated cultural events, including the annual China Studies Perspective
+Forum in partnership with Business China, in her capacity as EXCO member
+of the Bicultural Leaders Academy (BLA). Geng Tong led her team to clinch
+the championship at the Hwa Chong China Studies in Chinese Forum 2023 and
+was named Best Speaker in the Singapore Chinese Debate Invitational 2023,
+where her team secured the national 1st runner-up position. She is also
+passionate about the creative arts – her short film, co-produced with a
+classmate, explored the theme of “World Around Me” at a student visual
+storytelling competition in 2024, securing the second-place position in
+its category.</p>
 </div>
 </details>
 <details class="isomer-details">
