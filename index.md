@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: On 16 Jan, we commemorated our school's rich history and
         heritage.   Happy Birthday, RV!
-      image: /images/48_library__1_Com.jpg
+      image: /images/2025/RV69.png
       alt: Image alt text
   - infopic:
       title: Check out our School Facilities
