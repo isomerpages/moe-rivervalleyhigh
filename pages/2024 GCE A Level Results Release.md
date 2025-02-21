@@ -90,13 +90,7 @@ of adaptability and resilience helped him overcome all odds.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
