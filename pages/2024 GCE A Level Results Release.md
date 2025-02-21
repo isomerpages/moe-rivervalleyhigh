@@ -20,10 +20,8 @@ made&nbsp;a&nbsp;positive impact on the school community and beyond.</p>
 <p></p>
 <p><strong><u>Koh Le Bon (23J09)</u></strong>
 </p>
-<p><em>&lt;img src="/images/Koh_Le_Bon optimised"</em>style="width:30%" align="left"&gt;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Koh_Le_Bon_optimized.png">
 </div>
 <p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
 of dedication, skill, and discipline. His stellar performance earned him
