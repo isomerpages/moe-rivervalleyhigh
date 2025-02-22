@@ -228,7 +228,7 @@ by sharing his acquired knowledge.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Rajvi_Rajesh_Sapre.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Rajvi_Rajesh_Sapre.jpg">
 </div>
 <p>As Vice-President of The Eco-Sustainability Leadership Academy (TESLA),
 Rajvi played a key role in advancing environmental sustainability initiatives.
