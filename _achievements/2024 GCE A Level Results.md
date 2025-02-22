@@ -273,7 +273,7 @@ seeks to spark a deeper interest in Humanities among students.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
 </div>
 <p>As President of Venture Scouts, Chuanyu developed innovative training
 methods, inspired in his juniors a passion for Scouting, and motivated
