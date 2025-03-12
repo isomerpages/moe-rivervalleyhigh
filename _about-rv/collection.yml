@@ -2,7 +2,6 @@ collections:
   about-rv:
     output: true
     order:
-      - School Safety Vision, Mission and Policy.md
       - School Overview/.keep
       - School Overview/A World Class Educational Institution.md
       - School Overview/Academic Departments.md
@@ -12,6 +11,7 @@ collections:
       - Principal’s Message.md
       - Our School Leaders.md
       - School History.md
+      - School Safety Vision, Mission and Policy.md
       - School Partners/.keep
       - School Partners/School Partners.md
       - School Partners/Parent Teacher Association.md
