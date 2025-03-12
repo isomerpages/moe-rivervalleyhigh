@@ -2,6 +2,7 @@ collections:
   about-rv:
     output: true
     order:
+      - School Safety Vision, Mission and Policy.md
       - School Overview/.keep
       - School Overview/A World Class Educational Institution.md
       - School Overview/Academic Departments.md
