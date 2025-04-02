@@ -18,6 +18,12 @@ sections:
         - title: Supporting your teen through the A level results release
           description: ""
           url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
+  - infopic:
+      id: infopic
+      image: /images/2025/Open_House_April_2025_poster_1_.jpg
+      alt: Image alt text
+      subtitle: RV Welcomes
+      title: Open House
   - infobar:
       title: Congratulations to the Class of 2024!
       id: infobar
@@ -73,8 +79,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      id: infopic
-      image: /images/2025/Open_House_April_2025_poster_1_.jpg
-      alt: Image alt text
 ---
