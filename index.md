@@ -73,4 +73,8 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      id: infopic
+      image: /images/2025/Open_House_April_2025_poster_1_.jpg
+      alt: Image alt text
 ---
