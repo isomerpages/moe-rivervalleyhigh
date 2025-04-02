@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
       subtitle: RV Welcomes
       title: Open House
-      description: 8.30am to 12.30pm
+      description: 26 April 2025 Saturday 8.30am to 12.30pm
   - infobar:
       title: Congratulations to the Class of 2024!
       id: infobar
