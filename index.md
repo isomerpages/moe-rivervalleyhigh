@@ -22,7 +22,7 @@ sections:
       id: infopic
       image: /images/2025/Open_House_April_2025_poster_1_.jpg
       alt: Image alt text
-      subtitle: RV Welcomes
+      subtitle: RV Welcomes you to our
       title: Open House
       description: 26 April 2025 Saturday,  8.30am to 12.30pm
   - infobar:
