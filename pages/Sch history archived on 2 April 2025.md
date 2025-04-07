@@ -4,6 +4,9 @@ permalink: /sch-history-archived-on-2-april-2025/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p><strong><a href="https://for.edu.sg/rvschhistoryarchive07042025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/rvschhistoryarchive07042025</a></strong>
+</p>
 <h2>School History</h2>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qgJ7PFiRaY"></iframe>
