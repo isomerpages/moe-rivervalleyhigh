@@ -16,10 +16,16 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>1956</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>River Valley High School (RV) was the first Chinese secondary school set
+up by the government. Initially known as the Singapore Government Chinese
+Middle School when it occupied the premises of Seng Poh Primary School,
+it was renamed Queenstown Government Chinese Middle School when it moved
+to Strathmore Avenue.
+<br>
+<br>The 1st Principal was Mr Suen Y-Chern.</p>
 </th>
 </tr>
 <tr>
