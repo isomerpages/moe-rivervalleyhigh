@@ -4,7 +4,10 @@ permalink: /sch-history-archived-on-2-april-2025/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>hi .. as Isomer does not permit archiving of current published content
+on school website + function transferring the entire content via cut and
+paste is not permitted, a link has been created to archive the content
+instead.</p>
 <p><strong><a href="https://for.edu.sg/rvschhistoryarchive07042025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/rvschhistoryarchive07042025</a></strong>
 </p>
 <h2>School History</h2>
