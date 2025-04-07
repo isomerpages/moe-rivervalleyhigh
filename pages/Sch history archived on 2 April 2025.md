@@ -24,10 +24,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1958</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>It was relocated to Jalan Kuala and renamed River Valley Government Chinese
+Middle School.</p>
 </td>
 </tr>
 <tr>
