@@ -88,7 +88,7 @@ opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 <p>These milestones collectively represented a period of significant growth
 and transformation for RVHS, laying the foundation for the school’s continuing
 role in nurturing future generations of students.</p>
-<p><strong>Scaling New Heights (1991-2009)</strong> 
+<p><strong>Scaling New Heights (1991-2009)</strong>
 </p>
 <p>RVHS entered another exciting phase of growth in the early 1990s. The
 school welcomed its 35<sup>th</sup> anniversary in 1991 with celebrations
@@ -544,8 +544,7 @@ future.</p>
 <p>2011</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sze Guan Kheng</p>
-<p>Mr Sherwin Cheng</p>
+<p>Mr Sze Guan KhengMr Sherwin Cheng</p>
 </td>
 </tr>
 <tr>
