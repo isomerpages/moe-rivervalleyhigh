@@ -240,6 +240,27 @@ for Outstanding Bicultural Studies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mao Yu Di from the Class of 2019 received the Lee Hsien Loong Award for
+Outstanding Bicultural Studies.</p>
+<p>Winnis Lee Xin Rong from the Class of 2019 was awarded the Prime Minister’s
+Book Prize.</p>
+<p>Charmaine Chua Jia Ying won the Best Sportsgirl Award (Softball) at the
+Singapore Schools Sports Council Colours Awards.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
