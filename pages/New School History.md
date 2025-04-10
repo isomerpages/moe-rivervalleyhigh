@@ -65,10 +65,16 @@ Plan (SAP) status, recognising the school’s commitment to bilingual and
 bicultural education. That same year, under the leadership of Mr Harold
 Soh Eng Meng, the School Alumni was established, creating a formal network
 to connect former students with their alma mater.</p>
-<p></p>
+<p>In 1980, &nbsp;the school underwent another significant change with its&nbsp;official
+renaming to River Valley High School, heralding a new chapter in its history.
+The establishment of the first Student Council during this year demonstrated
+the school’s dedication to nurturing student leadership and fostering an
+inclusive environment where students’ voices become integral to the decision-making
+process.</p>
 <p></p>
 <p>
 <br>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
+<p></p>
