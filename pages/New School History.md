@@ -273,6 +273,18 @@ the 4th edition of the annual Cyberthon.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Quanxin Javelle achieved the President's Guide Award.</p>
+<p>Lee Weng Kee Harry achieved the President's Award (Scouts).</p>
+<p>Ganesh S achieved the President's Award (Boy's Brigade).</p>
+<p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank">RVHS Girls A Division Floorball</a>&nbsp;emerged
+champions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
