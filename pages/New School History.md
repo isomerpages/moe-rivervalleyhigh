@@ -320,14 +320,19 @@ video on Singapore's aspirations for the space technology sector in the
 future.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p><strong>Our School Principals</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>Our Vice-Principals</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
