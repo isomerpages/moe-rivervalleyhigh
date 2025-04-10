@@ -130,8 +130,25 @@ of Excellence for Science and Technology (2007) and began offering its
 Bicultural Studies Programme (2007). By 2008, its last batch of O-Level
 students graduated&nbsp;and the school was running a complete Integrated
 Programme with 1,600 students. &nbsp;&nbsp;</p>
-<p><strong>Pursuing Limitless Possibilities (2010 – Present)</strong>
+<p><strong>Pursuing Limitless Possibilities (2010 – Present) </strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>RVHS’s journey from 2010 to the present exemplifies its pursuit of limitless
+possibilities as the school continues to push the boundaries of educational
+excellence and inspire our students to become Leaders of Distinction. &nbsp;</p>
+<p>The early 2010s marked significant transitions for RVHS. The school established
+its permanent home at 6 Boon Lay Avenue in 2010, while simultaneously launching&nbsp;the
+Asian Young Leaders Convention that brought together 900 student leaders
+from across Asia. The following year marked RVHS's 55th anniversary and
+saw its first batch of Integrated Programme students excel&nbsp;in the
+GCE A-Level Examination.&nbsp;</p>
+<p>The mid-2010s focused on strengthening student leadership and the arts.
+In 2013, the school started two new programmes – the &nbsp;Y.LEAD Seminar
+and River Valley Model United Nations (RVMUN). The school held its first
+Arts Fest week in 2014 at NUS, where performing arts students showcased
+their artistic talents&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That
+year, the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students' Council &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;created
+the iconic music video called '立化情' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that
+captured the school’s spirit. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p></p>
 <p></p>
