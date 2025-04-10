@@ -598,13 +598,3 @@ RVHS’s dedication to nurturing future-ready thinkers, leaders and achievers
 who possess the head, heart and will to contribute meaningfully to Singapore
 and the world.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
