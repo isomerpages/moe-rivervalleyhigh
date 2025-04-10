@@ -59,6 +59,12 @@ reflecting its growth and development. The establishment of the first School
 Advisory Committee, led by Mr Ang Hai Phor, further strengthened the school’s
 governance framework and laid the groundwork for sustained support in the
 years ahead.</p>
+<p><strong>A Journey of Growth and Transformation (1971-1990)</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>1979 &nbsp;marked a landmark year when RVHS was granted Special Assistance
+Plan (SAP) status, recognising the school’s commitment to bilingual and
+bicultural education. That same year, under the leadership of Mr Harold
+Soh Eng Meng, the School Alumni was established, creating a formal network
+to connect former students with their alma mater.</p>
 <p></p>
 <p></p>
 <p>
