@@ -41,6 +41,9 @@ description: ""
 </table>
 <p><strong>The Founding Years (1956-1970)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture1.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
