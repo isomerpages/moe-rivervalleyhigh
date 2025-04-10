@@ -89,7 +89,7 @@ twice – first to Queensway, then to Malan Road.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture4.jpg">
 </div>
-<p>Malan Road (2006 To 2009)</p>
+<p>Malan Road Campus (2006 To 2009)</p>
 <p>A major breakthrough came in 2005 when the school was chosen to offer
 the Integrated Programme. In 2006, RVHS celebrated its 50<sup>th</sup> anniversary
 at NUS, while starting its new Integrated Programme journey. &nbsp;&nbsp;&nbsp;</p>
@@ -145,7 +145,7 @@ meaningfully to Singapore and the world.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievements</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
