@@ -108,11 +108,10 @@ Theatre&nbsp;and RVHS was selected to pioneer the&nbsp;&nbsp;<a rel="noopener no
 new technology into classrooms. The <a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme
 was launched by then-Minister for Education, Mr Tharman Shanmugaratnam,
 at RVHS.</p>
-<p>&nbsp;</p>
 <p>The mid-2000s saw RVHS unite its community in an ambitious drive towards
 transformation. The school organised walks, golf tournaments, and celebration
 dinners to raise funds for its development. During this time, RVHS moved
-twice – first to Queensway, then to Malan Road<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;.</p>
+twice – first to Queensway, then to Malan Road.</p>
 <p><strong>Include a photograph of the Queensway campus (2004 to 2006) and Malan Road (2006 To 2009)</strong>
 </p>
 <hr>
