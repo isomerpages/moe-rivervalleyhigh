@@ -304,7 +304,20 @@ Wushu Invitational Tournament in Jiangsu, China.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Javelle Toh was among six young adults to organise World Thinking Day
+2025. She played a key role in leading Girl Guides to create a record-breaking
+fabric mural using 1000 upcycled fabric pieces to form the word "EMPOWER".
+To find out more, click <a href="https://www.zaobao.com.sg/news/singapore/story20250222-5915726" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
+<p>In a speech by Deputy Prime Minister and Minister for Trade and Industry,
+Mr Gan Kim Yong, at the opening ceremony of the Global Space Technology
+Convention and Exhibition, Natalie Ching Yuhui was given special mention
+in recognition for her commendable research work in space technology. At
+the pre-ceremony engagement session, Natalie shared with DPM her winning
+team project at the International Space Challenge 2024. Natalie is also
+featured in a newly launched Economic Development Board-commissioned promotional
+video on Singapore's aspirations for the space technology sector in the
+future.</p>
 </td>
 </tr>
 <tr>
