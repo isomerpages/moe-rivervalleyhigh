@@ -89,7 +89,36 @@ opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 and transformation for RVHS, laying the foundation for the school’s continuing
 role in nurturing future generations of students.</p>
 <p><strong>Scaling New Heights (1991-2009)</strong> 
-<br>
+<br>RVHS entered another exciting phase of growth in the early 1990s. The
+school welcomed its 35<sup>th</sup> anniversary in 1991 with celebrations
+that brought the community together – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a
+dinner on school grounds and a vibrant concert at Kallang Theatre. In 1993,
+RVHS transitioned to a single-session school. In 1994, RVHS was selected
+as one of six autonomous schools in Singapore, affirming its educational
+excellence. In 1996, RVHS commemorated its 40<sup>th</sup> anniversary with
+a cultural concert at the World Trade Centre and a dinner hosted by the
+alumni. &nbsp;</p>
+<p>The early 2000s saw RVHS take bold steps in technology and learning. In
+2000, RVHS pioneered&nbsp;the Fast Track @ Schools project, championing
+Infocomm Technology education, and also became&nbsp;the West 3 Centre of
+Learning for Science and Technology. In 2001, RVHS launched the Distinguished
+Speakers Series and Science Niche Programme, while celebrating its 45th
+year. Despite facing challenges like the SARS outbreak in 2003, the school
+achieved new heights – its Chinese Orchestra performed at the Esplanade
+Theatre&nbsp;and RVHS was selected to pioneer the&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme,
+bringing new technology into classrooms. The <a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme
+was launched by then-Minister for Education, Mr Tharman Shanmugaratnam,
+at RVHS.</p>
+<p>&nbsp;</p>
+<p>The mid-2000s saw RVHS unite its community in an ambitious drive towards
+transformation. The school organised walks, golf tournaments, and celebration
+dinners to raise funds for its development. During this time, RVHS moved
+twice – first to Queensway, then to Malan Road<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;.</p>
+<p><strong>Include a photograph of the Queensway campus (2004 to 2006) and Malan Road (2006 To 2009)</strong>
 </p>
+<hr>
+<p>Insert the 2 photographs of Queensway Campus and Malan Road Campus, with
+captions.</p>
+<p></p>
 <p></p>
 <p></p>
