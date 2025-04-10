@@ -122,6 +122,14 @@ twice – first to Queensway, then to Malan Road.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture4.jpg">
 </div>
 <p>Malan Road (2006 To 2009)</p>
-<p></p>
+<p>A major breakthrough came in 2005 when the school was chosen to offer
+the Integrated Programme. In 2006, RVHS celebrated its 50<sup>th</sup> anniversary
+at NUS, while starting its new Integrated Programme journey. &nbsp;&nbsp;&nbsp;</p>
+<p>The final years of this period saw RVHS become the West Zone’s Centre
+of Excellence for Science and Technology (2007) and began offering its
+Bicultural Studies Programme (2007). By 2008, its last batch of O-Level
+students graduated&nbsp;and the school was running a complete Integrated
+Programme with 1,600 students. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
