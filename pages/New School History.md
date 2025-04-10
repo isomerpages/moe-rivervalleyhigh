@@ -129,7 +129,9 @@ at NUS, while starting its new Integrated Programme journey. &nbsp;&nbsp;&nbsp;<
 of Excellence for Science and Technology (2007) and began offering its
 Bicultural Studies Programme (2007). By 2008, its last batch of O-Level
 students graduated&nbsp;and the school was running a complete Integrated
-Programme with 1,600 students. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+Programme with 1,600 students. &nbsp;&nbsp;</p>
+<p><strong>Pursuing Limitless Possibilities (2010 – Present)</strong>
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
