@@ -197,10 +197,16 @@ at the Singapore Schools Sports Council Colours Awards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2017</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Liu Lingshan from the Class of 2016 was awarded the Prime Minister's Book
+Prize.</p>
+<p>Lim Zhi Yan from the class of 2017 won the Best Sportsgirl Award (Floorball)
+at the Singapore Schools Sports Council Colours Awards.
+<br>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -231,4 +237,4 @@ at the Singapore Schools Sports Council Colours Awards.</p>
 </table>
 <p></p>
 <p></p>
-<p>&nbsp;</p>
+<p>&nbsp;2017</p>
