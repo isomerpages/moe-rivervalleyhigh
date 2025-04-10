@@ -71,6 +71,15 @@ The establishment of the first Student Council during this year demonstrated
 the school’s dedication to nurturing student leadership and fostering an
 inclusive environment where students’ voices become integral to the decision-making
 process.</p>
+<p>December 1986 saw&nbsp;RVHS relocate to a new campus at West Coast Road,
+symbolising the school’s expansion. On 1 January 1987, the then Minister
+of State for Education, Mr Tang Guan Seng, flagged off a 16-kilometre walk
+from the old campus at Jalan Kuala to the new&nbsp;premises at West Coast
+Road.&nbsp;The formal opening of the new campus was officiated by Dr Tan
+Cheng Bock, then MP for Ayer Rajah,&nbsp;&nbsp;on 14 January 1989. To preserve
+the school’s rich heritage, the RVHS Archives was completed and officially
+opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
+(SAC), and SAC member Dr Ho Nai Kiong.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>
 <br>
