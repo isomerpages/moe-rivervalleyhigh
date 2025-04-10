@@ -147,5 +147,6 @@ and River Valley Model United Nations (RVMUN). The school held its first
 Arts Fest week in 2014 at NUS, where performing arts students showcased
 their artistic talents. &nbsp;That year, the Students' Council created
 the iconic music video called '立化情'&nbsp;that captured the school’s spirit.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
