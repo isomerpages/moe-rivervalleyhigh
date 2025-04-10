@@ -188,8 +188,8 @@ meaningfully to Singapore and the world.&nbsp;</p>
 <p>2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeoh Hui Ching from the class of 2018 achieved the President's Guide Award.
-Tan Yu Jia from the Class of 2015 was a recipient of the Lee Hsien Loong
+<p>Yeoh Hui Ching from the class of 2018 achieved the President's Guide Award.</p>
+<p>Tan Yu Jia from the Class of 2015 was a recipient of the Lee Hsien Loong
 Award for Outstanding Bicultural Studies.</p>
 <p>Chai Yi Ann from the Class of 2016 won the Best Sportsgirl Award (Softball)
 at the Singapore Schools Sports Council Colours Awards.</p>
