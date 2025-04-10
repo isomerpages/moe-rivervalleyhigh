@@ -122,9 +122,6 @@ twice – first to Queensway, then to Malan Road.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture4.jpg">
 </div>
 <p>Malan Road (2006 To 2009)</p>
-<hr>
-<p>Insert the 2 photographs of Queensway Campus and Malan Road Campus, with
-captions.</p>
 <p></p>
 <p></p>
 <p></p>
