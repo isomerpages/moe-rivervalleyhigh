@@ -48,7 +48,7 @@ description: ""
 <p>Founded in 1956, River Valley High School (RVHS) was the first Chinese
 secondary school set up by the government. The school, initially known
 as the Singapore Government Chinese Middle School, first occupied the premises
-of Seng Poh Primary School before being , renamed Queenstown Government
+of Seng Poh Primary School before being, renamed Queenstown Government
 Chinese Middle School upon its move<s>d</s> to Strathmore Avenue.</p>
 <p>In 1958, it was relocated to Jalan Kuala and renamed River Valley Government
 Chinese Middle School. &nbsp;</p>
