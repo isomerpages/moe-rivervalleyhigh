@@ -112,7 +112,15 @@ at RVHS.</p>
 transformation. The school organised walks, golf tournaments, and celebration
 dinners to raise funds for its development. During this time, RVHS moved
 twice – first to Queensway, then to Malan Road.</p>
-<p><strong>Include a photograph of the Queensway campus (2004 to 2006) and Malan Road (2006 To 2009)</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/picture_3.jpg">
+</div>
+<p>Queensway campus (2004 to 2006)</p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>and Malan Road (2006 To 2009)</strong>
 </p>
 <hr>
 <p>Insert the 2 photographs of Queensway Campus and Malan Road Campus, with
