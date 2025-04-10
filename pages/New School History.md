@@ -211,10 +211,20 @@ at the Singapore Schools Sports Council Colours Awards.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Stefan Liew Jing Rui, from class of 2017, is the school's first President
+Scholar from the school's Integrated Programme.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Yeoh An Ni from the Class of 2018 was awarded the Prime Minister's Book
+Prize.
+<br>
+<br>RVHS won her first SYF Overall Winning Theme Song, STAGE, written and
+produced by Terry Ng Tian Yu and Goh Jing Wen from the Class of 2018.
+<br>
+<br>Charmaine Chua Jia Ying won the Best Sportsgirl Award (Softball) at the
+Singapore Schools Sports Council Colours Awards.</p>
 </td>
 </tr>
 <tr>
