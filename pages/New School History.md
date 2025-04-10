@@ -88,8 +88,8 @@ opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 <p>These milestones collectively represented a period of significant growth
 and transformation for RVHS, laying the foundation for the school’s continuing
 role in nurturing future generations of students.</p>
-<p>&nbsp;
+<p><strong>Scaling New Heights (1991-2009)</strong> 
 <br>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
+<p></p>
