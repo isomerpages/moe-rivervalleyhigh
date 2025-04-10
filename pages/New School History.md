@@ -285,6 +285,22 @@ champions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Jun Yu (Class of 2023) received the Lee Hsien Loong Award for Outstanding
+Bicultural Students.</p>
+<p>Chua Yee Tien achieved the President's Guide Award.</p>
+<p>Lin Chuanyu achieved the President’s Scout Award.</p>
+<p>RVHS B Division Wushu Boys were the champions of the National Wushu Championships.</p>
+<p>Cholene Aw won a silver in the women’s third set Taijijian and a bronze
+in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
+<p>Koh Le Bon won a silver medal in the spear event at the International
+Wushu Invitational Tournament in Jiangsu, China.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
