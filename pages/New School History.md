@@ -50,10 +50,8 @@ secondary school set up by the government. The school, initially known
 as the Singapore Government Chinese Middle School, first occupied the premises
 of Seng Poh Primary School before being , renamed Queenstown Government
 Chinese Middle School upon its move<s>d</s> to Strathmore Avenue.</p>
-<p></p>
 <p>In 1958, it was relocated to Jalan Kuala and renamed River Valley Government
-Chinese Middle School.</p>
-<p>&nbsp;</p>
+Chinese Middle School. &nbsp;</p>
 <p>The year 1968 proved pivotal for RVHS, marked by then Prime Minister Mr
 Lee Kuan Yew’s visit to the school – a momentous occasion, in its history.
 During this period, the school’s expanded facilities were officially opened,
@@ -68,4 +66,3 @@ years ahead.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
