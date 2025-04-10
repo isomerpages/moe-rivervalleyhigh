@@ -89,7 +89,8 @@ opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 and transformation for RVHS, laying the foundation for the school’s continuing
 role in nurturing future generations of students.</p>
 <p><strong>Scaling New Heights (1991-2009)</strong> 
-<br>RVHS entered another exciting phase of growth in the early 1990s. The
+</p>
+<p>RVHS entered another exciting phase of growth in the early 1990s. The
 school welcomed its 35<sup>th</sup> anniversary in 1991 with celebrations
 that brought the community together – &nbsp;a dinner on school grounds
 and a vibrant concert at Kallang Theatre. In 1993, RVHS transitioned to
