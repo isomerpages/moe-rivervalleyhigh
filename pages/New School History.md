@@ -148,5 +148,25 @@ Arts Fest week in 2014 at NUS, where performing arts students showcased
 their artistic talents. &nbsp;That year, the Students' Council created
 the iconic music video called '立化情'&nbsp;that captured the school’s spirit.
 &nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The period from 2015 to 2017 was characterised by academic innovation
+and infrastructure enhancement. The school built a new School Arch in 2015
+and launched the Humanities and Social Sciences Leaders Academy (HSSLA).
+During its 60<sup>th</sup> birthday celebrations in 2016, RVHS launched
+two more academies –&nbsp;the Mathematics Leaders Academy (MLA) and the
+Pedagogical Excellence Academy (PEA) for teaching excellence. &nbsp;In
+2017, the school opened its Entrepreneurial Hub, which included new spaces
+for a Digital Media Hub, Fabrication Laboratory, and Entrepreneurial space.
+These facilities supported the school's flagship programme - Construct,
+Integrate, Differentiate (CID).</p>
+<p>In 2019, the school welcomed its first group of JAE students, opening
+its doors to more students from diverse backgrounds, and celebrated its
+65<sup>th</sup> anniversary celebrations in 2021.</p>
+<p>Today, the school continues to grow from strength to strength. In 2023,
+RVHS refined its vision to <strong><em>“Leaders of Distinction for Singapore”</em></strong>,
+reflecting its unwavering commitment to putting students at the heart of
+education. This renewed focus emphasises the development of 21<sup>st</sup> century
+competencies alongside student learning, character development, and well-being.
+The vision underscores RVHS’s dedication to nurturing future-ready thinkers,
+leaders and achievers who possess the head, heart and will to contribute
+meaningfully to Singapore and the world.&nbsp;</p>
 <p>&nbsp;</p>
