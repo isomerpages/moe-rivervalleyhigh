@@ -589,7 +589,14 @@ future.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Today, the school continues to grow from strength to strength. In 2023,
+RVHS refined its vision to “Leaders of Distinction for Singapore”, reflecting
+its unwavering commitment to put students at the heart of education. This
+renewed focus emphasises the development of 21st century competencies alongside
+student learning, character development, and well-being. The vision underscores
+RVHS’s dedication to nurturing future-ready thinkers, leaders and achievers
+who possess the head, heart and will to contribute meaningfully to Singapore
+and the world.</p>
 <p></p>
 <p></p>
 <p></p>
