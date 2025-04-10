@@ -4,9 +4,8 @@ permalink: /new-school-history/
 variant: tiptap
 description: ""
 ---
-<p><strong>The Story of River Valley High School: A Journey Through Time</strong>
+<p><strong>  The Story of River Valley High School: A Journey Through Time</strong>
 </p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
