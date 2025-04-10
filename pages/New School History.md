@@ -85,7 +85,9 @@ opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture2.jpg">
 </div>
 <p>Our West Coast campus (1987 to 2004)</p>
-<p></p>
+<p>These milestones collectively represented a period of significant growth
+and transformation for RVHS, laying the foundation for the school’s continuing
+role in nurturing future generations of students.</p>
 <p>&nbsp;
 <br>
 </p>
