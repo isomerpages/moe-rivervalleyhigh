@@ -4,7 +4,7 @@ permalink: /new-school-history/
 variant: tiptap
 description: ""
 ---
-<p><strong>  The Story of River Valley High School: A Journey Through Time</strong>
+<p><strong>The Story of River Valley High School: A Journey Through Time</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -39,7 +39,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>The Founding Years (1956-1970)</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
