@@ -218,8 +218,8 @@ at the Singapore Schools Sports Council Colours Awards.
 Scholar from the school's Integrated Programme.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Yeoh An Ni from the Class of 2018 was awarded the Prime Minister's Book
-Prize.
-<br>
+Prize.</p>
+<p>
 <br>RVHS won her first SYF Overall Winning Theme Song, STAGE, written and
 produced by Terry Ng Tian Yu and Goh Jing Wen from the Class of 2018.
 <br>
