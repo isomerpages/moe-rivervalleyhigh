@@ -44,7 +44,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture1.jpg">
 </div>
-<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Our campus at Seng Poh Road (1956-1957)&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
