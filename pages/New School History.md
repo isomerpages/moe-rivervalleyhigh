@@ -324,10 +324,308 @@ future.</p>
 </table>
 <p><strong>Our School Principals</strong>
 </p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year of joining RV</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Principals</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1956</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Suen Y-Chern</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1960</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hui Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1962</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Chong Chie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1967</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Bing Chie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1974</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Leong Fan Chin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1993</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tham Tuck Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ek Soo Ben</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Yong Chiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Khin Hiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 – Present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Choy Wai Yin</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Our Vice-Principals</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year of joining RV</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principals</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1979</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Pearl Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1980</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yong Kwei Leong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1986</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Kok Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1991</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kwok Kah Kuoy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1993</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Yin Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1995</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Lee Huat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1998</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Miao Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1999</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ek Soo Ben</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Martin Koh Chin Thong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2003</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Yan Kheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2006</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Kah Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm So Kah Lay</p>
+<p>Ms Chuang Siew Chin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sze Guan Kheng</p>
+<p>Mr Sherwin Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loi Guang You</p>
+<p>Mr Gabriel Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gay Choon Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Lau Wai Chi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Hong Joo Steven</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kwok Ying Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Michael John Peter Lau</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Lim Peng Yuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 – Present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Shi Qian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 – Present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Hong Peng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
