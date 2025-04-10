@@ -72,10 +72,10 @@ Learning for Science and Technology. In 2001, RVHS launched the Distinguished
 Speakers Series and Science Niche Programme, while celebrating its 45th
 year. Despite facing challenges like the SARS outbreak in 2003, the school
 achieved new heights – its Chinese Orchestra performed at the Esplanade
-Theatre&nbsp;and RVHS was selected to pioneer the&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme, bringing
-new technology into classrooms. The <a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme
-was launched by then-Minister for Education, Mr Tharman Shanmugaratnam,
-at RVHS.</p>
+Theatre&nbsp;and RVHS was selected to pioneer the BackPackNet programme,
+bringing new technology into classrooms. The BackPackNet programme was
+launched by then-Minister for Education, Mr Tharman Shanmugaratnam, at
+RVHS.</p>
 <p>The mid-2000s saw RVHS unite its community in an ambitious drive towards
 transformation. The school organised walks, golf tournaments, and celebration
 dinners to raise funds for its development. During this time, RVHS moved
