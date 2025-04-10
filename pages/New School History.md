@@ -81,7 +81,12 @@ the school’s rich heritage, the RVHS Archives was completed and officially
 opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 (SAC), and SAC member Dr Ho Nai Kiong.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture2.jpg">
+</div>
+<p>Our West Coast campus (1987 to 2004)</p>
+<p></p>
+<p>&nbsp;
 <br>
 </p>
 <p><strong>&nbsp;</strong>
