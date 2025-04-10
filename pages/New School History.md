@@ -229,10 +229,13 @@ Singapore Schools Sports Council Colours Awards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chan Jia Wei, Lee Yan Qing and Tang Rui Yi achieved the President's Guide
+Award.</p>
+<p>Lai Sin Yee from the Class of 2018 was awarded the Lee Hsien Loong Award
+for Outstanding Bicultural Studies.</p>
 </td>
 </tr>
 <tr>
