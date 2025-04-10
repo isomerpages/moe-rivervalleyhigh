@@ -261,10 +261,14 @@ Prize.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gan Xi Yee received the Lee Kuan Yew Award for All-Round Excellence (Secondary).</p>
+<p>Yeo Wei Shain received the Lee Hsien Loong Award for Outstanding Bicultural
+Students.</p>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/river-valley-high-school-team-beat-117-other-teams-to-win-cyber-security-competition" rel="noopener noreferrer nofollow" target="_blank">Team RVCTF (River Valley Capture the Flag)&nbsp;</a>won
+the 4th edition of the annual Cyberthon.</p>
 </td>
 </tr>
 <tr>
