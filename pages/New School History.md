@@ -86,4 +86,3 @@ opened by Mr Lee Tuan, Assistant Treasurer of the School Advisory Committee
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
