@@ -109,8 +109,7 @@ The school began its expansion programme to include more facilities.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 212.469px;" height="auto" width="100%" src="https://www.rivervalleyhigh.moe.edu.sg/images/tn4bmp2.jpg">
 </div>
-<p>
-<br>Prime Minister Lee Kuan Yew visited the school.
+<p>Prime Minister Lee Kuan Yew visited the school.
 <br>
 <br>The school's extended facilities were declared open.
 <br>
