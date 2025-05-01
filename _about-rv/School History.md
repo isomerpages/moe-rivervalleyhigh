@@ -6,8 +6,9 @@ description: ""
 ---
 <h2>School History</h2>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qgJ7PFiRaY"></iframe>
+<iframe height="415" width="738" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qgJ7PFiRaY"></iframe>
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
