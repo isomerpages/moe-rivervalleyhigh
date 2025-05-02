@@ -23,7 +23,7 @@ Leaving Examination (PSLE)</p>
 to develop leaders of distinction for Singapore. We aim to nurture thinkers,
 leaders and achievers with good character, bicultural acumen and global
 perspective. You may find out more about <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>&nbsp;.</p>
-<p><strong>2024 RVHS DSA-Sec Categories</strong> 
+<p><strong>2025 RVHS DSA-Sec Categories</strong> 
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
 under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
@@ -205,7 +205,7 @@ refresher on Python programming.
 </p>
 <p><strong><u>DSA Process Stage 1 - Shortlisting</u></strong>
 </p>
-<p><strong>Shortlisting Criteria for 2024 </strong>Applicants must fulfil
+<p><strong>Shortlisting Criteria for 2025 </strong>Applicants must fulfil
 the following criteria to be shortlisted for school-based DSA test and
 interview:</p>
 <ul data-tight="true" class="tight">
