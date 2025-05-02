@@ -378,8 +378,10 @@ Academy and Students' Council and be part of leadership projects and initiatives
 <td rowspan="1" colspan="1">
 <p>Students are highly recommended to be proficient in Python programming
 and be able to use computational thinking to solve problems. They will
-also need to pass a Python programming test that assess their skills and
-knowledge in the DSA test stage.</p>
+need to pass a Python programming test that assesses their skills and knowledge
+in the DSA test stage. For the assessment, Python reference materials will
+be provided for students familiar with other programming languages who
+need a quick refresher on Python programming.</p>
 </td>
 </tr>
 <tr>
