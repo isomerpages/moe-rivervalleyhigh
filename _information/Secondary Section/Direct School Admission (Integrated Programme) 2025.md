@@ -223,7 +223,7 @@ interview:</p>
 <p><strong>Note:</strong>  <strong>Meeting all the above criteria does not guarantee the student will be shortlisted for talent test and interview / given an offer for the DSA exercise.</strong>
 </p>
 <p>You will receive notification from the school by 11 July (Friday) if your
-child has been shortlisted to undergo Direct School Admission (DSA) selection</p>
+child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 <p><strong><u>DSA Process Stage 2 - DSA Selection Tests and Interviews</u></strong>
 </p>
 <p>Students shortlisted for the respective DSA talent area will be informed
