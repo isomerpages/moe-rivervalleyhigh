@@ -197,7 +197,10 @@ as follows:</p>
 apply.</p>
 <p><sup>[3] </sup>Hold a key position in 2025 Primary School Prefectorial
 Board or equivalent</p>
-<p><sup>[4]</sup> Familiar with Python programming
+<p><sup>[4]</sup> Prior knowledge of Python programming is highly recommended.
+However, for assessment purpose, Python reference materials will be provided
+for students familiar with other programming languages who need a quick
+refresher on Python programming.
 <br>
 </p>
 <p><strong><u>DSA Process Stage 1 - Shortlisting</u></strong>
