@@ -32,12 +32,12 @@ variant: tiptap
 <p>What is the DSA exercise timeline like?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For DSA 2024 exercise, the online MOE application portal will be opened
-from 7th May to 3rd Jun (3pm). For RVHS, the shortlisted applicants will
-be informed of their DSA test and interview sessions via email on specified
-dates in July and August as highlighted on our school webpage for DSA Exercise.
-All applicants will be notified of the outcome of their application via
-email by 30th August 2024.</p>
+<p>For DSA 2025 exercise, the online MOE application portal will be opened
+from 7th May (11am) to 3rd Jun (3pm). For RVHS, the shortlisted applicants
+will be informed of their DSA test via email on specified dates in July
+and August by 11 July (Friday). All applicants will be notified of the
+outcome of their application via email between 25 August and 4 September
+2025.</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ trial / interview?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will be informed if they have been shortlisted and will
-be provided with the details via email from 24 Jun to 5 July.</p>
+be provided with the details via email by 11 July (Friday).</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ be provided with the details via email from 24 Jun to 5 July.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will be notified of the outcome of their applications
-by 30 August.</p>
+between 25 August and 4 September 2025 via email.</p>
 </td>
 </tr>
 <tr>
@@ -83,8 +83,8 @@ by 30 August.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>You will have to indicate your preferences in ranked order for up to three
-schools during the Exercise School Preference Stage from 21st – 25th October
-2024 via the online MOE DSA portal.</p>
+schools during the School Preference Submission Exercise from 27 – 31 October
+2025 via the online MOE DSA portal.</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +119,8 @@ order to apply for a place in RV?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>While Higher Chinese Language (HCL) is not a prerequisite for admission
-to RVHS, all students in RV must do Higher Mother Tongue from Sec 1 to
-4.</p>
+to RVHS, all students in RV must take Higher Chinese Language from Sec
+1 to 4.</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ to RVHS, all students in RV must do Higher Mother Tongue from Sec 1 to
 <p>Where can I find the list of CCAs for DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The 2024 DSA CCA list is available on our school website.</p>
+<p>The 2025 DSA CCA list is available on our school website.</p>
 </td>
 </tr>
 <tr>
@@ -251,42 +251,12 @@ excluding piano and violin.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>If my child has public speaking experience, should he/she apply for English
-Language Debate or English Drama?
-<br>
-<br>What competencies are you looking for when it comes to debates?&nbsp;
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>It depends on your child’s interest and talents/competencies. Both CCAs
-require your child to have a strong command of the language, confidence
-in public speaking, passion for the language and the ability to analyse
-facts and present spontaneously.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>If my child gets accepted for Drama through DSA, does it mean he/she has
 to do drama as a subject in RV?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Your child has to take up Drama as his/her CCA if he/she accepts the offer
 to come into RV via Drama.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If my child wants to apply for English Debates via DSA, does he/she need
-to be in the school debate team to be qualified? Some primary schools do
-not have debates as a CCA but if the child has participated in debate training
-outside school, can my child apply?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>If the primary school does not have a debate team but your child has debate
-training or participated in debate competitions, and wishes to pursue his/her
-passion, you may consider applying for it.</p>
 </td>
 </tr>
 </tbody>
@@ -406,10 +376,12 @@ Academy and Students' Council and be part of leadership projects and initiatives
 <p>What are the selection criteria for robotics?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students need to be proficient in Python programming and be able to use
-computational thinking to solve problems. They will also need to pass a
-Python programming test that assess their skills and knowledge in the DSA
-test stage.</p>
+<p>Students are highly recommended to be proficient in Python programming
+and be able to use computational thinking to solve problems. They will
+need to pass a Python programming test that assesses their skills and knowledge
+in the DSA test stage. For the assessment, Python reference materials will
+be provided for students familiar with other programming languages who
+need a quick refresher on Python programming.</p>
 </td>
 </tr>
 <tr>

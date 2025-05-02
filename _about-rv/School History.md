@@ -1,13 +1,14 @@
 ---
 title: School History
-permalink: /about-rv/sh/
-description: ""
+permalink: /new-school-history/
 variant: tiptap
+description: ""
 ---
 <h2>School History</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qgJ7PFiRaY"></iframe>
+<iframe height="415" width="738" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qgJ7PFiRaY"></iframe>
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,7 +30,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tn1bmp2.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 424.948px;" height="auto" width="100%" src="https://www.rivervalleyhigh.moe.edu.sg/images/tn1bmp2.jpg">
 </div>
 <p>
 <br>River Valley High School (RV) was the first Chinese secondary school set
@@ -106,11 +107,9 @@ The school began its expansion programme to include more facilities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/tn4bmp2.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 212.469px;" height="auto" width="100%" src="https://www.rivervalleyhigh.moe.edu.sg/images/tn4bmp2.jpg">
 </div>
-<p>
-<br>
-<br>Prime Minister Lee Kuan Yew visited the school.
+<p>Prime Minister Lee Kuan Yew visited the school.
 <br>
 <br>The school's extended facilities were declared open.
 <br>
@@ -160,7 +159,7 @@ the school's 5th Principal.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/2.jpeg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 602.01px;" height="auto" width="100%" src="https://www.rivervalleyhigh.moe.edu.sg/images/2.jpeg">
 </div>
 </td>
 </tr>
@@ -406,10 +405,11 @@ and Uniformed Groups.
 <br>
 <br>On 25 Oct 2003, RVHS sees many distinguished guests, including the Minister
 for Education, Mr Tharman Shanmugaratnam, arrived at RV for the launch
-of the BackPack.NET – Pilot and Trials Pillar. The objective of BackPack.NET
-is to create opportunities for schools and Institutes of Higher Learning
-to use Microsoft technologies to develop innovative solutions for Tablet
-PCs for use in teaching and learning. RV was the first school to be involved
+of the <a href="https://www.straitstimes.com/singapore/parenting-education/river-valley-high-school-team-beat-117-other-teams-to-win-cyber-security-competition" rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> –
+Pilot and Trials Pillar. The objective of <a href="https://www.straitstimes.com/singapore/parenting-education/river-valley-high-school-team-beat-117-other-teams-to-win-cyber-security-competition" rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> is
+to create opportunities for schools and Institutes of Higher Learning to
+use Microsoft technologies to develop innovative solutions for Tablet PCs
+for use in teaching and learning. RV was the first school to be involved
 in this programme.
 <br>
 <br>11th Trim and Fit Award.
@@ -570,11 +570,9 @@ levels.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RV moved from her holding campus at Malan Road to her permanent campus
-at Boon Lay Avenue.
-<br>
-</p>
+at Boon Lay Avenue.</p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/P3 - 1 (200 x 150).jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 212.469px;" height="auto" width="100%" src="https://www.rivervalleyhigh.moe.edu.sg/images/P3%20-%201%20(200%20x%20150).jpg">
 </div>
 <p>
 <br>
@@ -796,7 +794,7 @@ Prize.
 <p>Yeo Wei Shain received the Lee Hsien Loong Award for Outstanding Bicultural
 Students.</p>
 <p></p>
-<p><a href="https://www.straitstimes.com/singapore/parenting-education/river-valley-high-school-team-beat-117-other-teams-to-win-cyber-security-competition" rel="noopener noreferrer nofollow" target="_blank">Team RVCTF (River Valley Capture the Flag) </a>won
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/river-valley-high-school-team-beat-117-other-teams-to-win-cyber-security-competition" rel="noopener noreferrer nofollow" target="_blank"><u>Team RVCTF (River Valley Capture the Flag) </u></a>won
 the 4th edition of the annual Cyberthon.</p>
 <p></p>
 </td>
@@ -813,7 +811,7 @@ the 4th edition of the annual Cyberthon.</p>
 <p></p>
 <p>Ganesh S attained the President's Award (Boy's Brigade).</p>
 <p></p>
-<p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank">RV Girl's A Division Floorball</a> emerged
+<p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank"><u>RV Girl's A Division Floorball</u></a> emerged
 champions.</p>
 <p></p>
 </td>
@@ -841,6 +839,5 @@ Tharman Shanmugaratnam at the Istana.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
