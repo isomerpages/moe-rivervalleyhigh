@@ -12,12 +12,9 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Information for Students
+        - title: Info for 2025 DSA (Sec)
           description: Click here
-          url: https://rivervalleyhigh.moe.edu.sg/information-for-students/
-        - title: Supporting your teen through the A level results release
-          description: ""
-          url: https://rivervalleyhigh.moe.edu.sg/supporting-your-teen/
+          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2025/
   - infopic:
       id: infopic
       image: /images/2025/Open_House_April_2025_poster_1_.jpg
