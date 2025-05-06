@@ -10,7 +10,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_06_at_10_39_17_AM.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_06_at_10_39_17_AM.jpg">
 </div>
 <p>Welcome to River Valley High School!</p>
 <p>We are happy to welcome all our students back to school and our Secondary

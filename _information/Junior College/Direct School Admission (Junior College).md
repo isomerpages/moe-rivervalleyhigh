@@ -55,7 +55,7 @@ under the Direct School Admission (DSA) JC Exercise.</p>
 </ul>
 <p>Candidates will need to demonstrate a high level of proficiency in their
 respective talent area.</p>
-<p><u>DSA-JC Application 2024 Information</u>
+<p><u>DSA-JC Application 2025 Information</u>
 </p>
 <p><strong>Note for all applicants</strong>: Achievements at the national/international
 level would be an advantage. Applicants will need to provide evidence of
@@ -68,15 +68,17 @@ proficiency and an e-portfolio in any of these domains:
 <br>• Artificial intelligence
 <br>• Software/Game development
 <br>• Robotics</p>
-<p>Successful applicants will join RVHS in January in the year 2025. Students
+<p>Successful applicants will join RVHS in February in the year 2026. Students
 will be assessed on both their demonstrated and potential ability to ensure
 that they benefit from the rigorous curriculum offered at RVHS.</p>
 <p><strong>Important Information:</strong> 
-<br>Application for RVHS DSA-JC application starts from 7 May 2024 and will
-end on 24 June 2024 via the following link <a href="https://go.gov.sg/2024rvhsdsajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024rvhsdsajc</a>.</p>
-<p>RVHS will conduct our DSA-JC selection tests and interviews from 24 Jun
-to 7 Aug 2024. All applicants will be informed of the results of their
-application by 7 Aug 2024.</p>
+<br>Application for RVHS DSA-JC application starts from 7 May 2025 and will
+end on 30 June 2025 via the following link <a href="https://go.gov.sg/2024rvhsdsajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025rvhsdsajc</a>.</p>
+<p>RVHS will conduct our DSA-JC selection tests and interviews from 30 June
+to 12 Aug 2024. All applicants will receive notification from the school
+by 11 July (Friday) if they are shortlisted for Direct School Admission
+(DSA) selection. All shortlisted applicants who have participated in the
+selection will be informed of the outcome between 30 July and 12 Aug 2025.</p>
 <h4>Enquiries</h4>
 <ul data-tight="true" class="tight">
 <li>
