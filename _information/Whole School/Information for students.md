@@ -5,24 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Whole School
 ---
-<p>As we approach the new school year, do take note of this set of information
-for all Sec 1 to Sec 4 and J2 students.</p>
-<p><u>Key Details</u>
+<p><u>Morning Assembly</u> 
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>First day of school: Monday, 13 January 2025</p>
-</li>
-<li>
-<p>Arrival time: Before starting time of 0900</p>
-</li>
-<li>
-<p>Assembly point: School hall</p>
-</li>
-<li>
-<p>Attire: Full school uniform</p>
-</li>
-</ul>
+<p>Morning Assembly starts at 9 am on Monday and 8 am from Tues-Fri. Students
+must be at the assembly area or classrooms punctually at 9 am on Monday
+and 8 am (Tues-Fri) or they will be considered late for school.</p>
+<p><u>School Uniform</u>
+</p>
+<p>Students must wear their school uniform with respect and pride. Students
+can refer to the school handbook for more information.</p>
 <p><u>Safety Measures</u>
 </p>
 <p>The safety of our students is our top priority. We kindly request your
@@ -58,6 +49,5 @@ flow, please do not wait at the drop-off points.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Traffic_Flow_inside_RVHS_Jan_2025.png">
 </div>
 <p>&nbsp;</p>
-<p>Best regards,</p>
-<p>River Valley High School</p>
+<p></p>
 <p>&nbsp;</p>
