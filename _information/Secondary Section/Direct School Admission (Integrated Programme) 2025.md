@@ -227,11 +227,11 @@ the following criteria to be shortlisted for school-based DSA test and
 interview:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Strong and consistent academic performance&nbsp;in Primary School including
+<p>Good and consistent academic performance&nbsp;in Primary School including
 &nbsp;P5 Year-End and P6 Mid-Year results (if available)&nbsp;</p>
 </li>
 <li>
-<p>Strong performance for Chinese Language in P5 &nbsp;and P6</p>
+<p>Good performance for Chinese Language in P5 &nbsp;and P6</p>
 </li>
 <li>
 <p>Demonstrate aptitude and strength in the specific talent areas</p>
