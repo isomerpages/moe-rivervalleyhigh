@@ -3,7 +3,6 @@ title: Supporting your teen through the A level results release
 permalink: /supporting-your-teen/
 variant: tiptap
 description: ""
-third_nav_title: Junior College
 ---
 <p>Dear Parents/Guardians,</p>
 <p>The 2024 A-Level results will be released soon. Regardless of the outcome,

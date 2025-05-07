@@ -15,6 +15,9 @@ sections:
         - title: Info for 2025 DSA (Sec)
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2025/
+        - title: Info for 2025 DSA (JC)
+          description: Click here
+          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
       id: infopic
       image: /images/2025/Open_House_April_2025_poster_1_.jpg
