@@ -276,7 +276,7 @@ RVHS for 2025:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 July (Tues)</p>
+<p>8-9 July (Tues, Wed)</p>
 <p>11 July (Fri)</p>
 <p>15 July (Tues)</p>
 </td>
