@@ -4,7 +4,7 @@ permalink: /sch-history-archived-on-2-april-2025/
 variant: tiptap
 description: ""
 ---
-<h2>School History</h2>
+<h2>School History (old)</h2>
 <div class="iframe-wrapper">
 <iframe height="415" width="738" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qgJ7PFiRaY"></iframe>
 </div>
@@ -840,4 +840,4 @@ Tharman Shanmugaratnam at the Istana.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p>Old)</p>
