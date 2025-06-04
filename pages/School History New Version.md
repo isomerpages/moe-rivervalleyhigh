@@ -250,8 +250,7 @@ Award (Softball) at the Singapore Schools Sports Council Colours Awards.&nbsp;</
 Prize.
 <br>
 <br>Vera Ng Jing Wen from the Class of 2023 achieved the President’s Guide
-Award.</p>
-<p>&nbsp;</p>
+Award.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -266,8 +265,7 @@ All-Round Excellence (Secondary).</p>
 for Outstanding Bicultural Students.</p>
 <p>&nbsp;</p>
 <p><a href="https://www.straitstimes.com/singapore/parenting-education/river-valley-high-school-team-beat-117-other-teams-to-win-cyber-security-competition" rel="noopener noreferrer nofollow" target="_blank">Team RVCTF (River Valley Capture the Flag)&nbsp;</a>won
-the 4<sup>th</sup> edition of the annual Cyberthon.</p>
-<p>&nbsp;</p>
+the 4<sup>th</sup> edition of the annual Cyberthon.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -284,8 +282,7 @@ the 4<sup>th</sup> edition of the annual Cyberthon.</p>
 Brigade).</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank">RVHS Floorball</a> Girls&nbsp;emerged
-champions in the National School Games A Division.</p>
-<p>&nbsp;</p>
+champions in the National School Games A Division.&nbsp;</p>
 </td>
 </tr>
 <tr>
