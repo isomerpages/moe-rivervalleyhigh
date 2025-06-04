@@ -106,18 +106,15 @@ twice – first to Queensway, then to Malan Road.&nbsp;</p>
 </div>
 <p>&nbsp;Queensway campus (2004–2006)</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture4.jpg">
+</div>
 <p>Malan Road campus (2006–2009)</p>
-<p>&nbsp;</p>
 <p>2005 saw another milestone for RVHS when the school was chosen to offer
 the Integrated Programme (IP). In 2006, RVHS celebrated its 50<sup>th</sup> anniversary
 at the National University of Singapore (NUS), while starting its new IP
 journey. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>RVHS also became the West Zone’s Centre of Excellence for Science and
 Technology (2007) and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;began &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;offering
 the Bicultural Studies Programme (2007). By 2008, its last batch of O-Level
