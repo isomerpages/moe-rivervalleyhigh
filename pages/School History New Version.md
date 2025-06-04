@@ -293,15 +293,18 @@ champions in the National School Games A Division.&nbsp;</p>
 <p>Goh Jun Yu from the Class of 2023 achieved the Lee Hsien Loong Award for
 Outstanding Bicultural Students.</p>
 <p>Chua Yee Tien (4G) achieved the President's Guide Award.</p>
+<p></p>
 <p>Lin Chuanyu (23J08) achieved the President’s Scout Award.</p>
+<p></p>
 <p>RVHS Wushu Boys emerged champions in the National School Games Wushu Championships
 B Division.</p>
+<p></p>
 <p>Cholene Aw (3I) won a silver medal in the women’s third set Taijijian
 and a bronze medal in the New Yang Style Taijiquan at the World Taijiquan
 Championships.</p>
+<p></p>
 <p>Koh Le Bon (23J09) won a silver medal in the spear event at the International
-Wushu Invitational Tournament in Jiangsu, China.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+Wushu Invitational Tournament in Jiangsu, China.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -310,10 +313,10 @@ Wushu Invitational Tournament in Jiangsu, China.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Javelle Toh (24J18) was among six young adults who helped to organise
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World Thinking
-Day 2025 in Singapore. She played a key role in leading Girl Guides to
-create a record-breaking fabric mural using 1000 upcycled fabric pieces
-to form the word "EMPOWER". To find out more, click <a href="https://www.zaobao.com.sg/news/singapore/story20250222-5915726" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+World Thinking Day 2025 in Singapore. She played a key role in leading
+Girl Guides to create a record-breaking fabric mural using 1000 upcycled
+fabric pieces to form the word "EMPOWER". To find out more, click <a href="https://www.zaobao.com.sg/news/singapore/story20250222-5915726" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>
 <p>In a speech by Deputy Prime Minister (DPM) and Minister for Trade and
 Industry, Mr Gan Kim Yong, at the opening ceremony of the Global Space
 Technology Convention and Exhibition, Natalie Ching Yuhui (24J13) was given
@@ -322,14 +325,12 @@ technology. At the pre-ceremony engagement session, Natalie shared with
 DPM her winning team project at the International Space Challenge 2024.
 Natalie was also featured in a newly-launched Economic Development Board-commissioned
 promotional video on Singapore's aspirations for the space technology sector
-in the future.</p>
-<p>&nbsp;</p>
+in the future.&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Our Principals</strong>
 </p>
 <table style="minWidth: 50px">
