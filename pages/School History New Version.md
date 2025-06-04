@@ -238,8 +238,7 @@ Outstanding Bicultural Studies.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 Book Prize.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Charmaine Chua Jia Ying from the Class of 2020 won the Best Sportsgirl
-Award (Softball) at the Singapore Schools Sports Council Colours Awards.</p>
-<p>&nbsp;</p>
+Award (Softball) at the Singapore Schools Sports Council Colours Awards.&nbsp;</p>
 </td>
 </tr>
 <tr>
