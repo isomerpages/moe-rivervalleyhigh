@@ -6,9 +6,7 @@ description: ""
 ---
 <p><strong>The Story of River Valley High School: A Journey through Time</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;&nbsp;</strong>
 </p>
 <p><strong>Timeline segments:</strong>
 </p>
@@ -31,17 +29,13 @@ description: ""
 </li>
 </ol>
 <p>
-<br>
+<br><strong>&nbsp;The Founding Years (1956–1970)</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>The Founding Years (1956–1970)</strong>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Our campus at Seng Poh Road (1956–1957)&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture1.jpg">
+</div>
+<p>Our campus at Seng Poh Road (1956–1957)&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Founded in 1956, River Valley High School (RVHS) was the first Chinese
 secondary school set up by the government. The school, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;initially
