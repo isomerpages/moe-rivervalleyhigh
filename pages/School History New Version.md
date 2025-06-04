@@ -114,16 +114,13 @@ twice – first to Queensway, then to Malan Road.&nbsp;</p>
 <p>2005 saw another milestone for RVHS when the school was chosen to offer
 the Integrated Programme (IP). In 2006, RVHS celebrated its 50<sup>th</sup> anniversary
 at the National University of Singapore (NUS), while starting its new IP
-journey. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>RVHS also became the West Zone’s Centre of Excellence for Science and
-Technology (2007) and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;began &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;offering
+journey. RVHS also became the West Zone’s Centre of Excellence for Science
+and Technology (2007) and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;began &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;offering
 the Bicultural Studies Programme (2007). By 2008, its last batch of O-Level
 students graduated and the school was fully running the IP with 1,600 students.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Forging a New Era of Limitless Possibilities (2010–Present)</strong>
+<p><strong>Forging a New Era of Limitless Possibilities (2010–Present)</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>RVHS’s journey from 2010 to the present bears testimony to its continuous
 pursuit of growth and limitless possibilities as the school pushes the
 boundaries of educational excellence and inspires our students to become
