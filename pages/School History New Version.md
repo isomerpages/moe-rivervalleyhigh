@@ -56,10 +56,9 @@ former students with their alma mater.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>In 1980, the school underwent another significant change with its official
 renaming to River Valley High School, heralding a new chapter in its history.
 The establishment of the first Students’ Council that year demonstrated
-the school’s dedication to nurturing student leadership and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fostering
-an inclusive environment, with students’ voices being integral to the decision-making
+the school’s dedication to nurturing student leadership and fostering an
+inclusive environment, with students’ voices being integral to the decision-making
 process. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>December 1986 saw RVHS relocate to a new campus at West Coast Road with
 the school’s expansion. On 1 January 1987, the then Minister of State for
 Education, Mr Tang Guan Seng, flagged off a 16-kilometre walk from the
