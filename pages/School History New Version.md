@@ -123,36 +123,31 @@ was fully running the IP with 1,600 students. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <p>RVHS’s journey from 2010 to the present bears testimony to its continuous
 pursuit of growth and limitless possibilities as the school pushes the
 boundaries of educational excellence and inspires our students to become
-Leaders of Distinction.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+Leaders of Distinction.</p>
 <p>The early 2010s marked significant transitions for RVHS. The school established
 its permanent home at 6 Boon Lay Avenue in 2010, while simultaneously launching
 the Asian Young Leaders Convention that brought together 900 student leaders
-from across Asia. The following year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marked
-RVHS's 55<sup>th</sup> anniversary and saw its first batch of IP students
-excel in the GCE A-Level examination.</p>
-<p>&nbsp;</p>
+from across Asia. The following year marked RVHS's 55<sup>th</sup> anniversary
+and saw its first batch of IP students excel in the GCE A-Level examination.</p>
 <p>Student leadership and the arts gained stronger foothold in RVHS in the
 2010s. In 2013, the school started two new programmes – the Y.LEAD Seminar
 and River Valley Model United Nations (RVMUN). The school held its first
 Arts Fest week in 2014 at the NUS, where performing arts students showcased
 their artistic talents. That year, the Students' Council created the iconic
 music video “立化情” which beautifully exemplifies the school’s spirit. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The period from 2015 to 2017 was characterised by academic innovation
 and infrastructural enhancement. The school built a new School Arch in
 2015 and launched the Humanities and Social Sciences Leaders Academy (HSSLA).
 During its 60<sup>th</sup> birthday celebrations in 2016, RVHS launched
-two more academies –&nbsp;&nbsp;&nbsp;&nbsp; the Mathematics Leaders Academy
-(MLA) and the Pedagogical Excellence Academy (PEA) for teaching excellence.
-In 2017, the school opened its &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrepreneurial
-Hub, which included new spaces for a Digital Media Hub, Fabrication Laboratory,
-and Entrepreneurial space. These facilities supported the school's flagship
-Construct, Integrate, Differentiate (CID) programme.</p>
-<p>&nbsp;</p>
+two more academies –&nbsp;the Mathematics Leaders Academy (MLA) and the
+Pedagogical Excellence Academy (PEA) for teaching excellence. In 2017,
+the school opened its Entrepreneurial Hub, which included new spaces for
+a Digital Media Hub, Fabrication Laboratory, and Entrepreneurial space.
+These facilities supported the school's flagship Construct, Integrate,
+Differentiate (CID) programme.</p>
 <p>In 2019, the school welcomed its first group of Joint Admissions Exercise
 (JAE) students, opening its doors to even more students from diverse backgrounds,
 and celebrated its 65<sup>th</sup> anniversary in 2021.</p>
-<p>&nbsp;</p>
 <p>Today, RVHS continues to grow from strength to strength, building on its
 past successes and achieving greater heights. The school enjoys strong
 partnerships with stakeholders like the SAC, Alumni and Parent-Teacher
@@ -164,8 +159,8 @@ thinkers, leaders, and achievers who not only seek to develop themselves
 holistically, but are also keen to contribute meaningfully to Singapore
 and beyond. This updated focus accentuates the importance of developing
 RVians’ 21<sup>st</sup> century competencies alongside the emphasis on student
-learning, character development, and well-being.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+learning, character development, and well-being.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
