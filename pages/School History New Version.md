@@ -76,10 +76,8 @@ Dr Ho Nai Kiong.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>These milestones collectively represented a period of significant growth
 and transformation for RVHS, laying the foundation for the school’s continuing
 role in nurturing future generations of students.</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Scaling New Heights (1991–2009)</strong>
+<p>&nbsp;<strong>Scaling New Heights (1991–2009)</strong>
 </p>
-<p>&nbsp;</p>
 <p>RVHS entered another exciting phase of growth in the early 1990s. The
 school welcomed its 35<sup>th</sup> anniversary in 1991 with celebrations
 including a dinner on school grounds and a vibrant concert at Kallang Theatre
