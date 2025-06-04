@@ -100,12 +100,11 @@ at RVHS. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The mid-2000s saw RVHS unite its community in an ambitious drive towards
 transformation. The school organised walks, golf tournaments, and celebration
 dinners to raise funds for its development. During that period, RVHS moved
-twice – first to Queensway, then to Malan Road.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Queensway campus <strong>(2004–2006)</strong>
-</p>
+twice – first to Queensway, then to Malan Road.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/picture_3.jpg">
+</div>
+<p>&nbsp;Queensway campus (2004–2006)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
