@@ -174,7 +174,8 @@ learning, character development, and well-being.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&
 <td rowspan="1" colspan="1">
 <p>Yeoh Hui Ching from the Class of 2018 achieved the President's Guide Award.
 <br>
-<br>Tan Yu Jia from the Class of 2015 achieved the Lee Hsien Loong Award for
+</p>
+<p>Tan Yu Jia from the Class of 2015 achieved the Lee Hsien Loong Award for
 Outstanding Bicultural Studies.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chai Yi Ann from the Class of 2016 won the Best Sportsgirl Award (Softball)
@@ -191,10 +192,7 @@ at the Singapore Schools Sports Council Colours Awards.</p>
 Prize.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Lim Zhi Yan from the Class of 2017 won the Best Sportsgirl Award (Floorball)
-at the Singapore Schools Sports Council Colours Awards.
-<br>
-<br>
-</p>
+at the Singapore Schools Sports Council Colours Awards.</p>
 </td>
 </tr>
 <tr>
@@ -213,8 +211,7 @@ Song, STAGE, written and produced by Terry Ng Tian Yu and Goh Jing Wen
 from the Class of 2018.
 <br>
 <br>Charmaine Chua Jia Ying from the Class of 2020 won the Best Sportsgirl
-Award (Softball) at the Singapore Schools Sports Council Colours Awards.</p>
-<p>&nbsp;</p>
+Award (Softball) at the Singapore Schools Sports Council Colours Awards.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -226,8 +223,7 @@ Award (Softball) at the Singapore Schools Sports Council Colours Awards.</p>
 the President's Guide Award.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Lai Sin Yee from the Class of 2018 achieved the Lee Hsien Loong Award
-for Outstanding Bicultural Studies.</p>
-<p>&nbsp;</p>
+for Outstanding Bicultural Studies.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -640,3 +636,46 @@ in the future.</p>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
