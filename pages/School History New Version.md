@@ -86,20 +86,17 @@ school. In 1994, RVHS was selected as one of six autonomous schools in
 Singapore, affirming its educational excellence. In 1996, RVHS commemorated
 its 40<sup>th</sup> anniversary with a cultural concert at the World Trade
 Centre and a dinner hosted by the alumni.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The early 2000s saw RVHS take bold steps in technology and learning. In
-2000, RVHS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pioneered the Fast Track @ Schools
-project, championing Infocomm Technology education, and also became the
-West 3 Centre of Learning for Science and Technology. In 2001, RVHS launched
-the Distinguished Speakers Series and Science Niche Programme, while celebrating
-its 45<sup>th</sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year. Despite facing challenges
-like the SARS outbreak in 2003, the school achieved new heights – its Chinese
-Orchestra performed at the Esplanade Theatre and RVHS was selected to pioneer
-the <a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme,
+2000, RVHS pioneered the Fast Track @ Schools project, championing Infocomm
+Technology education, and also became the West 3 Centre of Learning for
+Science and Technology. In 2001, RVHS launched the Distinguished Speakers
+Series and Science Niche Programme, while celebrating its 45<sup>th</sup> year.
+Despite facing challenges like the SARS outbreak in 2003, the school achieved
+new heights – its Chinese Orchestra performed at the Esplanade Theatre
+and RVHS was selected to pioneer the <a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme,
 bringing new technology into the classroom. The <a rel="noopener noreferrer nofollow" target="_blank">BackPack.NET</a> programme
 was launched by then Minister for Education, Mr Tharman Shanmugaratnam,
 at RVHS. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The mid-2000s saw RVHS unite its community in an ambitious drive towards
 transformation. The school organised walks, golf tournaments, and celebration
 dinners to raise funds for its development. During that period, RVHS moved
