@@ -47,15 +47,12 @@ growth and development. The establishment of the first School Advisory
 Committee (SAC), led by Mr Ang Hai Phor, further strengthened the school’s
 governance framework and laid the groundwork for sustained support in the
 years ahead.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>A Journey of Growth and Transformation (1971–1990)</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>A Journey of Growth and Transformation (1971–1990)</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>1979 was a landmark year when RVHS was granted Special Assistance Plan
-(SAP) status, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognising the school’s commitment
-to bilingual and bicultural education. In that same year, under the leadership
-of Mr Harold Soh Eng Meng, the Alumni was established, creating a formal
-network to connect former students with their alma mater.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+(SAP) status, recognising the school’s commitment to bilingual and bicultural
+education. In that same year, under the leadership of Mr Harold Soh Eng
+Meng, the Alumni was established, creating a formal network to connect
+former students with their alma mater.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>In 1980, the school underwent another significant change with its official
 renaming to River Valley High School, heralding a new chapter in its history.
 The establishment of the first Students’ Council that year demonstrated
