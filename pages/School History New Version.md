@@ -10,20 +10,16 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>1956–1970: The Founding Years</strong>
-</p>
+<p>1956–1970: The Founding Years</p>
 </li>
 <li>
-<p><strong>1971–1990: A Journey of Growth and Transformation</strong>
-</p>
+<p>1971–1990: A Journey of Growth and Transformation</p>
 </li>
 <li>
-<p><strong>1991–2009: Scaling New Heights</strong>
-</p>
+<p>1991–2009: Scaling New Heights</p>
 </li>
 <li>
-<p><strong>2010–Present: Forging a New Era of Limitless Possibilities</strong>
-</p>
+<p>2010–Present: Forging a New Era of Limitless Possibilities</p>
 </li>
 </ol>
 <p>
@@ -273,14 +269,11 @@ the 4<sup>th</sup> edition of the annual Cyberthon.&nbsp;</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toh Quanxin Javelle (4B) achieved the President's Guide Award.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Toh Quanxin Javelle (4B) achieved the President's Guide Award.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Lee Weng Kee Harry from the Class of 2023 achieved the President's Award
-(Scouts).</p>
-<p>&nbsp;</p>
+(Scouts).&nbsp;</p>
 <p>Ganesh S from the Class of 2023 achieved the President's Award (Boy's
-Brigade).</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+Brigade).&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><a href="https://www.straitstimes.com/sport/schools/river-valley-high-school-claim-girls-a-division-floorball-gold-victoria-junior-college-retain-boys-title" rel="noopener noreferrer nofollow" target="_blank">RVHS Floorball</a> Girls&nbsp;emerged
 champions in the National School Games A Division.&nbsp;</p>
 </td>
