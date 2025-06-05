@@ -2,6 +2,7 @@
 title: Our Curriculum
 permalink: /our-curriculum/oc/
 description: ""
+variant: markdown
 ---
 ## Our Curriculum
 
@@ -13,7 +14,7 @@ description: ""
 As one of the few schools that offer a 6-year Integrated Programme, we customise and design our programme to provide a seamless development of RVians' talent and potential to the fullest.
 
 **Interdisciplinary Applied Learning**<br>
-Our Cognitive-Interest Development Curriculum is designed to deepen students’ 21st century competencies and prepare them to overcome challenges with confidence. Our programmes emphasise the application of critical thinking skills across subject disciplines and an acquisition of a broad and deep foundation through applied learning experiences in authentic settings. For instance, in our Construct, Integrate, Differentiate Programme, RVians employ their skills and knowledge across various disciplines to identify and solve real-world problems.  
+Our Cognitive-Interest Development Curriculum is designed to deepen students’ 21st century competencies and prepare them to overcome challenges with confidence. Our programmes emphasise the application of critical thinking skills across subject disciplines and an acquisition of a broad and deep foundation through applied learning experiences in authentic settings. For instance, in our Construct, Integrate, Differentiate Programme, RVians employ their skills and knowledge across various disciplines to identify and solve real-world problems. &nbsp;
 
 **All-Round Development**<br>
 We place great emphasis on holistic education in RV. Our Integrated Programme focuses on producing leaders of sterling character, developing RVians to their fullest academic potential and nurturing their talent in co-curricular activities.
@@ -43,6 +44,6 @@ Thus, RVHS designed and put in place the Balanced Education Curriculum to equip 
 
 The Balanced Education Curriculum consists of three domains of development:
 
-*   [Cognitive-Interest Development Curriculum (CIDC)](/our-curriculum/cid/) 
+*   [Cognitive-Interest Development Curriculum (CIDC)](/our-curriculum/cid/)&nbsp;
 *   [Leadership Character Development Curriculum (LCDC)](/our-curriculum/Ldrship-Character-Development/lcd/)
-*   [Civic Literacy-Global Awareness Development Currciuclum (CGDC)](/our-curriculum/clgad/)
+*   [Civic Literacy-Global Awareness Development Curriculum (CGDC)](/our-curriculum/clgad/)
