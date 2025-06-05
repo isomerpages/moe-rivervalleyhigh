@@ -6,24 +6,7 @@ description: ""
 ---
 <p><strong>The Story of River Valley High School: A Journey through Time</strong>
 </p>
-<p><strong>Timeline segments:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>1956–1970: The Founding Years</p>
-</li>
-<li>
-<p>1971–1990: A Journey of Growth and Transformation</p>
-</li>
-<li>
-<p>1991–2009: Scaling New Heights</p>
-</li>
-<li>
-<p>2010–Present: Forging a New Era of Limitless Possibilities</p>
-</li>
-</ol>
-<p>
-<br><strong>The Founding Years (1956–1970)</strong>
+<p><strong>The Founding Years (1956–1970)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture1.jpg">
