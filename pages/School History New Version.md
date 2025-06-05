@@ -23,7 +23,7 @@ description: ""
 </li>
 </ol>
 <p>
-<br><strong>&nbsp;The Founding Years (1956–1970)</strong>
+<br><strong>The Founding Years (1956–1970)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School History/Picture1.jpg">
@@ -624,4 +624,3 @@ in the future.&nbsp;</p>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p></p>
