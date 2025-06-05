@@ -30,12 +30,12 @@ description: ""
 </div>
 <p>Our campus at Seng Poh Road (1956–1957)&nbsp;&nbsp;&nbsp;</p>
 <p>Founded in 1956, River Valley High School (RVHS) was the first Chinese
-secondary school set up by the government. The school, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;initially
-known as the Singapore Government Chinese Middle School, first occupied
-the premises of Seng Poh Primary School before being renamed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Queenstown
-Government Chinese Middle School upon its move to Strathmore Avenue. In
-1958, it was relocated to Jalan Kuala and renamed River Valley Government
-Chinese Middle School. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+secondary school set up by the government. The school, initially known
+as the Singapore Government Chinese Middle School, first occupied the premises
+of Seng Poh Primary School before being renamed Queenstown Government Chinese
+Middle School upon its move to Strathmore Avenue. In 1958, it was relocated
+to Jalan Kuala and renamed River Valley Government Chinese Middle School.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The year 1968 proved pivotal for RVHS, marked by then Prime Minister Mr
 Lee Kuan Yew’s visit to the school – a momentous occasion in its history.
 The school’s expanded facilities were officially opened, reflecting its
