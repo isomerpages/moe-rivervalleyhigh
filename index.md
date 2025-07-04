@@ -66,7 +66,7 @@ sections:
         results at the 2025 Singapore Youth Festival Arts Presentation!
       button: 2025 Achievements
       url: /2025-achievements/
-      image: /images/rv dance syf 2023.jpeg
+      image: /images/2025/Screenshot_2025_07_04_134701.png
       alt: Image alt text
   - resources:
       title: RV in the News
