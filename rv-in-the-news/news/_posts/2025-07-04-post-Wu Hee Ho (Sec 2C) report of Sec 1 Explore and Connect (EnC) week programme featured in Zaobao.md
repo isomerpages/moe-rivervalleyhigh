@@ -9,6 +9,5 @@ image: ""
 variant: tiptap
 ---
 <p>To find out more about Wu Hee Ho's report, check out the news feature
-by Zaobao:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://m.zbschools.sg/article/detail/2025000691</a>
+by Zaobao: <a rel="noopener noreferrer nofollow" target="_blank">https://m.zbschools.sg/article/detail/2025000691</a>
 </p>
