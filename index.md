@@ -63,9 +63,9 @@ sections:
       title: The Arts
       subtitle: Singapore Youth Festival
       description: Our Performing Arts students worked hard and achieved commendable
-        results at the 2024 Singapore Youth Festival Arts Presentation!
-      button: 2024 Achievements
-      url: /achievements/2024achievements/
+        results at the 2025 Singapore Youth Festival Arts Presentation!
+      button: 2025 Achievements
+      url: /2025-achievements/
       image: /images/rv dance syf 2023.jpeg
       alt: Image alt text
   - resources:
