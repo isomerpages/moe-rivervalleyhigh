@@ -55,8 +55,8 @@ sections:
       description: Congratulations to our student athletes for their stellar
         performance at the NSG! They demonstrated tenacity, teamwork and great
         sportsmanship.
-      button: 2024 Achievements
-      url: /achievements/2024achievements/
+      button: 2025 Achievements
+      url: /2025-achievements/
       image: /images/rv a div girls floorball champions 2023.jpeg
       alt: RV Floorball Champions
   - infopic:
