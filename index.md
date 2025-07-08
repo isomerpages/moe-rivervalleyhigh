@@ -55,18 +55,18 @@ sections:
       description: Congratulations to our student athletes for their stellar
         performance at the NSG! They demonstrated tenacity, teamwork and great
         sportsmanship.
-      button: 2024 Achievements
-      url: /achievements/2024achievements/
+      button: 2025 Achievements
+      url: /2025-achievements/
       image: /images/rv a div girls floorball champions 2023.jpeg
       alt: RV Floorball Champions
   - infopic:
       title: The Arts
       subtitle: Singapore Youth Festival
       description: Our Performing Arts students worked hard and achieved commendable
-        results at the 2024 Singapore Youth Festival Arts Presentation!
-      button: 2024 Achievements
-      url: /achievements/2024achievements/
-      image: /images/rv dance syf 2023.jpeg
+        results at the 2025 Singapore Youth Festival Arts Presentation!
+      button: 2025 Achievements
+      url: /2025-achievements/
+      image: /images/2025/Screenshot_2025_07_04_134701.png
       alt: Image alt text
   - resources:
       title: RV in the News
