@@ -15,7 +15,7 @@ description: ""
 <p>School Safety Vision:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Think Safety, Act Safety</p>
+<p>Think Safety, Act Safely</p>
 </td>
 </tr>
 <tr>
