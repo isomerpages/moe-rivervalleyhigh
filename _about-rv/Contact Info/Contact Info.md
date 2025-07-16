@@ -21,5 +21,9 @@ public holidays)</p>
 <br><a href="https://for.edu.sg/ftctcontactinfo2025" rel="noopener nofollow" target="_blank">2025 FT/CT/YM List</a>
 </p>
 <p><strong><em>School Management</em></strong>
-<br><a href="/files/RVHS_Management_Team_Contact_List_2025_Final__003_.pdf" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/RVHS_Management_Team_Contact_List_2025_Final__003_.pdf" rel="noopener nofollow" target="_blank"><u>2025 RVHS Management Team Contact List</u></a>
+</p>
+<p></p>
+<p><a href="/files/RVHS_Management_Team_Contact_List_2025_Final__003_.pdf" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
 </p>
