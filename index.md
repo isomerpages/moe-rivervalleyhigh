@@ -18,19 +18,6 @@ sections:
         - title: Info for 2025 DSA (JC)
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
-  - infobar:
-      title: Congratulations to the Class of 2024!
-      id: infobar
-      button: READ MORE
-      url: /2024-gce-a-level-results-release/
-  - infopic:
-      title: RV 69
-      subtitle: RV celebrates
-      id: infopic
-      description: On 16 Jan, we commemorated our school's rich history and
-        heritage.   Happy Birthday, RV!
-      image: /images/2025/RV69.png
-      alt: Image alt text
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
