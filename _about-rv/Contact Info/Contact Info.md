@@ -25,5 +25,4 @@ public holidays)</p>
 <p><a href="https://for.edu.sg/2025rvhsmgt" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
 </p>
 <p></p>
-<p><a href="/files/RVHS_Management_Team_Contact_List_2025_Final__003_.pdf" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
-</p>
+<p></p>
