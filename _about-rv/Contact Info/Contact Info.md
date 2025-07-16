@@ -20,9 +20,8 @@ public holidays)</p>
 <p><strong><em>Form Teachers/ Civic Tutors/ Year Masters</em></strong>
 <br><a href="https://for.edu.sg/2025ftctcontact" rel="noopener nofollow" target="_blank">2025 FT/CT/YM List</a>
 </p>
-<p><strong><em>School Management</em></strong>
-</p>
-<p><a href="https://for.edu.sg/2025rvhsmgt" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
+<p><strong><em>School Management                                                                                </em></strong>
+<a href="https://for.edu.sg/2025rvhsmgt" rel="noopener nofollow" target="_blank">2025 RVHS Management Team Contact List</a>
 </p>
 <p></p>
 <p></p>
