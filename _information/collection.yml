@@ -2,10 +2,9 @@ collections:
   information:
     output: true
     order:
-      - Edusave Character Award.md
       - 2025 Secondary 1 Registration/.keep
-      - Whole School/Information for students.md
       - Whole School/.keep
+      - Whole School/Information for students.md
       - Whole School/School Prospectus.md
       - Whole School/School Fees.md
       - Whole School/Financial Assistance Schemes.md
@@ -14,6 +13,7 @@ collections:
       - Whole School/RVHS ICT.md
       - Whole School/FAQs.md
       - Whole School/Scam Alert for Contractors and Vendors.md
+      - Edusave Character Award.md
       - Secondary Section/.keep
       - Secondary Section/Direct School Admission (Integrated Programme) 2025.md
       - Secondary Section/MOE Sexuality Education in Schools (Secondary).md
