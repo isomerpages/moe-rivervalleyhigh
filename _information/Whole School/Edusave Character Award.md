@@ -11,8 +11,8 @@ It celebrates individuals who consistently show resilience, civic-mindedness,
 and a commitment to doing what is right, even when it's not easy.</p>
 <p>&nbsp;The award is part of honouring students' leadership, service, and
 non-academic excellence. EChA is open to Singapore Citizens and is given
-annually to students who are role models in their schools and communities.
-<a href="https://go.gov.sg/rvecha25" rel="noopener nofollow" target="_blank">Submit your nominations online here.</a>
+annually to students who are role models in their schools and communities.</p>
+<p><a href="https://go.gov.sg/rvecha25" rel="noopener nofollow" target="_blank">Submit your nominations online here.</a>
 </p>
 <p></p>
 <p></p>
