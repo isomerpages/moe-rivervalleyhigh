@@ -60,4 +60,9 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infobar:
+      title: Edusave Character Award Nomination Form
+      id: infobar
+      button: Click Here
+      url: /edusave-character-award/
 ---
