@@ -12,11 +12,6 @@ is to send a clear and strong signal that character and values development
 are on par with achievements in the academic domain. It also serves to
 recognise in each school, outstanding students with exceptionally good
 character and can be role models to inspire others.&nbsp;</p>
-<p>Can you create one more banner on the homepage and provide a direct link
-to the page? For the description, you can put it as: Edusave Character
-Award Nomination Form (Click here).</p>
-<p></p>
-<p>&nbsp;</p>
 <p><a href="https://go.gov.sg/rvecha25" rel="noopener nofollow" target="_blank">Submit your nomination online here.</a>
 </p>
 <p></p>
