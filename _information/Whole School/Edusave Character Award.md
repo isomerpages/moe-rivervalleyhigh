@@ -5,13 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Whole School
 ---
-<p>The Edusave Character Award (EChA) is a national award that recognises
-students who demonstrate exemplary character and uphold strong values.
-It celebrates individuals who consistently show resilience, civic-mindedness,
-and a commitment to doing what is right, even when it's not easy.</p>
-<p>&nbsp;The award is part of honouring students' leadership, service, and
-non-academic excellence. EChA is open to Singapore Citizens and is given
-annually to students who are role models in their schools and communities.</p>
+<p>MOE introduced the Edusave Character Award (EChA) to enable schools to
+recognise students who demonstrate exemplary character and outstanding
+personal qualities through their behaviour and actions. MOE’s objective
+is to send a clear and strong signal that character and values development
+are on par with achievements in the academic domain. It also serves to
+recognise in each school, outstanding students with exceptionally good
+character and can be role models to inspire others.&nbsp;</p>
+<p>Can you create one more banner on the homepage and provide a direct link
+to the page? For the description, you can put it as: Edusave Character
+Award Nomination Form (Click here).</p>
+<p></p>
+<p>&nbsp;</p>
 <p><a href="https://go.gov.sg/rvecha25" rel="noopener nofollow" target="_blank">Submit your nomination online here.</a>
 </p>
 <p></p>
