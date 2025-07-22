@@ -23,7 +23,7 @@ sections:
       id: infobar
       button: Click Here
       url: /edusave-character-award/
-      subtitle: Recognising RVians
+      subtitle: Recognising RVIANS
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
