@@ -18,6 +18,11 @@ sections:
         - title: Info for 2025 DSA (JC)
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
+  - infobar:
+      title: Edusave Character Award Nomination Form
+      id: infobar
+      button: Click Here
+      url: /edusave-character-award/
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
@@ -60,9 +65,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infobar:
-      title: Edusave Character Award Nomination Form
-      id: infobar
-      button: Click Here
-      url: /edusave-character-award/
 ---
