@@ -23,6 +23,7 @@ sections:
       id: infobar
       button: Click Here
       url: /edusave-character-award/
+      subtitle: Submit Now
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
