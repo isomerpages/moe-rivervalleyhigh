@@ -4,6 +4,7 @@ permalink: /hold-facilities/
 variant: tiptap
 description: ""
 ---
+<h3><a href="https://campusguide-ajgq.onrender.com/" rel="noopener nofollow" target="_blank">Take a virtual tour of our campus</a></h3>
 <h3>Spaces for Learning</h3>
 <table style="minWidth: 50px">
 <colgroup>
