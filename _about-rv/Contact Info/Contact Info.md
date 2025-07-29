@@ -17,7 +17,8 @@ general enquiries)</p>
 public holidays)</p>
 <p><strong>Contact us</strong>
 </p>
-<p></p>
+<p><a href="/files/RVHS_Management_Team_Contact_List_2025_Jul_2025.pdf" rel="noopener nofollow" target="_blank">RVHS Management Team Contact List 2025</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
