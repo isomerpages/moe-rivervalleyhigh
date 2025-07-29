@@ -15,5 +15,9 @@ general enquiries)</p>
 <p><strong>General Office Opening Hours</strong>
 <br>Mondays to Fridays: 0700 to 1800 hrs (School is closed on Sat, Sun and
 public holidays)</p>
+<p><strong>Contact us</strong>
+</p>
+<p><a href="RVHS_Management_Team_Contact_List_2025_Jul_2025" rel="noopener nofollow" target="_blank">RVHS Management Team Contact List 2025</a>
+</p>
 <p></p>
 <p></p>
