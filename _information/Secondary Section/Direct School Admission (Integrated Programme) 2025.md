@@ -300,9 +300,9 @@ RVHS for 2025:</p>
 </table>
 <p>Shortlisted students for the respective DSA talent areas will be notified <strong>via email</strong> and
 be informed of the <strong>interview </strong>session on one of the following <strong>scheduled dates</strong>:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 July (Tues)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30 July (Wed)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 August (Fri)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 August (Tues)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5, 6 August (Tues, Wed)</p>
 <p><strong><u>DSA Process Stage 3 – Confirmation of DSA Results</u></strong>
 </p>
 <p>All applicants for RVHS DSA-Sec Exercise 2025 will be notified of their
