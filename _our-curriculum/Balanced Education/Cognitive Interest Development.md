@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Cognitive-Interest Development</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning Symposium at RVHS" src="/images/Learning_Symposium_Exhibition_at_the_School_Hall.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/1_Big_E__Cognitive_Interest_Development.jpg">
 </div>
 <p>River Valley High School's Cognitive-Interest Development Curriculum (CIDC)
 seeks to develop students holistically and equip all of them with important
