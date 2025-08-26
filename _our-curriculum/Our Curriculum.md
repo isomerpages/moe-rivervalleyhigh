@@ -5,9 +5,7 @@ description: ""
 variant: markdown
 ---
 ## Our Curriculum
-
-<img src="/images/photo1670417673.jpeg" style="width:85%">
-
+![](/images/2025/2_Science_Laboratory.jpg)
 #### RV Integrated Programme
 
 **6-Year Integrated Programme**<br>
