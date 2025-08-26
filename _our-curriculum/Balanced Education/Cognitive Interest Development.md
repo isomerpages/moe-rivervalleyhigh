@@ -9,31 +9,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning Symposium at RVHS" src="/images/Learning_Symposium_Exhibition_at_the_School_Hall.jpeg">
 </div>
-<p>RVHS' Cognitive-Interest Development Curriculum (CIDC) is designed based
-on the Attitude, Skills, Knowledge learning culture and is implemented
-with the Teaching for Understanding (TfU) framework from the Harvard Graduate
-School of Education. In maintaining RVHS' high level of performance in
-scholarly pursuits, students develop their cognitive capabilities in an
-environment that is intellectually stimulating, authentic and challenging
-to stretch every student to the fullest potential, especially in the acquisition
-and application of critical and creative thinking. With a firm foundation
-in 21st century competencies and development pathways to higher levels
-of achievement offered by the academies and competititve platforms, students
-experience a robust academic curriculum that push them to the limits.</p>
-<h4>Attitude, Skills, Knowledge</h4>
-<p>Students are given opportunities to develop the right attitude when confronted
-with problems with no immediate answers. They also acquire critical thinking
-skills that help them to solve complex problems and be more prepared for
-future challenges. Our students learn not just to acquire knowledge, but
-also to construct knowledge by showing a thoughtful understanding of the
-connections between various disciplines, and an ability to transfer their
-learning to address similar problems beyond the classroom.&nbsp;</p>
-<h4>Teaching for Understanding</h4>
-<p>The TfU framework keeps the focus of educational practice on developing
-student understanding. The design of RV's Cognitive-Interest Development
-Curriculum is based on the TfU framework and teachers collaborate with
-experts from the Harvard Graduate School of Education to develop, test
-and refine our pedagogies for effective teaching.</p>
+<p>River Valley High School's Cognitive-Interest Development Curriculum (CIDC)
+seeks to develop students holistically and equip all of them with important
+"Attitude, Skills and Knowledge" (ASK) through authentic learning experiences.</p>
+<p>Students are given the opportunity to develop good habits of mind which
+means behaving intelligently when confronted with problems with no immediate
+answers (Art Costa, 2000). Students will also acquire critical, adaptive
+and inventive thinking skills that are crucial in the 21st Century. Students
+will move progressively from being a novice thinker to an advanced thinker.</p>
+<p>In addition, students learn not just to acquire knowledge, but to also
+construct knowledge. In constructing knowledge, students must show a thoughtful
+understanding of the connections and relationships between various disciplines.
+They must also show an ability to apply their learning to address problems
+that they are likely to encounter in life beyond the classroom.&nbsp;</p>
+<p>RVHS adopts the <em>Teaching for Understanding </em>(TfU) curriculum framework
+from the Harvard Graduate School of Education to implement the CIDC.</p>
 <h4>RV Flagship Programmes</h4>
 <p>The Special Assistance Plan (SAP) and Construct, Integrate and Differentiate
 (CID) programmes are signature CIDC programmes at RVHS that equip our students'
