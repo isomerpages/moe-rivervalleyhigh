@@ -3,10 +3,10 @@ title: Leadership Character Development
 permalink: /our-curriculum/Ldrship-Character-Development/lcd/
 description: ""
 third_nav_title: Balanced Education
+variant: markdown
 ---
 ## Leadership-Character Development
-
-<img src="/images/6Parliamentary Secretary.jpg" style="width:85%">
+![](/images/2025/Y_LEAD_IMG_6848.jpg)
 
 As a Special Assistance Plan school, RVHS places a strong emphasis on traditional Chinese values such as respect, appreciation, gratitude and contribution to society. As high potential students who will eventually lead on national and corporate platforms, the expectation is that RVians should demonstrate personal leadership and place people at the heart of what they do and serve with empathy.
 
