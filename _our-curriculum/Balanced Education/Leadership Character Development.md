@@ -9,6 +9,7 @@ variant: markdown
 ![](/images/2025/Y_LEAD_IMG_6848.jpg)
 
 The Leadership-Character Development curriculum is anchored in developing students to be resilient and overcome challenges whilst at the same time, be perceptive and critical in assessing information. The curriculum also seeks to nurture students into informed, concerned and participative citizens who possess sound character to serve the community and country. Student leadership has been the traditional mainstay of our LCD curriculum and every RVian has the opportunity to take up the mantle of leadership.
+
 #### Student Leadership Development Academy
 
 The Student Leadership Development Academy (SLDA) aims to nurture values-based leaders who are committed to serve the community and nation.
