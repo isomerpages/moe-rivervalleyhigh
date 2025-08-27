@@ -20,4 +20,3 @@ As organisers and hosts of the Y.LEAD Seminar, RVians also gain valuable experie
 ![](/images/2025/student_collaboration.jpg)
 
 ![](/images/2025/student_media.jpg)
-
