@@ -3,10 +3,10 @@ title: GEM Framework
 permalink: /our-curriculum/gem/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ## GEM Framework
-
-<img src="/images/Pt 8.jpeg" style="width:85%">
+![](/images/2025/GEM_Framework_Library__2_.jpg)
 
 In RV, our students are groomed for success. Our signature&nbsp;**Grow, Excel, Magnify (GEM)**&nbsp;Talent Development Framework progressively identifies a variety of talents in all our students and customises multiple programmes and platforms to nurture and&nbsp;**Grow**&nbsp;those talents over six years. Students are given the chance to&nbsp;**Excel**&nbsp;through talent development programmes designed by RV’s academic departments. In addition, outstanding students can further&nbsp;**Magnify**&nbsp;their talents and skills through challenging programmes and projects to make a significant impact on communities around them.
 
