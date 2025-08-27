@@ -8,12 +8,7 @@ variant: markdown
 ## Leadership-Character Development
 ![](/images/2025/Y_LEAD_IMG_6848.jpg)
 
-As a Special Assistance Plan school, RVHS places a strong emphasis on traditional Chinese values such as respect, appreciation, gratitude and contribution to society. As high potential students who will eventually lead on national and corporate platforms, the expectation is that RVians should demonstrate personal leadership and place people at the heart of what they do and serve with empathy.
-
-We believe in nurturing leaders of distinction who possess sound character to serve the community and country. The Leadership and Character Development curriculum is anchored on in developing students to be resilient and overcome challenges whilst at the same time, be perceptive and critical in assessing information. The curriculum also seeks to develop students to be informed, concerned and participative citizens.
-
-In addition, to develop leaders of distinction for Singapore, the leadership development component of the curriculum incorporates leadership skills which are grounded in sound moral values. It is developmental and every RVian will have the opportunity to take up the mantle of leadership.
-
+The Leadership-Character Development curriculum is anchored in developing students to be resilient and overcome challenges whilst at the same time, be perceptive and critical in assessing information. The curriculum also seeks to nurture students into informed, concerned and participative citizens who possess sound character to serve the community and country. Student leadership has been the traditional mainstay of our LCD curriculum and every RVian has the opportunity to take up the mantle of leadership.
 #### Student Leadership Development Academy
 
 The Student Leadership Development Academy (SLDA) aims to nurture values-based leaders who are committed to serve the community and nation.
