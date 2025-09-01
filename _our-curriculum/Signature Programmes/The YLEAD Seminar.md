@@ -12,11 +12,16 @@ Y.LEAD is an acronym for “Youth. Leverage Educate Actuate Develop”. The semi
 As organisers and hosts of the Y.LEAD Seminar, RVians also gain valuable experience from conceptualising, planning and organising a large-scale international seminar.
 
 ![](/images/2025/formation_2025.jpg)
+Y.LEAD Seminar 2025 Mass Display
 
 ![](/images/2025/dialogue_stage.jpg)
+Y.LEAD Seminar 2025 Opening Ceremony Dialogue with Guest of Honour 
 
 ![](/images/2025/SLs_stage.jpg)
+Traditional Sounding of the Gong signalling the official commencement of Y.LEAD Seminar 2025 
 
 ![](/images/2025/student_collaboration.jpg)
+Y.LEAD Leadership Challenge Discussion
 
 ![](/images/2025/student_media.jpg)
+Y.LEAD Investigative Learning Journey
