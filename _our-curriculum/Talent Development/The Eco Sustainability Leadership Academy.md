@@ -31,8 +31,9 @@ the school in addressing them.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Leading_a_dialogue_session_for_Eco_Week.jpg">
 </div>
 <p>Leading a dialogue session for Eco-Week</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TESLA_Hot_Composting_Workshop.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Guiding_the_YCSS_students_in_a_learning_journey.jpg">
 </div>
-<p>Hot composting workshop</p>
+<p>Guiding YCSS students in a learning journey</p>
 <p></p>
