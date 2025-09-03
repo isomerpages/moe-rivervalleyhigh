@@ -31,12 +31,28 @@ the school in addressing them.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Leading_a_dialogue_session_for_Eco_Week.jpg">
 </div>
 <p>Leading a dialogue session for Eco-Week</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Guiding_the_YCSS_students_in_a_learning_journey.jpg">
 </div>
 <p>Guiding YCSS students in a learning journey</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Environmental_charades_for_J1_experience.jpg">
 </div>
-<p>Environm</p>
+<p>Environmental charades for J1 experience</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Visiting_the_Sustainable_Singapore_Gallery.jpg">
+</div>
+<p>Visiting the Sustainable Singapore Gallery</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Making_T_shirt_bags_with_Green_Nudge.jpg">
+</div>
+<p>Making T-shirt bags with Green Nudge</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
