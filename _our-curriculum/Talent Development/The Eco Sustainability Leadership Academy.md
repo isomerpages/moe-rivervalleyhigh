@@ -36,4 +36,7 @@ the school in addressing them.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Guiding_the_YCSS_students_in_a_learning_journey.jpg">
 </div>
 <p>Guiding YCSS students in a learning journey</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Environmental_charades_for_J1_experience.jpg">
+</div>
+<p>Environm</p>
