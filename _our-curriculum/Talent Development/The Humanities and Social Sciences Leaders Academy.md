@@ -3,6 +3,7 @@ title: The Humanities and Social Sciences Leaders Academy
 permalink: /our-curriculum/Talent-Academies/hssla/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ## The Humanities and Social Sciences Leaders Academy
 
@@ -11,12 +12,16 @@ third_nav_title: Talent Development
 Throughout the course of history, the humanities have served to enrich and inform society, and provide the context in which policy and technological innovations can advance meaningfully. In addition, the humanities and social sciences also have an important role to play in the development of critical and independent thinking as learners grapple with changing contexts, shifting viewpoints and intricate philosophies. 
 
 The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS seeks to deepen students' understanding of the humanities and social sciences and to cater to those who have a passion to pursue further studies in the humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
-
-![Learning Journey War HSSLA](/images/students%20engaged%20in%20a%20learning%20journey%20as%20part%20of%20the%20slam%20on%20war!!.JPG)*Students engaged in a learning journey as part of a student-led module on war*
+![](/images/2025/Module__How_AI_is_taking_the__art__out_of__artificial_.jpg)
+Student participants in the Module 'How AI is taking the art of out artificial' 
 
 Through various platforms, HSSLA students gain insights in the multi-faceted field of the humanities and learn about issues that are pertinent to the human condition. The academy runs both teacher-led and student-led interdisciplinary modules that explore topics from "What is a humanist?" to ethical considerations in science. Students may also propose to lead a module on a topic of their choice and hone their leadership skills.
 
-![Humanities now ](/images/students%20participating%20in%20humanities%20now!%20activities.jpeg)*Students participating in Humanities Now!, a student-led school-wide event organised by HSSLA members*
+![](/images/2025/Fighting_it_out_in_the_module_Hegemony__Lead_your_class_to_victory.jpg)
+Students participating in the 'Fighting it out' Module Hegemony Lead our class to victory
+
+![](/images/2025/HSSLA_Now__2025_Learning_journey_to_Kampong_Glam.jpg)
+HSSLA Now! 2025 Learning journey to Kampong Glam
 
 In 2023, HSSLA brought a group of students to Ireland and the U.K. for an Overseas Experential Learning Programme (OELP). Through such opportunities, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
 
