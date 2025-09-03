@@ -26,10 +26,11 @@ the school in addressing them.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Engaging_with_the_speaker_after_Virogreen_sharing.jpg">
 </div>
 <p>Engaging with speaker after Virogreen sharing</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Community_at_SG_Maritime_Gallery.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Leading_a_dialogue_session_for_Eco_Week.jpg">
 </div>
-<p>Eco-Community at SG Maritime Gallery</p>
+<p>Leading a dialogue session for Eco-Week</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TESLA_Hot_Composting_Workshop.jpg">
 </div>
