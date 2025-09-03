@@ -28,8 +28,5 @@ In 2025, HSSLA brought a group of students to Germany for an Overseas Experentia
 ![](/images/2025/Humanities_and_Social_Sciences_Leaders_Academy_students_at_Brandenburg_Gate__Germany.jpg)
 HSSLA students at Brandenburg Gate, Germany
 
-![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry*
-
-![Enjoying life and writing poems in Dublin](/images/enjoying%20life%20and%20writing%20poems%20in%20dublin%202023.jpeg)*Enjoying life and writing poems in Dublin*
-
-![Les Mis HSSLA](/images/going%20to%20watch%20les%20miserables%20at%20the%20london%20sondheim%20theatre!.jpg)*Going to watch Les Miserables at the London Sondheim Theatre*
+![](/images/2025/Screenshot_2025_09_03_091536.png)
+Learning about the history of the Neuschwanstein Castle in Bavaria, Germany
