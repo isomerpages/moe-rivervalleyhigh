@@ -25,6 +25,8 @@ HSSLA Now! 2025 Learning journey to Kampong Glam
 
 In 2025, HSSLA brought a group of students to Germany for an Overseas Experential Learning Programme (OELP). Through such opportunities, HSSLA hopes to widen the perspectives and increase the cultural capital of our students so that they are ready for the challenges of the future.
 
+![](/images/2025/Humanities_and_Social_Sciences_Leaders_Academy_students_at_Brandenburg_Gate__Germany.jpg)
+HSSLA students at Brandenburg Gate, Germany
 
 ![Learning about The Troubles at Londonderry _ Derry!](/images/learning%20about%20the%20troubles%20at%20londonderry%20_%20derry!.jpg)*Learning about The Troubles at Londonderry*
 
