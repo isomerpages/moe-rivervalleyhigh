@@ -21,10 +21,11 @@ the school in addressing them.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bonded_TESLA_Family_at_Eco_Trail.jpeg">
 </div>
 <p>Bonded TESLA family at Eco-Trail</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_E_Forum_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Engaging_with_the_speaker_after_Virogreen_sharing.jpg">
 </div>
-<p>Environmental E-Forum</p>
+<p>Engaging with speaker after Virogreen sharing</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Community_at_SG_Maritime_Gallery.jpg">
 </div>
