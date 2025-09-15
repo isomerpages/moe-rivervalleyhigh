@@ -18,7 +18,7 @@ Student participants in the Module 'How AI is taking the art of out artificial'
 Through various platforms, HSSLA students gain insights in the multi-faceted field of the humanities and learn about issues that are pertinent to the human condition. The academy runs both teacher-led and student-led interdisciplinary modules that explore topics from "What is a humanist?" to ethical considerations in science. Students may also propose to lead a module on a topic of their choice and hone their leadership skills.
 
 ![](/images/2025/Fighting_it_out_in_the_module_Hegemony__Lead_your_class_to_victory.jpg)
-Students participating in the 'Fighting it out' Module Hegemony Lead our class to victory
+HSSLA students participating in the board game module: "Hegemony: Lead your class to victory"
 
 ![](/images/2025/HSSLA_Now__2025_Learning_journey_to_Kampong_Glam.jpg)
 HSSLA Now! 2025 Learning journey to Kampong Glam
