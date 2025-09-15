@@ -13,7 +13,7 @@ Throughout the course of history, the humanities have served to enrich and infor
 
 The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS seeks to deepen students' understanding of the humanities and social sciences and to cater to those who have a passion to pursue further studies in the humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
 ![](/images/2025/Module__How_AI_is_taking_the__art__out_of__artificial_.jpg)
-Student participants in the Module 'How AI is taking the art of out artificial' 
+HSSLA student participants in the Module "How AI is taking the art of out artificial"
 
 Through various platforms, HSSLA students gain insights in the multi-faceted field of the humanities and learn about issues that are pertinent to the human condition. The academy runs both teacher-led and student-led interdisciplinary modules that explore topics from "What is a humanist?" to ethical considerations in science. Students may also propose to lead a module on a topic of their choice and hone their leadership skills.
 
