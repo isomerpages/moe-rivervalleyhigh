@@ -3,6 +3,7 @@ title: The YLEAD Seminar
 permalink: /our-curriculum/Ldrship-Character-Development/ylead/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
 ## The Y.LEAD Seminar
 
@@ -10,15 +11,17 @@ Y.LEAD is an acronym for “Youth. Leverage Educate Actuate Develop”. The semi
 
 As organisers and hosts of the Y.LEAD Seminar, RVians also gain valuable experience from conceptualising, planning and organising a large-scale international seminar.
 
-![](/images/ylead%20seminar%202023%20mass%20display.JPG) Y.LEAD Seminar 2023 Mass Display
+![](/images/2025/formation_2025.jpg)
+Y.LEAD Seminar 2025 Mass Display
 
-![](/images/ylead%20leadership%20exploration%20programme.jpg) Y.LEAD 
-Leadership Exploration Programme
+![](/images/2025/dialogue_stage.jpg)
+Y.LEAD Seminar 2025 Opening Ceremony Dialogue with Guest of Honour 
 
-![](/images/ylead%20leadership%20challenge%20presentation.jpg) Y.LEAD Leadership Challenge Presentation
+![](/images/2025/SLs_stage.jpg)
+Traditional Sounding of the Gong signalling the official commencement of Y.LEAD Seminar 2025 
 
-![](/images/ylead%20virtual%20learning%20journey.jpeg) Y.LEAD Virtual Learning Journey
+![](/images/2025/student_collaboration.jpg)
+Y.LEAD Leadership Challenge Discussion
 
-
-
-
+![](/images/2025/student_media.jpg)
+Y.LEAD Investigative Learning Journey
