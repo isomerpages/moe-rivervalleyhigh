@@ -207,11 +207,10 @@ take the modes of an extended research essay or a university-taught course.</p>
 <td rowspan="1" colspan="1">
 <p><strong>NTU Nanyang Research</strong>
 </p>
-<p><strong>(started in mid 2024)</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NUS-MOE Science Research (started in mid 2024)</strong>
+<p><strong>NUS-MOE Science Research</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -620,7 +619,7 @@ for the H3 subject.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* <strong><a href="https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications" rel="noopener noreferrer nofollow" target="_blank">Online Application Form</a></strong>
+<p>* <a href="https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications" rel="noopener noreferrer nofollow" target="_blank">Online Application Form</a>
 </p>
 </td>
 </tr>
@@ -630,11 +629,20 @@ for the H3 subject.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* <a href="/files/NUS_H3_Module_Info___Sem_2_AY2024_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Module Information</a>
-<br>*<a href="/files/NUS_H3_Programme_Timetable___Sem_2_AY2024_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Timetable</a>
-<br>*<a href="/files/Application_instructions_NUS.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Instructions</a>
-<br>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_NUS_Module_Information.pdf" rel="noopener nofollow" target="_blank">Module Information</a>
 </p>
+</li>
+<li>
+<p><a href="/files/2025_NUS_Programme_Timetable.pdf" rel="noopener nofollow" target="_blank">Programme Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_NUS_Application_Instructions.pdf" rel="noopener nofollow" target="_blank">Application Instructions</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -643,8 +651,12 @@ for the H3 subject.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*<a href="/files/H3_Application_Form_2025_SMU.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_SMU_Application_Form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -676,7 +688,7 @@ for the H3 subject.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11 Oct 2024</strong>
+<p><strong>17 Oct 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -690,7 +702,7 @@ for 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>18 Oct 2024</strong>
+<p><strong>24 Oct 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -700,7 +712,7 @@ for 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>15 Nov 2024</strong>
+<p><strong>17 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +722,7 @@ schools/JCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>22 Nov 2024</strong>
+<p><strong>24 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -719,7 +731,7 @@ schools/JCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Term 1 Week 1 &amp; 2 of Jan 2025</strong>
+<p><strong>Term 1 Week 1 &amp; 2 of Jan 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -731,7 +743,7 @@ modules.</p>
 <td rowspan="1" colspan="1">
 <p><strong>NUS, NTU, SMU</strong>
 </p>
-<p><strong>&nbsp;– Jan 2025</strong>
+<p><strong>&nbsp;– Jan 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
