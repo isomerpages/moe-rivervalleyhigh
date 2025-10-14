@@ -210,7 +210,7 @@ take the modes of an extended research essay or a university-taught course.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NUS-MOE Science Research </strong>
+<p><strong>NUS-MOE Science Research</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,7 +619,7 @@ for the H3 subject.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* <strong><a href="https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications" rel="noopener noreferrer nofollow" target="_blank">Online Application Form</a></strong>
+<p>* <a href="https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications" rel="noopener noreferrer nofollow" target="_blank">Online Application Form</a>
 </p>
 </td>
 </tr>
