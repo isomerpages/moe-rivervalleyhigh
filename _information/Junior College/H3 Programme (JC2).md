@@ -693,7 +693,7 @@ for the H3 subject.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Publicise H3 programmes (MOE-Cambridge and MOE-Partner) and open &nbsp;application
-for 2024.</p>
+for 2025.</p>
 <p><em>Students sign up with school’s H3 coordinator using RVHS H3 Application Form &amp; RVHS Online H3 Application.</em>
 </p>
 <p><em>If applying to NUS/NTU/SMU, fill in their (online) applications as well.</em>
