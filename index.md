@@ -19,6 +19,12 @@ sections:
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
+      title: Inspiring Excellence
+      id: infopic
+      description: Recognise our teachers' exceptional contributions to education
+      image: /images/2025/PAT.jpg
+      alt: Image alt text
+  - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
       id: infopic
@@ -60,10 +66,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: Inspiring Excellence
-      id: infopic
-      description: Recognise our teachers' exceptional contributions to education
-      image: /images/2025/PAT.jpg
-      alt: Image alt text
 ---
