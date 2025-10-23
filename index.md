@@ -25,7 +25,7 @@ sections:
       image: /images/2025/PAT.jpg
       alt: Image alt text
   - infopic:
-      title: Spotlight our young educators
+      title: Spotlighting our young educators
       id: infopic
       image: /images/2025/OYEA.jpg
       alt: Image alt text
