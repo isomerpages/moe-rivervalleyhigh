@@ -67,11 +67,9 @@ sections:
       id: resources
       button: Read More
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Spotlighting on young educators
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Recognise our young teaching professionals
       image: /images/2025/OYEA.jpg
       alt: Image alt text
 ---
