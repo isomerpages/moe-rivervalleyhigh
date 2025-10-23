@@ -25,6 +25,11 @@ sections:
       image: /images/2025/PAT.jpg
       alt: Image alt text
   - infopic:
+      title: Spotlight our young educators
+      id: infopic
+      image: /images/2025/OYEA.jpg
+      alt: Image alt text
+  - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
       id: infopic
@@ -66,10 +71,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: Spotlighting on young educators
-      id: infopic
-      description: Recognise our young teaching professionals
-      image: /images/2025/OYEA.jpg
-      alt: Image alt text
 ---
