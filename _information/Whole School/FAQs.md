@@ -536,7 +536,7 @@ programmes so as to develop our students’ critical thinking skills.
 <br>* We offer Bicultural Studies Programme (Chinese) and SAP Scholarship
 <br>* We have six talent academies - Science&nbsp; Leaders Academy, Humanities
 and Social Sciences Leaders Academy, Mathematics Leaders Academy, Bicultural
-Leaders Academy and The Eco-Sustainability Leadership Academy and Student
+Leaders Academy, The Eco-Sustainability Leadership Academy and Student
 Leadership Development Leaders Academy to stretch our students’ potential
 <br>
 <br>As an IP school, students are exposed to varied learning experiences and
