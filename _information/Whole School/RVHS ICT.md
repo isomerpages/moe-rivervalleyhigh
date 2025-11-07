@@ -18,7 +18,7 @@ connected to others and to access information for Self-directed and Collaborativ
 Learning whenever required. Through the use of technology, students are
 also able to choose the type of digital product to construct in demonstrating
 their understanding.</p>
-<h4>National Digital Literacy Programme&nbsp; (NDLP)</h4>
+<h3>National Digital Literacy Programme&nbsp; (NDLP)</h3>
 <p>The PLD initiative under NDLP is a nation wide MOE initiative to equip
 every Secondary school student with a Personal Learning Device to make
 digital learning inclusive&nbsp; and develop digital literacies to be future
@@ -27,8 +27,8 @@ ready.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/photo1671125689.jpeg">
 </div>
-<p><strong>The Personal Learning Device</strong>
-<br>Using a 3 As approach (Affordability, Applicability and Appropriateness),
+<h4><strong>Personal Learning Device</strong></h4>
+<p>Using a 3 As approach (Affordability, Applicability and Appropriateness),
 RVHS had subscribed to Windows device as the school wide PLD for NDLP.
 All secondary school students will either be purchasing from PLD initiative
 bulk ordering or to use a self purchased personal laptop of similar specifications
@@ -105,12 +105,12 @@ and insurance for the PLD. All claims will be arrange through the PLD contractor
 </table>
 <p>For device collection and servicing, please click on the respective links&nbsp;for
 the location map of the Contractors' Service Centre and Collection Centre.
-[ <a href="/files/Acer%20Service%20%20Centre.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer</a> ;
-<a href="/files/Lenovo%20Service%20and%20Collection%20Centre.pdf" rel="noopener noreferrer nofollow" target="_blank">Lenovo</a>]</p>
+[ <a href="/files/Acer%20Service%20%20Centre.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer</a>]</p>
 <p>Students can also arrange to send to PLD to Service Centre or through
 School ICT helpdesk.</p>
-<p><strong>Device Management Application (DMA)</strong>
-<br>DMA is a critical component for PDLP and all laptops must be installed
+<p></p>
+<h4><strong>Device Management Application (DMA)</strong></h4>
+<p>DMA is a critical component for PDLP and all laptops must be installed
 with DMA in order to be used in school for learning as a PLD. It is necessary
 for monitoring of PLD activities and inculcate good cyberwellness habits
 without the presence of constant policing.</p>
@@ -197,8 +197,31 @@ will still follow that of normal school days.</p>
 <p>Parents can request to change your choice of After-School DMA Options
 at any time by emailing the dma administrator announced through the Parents
 Gateway.</p>
-<p><strong>In-School PLD and DMA Support</strong>
-<br>Students can approach ICT Helpdesk in school for PLD technical support:.</p>
+<p></p>
+<h4><strong>Computing Device for JC students</strong></h4>
+<p>JC students are encouraged to acquire a personal laptop of any type and
+kind to better tackle the requirement of computing usage for higher order
+learning should they not have one. (tablet convertible laptop is preferred
+for better integration between work productivity )</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are also eligible to purchase the school subscribed laptop from
+the PDLP initiative. More information will be provided on the procurement
+process.</p>
+</li>
+<li>
+<p>Needy students can apply for subsidised purchase of laptops through NeuPlus
+programme and also through school FAS scheme.</p>
+</li>
+<li>
+<p>Needy students may also loan out laptops for personalised learning. Request
+for loans are subjected to approval and may require recall if needed for
+upgrades or audits.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>In-School PLD and DMA Support</strong></h4>
+<p>Students can approach ICT Helpdesk in school for PLD technical support:.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -238,51 +261,25 @@ Gateway.</p>
 FAQs on PDLP.</p>
 </li>
 </ul>
-<h4>Bring Your Own Mobile Device (BYOMD)</h4>
-<p>Smart mobile phones continue to be an integral part of the 21st Century
-Learning environment in RVHS as it serve the primary communication needs
-for students learning. The portability of the smart mobile device complemented
-the primary PLD in situation and environment which the primary PLD may
-not be too suitable. Eg outfield investigation, filming and image capturing.</p>
-<h4>Computing Device for JC students</h4>
-<p>As PDLP is not extended to JC level, students are encouraged to acquire
-a personal laptop of any type and kind to better tackle the requirement
-of computing usage for higher order learning should they not have one.
-(Hybrid laptop is preferred for better integration between work productivity
-)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>JC students can continue to use smart mobile phones for personalised anytime,
-anywhere learning.</p>
-</li>
-<li>
-<p>Needy students can apply for subsidised purchase of laptops through NeuPlus
-programme and also through school FAS scheme.</p>
-</li>
-<li>
-<p>Needy students may also loan out laptops for personalised learning. Request
-for loans are subjected to approval and may require recall if needed for
-upgrades or audits.</p>
-</li>
-</ul>
-<h4>Cyber Wellness @ RV</h4>
+<p></p>
+<h3><strong>Cyber Wellness @ RV</strong></h3>
 <p>To emphasize the proper learning usage of computing devices in River Valley
 High School, iPads and other computing devices are referred to as Personal
 Learning Devices (PLDs). A series of measures are put in place to inculcate
 and to remind students of responsible usage.</p>
-<p><strong>Cyber Wellness theme in CCE lessons</strong>
-<br>Cyber Wellness is an area that is heavily themed in the new CCE lessons
+<h4><strong>Cyber Wellness theme in CCE lessons</strong></h4>
+<p>Cyber Wellness is an area that is heavily themed in the new CCE lessons
 where students are placed in discourse on contemporary topics to build
 identity and belonging. Students are made aware of Cyber Wellness issues
 and the potential&nbsp; impacts through these discussions in class.&nbsp;</p>
-<p><strong>PLD Usage Guidelines</strong>
-<br>The PLD usage guidelines builds upon MOE's R3ICH core values and details
+<h4><strong>PLD Usage Guidelines</strong></h4>
+<p>The PLD usage guidelines builds upon MOE's R3ICH core values and details
 how PLD should be use in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/PLD Guidelines Posters.png">
 </div>
-<p><strong>Acceptable Usage Policy</strong>
-<br>The Acceptable Usage Policy (AUP) is an agreement made by the students
+<h4><strong>Acceptable Usage Policy</strong></h4>
+<p>The Acceptable Usage Policy (AUP) is an agreement made by the students
 to adhere to the guidelines for proper PLD usage. There are 2 parts to
 the AUP - the first part is between the student and the school; the second
 part is between the student and the parent. The parent-student AUP requires
@@ -292,8 +289,8 @@ agreement and will need to be revised as the student grows. Often than
 not, the AUP serve as a 'conversation starter' between the student and
 the parent of PLD usage at home.</p>
 <p>AUP is available for download <a href="/files/AUP%20EL%20&amp;%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Parents Handbook on Learning with PLD</strong>
-<br>Parents/Guardians play an important role in keeping their children safe
+<h4><strong>Parents Handbook on Learning with PLD</strong></h4>
+<p>Parents/Guardians play an important role in keeping their children safe
 online, and are encouraged to read the following resources to learn more
 about how to keep their children safe online:</p>
 <ul data-tight="true" class="tight">
