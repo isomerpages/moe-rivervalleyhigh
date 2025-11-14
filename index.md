@@ -24,6 +24,7 @@ sections:
       image: /images/2025/Nov_Open_House_Banner.jpg
       alt: Image alt text
       title: Open House
+      description: 22nd Nov Saturday  8.30a.m to 12.30pm
   - infopic:
       title: Inspiring Excellence
       id: infopic
