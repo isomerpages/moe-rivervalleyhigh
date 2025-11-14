@@ -71,4 +71,9 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      subtitle: You're Invited!
+      id: infopic
+      image: /images/2025/Nov_Open_House_Banner.jpg
+      alt: Image alt text
 ---
