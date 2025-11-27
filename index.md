@@ -19,13 +19,6 @@ sections:
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
-      subtitle: You're Invited!
-      id: infopic
-      image: /images/2025/Nov_Open_House_Banner.jpg
-      alt: Image alt text
-      title: Open House
-      description: Join us on Saturday 22 Nov,  8.30a.m to 12.30pm
-  - infopic:
       title: Inspiring Excellence
       id: infopic
       description: Recognise our teachers' exceptional contributions to education
