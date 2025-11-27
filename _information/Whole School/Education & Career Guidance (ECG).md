@@ -3,6 +3,7 @@ title: Education & Career Guidance (ECG)
 permalink: /information/ecgsupport/
 description: ""
 third_nav_title: Whole School
+variant: markdown
 ---
 ### What is Education & Career Guidance (ECG)?
 ------------------------------------------
@@ -21,5 +22,3 @@ The RVHS ECG website has been designed to give students and parents access to in
 The RV ECG Website can be found [here](https://go.gov.sg/ecgrvhs).
 
 ![](/images/ecg%20website%20screenshot.png)
-
-(https://go.gov.sg/ecgrvhs)
