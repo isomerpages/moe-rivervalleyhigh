@@ -72,11 +72,11 @@ sections:
       id: resources
       button: Read More
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: RV70
+      subtitle: Celebrating
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read More
       image: /images/2025/RV70_Logo_V2.jpg
       alt: Image alt text
+      url: /rv70/
 ---
