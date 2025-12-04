@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - RV Stories/.keep
-      - RV70.md
       - "JC Orientation 2025: Aloha: Waving to New Beginnings.md"
       - RV68.md
       - Eco Trail @ RV.md
