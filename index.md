@@ -19,6 +19,14 @@ sections:
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
+      title: RV70
+      subtitle: Celebrating
+      id: infopic
+      button: Read More
+      image: /images/2025/RV70_Logo_V2.jpg
+      alt: Image alt text
+      url: /rv70/
+  - infopic:
       title: Inspiring Excellence
       id: infopic
       description: Recognise our teachers' exceptional contributions to education
@@ -71,12 +79,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: RV70
-      subtitle: Celebrating
-      id: infopic
-      button: Read More
-      image: /images/2025/RV70_Logo_V2.jpg
-      alt: Image alt text
-      url: /rv70/
 ---
