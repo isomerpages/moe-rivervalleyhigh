@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: RV70
 ---
-<p><a href="https://youtu.be/R8Uj9PrdVJU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/R8Uj9PrdVJU</a>
+<p><a href="https://youtu.be/LHBd3FElYH8" rel="noopener nofollow" target="_blank">Values-Based Leadership in Action</a>
 </p>
