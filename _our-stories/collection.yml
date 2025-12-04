@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - RV Stories/RV70.md
       - RV Stories/.keep
       - "JC Orientation 2025: Aloha: Waving to New Beginnings.md"
       - RV68.md
