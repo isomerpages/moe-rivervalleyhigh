@@ -42,8 +42,6 @@ leave a legacy that will inspire future generations.</p>
 this proud tradition of nurturing Leaders of Distinction who will serve
 Singapore and the world with excellence, compassion and purpose.</p>
 <p>Welcome to River Valley High School. Your story begins here.</p>
-<hr>
-<p></p>
 <p>Choy Wai Yin (Mdm)</p>
 <p><strong>Principal</strong>
 </p>
