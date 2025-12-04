@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - "RV70/RV Stories: Three Generations of RVians.md"
       - RV70/.keep
       - "JC Orientation 2025: Aloha: Waving to New Beginnings.md"
       - RV68.md
