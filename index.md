@@ -26,6 +26,9 @@ sections:
       image: /images/2025/RV70_Logo_V2.jpg
       alt: Image alt text
       url: /rv70/
+      description: For seventy years RVHS upheld its motto “Upholding Virtues,
+        Contributing to Society”,  nurturing generations of students in wisdom,
+        character, and courage.
   - infopic:
       title: Inspiring Excellence
       id: infopic
