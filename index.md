@@ -23,7 +23,7 @@ sections:
       subtitle: Celebrating
       id: infopic
       button: Read More
-      image: /images/2025/RV70_Logo_V2.jpg
+      image: /images/RV70_banner_for_emails.jpg
       alt: Image alt text
       url: /rv70/
       description: Learn more about RV70 and hear our stories.
