@@ -30,7 +30,7 @@ at the heart of their actions. We also cultivate proactiveness, empowering
 them to be the positive change makers deeply rooted in their commitment
 to nation and community.</p>
 <p>The RV spirit—lifelong learning, humility, innovation, gratitude, and
-collaborative progress—shapes though&nbsp;every classroom, every activity,
+collaborative progress—shapes through&nbsp;every classroom, every activity,
 every interaction. It is this spirit that has inspired countless RVians
 to pursue their passions courageously, lead with integrity, and touch lives
 in meaningful ways.</p>
