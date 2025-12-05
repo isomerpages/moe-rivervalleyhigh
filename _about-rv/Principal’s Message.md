@@ -10,6 +10,7 @@ variant: tiptap
 </div>
 <p>Welcome to the River Valley High School family, where every student's
 journey is one of discovery, growth and purpose.</p>
+<p></p>
 <p>2026 marks a significant milestone for River Valley High School as we
 celebrate RV’s 70<sup>th</sup> School Anniversary.&nbsp;</p>
 <p>At RV, we believe that true education touches the heart as much as it
