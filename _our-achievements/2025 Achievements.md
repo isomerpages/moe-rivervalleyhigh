@@ -71,7 +71,7 @@ Botswana 14-2 in the group stage, the team played against Germany in the
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Champions</strong>
+<p><strong>National 1st </strong>
 <br>Volleyball C Div Girls</p>
 <p><strong>National 1st</strong>
 <br>Trampoline A Div Girls – Gold
@@ -83,14 +83,13 @@ Botswana 14-2 in the group stage, the team played against Germany in the
 <br>Wushu – 15 Silver Medals</p>
 <p><strong>National 3rd</strong>
 <br>Badminton A Div Boys
-<br>Table Tennis B Div</p>
-<p>Wushu B &amp; C Div Girls
+<br>Table Tennis B Div
+<br>Wushu B &amp; C Div Girls
 <br>Wushu – 12 Bronze Medals</p>
 <p><strong>National 4th</strong>
-</p>
-<p>Softball A Div Girls</p>
-<p>Wushu A Div Girls</p>
-<p>Table Tennis C Div Girls (League 1 Championship)</p>
+<br>Softball A Div Girls
+<br>Wushu A Div Girls
+<br>Table Tennis C Div Girls (League 1 Championship)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -115,10 +114,10 @@ University of Sydney.</p>
 <p>MOE Engineering &amp; Tech Programme Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheyenne Chua (25J08)</p>
-<p>Megan Miranda Khoo (25J08)</p>
-<p>Kaelyn Quah Yu Tong (25J08)</p>
-<p>Cheng Yok Yong (Zeng Yurong) (25J08)</p>
+<p>Cheyenne Chua (25J08)
+<br>Megan Miranda Khoo (25J08)
+<br>Kaelyn Quah Yu Tong (25J08)
+<br>Cheng Yok Yong (Zeng Yurong) (25J08)</p>
 <p>Ang Ian (25J10)</p>
 <p>Loh Ying Jie, Ryo (25J10)</p>
 <p>Li Xin Hui (25J11)</p>
