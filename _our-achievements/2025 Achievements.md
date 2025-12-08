@@ -253,16 +253,15 @@ United States of the America.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LKC Medicine Anatomy Challenge</p>
-<p>(organised by NTU Lee Kong Chian School of Medicine)</p>
+<p>LKC Medicine Anatomy Challenge (organised by NTU Lee Kong Chian School
+of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4 Merit Awards</strong>
-</p>
-<p>Moon Teo (24J01)</p>
-<p>Kiana Loh Kai Wei (24J01)</p>
-<p>Kuan Jiaying (24J02)</p>
-<p>Tang Si Ying (24J03)</p>
+<br>Moon Teo (24J01)
+<br>Kiana Loh Kai Wei (24J01)
+<br>Kuan Jiaying (24J02)
+<br>Tang Si Ying (24J03)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
