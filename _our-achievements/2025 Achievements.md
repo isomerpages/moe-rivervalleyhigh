@@ -211,8 +211,7 @@ United States of the America.</p>
 <br>
 </p>
 <p><strong>1 Silver Award</strong>
-</p>
-<p>Duanmu Chuanjie (24J13)</p>
+<br>Duanmu Chuanjie (24J13)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -224,10 +223,9 @@ United States of the America.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Meritorious Award (Team)</strong>
-</p>
-<p>Ong Yue Yu, Valerie (4A)</p>
-<p>Thaddeus Ryan Ho Yu Xuan (4A)</p>
-<p>Lai Ying Ying (4D)</p>
+<br>Ong Yue Yu, Valerie (4A)
+<br>Thaddeus Ryan Ho Yu Xuan (4A)
+<br>Lai Ying Ying (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -241,16 +239,13 @@ United States of the America.</p>
 <p><strong>Category C2 First Person View Flight – Novice</strong>
 </p>
 <p><strong>11th Runner Up</strong>
-</p>
-<p>Tan Zheng Jie (24J18)</p>
-<p><strong>Category C1 Radio Control Flight – Fixed Wing</strong>
-</p>
-<p><strong>Best Presentation Award (Team</strong>)</p>
-<p>Low Xin En Eliora (Liu Xin'En) (25J02)</p>
-<p>Cheng Yok Yong (Zeng Yurong) (25J08)</p>
-<p>Lin Yushan (25J11)</p>
-<p>Lovelle Tan (25J17)</p>
-<p>Vincent Aung Myat Thu (25J17)</p>
+<br>Tan Zheng Jie (24J18)</p>
+<p><strong>Category C1 Radio Control Flight – Fixed Wing Best Presentation Award (Team</strong>)
+<br>Low Xin En Eliora (Liu Xin'En) (25J02)
+<br>Cheng Yok Yong (Zeng Yurong) (25J08)
+<br>Lin Yushan (25J11)
+<br>Lovelle Tan (25J17)
+<br>Vincent Aung Myat Thu (25J17)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
