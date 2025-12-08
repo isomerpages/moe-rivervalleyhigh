@@ -123,9 +123,9 @@ University of Sydney.</p>
 <br>Li Xin Hui (25J11)
 <br>Lucius Oo (25J11)
 <br>Lin Yushan (25J11)
-<br>Lew Rui Ling (25J11)</p>
-<p>Lim Jia Jing Bernice (25J11)</p>
-<p>Lim Shek Kai (Lin Xukai) (25J17)</p>
+<br>Lew Rui Ling (25J11)
+<br>Lim Jia Jing Bernice (25J11)
+<br>Lim Shek Kai (Lin Xukai) (25J17)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
