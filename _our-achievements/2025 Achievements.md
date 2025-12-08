@@ -187,10 +187,9 @@ United States of the America.</p>
 <br>Cheng Yok Yong (Zeng Yurong) (25J08)
 <br>Lin Jia Yu (25J11)</p>
 <p><strong>1 Commendation Award (Team)</strong>
-</p>
-<p>Lim Kai Xin (4A)</p>
-<p>Teo Hoe Pheng (4A)</p>
-<p>Ong Cheng Ling (4A)</p>
+<br>Lim Kai Xin (4A)
+<br>Teo Hoe Pheng (4A)
+<br>Ong Cheng Ling (4A)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -203,8 +202,7 @@ United States of the America.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Platinum Awards</strong>
-</p>
-<p>Justin Chong Jia Xuan (24J17)</p>
+<br>Justin Chong Jia Xuan (24J17)</p>
 <p>Liang Jun Cheng, Aaron (24J13)</p>
 <p>&nbsp;</p>
 <p><strong>3 Gold Awards</strong>
@@ -432,4 +430,6 @@ and the James Dyson Foundation)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;
+<br>
+</p>
