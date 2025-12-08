@@ -291,18 +291,15 @@ Society Singapore)</p>
 <td rowspan="1" colspan="1">
 <p>Secondary School Category
 <br><strong>“Best Photographed Observation” Award – 1st Place (Team)</strong>
-<br>Zuo Yibing (4G)</p>
-<p>Tey Kay Yee (4G)</p>
-<p>Tay Yi Xuan Zelia (4G)</p>
-<p>Teng Yan Wen (Ding Yanwen) (4G)</p>
-<p><strong>“Most Unique Observation” Award – 2nd Place and</strong>
-</p>
-<p><strong>“Highest Number of Species Observed” Award – 3rd Place (Team)</strong>
-</p>
-<p>Ji Ziting (4B)</p>
-<p>Sonia Saw Yin Min (4B)</p>
-<p>Edeline Toh You Xi (4B)</p>
-<p>Tang See Sheen, Shayne (Deng Shixuan) (4B)</p>
+<br>Zuo Yibing (4G)
+<br>Tey Kay Yee (4G)
+<br>Tay Yi Xuan Zelia (4G)
+<br>Teng Yan Wen (Ding Yanwen) (4G)</p>
+<p><strong>“Most Unique Observation” Award – 2nd Place and “Highest Number of Species Observed” Award – 3rd Place (Team)</strong>
+<br>Ji Ziting (4B)
+<br>Sonia Saw Yin Min (4B)
+<br>Edeline Toh You Xi (4B)
+<br>Tang See Sheen, Shayne (Deng Shixuan) (4B)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -314,8 +311,8 @@ Society Singapore)</p>
 and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Challenge #1: “A Ph-antom Ship” – a Chemical-powered Boat</p>
-<p><strong>6th Placing for school with highest participation rate</strong>
+<p>Challenge #1: “A Ph-antom Ship” – a Chemical-powered Boat
+<br><strong>6th Placing for school with highest participation rate</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
