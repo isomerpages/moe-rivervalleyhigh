@@ -342,9 +342,8 @@ and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2nd</strong>
-</p>
-<p>Charles Ng Jun Siang (4D)</p>
-<p>Trevor Tan (4D)</p>
+<br>Charles Ng Jun Siang (4D)
+<br>Trevor Tan (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -356,10 +355,9 @@ and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3rd</strong>
-</p>
-<p>Fionne Lim En Xuan (4D)</p>
-<p>Ing Sheldon (4D)</p>
-<p>Trevor Tan (4D)</p>
+<br>Fionne Lim En Xuan (4D)
+<br>Ing Sheldon (4D)
+<br>Trevor Tan (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -371,16 +369,13 @@ and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
-</p>
-<p>Duanmu Chuanjie (24J13)</p>
+<br>Duanmu Chuanjie (24J13)</p>
 <p><strong>Silver</strong>
-</p>
-<p>Xing Zian (24J17)</p>
+<br>Xing Zian (24J17)</p>
 <p><strong>Bronze</strong>
-</p>
-<p>Liang Jun Cheng Aaron (24J13)</p>
-<p>Wong Chi To Aiden (4D)</p>
-<p>Trevor Tan (4D)</p>
+<br>Liang Jun Cheng Aaron (24J13)
+<br>Wong Chi To Aiden (4D)
+<br>Trevor Tan (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -392,8 +387,7 @@ and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver</strong>
-</p>
-<p>Duanmu Chuanjie (24J13)</p>
+<br>Duanmu Chuanjie (24J13)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -405,10 +399,9 @@ and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6th Place</strong>
-</p>
-<p>Andreas Surya Tanjung (25J17)</p>
-<p>Gibson Bong Hoong Nien (24J17)</p>
-<p>Vincent Aung Myat Thu (25J17)</p>
+<br>Andreas Surya Tanjung (25J17)
+<br>Gibson Bong Hoong Nien (24J17)
+<br>Vincent Aung Myat Thu (25J17)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
