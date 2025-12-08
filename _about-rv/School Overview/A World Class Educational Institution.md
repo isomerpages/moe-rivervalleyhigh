@@ -3,8 +3,9 @@ title: A World Class Educational Institution
 permalink: /about-rv/awcei/
 description: ""
 third_nav_title: School Overview
+variant: markdown
 ---
-## A World-Class Educational Institution
+## A School of Opportunities
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="RV Corporate Video" src="https://www.youtube.com/embed/fEgK_66Iwgk" height="497" width="1263"></iframe>
 
