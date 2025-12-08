@@ -71,6 +71,10 @@ Botswana 14-2 in the group stage, the team played against Germany in the
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Champions</strong>
+</p>
+<p>Volleyball C Division Girls</p>
 <p><strong>National 1st</strong>
 </p>
 <p>Trampoline A Div Girls – Gold</p>
