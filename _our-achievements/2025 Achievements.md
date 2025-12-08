@@ -117,13 +117,13 @@ University of Sydney.</p>
 <p>Cheyenne Chua (25J08)
 <br>Megan Miranda Khoo (25J08)
 <br>Kaelyn Quah Yu Tong (25J08)
-<br>Cheng Yok Yong (Zeng Yurong) (25J08)</p>
-<p>Ang Ian (25J10)</p>
-<p>Loh Ying Jie, Ryo (25J10)</p>
-<p>Li Xin Hui (25J11)</p>
-<p>Lucius Oo (25J11)</p>
-<p>Lin Yushan (25J11)</p>
-<p>Lew Rui Ling (25J11)</p>
+<br>Cheng Yok Yong (Zeng Yurong) (25J08)
+<br>Ang Ian (25J10)
+<br>Loh Ying Jie, Ryo (25J10)
+<br>Li Xin Hui (25J11)
+<br>Lucius Oo (25J11)
+<br>Lin Yushan (25J11)
+<br>Lew Rui Ling (25J11)</p>
 <p>Lim Jia Jing Bernice (25J11)</p>
 <p>Lim Shek Kai (Lin Xukai) (25J17)</p>
 </td>
