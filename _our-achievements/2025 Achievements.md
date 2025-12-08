@@ -273,13 +273,11 @@ of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 JC1 students have been selected by MOE to participate in the following
-STEM research attachment programmes:</p>
-<p>(a)<strong> A*STAR-MOE Research Attachment Programme (RAP)</strong>
-</p>
-<p>Toh Rui Shey Dylan (25J04)</p>
+STEM research attachment programmes:
+<br>(a)<strong> A*STAR-MOE Research Attachment Programme (RAP)</strong>
+<br>Toh Rui Shey Dylan (25J04)</p>
 <p>(b) <strong>Research Attachment Programme (REAP) at Temasek Life Sciences Laboratory</strong>
-</p>
-<p>Mok Jia Xuan (25J04)</p>
+<br>Mok Jia Xuan (25J04)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -291,10 +289,9 @@ STEM research attachment programmes:</p>
 Society Singapore)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary School Category</p>
-<p><strong>“Best Photographed Observation” Award – 1st Place (Team)</strong>
-</p>
-<p>Zuo Yibing (4G)</p>
+<p>Secondary School Category
+<br><strong>“Best Photographed Observation” Award – 1st Place (Team)</strong>
+<br>Zuo Yibing (4G)</p>
 <p>Tey Kay Yee (4G)</p>
 <p>Tay Yi Xuan Zelia (4G)</p>
 <p>Teng Yan Wen (Ding Yanwen) (4G)</p>
