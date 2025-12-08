@@ -325,14 +325,13 @@ and the James Dyson Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver</strong>
-</p>
-<p>Andreas Surya Tanjung (25J17)</p>
-<p>Liu Yichen Claire (25J17)</p>
-<p>Tan Zhu Mo (24J17)</p>
-<p>Zhang Hengwei (25J17)</p>
-<p><strong>Bronze</strong>
-</p>
-<p>Gibson Bong Hoong Nien (24J17)</p>
+<br>Andreas Surya Tanjung (25J17)
+<br>Liu Yichen Claire (25J17)
+<br>Tan Zhu Mo (24J17)
+<br>Zhang Hengwei (25J17)</p>
+<p>
+<br><strong>Bronze</strong>
+<br>Gibson Bong Hoong Nien (24J17)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
