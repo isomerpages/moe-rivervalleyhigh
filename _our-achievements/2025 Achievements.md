@@ -79,8 +79,8 @@ Botswana 14-2 in the group stage, the team played against Germany in the
 <p><strong>National 2nd</strong>
 <br>Floorball A Div Girls
 <br>Wushu A &amp; B Div Boys
-<br>Taekwando (Poomsae) Yellow 8 Belt Category B Div Girls – Silver</p>
-<p>Wushu – 15 Silver Medals</p>
+<br>Taekwando (Poomsae) Yellow 8 Belt Category B Div Girls – Silver
+<br>Wushu – 15 Silver Medals</p>
 <p><strong>National 3rd</strong>
 <br>Badminton A Div Boys
 <br>Table Tennis B Div</p>
