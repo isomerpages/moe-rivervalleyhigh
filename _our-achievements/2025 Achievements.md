@@ -202,14 +202,14 @@ United States of the America.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Platinum Awards</strong>
-<br>Justin Chong Jia Xuan (24J17)</p>
-<p>Liang Jun Cheng, Aaron (24J13)</p>
-<p>&nbsp;</p>
+<br>Justin Chong Jia Xuan (24J17)
+<br>Liang Jun Cheng, Aaron (24J13)</p>
 <p><strong>3 Gold Awards</strong>
+<br>Aw Yang Yi Hang (24J13)
+<br>Tan Si Xuan (24J01)
+<br>Xing Zian (24J17)
+<br>
 </p>
-<p>Aw Yang Yi Hang (24J13)</p>
-<p>Tan Si Xuan (24J01)</p>
-<p>Xing Zian (24J17)</p>
 <p><strong>1 Silver Award</strong>
 </p>
 <p>Duanmu Chuanjie (24J13)</p>
