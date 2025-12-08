@@ -136,8 +136,10 @@ University of Sydney.</p>
 <p>Young Defence Scientists Programme Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Hui Ru (3A)</p>
-<p>Woo Zit On, Jayven (3I)</p>
+<p>Ang Hui Ru (3A)
+<br>Woo Zit On, Jayven (3I)
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -170,20 +172,20 @@ United States of the America.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Elementz Science Fair</p>
-<p>(organised by Anderson Serangoon Junior College)</p>
+<p>International Elementz Science Fair
+<br>(organised by
+<br>Anderson Serangoon Junior College)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Gold Awards (Team)</strong>
-</p>
-<p>Zong Yi (24J02)</p>
-<p>Moon Teo (24J01)</p>
-<p>Lim En Qi (24J02)</p>
-<p>Tang Si Ying (24J03)</p>
-<p>1 Silver Award (Team)</p>
-<p>Toh Rui Shey Dylan (25J04)</p>
-<p>Cheng Yok Yong (Zeng Yurong) (25J08)</p>
-<p>Lin Jia Yu (25J11)</p>
+<br>Zong Yi (24J02)
+<br>Moon Teo (24J01)
+<br>Lim En Qi (24J02)
+<br>Tang Si Ying (24J03)
+<br>1 Silver Award (Team)
+<br>Toh Rui Shey Dylan (25J04)
+<br>Cheng Yok Yong (Zeng Yurong) (25J08)
+<br>Lin Jia Yu (25J11)</p>
 <p><strong>1 Commendation Award (Team)</strong>
 </p>
 <p>Lim Kai Xin (4A)</p>
