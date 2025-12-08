@@ -12,10 +12,10 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Info for 2025 DSA (Sec)
+        - title: School Reopening Info (2026)
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2025/
-        - title: Info for 2025 DSA (JC)
+        - title: Welcome to our Sec 1 students
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
   - infopic:
