@@ -504,8 +504,7 @@ prestigious Mapletree-TENG scholarship.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Young Defence Scientists Programme (YDSP) Congress</strong>
-</p>
-<p>Three students received scholarships:
+<br>Three students received scholarships:
 <br>YDSP Scholarship - Ong Cheng Ling (3A) &amp; Ethan Bai Yixuan (3D)&nbsp;</p>
 <p>DSTA JC scholarship - Ching Yuhui Natalie (24J13)&nbsp;</p>
 <p>During the Students Keynote Presentation, their seniors, James Chan and
@@ -519,8 +518,7 @@ including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Champion</strong>
-</p>
-<p>Tan Jann (24J20)</p>
+<br>Tan Jann (24J20)</p>
 </td>
 </tr>
 <tr>
@@ -529,16 +527,15 @@ including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2nd Place</strong>
-</p>
-<p>Alexander David Goh Yuen Jun (3C)</p>
-<p>Chen Jieren, Jairus (3D)</p>
-<p>Chong Tze Tung (4A)</p>
-<p>Lee Wen Yu Spencer (4F)</p>
-<p>Lim Xuan Han, Zavi (3F)</p>
-<p>Liu Yancheng (4G)</p>
-<p>Ng Jia Enn (4D)</p>
-<p>Xu Tianyou (4C)</p>
-<p>Yang Maolong (3J)</p>
+<br>Alexander David Goh Yuen Jun (3C)
+<br>Chen Jieren, Jairus (3D)
+<br>Chong Tze Tung (4A)
+<br>Lee Wen Yu Spencer (4F)
+<br>Lim Xuan Han, Zavi (3F)
+<br>Liu Yancheng (4G)
+<br>Ng Jia Enn (4D)
+<br>Xu Tianyou (4C)
+<br>Yang Maolong (3J)</p>
 </td>
 </tr>
 <tr>
@@ -547,17 +544,16 @@ including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3rd Place</strong>
-</p>
-<p>Anais Ensi Marmonier (3A)</p>
-<p>Avery Ng Yi Wei (3A)</p>
-<p>Celeste Tang Xinyun (4C)</p>
-<p>Cheong Xiu Li Nicole (3F)</p>
-<p>Cheyenne Chua (4C)</p>
-<p>Chiun Yi Yun (4A)</p>
-<p>Gu Jiale (4G)</p>
-<p>Neo Xin Yu, Kylie (4A)</p>
-<p>Shayna Lee Zhi En (4D)</p>
-<p>Yong Xin Yu, Chloe (3H)</p>
+<br>Anais Ensi Marmonier (3A)
+<br>Avery Ng Yi Wei (3A)
+<br>Celeste Tang Xinyun (4C)
+<br>Cheong Xiu Li Nicole (3F)
+<br>Cheyenne Chua (4C)
+<br>Chiun Yi Yun (4A)
+<br>Gu Jiale (4G)
+<br>Neo Xin Yu, Kylie (4A)
+<br>Shayna Lee Zhi En (4D)
+<br>Yong Xin Yu, Chloe (3H)</p>
 </td>
 </tr>
 <tr>
