@@ -74,13 +74,11 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>优胜奖（团体）</strong>
-</p>
-<p>王新懿&nbsp;Wang Xinyi (4G)
+<br>王新懿&nbsp;Wang Xinyi (4G)
 <br>童钰轩&nbsp;Tong Yuxuan (4G)
 <br>朱婧萱&nbsp;Zhu Jingxuan (4G)</p>
 <p><strong>个人优异奖</strong>
-</p>
-<p>卢欣&nbsp;Lu Xin (3H)</p>
+<br>卢欣&nbsp;Lu Xin (3H)</p>
 </td>
 </tr>
 <tr>
