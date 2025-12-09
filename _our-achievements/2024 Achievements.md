@@ -445,8 +445,7 @@ of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Outstanding Delegate</strong>
-</p>
-<p>Heidi Goh 3A</p>
+<br>Heidi Goh 3A</p>
 </td>
 </tr>
 <tr>
@@ -455,15 +454,13 @@ of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction</strong>
-</p>
-<p>NCC Boys</p>
-<p>NCC Girls</p>
-<p>NPCC Boys</p>
-<p>NPCC Girls</p>
+<br>NCC Boys
+<br>NCC Girls
+<br>NPCC Boys
+<br>NPCC Girls</p>
 <p></p>
 <p><strong>Puan Noor Aishah Award – Gold</strong>
-</p>
-<p>Girl Guides</p>
+<br>Girl Guides</p>
 </td>
 </tr>
 <tr>
