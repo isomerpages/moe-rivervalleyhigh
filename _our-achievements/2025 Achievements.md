@@ -27,15 +27,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Certificate of Distinction</strong>
-</p>
-<p>Chinese Dance (Sec &amp; JC)</p>
-<p>Chinese Drama (Sec)</p>
-<p>Chinese Orchestra (Sec &amp; JC)</p>
-<p>International Dance (Sec)</p>
-<p>Choir (Sec &amp; JC)</p>
-<p>Concert Band (Sec)</p>
-<p>English Drama (Sec)</p>
-<p>Street Dance (JC)</p>
+<br>Chinese Dance (Sec &amp; JC)
+<br>Chinese Drama (Sec)
+<br>Chinese Orchestra (Sec &amp; JC)
+<br>International Dance (Sec)
+<br>Choir (Sec &amp; JC)
+<br>Concert Band (Sec)
+<br>English Drama (Sec)
+<br>Street Dance (JC)</p>
 </td>
 </tr>
 <tr>
@@ -55,12 +54,10 @@ Botswana 14-2 in the group stage, the team played against Germany in the
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>High Performance (U18)</strong>
-</p>
-<p>Caleb Ng Bin Rong, 4G (Wushu)</p>
-<p>Cholene Aw Rui En, 4I (Wushu)</p>
+<br>Caleb Ng Bin Rong, 4G (Wushu)
+<br>Cholene Aw Rui En, 4I (Wushu)</p>
 <p><strong>Secondary</strong>
-</p>
-<p>Jaedon Chua Hao Cheng, 3I (Table Tennis)</p>
+<br>Jaedon Chua Hao Cheng, 3I (Table Tennis)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
