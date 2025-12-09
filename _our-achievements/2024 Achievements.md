@@ -430,7 +430,7 @@ for recycling companies to do further processing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LKCMedicine Anatomy Challenge</p>
+<p>LKC Medicine Anatomy Challenge</p>
 <p>(organised by NTU Lee Kong Chian School of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
