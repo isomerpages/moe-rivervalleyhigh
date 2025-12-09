@@ -12,7 +12,7 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: School reopening Information for 2026
+        - title: School reopening information for 2026
           description: Click here
           url: /information-for-2025-secondary-one-students/
         - title: A warm welcome to our Secondary 1 students
