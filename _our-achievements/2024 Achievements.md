@@ -48,8 +48,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Olympic Foundation-Peter Lim Scholarship</p>
-<p>High Performance (Under-18 Category)</p>
+<p>Singapore Olympic Foundation-Peter Lim Scholarship High Performance (Under-18
+Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 RV student athletes are awarded the scholarship this year.&nbsp;</p>
