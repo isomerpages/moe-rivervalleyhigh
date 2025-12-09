@@ -208,9 +208,8 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver Award</strong>
-</p>
-<p>Teo Hong Kai, Dexter (4C)</p>
-<p>Zhang Hengwei (4C)</p>
+<br>Teo Hong Kai, Dexter (4C)
+<br>Zhang Hengwei (4C)</p>
 </td>
 </tr>
 <tr>
@@ -220,10 +219,9 @@ Explore Track</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Special Award (Best Poster Design)</strong>
-</p>
-<p>Jocelyn Lau Yu Xuan (3D)</p>
-<p>Kew Zhi Xuan (3F)</p>
-<p>Randall Lim Qiao Feng (3F)</p>
+<br>Jocelyn Lau Yu Xuan (3D)
+<br>Kew Zhi Xuan (3F)
+<br>Randall Lim Qiao Feng (3F)</p>
 </td>
 </tr>
 <tr>
