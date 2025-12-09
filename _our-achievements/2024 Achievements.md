@@ -59,11 +59,11 @@ description: ""
 <br>Verity Claire Neo Jia En 23J06 (Softball)
 <br>Cholene Aw Rui En 3I (Wushu)</p>
 <p><strong>Tertiary</strong>
+<br>Lee Si Lin 23J12 (Softball)</p>
+<p><strong>Secondary</strong>
+<br>Jaedon Chua Hao Cheng 2D (Table Tennis)
+<br>
 </p>
-<p>Lee Si Lin 23J12 (Softball)</p>
-<p>&nbsp;<strong>Secondary</strong>
-</p>
-<p>Jaedon Chua Hao Cheng 2D (Table Tennis)</p>
 </td>
 </tr>
 <tr>
