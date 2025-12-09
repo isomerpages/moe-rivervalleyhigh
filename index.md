@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: River Valley High School
-description: A world-class institution that develops leaders of distinction for Singapore
+description: A School of Opportunities
 image: /images/photo_2022-12-22_18-20-23.jpg
 permalink: /
 notification: ""
