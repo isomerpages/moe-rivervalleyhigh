@@ -430,14 +430,13 @@ for recycling companies to do further processing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LKC Medicine Anatomy Challenge</p>
-<p>(organised by NTU Lee Kong Chian School of Medicine)</p>
+<p>LKC Medicine Anatomy Challenge (organised by NTU Lee Kong Chian School
+of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Merit Awards</strong>
-</p>
-<p>Jiang Yuhan (23J03)</p>
-<p>Alston Choo Tian Jun (23J05)</p>
+<br>Jiang Yuhan (23J03)
+<br>Alston Choo Tian Jun (23J05)</p>
 </td>
 </tr>
 <tr>
