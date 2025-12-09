@@ -230,23 +230,22 @@ Explore Track</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Upper Secondary</strong>
-</p>
-<p>Lucius Oo (4E)</p>
-<p>Low Xin Lei (4E)</p>
-<p>Avril Teow Siqi (4E)</p>
-<p>Amelia Chee En Xi (4E)</p>
-<p>Chua Yu Jun, Lucas (4E)</p>
-<p>Kaelyn Quah Yu Tong (4E)</p>
-<p>Cheng Yok Yong (Zeng Yurong) (4E)</p>
-<p>Eng Teng Jyu, Aerith (Weng Yingyu) (4E)</p>
-<p>Ang Ian (4G)</p>
-<p>Zhang Jingxuan (4G)</p>
-<p>Gabriel Lim Zhexi (4G)</p>
-<p>Loh Ying Jie, Ryo (4G)</p>
+<br>Lucius Oo (4E)
+<br>Low Xin Lei (4E)
+<br>Avril Teow Siqi (4E)
+<br>Amelia Chee En Xi (4E)
+<br>Chua Yu Jun, Lucas (4E)
+<br>Kaelyn Quah Yu Tong (4E)
+<br>Cheng Yok Yong (Zeng Yurong) (4E)
+<br>Eng Teng Jyu, Aerith
+<br>(Weng Yingyu) (4E)
+<br>Ang Ian (4G)
+<br>Zhang Jingxuan (4G)
+<br>Gabriel Lim Zhexi (4G)
+<br>Loh Ying Jie, Ryo (4G)</p>
 <p><strong>Junior College</strong>
-</p>
-<p>Ng Zhi Xi (23J03)</p>
-<p>Jiang Yuhan (23J03)</p>
+<br>Ng Zhi Xi (23J03)
+<br>Jiang Yuhan (23J03)</p>
 </td>
 </tr>
 <tr>
@@ -885,4 +884,6 @@ in New Yang Style Taijiquan.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
