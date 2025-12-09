@@ -652,11 +652,11 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br>Khow Willard (23J18)</p>
 <p><strong>2 Singapore Association for the Advancement of Science Poster Awards for Science Communication (Team)</strong>
 <br>Kiana Loh Kai Wei (24J01)
-<br>Tey Yu Xin Richelle (24J05)</p>
-<p>Lim Sin Yu (24J12)</p>
-<p>Lim En Qi (24J02)</p>
-<p>Teo Shen Han (24J02)</p>
-<p>Christine Chuah Hui Qi (24J05)</p>
+<br>Tey Yu Xin Richelle (24J05)
+<br>Lim Sin Yu (24J12)
+<br>Lim En Qi (24J02)
+<br>Teo Shen Han (24J02)
+<br>Christine Chuah Hui Qi (24J05)</p>
 </td>
 </tr>
 <tr>
@@ -665,15 +665,13 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Category A: Junior College Commendation Award (Team)</strong>
-</p>
-<p>Fabius Tan Choon Keong (23J09)</p>
-<p>Lim Yu Yang (23J10)</p>
-<p>Nicholas Ng Yi Jie (23J17)</p>
+<br>Fabius Tan Choon Keong (23J09)
+<br>Lim Yu Yang (23J10)
+<br>Nicholas Ng Yi Jie (23J17)</p>
 <p><strong>Category B: Secondary School Bronze Award (Team)</strong>
-</p>
-<p>Li Xin Hui (4E)</p>
-<p>Lucius Oo (4E)</p>
-<p>Lew Rui Ling (4E)</p>
+<br>Li Xin Hui (4E)
+<br>Lucius Oo (4E)
+<br>Lew Rui Ling (4E)</p>
 </td>
 </tr>
 <tr>
@@ -684,20 +682,18 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p><strong>Starter Category (for Secondary Schools)</strong>
 </p>
 <p><strong>Distinction Award (Team)</strong>
-</p>
-<p>Chin Xiao Rou (24J08)</p>
-<p>Tan Zi Jun (24J11)</p>
-<p>Ching Yuhui, Natalie (24J13)</p>
-<p>Yang Lin Xuan (24J15)</p>
-<p>Merit Award (Team)</p>
-<p>Li Xin Hui (4E)</p>
-<p>Lin Yushan (4E)</p>
-<p>Lew Rui Ling (4E)</p>
-<p>Lim Jia Jing Bernice (4E)</p>
+<br>Chin Xiao Rou (24J08)
+<br>Tan Zi Jun (24J11)
+<br>Ching Yuhui, Natalie (24J13)
+<br>Yang Lin Xuan (24J15)
+<br>Merit Award (Team)
+<br>Li Xin Hui (4E)
+<br>Lin Yushan (4E)
+<br>Lew Rui Ling (4E)
+<br>Lim Jia Jing Bernice (4E)</p>
 <p><strong>Best Mentor Award</strong>
-</p>
-<p>Ms Khiu Yi Wen</p>
-<p>Ms Lau Shi Yun</p>
+<br>Ms Khiu Yi Wen
+<br>Ms Lau Shi Yun</p>
 </td>
 </tr>
 <tr>
@@ -706,19 +702,17 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st</strong>
-</p>
-<p>Dylan Zihong Saga&nbsp;(23J17)</p>
-<p>Foo Chuan Yuan (23J17)</p>
-<p>Mah Kian Siong Jerald&nbsp;(23J17)</p>
-<p>Tan Ik Kai Ayden (23J17)</p>
-<p>Tan Yi Jun (23J17)</p>
+<br>Dylan Zihong Saga&nbsp;(23J17)
+<br>Foo Chuan Yuan (23J17)
+<br>Mah Kian Siong Jerald&nbsp;(23J17)
+<br>Tan Ik Kai Ayden (23J17)
+<br>Tan Yi Jun (23J17)</p>
 <p><strong>3rd</strong>
-</p>
-<p>Lin Lejing, Fanny&nbsp;(23J13)</p>
-<p>Ong Yi Qian&nbsp;(23J13)</p>
-<p>Ng Shi Qing, Eugenia (23J17)</p>
-<p>Yeo Su Gar&nbsp;(23J17)</p>
-<p>Nicholas Ng Yi Jie&nbsp;(23J17)</p>
+<br>Lin Lejing, Fanny&nbsp;(23J13)
+<br>Ong Yi Qian&nbsp;(23J13)
+<br>Ng Shi Qing, Eugenia (23J17)
+<br>Yeo Su Gar&nbsp;(23J17)
+<br>Nicholas Ng Yi Jie&nbsp;(23J17)</p>
 </td>
 </tr>
 <tr>
@@ -727,15 +721,14 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Merit Award</strong>
-</p>
-<p>Li Hanyu (23J02)</p>
-<p>Zhang Wenya&nbsp;(23J06)</p>
-<p>Siak Jing Wen&nbsp;(23J06)</p>
-<p>Deborah Seng&nbsp;(23J20)</p>
-<p>Chua Wen Zhe&nbsp;(23J20)</p>
-<p>Averyl Cheong&nbsp;(23J20)</p>
-<p>Liu Xi&nbsp;(23J20)</p>
-<p>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
+<br>Li Hanyu (23J02)
+<br>Zhang Wenya&nbsp;(23J06)
+<br>Siak Jing Wen&nbsp;(23J06)
+<br>Deborah Seng&nbsp;(23J20)
+<br>Chua Wen Zhe&nbsp;(23J20)
+<br>Averyl Cheong&nbsp;(23J20)
+<br>Liu Xi&nbsp;(23J20)
+<br>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
 </td>
 </tr>
 <tr>
@@ -746,8 +739,7 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p><strong>2nd</strong>
 </p>
 <p><strong>Best Debater Award</strong>
-</p>
-<p>Geng Tong (23J08)</p>
+<br>Geng Tong (23J08)</p>
 </td>
 </tr>
 <tr>
