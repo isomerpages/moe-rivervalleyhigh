@@ -17,7 +17,7 @@ sections:
           url: /information-for-2025-secondary-one-students/
         - title: A warm welcome to our Secondary 1 students
           description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
+          url: /about-rv/pm/
   - infopic:
       title: RV70
       subtitle: Celebrating
