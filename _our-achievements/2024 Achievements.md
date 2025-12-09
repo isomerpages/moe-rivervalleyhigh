@@ -600,8 +600,8 @@ Boys</p>
 <td rowspan="1" colspan="1">
 <p>Wushu National Champions: B Division Boys</p>
 <p>Individual events: Team RV won 8 Gold, 10 Silver, and 11 Bronze medals</p>
-<p>Group events:</p>
-<p>Champions of the Group Weapon event: B Division Boys</p>
+<p>Group events:
+<br>Champions of the Group Weapon event: B Division Boys</p>
 <p></p>
 <p>Champions of the Group Weapon event and Divisional 4th placing: C Division
 Girls</p>
@@ -618,11 +618,11 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
-</p>
-<p>Chen Qingyuan (23J10)</p>
+<br>Chen Qingyuan (23J10)</p>
 <p><strong>Silver Award</strong>
+<br>Goh Rou Hui Ashley (23J17)
+<br>
 </p>
-<p>Goh Rou Hui Ashley (23J17)</p>
 <p>Goh Rou Hui Ashley (23J17) won 4 awards:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -638,15 +638,13 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p>Singapore Association for the Advancement of Science Poster</p>
 </li>
 </ul>
-<p>Award for Science Communication</p>
-<p><strong>2 Bronze Awards (Team)</strong>
-</p>
-<p>Ng Shi Qing Eugenia (23J17)</p>
-<p>Chan Si Yu, David (23J13)</p>
-<p>Chan Xing Yu, James (23J13)</p>
+<p>Award for Science Communication
+<br><strong>2 Bronze Awards (Team)</strong>
+<br>Ng Shi Qing Eugenia (23J17)
+<br>Chan Si Yu, David (23J13)
+<br>Chan Xing Yu, James (23J13)</p>
 <p><strong>2 Merit Awards (Team)</strong>
-</p>
-<p>Joslyn Yap Qian Ting (24J08)</p>
+<br>Joslyn Yap Qian Ting (24J08)</p>
 <p>Chong Chee Wen (24J10)</p>
 <p>Valerie Chia Boon Hwan (24J10)</p>
 <p>Li Hanyu (23J02)</p>
