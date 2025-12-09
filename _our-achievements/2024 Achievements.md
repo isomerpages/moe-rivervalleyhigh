@@ -155,14 +155,13 @@ Category)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>第三届《我来报新闻》挑战赛</p>
-<p>Young Reporter News Challenge</p>
+<p>第三届《我来报新闻》挑战赛
+<br>Young Reporter News Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>再生新闻-金奖</strong>
-</p>
-<p>郑涵尹&nbsp;Tang Han Yin (3C)</p>
-<p>顾楷昕&nbsp;Gu Kaixin (3C)</p>
+<br>郑涵尹&nbsp;Tang Han Yin (3C)
+<br>顾楷昕&nbsp;Gu Kaixin (3C)</p>
 <p></p>
 <p><strong>再生新闻-鼓励奖</strong>
 <br>林凯欣&nbsp;Lim Kai Xin (3A)
@@ -175,15 +174,13 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singing (group category) – 3rd place:</strong>
-</p>
-<p>Alicia Kok Yun Ting</p>
-<p>Khoo Xuan Mun</p>
-<p>Mr Liu Gongkai</p>
+<br>Alicia Kok Yun Ting
+<br>Khoo Xuan Mun
+<br>Mr Liu Gongkai</p>
 <p>&nbsp;<strong>Lyrics Writing Category – Merit Award</strong>
-</p>
-<p>Guo Jingyou</p>
-<p>Li Anqi</p>
-<p>Shi Diwen</p>
+<br>Guo Jingyou
+<br>Li Anqi
+<br>Shi Diwen</p>
 </td>
 </tr>
 <tr>
@@ -192,17 +189,17 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction</strong>
+<br>Wei Qixiong (23J08)
+<br>Wang Si Yin (24J03)
+<br>Valerie Chia Boon Hwan (24J10)
+<br>Celeste Chua Lin Gi (24J13)
+<br>
 </p>
-<p>Wei Qixiong (23J08)</p>
-<p>Wang Si Yin (24J03)</p>
-<p>Valerie Chia Boon Hwan (24J10)</p>
-<p>Celeste Chua Lin Gi (24J13)</p>
 <p><strong>Distinction</strong>
-</p>
-<p>Ayden-Luke Tan Jing En (23J11)</p>
-<p>Tan Zi Jun (24J11)</p>
-<p>Lin Yuen (24J13)</p>
-<p>Ang Ian (4G)</p>
+<br>Ayden-Luke Tan Jing En (23J11)
+<br>Tan Zi Jun (24J11)
+<br>Lin Yuen (24J13)
+<br>Ang Ian (4G)</p>
 </td>
 </tr>
 <tr>
