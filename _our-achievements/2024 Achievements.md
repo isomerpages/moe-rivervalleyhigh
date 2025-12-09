@@ -90,8 +90,7 @@ Category)</p>
 <p><strong>银奖Silver</strong>
 <br>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
 <p><strong><br>优异奖Excellent</strong>
-</p>
-<p>卢欣&nbsp;Lu Xin (3H)
+<br>卢欣&nbsp;Lu Xin (3H)
 <br>林嘉雨&nbsp;Lin Jia Yu (4E)</p>
 </td>
 </tr>
@@ -103,8 +102,8 @@ Category)</p>
 <td rowspan="1" colspan="1">
 <p><strong>亚军</strong>
 <br>耿彤&nbsp;Geng Tong (23J08)
-<br>陈杨蕙菘&nbsp;Tang Yang Hwee Song, Christina&nbsp;(23J08)</p>
-<p>吴裿瑩&nbsp;Doris Goh Kee Ying (23J14)
+<br>陈杨蕙菘&nbsp;Tang Yang Hwee Song, Christina&nbsp;(23J08)
+<br>吴裿瑩&nbsp;Doris Goh Kee Ying (23J14)
 <br>賴鋆僖&nbsp;Lai Yun Xi (23J14)
 <br>何潤旭&nbsp;Ho Roon Xu (23J14)</p>
 </td>
@@ -116,14 +115,11 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>特优奖</strong>
-</p>
-<p>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
+<br>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
 <p><strong>优秀奖</strong>
-</p>
-<p>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
+<br>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
 <p><strong>佳作奖</strong>
-</p>
-<p>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
+<br>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
 <p>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
 </td>
 </tr>
@@ -134,8 +130,7 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>殿军</strong>
-</p>
-<p>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
+<br>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
 </td>
 </tr>
 <tr>
@@ -145,8 +140,7 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>优胜奖</strong>
-</p>
-<p>孔馨怡&nbsp;Kong Xin Yi (2E)</p>
+<br>孔馨怡&nbsp;Kong Xin Yi (2E)</p>
 </td>
 </tr>
 <tr>
