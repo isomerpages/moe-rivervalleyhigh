@@ -736,9 +736,7 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p>Lion Cup Chinese Debate Competition (JC Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
-</p>
-<p><strong>Best Debater Award</strong>
+<p><strong>2nd Best Debater Award</strong>
 <br>Geng Tong (23J08)</p>
 </td>
 </tr>
