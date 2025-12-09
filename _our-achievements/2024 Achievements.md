@@ -125,8 +125,8 @@ Category)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>第三十五届全国学生书法比赛</p>
-<p>35th National Schools Chinese Calligraphy Competition</p>
+<p>第三十五届全国学生书法比赛
+<br>35th National Schools Chinese Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>殿军</strong>
@@ -135,8 +135,8 @@ Category)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>年威德智海全国硬笔书法比赛</p>
-<p>Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition</p>
+<p>年威德智海全国硬笔书法比赛
+<br>Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>优胜奖</strong>
@@ -145,13 +145,12 @@ Category)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>华文大比拼</p>
-<p>National Chinese Challenge</p>
+<p>华文大比拼
+<br>National Chinese Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>个人优异奖&nbsp;(全国前30）</strong>
-</p>
-<p>顾瀚文&nbsp;Gu Hanwen (3I)</p>
+<br>顾瀚文&nbsp;Gu Hanwen (3I)</p>
 </td>
 </tr>
 <tr>
