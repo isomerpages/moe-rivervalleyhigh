@@ -644,16 +644,15 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br>Chan Si Yu, David (23J13)
 <br>Chan Xing Yu, James (23J13)</p>
 <p><strong>2 Merit Awards (Team)</strong>
-<br>Joslyn Yap Qian Ting (24J08)</p>
-<p>Chong Chee Wen (24J10)</p>
-<p>Valerie Chia Boon Hwan (24J10)</p>
-<p>Li Hanyu (23J02)</p>
-<p>Chua Jia Rong (23J09)</p>
-<p>Khow Willard (23J18)</p>
+<br>Joslyn Yap Qian Ting (24J08)
+<br>Chong Chee Wen (24J10)
+<br>Valerie Chia Boon Hwan (24J10)
+<br>Li Hanyu (23J02)
+<br>Chua Jia Rong (23J09)
+<br>Khow Willard (23J18)</p>
 <p><strong>2 Singapore Association for the Advancement of Science Poster Awards for Science Communication (Team)</strong>
-</p>
-<p>Kiana Loh Kai Wei (24J01)</p>
-<p>Tey Yu Xin Richelle (24J05)</p>
+<br>Kiana Loh Kai Wei (24J01)
+<br>Tey Yu Xin Richelle (24J05)</p>
 <p>Lim Sin Yu (24J12)</p>
 <p>Lim En Qi (24J02)</p>
 <p>Teo Shen Han (24J02)</p>
@@ -853,6 +852,8 @@ in New Yang Style Taijiquan.</p>
 </tbody>
 </table>
 <p>
+<br>
+<br>
 <br>
 <br>
 </p>
