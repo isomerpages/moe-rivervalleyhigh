@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: School reopening Information for 2026
           description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2025/
+          url: ""
         - title: A warm welcome to our Secondary 1 students
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
