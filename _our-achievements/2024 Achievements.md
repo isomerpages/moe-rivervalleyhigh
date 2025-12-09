@@ -253,8 +253,8 @@ Explore Track</p>
 <p>Young Defence Scientists Programme Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Cheng Ling (3A)</p>
-<p>Ethan Bai Yixuan (3D)</p>
+<p>Ong Cheng Ling (3A)
+<br>Ethan Bai Yixuan (3D)</p>
 </td>
 </tr>
 <tr>
@@ -272,9 +272,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st Place (Team)</strong>
-</p>
-<p>Chan Si Yu, David (23J13)</p>
-<p>Chan Xing Yu, James (23J13)</p>
+<br>Chan Si Yu, David (23J13)
+<br>Chan Xing Yu, James (23J13)</p>
 </td>
 </tr>
 <tr>
@@ -283,21 +282,19 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Silver Awards (Team)</strong>
-</p>
-<p>Lim En Qi (24J02)</p>
-<p>Teo Shen Han (24J02)</p>
-<p>Christine Chuah Hui Qi (24J05)</p>
-<p>Chong Qing Ya (23J01)</p>
-<p>Eaindra Khin (23J04)</p>
-<p>Ng Jia Ying (23J05)</p>
+<br>Lim En Qi (24J02)
+<br>Teo Shen Han (24J02)
+<br>Christine Chuah Hui Qi (24J05)
+<br>Chong Qing Ya (23J01)
+<br>Eaindra Khin (23J04)
+<br>Ng Jia Ying (23J05)</p>
 <p><strong>2 Bronze Awards (Team)</strong>
-</p>
-<p>Chua Wan Zhen Kevina (24J02)</p>
-<p>Kong Teck Nyin (24J10)</p>
-<p>Chua Chin Tat (24J16)</p>
-<p>Mya Cherry (23J03)</p>
-<p>Ngieng Xin Hui (23J03)</p>
-<p>Hong Shi Ting, Geraldine (23J03)</p>
+<br>Chua Wan Zhen Kevina (24J02)
+<br>Kong Teck Nyin (24J10)
+<br>Chua Chin Tat (24J16)
+<br>Mya Cherry (23J03)
+<br>Ngieng Xin Hui (23J03)
+<br>Hong Shi Ting, Geraldine (23J03)</p>
 </td>
 </tr>
 <tr>
@@ -306,9 +303,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Merit Awards</strong>
-</p>
-<p>Mya Cherry (23J03)</p>
-<p>Hong Shi Ting, Geraldine (23J03)</p>
+<br>Mya Cherry (23J03)
+<br>Hong Shi Ting, Geraldine (23J03)</p>
 </td>
 </tr>
 <tr>
@@ -317,10 +313,9 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3 Silver Medals</strong>
-</p>
-<p>Zhang Hengwei (4C)</p>
-<p>Chen Qingyuan (23J10)</p>
-<p>Chua Zhong Ding (23J17)</p>
+<br>Zhang Hengwei (4C)
+<br>Chen Qingyuan (23J10)
+<br>Chua Zhong Ding (23J17)</p>
 <p><strong>5 Bronze Medals</strong>
 </p>
 <p>Megan Miranda Khoo (4C)</p>
