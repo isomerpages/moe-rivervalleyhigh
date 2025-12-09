@@ -24,8 +24,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Certificate of Distinction</strong>
-</p>
-<p>EL and CL Drama (JC)</p>
+<br>EL and CL Drama (JC)</p>
 </td>
 </tr>
 <tr>
@@ -34,20 +33,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National 1st</strong>
-</p>
-<p>Wushu – B Division Boys</p>
-<p>&nbsp;<strong>National 2nd</strong>
-</p>
-<p>Floorball – A Division Girls</p>
+<br>Wushu – B Division Boys</p>
+<p>
+<br><strong>National 2nd</strong>
+<br>Floorball – A Division Girls</p>
 <p>&nbsp;<strong>National 3rd</strong>
-</p>
-<p>Softball – A Division Boys &amp; Girls</p>
-<p>Wushu – A Division Boys &amp; Girls</p>
-<p>&nbsp;<strong>National 4th</strong>
-</p>
-<p>Badminton – A &amp; B Division Boys</p>
-<p>Table Tennis – A Division Boys &amp; B Division Girls</p>
-<p>Wushu – C Division Girls</p>
+<br>Softball – A Division Boys &amp; Girls
+<br>Wushu – A Division Boys &amp; Girls
+<br><strong>National 4th</strong>
+<br>Badminton – A &amp; B Division Boys
+<br>Table Tennis – A Division Boys &amp; B Division Girls
+<br>Wushu – C Division Girls</p>
 </td>
 </tr>
 <tr>
@@ -57,12 +53,12 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>5 RV student athletes are awarded the above scholarship this year.&nbsp;</p>
+<p></p>
 <p><strong>High Performance (U18)</strong>
-</p>
-<p>Lim Yi Fan 23J05 (Softball)</p>
-<p>Verity Claire Neo Jia En 23J06 (Softball)</p>
-<p>Cholene Aw Rui En 3I (Wushu)</p>
-<p>&nbsp;<strong>Tertiary</strong>
+<br>Lim Yi Fan 23J05 (Softball)
+<br>Verity Claire Neo Jia En 23J06 (Softball)
+<br>Cholene Aw Rui En 3I (Wushu)</p>
+<p><strong>Tertiary</strong>
 </p>
 <p>Lee Si Lin 23J12 (Softball)</p>
 <p>&nbsp;<strong>Secondary</strong>
