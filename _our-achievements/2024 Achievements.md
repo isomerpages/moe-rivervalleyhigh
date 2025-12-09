@@ -563,19 +563,18 @@ Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Champions</strong>
-</p>
-<p>Chew Guan Zhi, Titus (4A)</p>
-<p>Chew Jie Ren (4H)</p>
-<p>Chew Jie Rui (4C)</p>
-<p>Chia Le Rong (3G)</p>
-<p>Guo Zhiqian (3G)</p>
-<p>Haru Kwan (4I)</p>
-<p>Keyan Ong (3G)</p>
-<p>Lee Dong Lin Kenny (3G)</p>
-<p>Lim Tze Ray (3B)</p>
-<p>Ng Zai Xi (4A)</p>
-<p>Wang Zekai (3F)</p>
-<p>Zheng Yichun (3G)</p>
+<br>Chew Guan Zhi, Titus (4A)
+<br>Chew Jie Ren (4H)
+<br>Chew Jie Rui (4C)
+<br>Chia Le Rong (3G)
+<br>Guo Zhiqian (3G)
+<br>Haru Kwan (4I)
+<br>Keyan Ong (3G)
+<br>Lee Dong Lin Kenny (3G)
+<br>Lim Tze Ray (3B)
+<br>Ng Zai Xi (4A)
+<br>Wang Zekai (3F)
+<br>Zheng Yichun (3G)</p>
 </td>
 </tr>
 <tr>
@@ -856,5 +855,6 @@ in New Yang Style Taijiquan.</p>
 </tbody>
 </table>
 <p>
+<br>
 <br>
 </p>
