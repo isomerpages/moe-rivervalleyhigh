@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: School reopening information for 2026
           description: Click here
-          url: /information-for-2025-secondary-one-students/
+          url: ""
         - title: A warm welcome to our Secondary 1 students
           description: Click here
           url: /about-rv/pm/
