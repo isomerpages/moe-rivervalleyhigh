@@ -317,12 +317,11 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <br>Chen Qingyuan (23J10)
 <br>Chua Zhong Ding (23J17)</p>
 <p><strong>5 Bronze Medals</strong>
-</p>
-<p>Megan Miranda Khoo (4C)</p>
-<p>Zhu Ziyan (23J11)</p>
-<p>Shi Yu Xiang (23J17)</p>
-<p>Lin Yuen (24J13)</p>
-<p>Tan Zhu Mo (24J13)</p>
+<br>Megan Miranda Khoo (4C)
+<br>Zhu Ziyan (23J11)
+<br>Shi Yu Xiang (23J17)
+<br>Lin Yuen (24J13)
+<br>Tan Zhu Mo (24J13)</p>
 </td>
 </tr>
 <tr>
@@ -331,9 +330,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Open Category: 2nd Runner Up (Team)</strong>
-</p>
-<p>Xu Lexin (2C)</p>
-<p>Chloe Chan Kai Ho (2F)</p>
+<br>Xu Lexin (2C)
+<br>Chloe Chan Kai Ho (2F)</p>
 </td>
 </tr>
 <tr>
@@ -342,9 +340,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Creative Innovation Award (Team)</strong>
-</p>
-<p>Ang Hui Ru (2F)</p>
-<p>Chloe Chan Kai Ho (2F)</p>
+<br>Ang Hui Ru (2F)
+<br>Chloe Chan Kai Ho (2F)</p>
 </td>
 </tr>
 <tr>
@@ -367,21 +364,17 @@ for recycling companies to do further processing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Secondary Schools Category</u></strong>
-</p>
-<p><strong>3rd Prize (Team)</strong>
-</p>
-<p>Hoo Rui Ting (2B)</p>
-<p>Emmaus Wong Rui (2B)</p>
-<p><strong>3 Merit Awards (Team)</strong>
-</p>
-<p>Luan Jiahui (2C)</p>
-<p>Tan Yu Xuan Jenell (2C)</p>
-<p></p>
-<p>Boo Jia Chen (2H)</p>
-<p>Han Chengxi Javen (2H)</p>
-<p>Lovelle Tan (4C)</p>
-<p>Lin Yushan (4E)</p>
-<p>Toh Zheng Yu (4G)</p>
+<br><strong>3rd Prize (Team)</strong>
+<br>Hoo Rui Ting (2B)
+<br>Emmaus Wong Rui (2B)
+<br><strong>3 Merit Awards (Team)</strong>
+<br>Luan Jiahui (2C)
+<br>Tan Yu Xuan Jenell (2C)
+<br>Boo Jia Chen (2H)
+<br>Han Chengxi Javen (2H)
+<br>Lovelle Tan (4C)
+<br>Lin Yushan (4E)
+<br>Toh Zheng Yu (4G)</p>
 </td>
 </tr>
 <tr>
