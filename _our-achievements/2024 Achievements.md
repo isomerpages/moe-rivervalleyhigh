@@ -789,8 +789,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p>2024年全国中学生现场翻译比赛（National Secondary School Translation Competition 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>团体优胜奖(Team Award):</p>
-<p>Wang Xinyi (4G)
+<p>团体优胜奖(Team Award)
+<br>Wang Xinyi (4G)
 <br>Zhu Jingxuan (4G)
 <br>Tong Yuxuan (4G)
 <br>
