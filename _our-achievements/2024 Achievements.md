@@ -411,24 +411,21 @@ for recycling companies to do further processing.</p>
 <br>Chiew Pui See Sarah (23J04)
 <br>Lim Qian Hui (23J05)</p>
 <p><strong>5 Silver Awards</strong>
-</p>
-<p>Li Hanyu (23J02)</p>
-<p>Tam Jing Yi Joanne (23J02)</p>
-<p>Leo Kit Yee (23J03)</p>
-<p>Hong Shi Ting, Geraldine (23J03)</p>
-<p>Pour Zhi Lin (23J05)</p>
+<br>Li Hanyu (23J02)
+<br>Tam Jing Yi Joanne (23J02)
+<br>Leo Kit Yee (23J03)
+<br>Hong Shi Ting, Geraldine (23J03)
+<br>Pour Zhi Lin (23J05)</p>
 <p><strong>6 Bronze Awards</strong>
-</p>
-<p>Low Zi Ting (23J02)</p>
-<p>Lim Yi Fan (23J05)</p>
-<p>Ng Jia Ying (23J05)</p>
-<p>Pua Jia Yee (23J05)</p>
-<p>Ang Yi En Jerlene (23J05)</p>
+<br>Low Zi Ting (23J02)
+<br>Lim Yi Fan (23J05)
+<br>Ng Jia Ying (23J05)
+<br>Pua Jia Yee (23J05)
+<br>Ang Yi En Jerlene (23J05)</p>
 <p><strong>3 Honourable Mention Awards</strong>
-</p>
-<p>Chan Wen Hsin (23J03)</p>
-<p>Melanie Tan Qiao Enn (23J05)</p>
-<p>Wong Shao Qin (23J12)</p>
+<br>Chan Wen Hsin (23J03)
+<br>Melanie Tan Qiao Enn (23J05)
+<br>Wong Shao Qin (23J12)</p>
 </td>
 </tr>
 <tr>
