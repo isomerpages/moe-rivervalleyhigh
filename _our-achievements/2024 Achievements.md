@@ -366,7 +366,8 @@ for recycling companies to do further processing.</p>
 <p><strong><u>Secondary Schools Category</u></strong>
 <br><strong>3rd Prize (Team)</strong>
 <br>Hoo Rui Ting (2B)
-<br>Emmaus Wong Rui (2B)
+<br>Emmaus Wong Rui (2B)</p>
+<p>
 <br><strong>3 Merit Awards (Team)</strong>
 <br>Luan Jiahui (2C)
 <br>Tan Yu Xuan Jenell (2C)
@@ -379,43 +380,36 @@ for recycling companies to do further processing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Biomedical Quiz</p>
-<p>(organised by Anglo-Chinese Junior College)</p>
+<p>Biomedical Quiz
+<br>(organised by Anglo-Chinese Junior College)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Category 1: Secondary 3 &amp; 4</u></strong>
-</p>
-<p><strong>6 Gold Awards</strong>
-</p>
-<p>Mok Jia Xuan (4E)</p>
-<p>Tan Min Juan (4E)</p>
-<p>Avril Teow Si Qi (4E)</p>
-<p>Cheng Shi Teng (4E)</p>
-<p>Low Xin En Eliora (4E)</p>
-<p>Lin Rui'En (4H)</p>
-<p></p>
+<br><strong>6 Gold Awards</strong>
+<br>Mok Jia Xuan (4E)
+<br>Tan Min Juan (4E)
+<br>Avril Teow Si Qi (4E)
+<br>Cheng Shi Teng (4E)
+<br>Low Xin En Eliora (4E)
+<br>Lin Rui'En (4H)</p>
 <p><strong>2 Silver Awards</strong>
-</p>
-<p>Koh Wie Millie (4E)</p>
-<p>Gu Jiale (4G)</p>
+<br>Koh Wie Millie (4E)
+<br>Gu Jiale (4G)</p>
 <p><strong>2 Bronze Awards</strong>
+<br>Zhao Jiayi Felicity (4E)
+<br>Chua Yu Jun, Lucas (4E)
+<br>
 </p>
-<p>Zhao Jiayi Felicity (4E)</p>
-<p>Chua Yu Jun, Lucas (4E)</p>
 <p><strong>1 Honourable Mention Award</strong>
-</p>
-<p>Lew Rui Ling (4E)</p>
+<br>Lew Rui Ling (4E)</p>
 <p><strong>2 Merit Awards</strong>
-</p>
-<p>Lim Jia Jing Bernice (4E)</p>
-<p>Zhang Jingxuan (4G)</p>
+<br>Lim Jia Jing Bernice (4E)
+<br>Zhang Jingxuan (4G)</p>
 <p><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
-</p>
-<p><strong>3 Gold Awards</strong>
-</p>
-<p>Wai Rui Enn (23J02)</p>
-<p>Chiew Pui See Sarah (23J04)</p>
-<p>Lim Qian Hui (23J05)</p>
+<br><strong>3 Gold Awards</strong>
+<br>Wai Rui Enn (23J02)
+<br>Chiew Pui See Sarah (23J04)
+<br>Lim Qian Hui (23J05)</p>
 <p><strong>5 Silver Awards</strong>
 </p>
 <p>Li Hanyu (23J02)</p>
