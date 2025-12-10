@@ -30,8 +30,10 @@ variant: tiptap
 <br>Wushu C Div Girls: 2nd
 <br>Wushu A Div Boys: 3rd
 <br>Wushu C Div&nbsp;Boys: 3rd
-<br>Badminton&nbsp;A Div Girls: 3rd</p>
-<p>Badminton B Div Boys: 3rd&nbsp;</p>
+<br>Badminton&nbsp;A Div Girls: 3rd
+<br>Badminton B Div Boys: 3rd
+<br>
+</p>
 <p>A Division Softball Boys: 3rd</p>
 <p>C Division&nbsp;Table Tennis&nbsp;Girls: 4th</p>
 <p>B Division&nbsp;Floorball Girls: 4th</p>
