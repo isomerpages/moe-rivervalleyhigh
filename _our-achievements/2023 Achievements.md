@@ -185,8 +185,8 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>2023年镜头会说话</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>梁可悦(23J14)</p>
-<p>作品:&nbsp;一步、一脚印</p>
+<p>梁可悦(23J14)
+<br>作品:&nbsp;一步、一脚印</p>
 </td>
 </tr>
 <tr>
@@ -198,10 +198,10 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st in GRG Mobile Robotics 3</strong>
-</p>
-<p>Goh Yan Bin (4I)</p>
-<p>Trevor Tan (2B)</p>
-<p>Lim Zheng Rui, Alexander (1H)<strong>&nbsp;</strong>
+<br>Goh Yan Bin (4I)
+<br>Trevor Tan (2B)
+<br>Lim Zheng Rui, Alexander (1H)<strong>&nbsp;</strong>
+<br>
 </p>
 </td>
 </tr>
