@@ -211,15 +211,12 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Judges’ Award for Robomission Senior</strong>
-</p>
-<p>Lin Xinying (23J13)</p>
-<p>Yeo Su Gar (23J17)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>Lin Xinying (23J13)
+<br>Yeo Su Gar (23J17)</p>
+<p></p>
 <p><strong>2nd in Robomission Senior (Side Quest 3)</strong>
-</p>
-<p>Lin Xinying (23J13)</p>
-<p>Yeo Su Gar (23J17)</p>
+<br>Lin Xinying (23J13)
+<br>Yeo Su Gar (23J17)</p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
