@@ -132,7 +132,7 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit overall proficiency award for 2022 - Distinction</p>
+<p>Unit Overall Proficiency Award for 2022: Distinction</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Junior League of ACJC Orators Trophy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion – Jacob Kwek (2C)&nbsp;</p>
+<p>Champion: Jacob Kwek (2C)&nbsp;</p>
 </td>
 </tr>
 <tr>
