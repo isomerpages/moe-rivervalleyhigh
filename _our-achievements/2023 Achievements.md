@@ -46,10 +46,10 @@ variant: tiptap
 <p>West Zone Table Tennis Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys - 2nd</p>
-<p>B Division Girls - 2nd</p>
-<p>C Division Boys - 2nd</p>
-<p>C Division Girls - 2nd&nbsp;</p>
+<p>B Division Boys: 2nd
+<br>B Division Girls: 2nd
+<br>C Division Boys: 2nd
+<br>C Division Girls: 2nd&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>West Zone Badminton Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys - 3rd</p>
+<p>B Division Boys: 3rd</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>West Zone Netball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Girls - 4th&nbsp;</p>
+<p>B Division Girls: 4th&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>West Zone Volleyball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Division - 4th</p>
+<p>C Division: 4th</p>
 </td>
 </tr>
 <tr>
