@@ -34,10 +34,11 @@ variant: tiptap
 <br>Badminton B Div Boys: 3rd
 <br>Softball A Div Boys: 3rd
 <br>Table Tennis&nbsp;C Div Girls: 4th
-<br>Floorball B Div Girls: 4th</p>
-<p>A Division&nbsp;Softball&nbsp;Girls: 4th</p>
+<br>Floorball B Div Girls: 4th
+<br>Softball&nbsp;A Div Girls: 4th</p>
 <p></p>
-<p>Wushu Individual Medals: 13 Gold, 14 Silver, 19 Bronze medals</p>
+<p>Wushu Individual Medals:
+<br>13 Gold, 14 Silver, 19 Bronze medals</p>
 </td>
 </tr>
 <tr>
