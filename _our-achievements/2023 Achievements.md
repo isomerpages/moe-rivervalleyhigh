@@ -227,21 +227,16 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st in Best Programming</strong>
-</p>
-<p>Goh Yan Bin (4I)</p>
-<p>Trevor Tan (2B)</p>
-<p>Lim Zheng Rui, Alexander (1H)</p>
-<p>&nbsp;</p>
+<br>Goh Yan Bin (4I)
+<br>Trevor Tan (2B)
+<br>Lim Zheng Rui, Alexander (1H)</p>
 <p><strong>3rd in Best Robot Performance</strong>
-</p>
-<p>Goh Yan Bin (4I)</p>
-<p>Trevor Tan (2B)</p>
-<p>Lim Zheng Rui, Alexander (1H)</p>
-<p>&nbsp;</p>
+<br>Goh Yan Bin (4I)
+<br>Trevor Tan (2B)
+<br>Lim Zheng Rui, Alexander (1H)</p>
 <p><strong>3rd in Best Engineering Design</strong>
-</p>
-<p>Tan Zheng Jue (4G)</p>
-<p>Tang Yu Kun, Clarence (3A)</p>
+<br>Tan Zheng Jue (4G)
+<br>Tang Yu Kun, Clarence (3A)</p>
 </td>
 </tr>
 <tr>
@@ -254,12 +249,11 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>一等奖</strong>
-</p>
-<p>叶睿宁 Yap Swee Ning (4B, 2023）</p>
-<p>古佳乐 Gu Jiale (3G, 2023）</p>
-<p>陈柔妍 Chen Rouyan (3G, 2023）</p>
-<p>童钰轩 Tong Yuxuan (3G, 2023)</p>
-<p>蔡依恬 Chua Yee Tien (3G, 2023)&nbsp;</p>
+<br>叶睿宁 Yap Swee Ning (4B, 2023）
+<br>古佳乐 Gu Jiale (3G, 2023）
+<br>陈柔妍 Chen Rouyan (3G, 2023）
+<br>童钰轩 Tong Yuxuan (3G, 2023)
+<br>蔡依恬 Chua Yee Tien (3G, 2023)&nbsp;</p>
 </td>
 </tr>
 <tr>
