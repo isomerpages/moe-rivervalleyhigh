@@ -4,7 +4,11 @@ permalink: /achievements/2023achievements/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -21,12 +25,12 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Division Floorball Girls: Champion</p>
-<p>A Division Wushu Girls: 2nd</p>
-<p>C Division Wushu Girls: 2nd</p>
-<p>A Division&nbsp;Wushu&nbsp;Boys: 3rd</p>
-<p>C Division&nbsp;Wushu&nbsp;Boys: 3rd</p>
-<p>A Division&nbsp;Badminton&nbsp;Girls: 3rd</p>
+<p>Floorball A Div Girls: Champion
+<br>Wushu A Div Girls: 2nd
+<br>Wushu C Div Girls: 2nd
+<br>Wushu A Div Boys: 3rd
+<br>Wushu C Div&nbsp;Boys: 3rd
+<br>Badminton&nbsp;A Div Girls: 3rd</p>
 <p>B Division Badminton Boys: 3rd&nbsp;</p>
 <p>A Division Softball Boys: 3rd</p>
 <p>C Division&nbsp;Table Tennis&nbsp;Girls: 4th</p>
