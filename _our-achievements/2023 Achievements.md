@@ -296,16 +296,13 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver</strong>
-</p>
-<p>Chen Qingyuan (23J10)</p>
-<p>Khow Willard (23J18)</p>
-<p>&nbsp;</p>
+<br>Chen Qingyuan (23J10)
+<br>Khow Willard (23J18)</p>
 <p><strong>Bronze</strong>
-</p>
-<p>Tan Xin Yang Elliott (23J01)</p>
-<p>Jiang Yuhan (23J03)</p>
-<p>Tan Dao En (23J10)</p>
-<p>Khor Xin Yee (23J11)<strong>&nbsp;</strong>
+<br>Tan Xin Yang Elliott (23J01)
+<br>Jiang Yuhan (23J03)
+<br>Tan Dao En (23J10)
+<br>Khor Xin Yee (23J11)<strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
