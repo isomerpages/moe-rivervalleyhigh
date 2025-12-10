@@ -32,11 +32,9 @@ variant: tiptap
 <br>Wushu C Div&nbsp;Boys: 3rd
 <br>Badminton&nbsp;A Div Girls: 3rd
 <br>Badminton B Div Boys: 3rd
-<br>
-</p>
-<p>A Division Softball Boys: 3rd</p>
-<p>C Division&nbsp;Table Tennis&nbsp;Girls: 4th</p>
-<p>B Division&nbsp;Floorball Girls: 4th</p>
+<br>Softball A Div Boys: 3rd
+<br>Table Tennis&nbsp;C Div Girls: 4th
+<br>Floorball B Div Girls: 4th</p>
 <p>A Division&nbsp;Softball&nbsp;Girls: 4th</p>
 <p></p>
 <p>Wushu Individual Medals: 13 Gold, 14 Silver, 19 Bronze medals</p>
