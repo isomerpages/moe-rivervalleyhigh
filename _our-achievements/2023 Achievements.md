@@ -265,12 +265,11 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>二等奖</strong>
-</p>
-<p>郑涵尹 Tang Han Yin (2A, 2023)</p>
-<p>王怡静 Hazel Heng Yee Jing (2G, 2023)</p>
-<p>赵思甯 Angel Chew Si Ning (2E, 2023)</p>
-<p>沈思颖 Sim Si Ying, Shavonne (2F, 2023)</p>
-<p>柯智婷 Kwa Tze Ting (2D, 2023)&nbsp;</p>
+<br>郑涵尹 Tang Han Yin (2A, 2023)
+<br>王怡静 Hazel Heng Yee Jing (2G, 2023)
+<br>赵思甯 Angel Chew Si Ning (2E, 2023)
+<br>沈思颖 Sim Si Ying, Shavonne (2F, 2023)
+<br>柯智婷 Kwa Tze Ting (2D, 2023)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -279,17 +278,15 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Bronze Medal</strong> 
-<br>Chan Xing Yu, James (23J13)</p>
-<p>Chen Qing Yuan (23J10)
+<br>Chan Xing Yu, James (23J13)
+<br>Chen Qing Yuan (23J10)
 <br>Chua Jia Rong (23J09)
 <br>Chua Zhong Ding (23J17)
 <br>Tang Tian Le (23J12)
 <br>Wang Xinyu (23J18)
 <br>Zhu Ziyan (23J11)</p>
-<p>
-<br><strong>Honourable Mentions</strong>
-</p>
-<p>Ayden-Luke Tan Jing En (23J11)
+<p><strong>Honourable Mentions</strong>
+<br>Ayden-Luke Tan Jing En (23J11)
 <br>Tan Dao En 23J10&nbsp;</p>
 </td>
 </tr>
