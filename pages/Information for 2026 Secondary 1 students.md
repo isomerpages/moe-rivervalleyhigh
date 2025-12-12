@@ -9,3 +9,19 @@ description: ""
 <p>You can purchase the textbooks and uniforms after the release of the posting
 results.&nbsp;</p>
 <p>We look forward to seeing you and your child at RVHS.</p>
+<h4><strong>Purchase of Textbooks and School Uniform</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here </a>for
+the Booklist.</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/sizes-myuniformshop" rel="noopener nofollow" target="_blank">Click here</a> for
+the Uniform Size charts.</p>
+</li>
+</ul>
+<p><strong>Students can buy their textbooks and school uniforms online or at RVHS.</strong>
+</p>
+<p>The operating hours of the bookshop and the uniform vendors are:</p>
+<p>Monday – Friday (excluding 24 and 31 Dec), 9am – 3pm</p>
+<p>Alternative methods of purchase of Textbooks and School Uniform:</p>
