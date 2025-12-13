@@ -21,7 +21,7 @@ results.&nbsp;
 the Booklist.</p>
 </li>
 <li>
-<p>Click <a href="/files/River_Valley_High_School_Uniform_Size_Chart_2025.pdf" rel="noopener nofollow" target="_blank">here </a>for
+<p>Click <a href="https://for.edu.sg/rvhsuniformsizecharts2026" rel="noopener nofollow" target="_blank">here</a> for
 the Uniform Size charts.</p>
 </li>
 </ul>
