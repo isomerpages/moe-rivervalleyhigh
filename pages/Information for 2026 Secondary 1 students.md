@@ -4,19 +4,24 @@ permalink: /information-for-2026-secondary-1-students/
 variant: tiptap
 description: ""
 ---
-<p>Dear Parents and Students,</p>
-<p>A warm welcome to River Valley High School!&nbsp;</p>
-<p>You can purchase the textbooks and uniforms after the release of the posting
-results.&nbsp;</p>
-<p>We look forward to seeing you and your child at RVHS.</p>
-<h4><strong>Purchase of Textbooks and School Uniform</strong></h4>
+<p>Dear Parents and Students,
+<br>
+</p>
+<p>A warm welcome to River Valley High School!&nbsp;
+<br>You can purchase the textbooks and uniforms after the release of the posting
+results.&nbsp;
+<br>We look forward to seeing you and your child at RVHS.
+<br>
+</p>
+<p><strong>Purchase of Textbooks and School Uniform</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here </a>for
 the Booklist.</p>
 </li>
 <li>
-<p><a href="https://for.edu.sg/sizes-myuniformshop" rel="noopener nofollow" target="_blank">Click here</a> for
+<p>Click <a href="/files/River_Valley_High_School_Uniform_Size_Chart_2025.pdf" rel="noopener nofollow" target="_blank">here </a>for
 the Uniform Size charts.</p>
 </li>
 </ul>
