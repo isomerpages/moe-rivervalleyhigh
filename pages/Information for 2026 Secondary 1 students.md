@@ -25,7 +25,10 @@ the Booklist.</p>
 the Uniform Size charts.</p>
 </li>
 <li>
-<p>Click for operating hours of the bookshop and the uniform vendors.</p>
+<p>Click <a href="https://for.edu.sg/rvhsbkshopuninformvendors2026" rel="noopener nofollow" target="_blank">here</a> for
+operating hours of the bookshop and the uniform vendors.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p></p>
