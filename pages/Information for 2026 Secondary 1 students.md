@@ -25,7 +25,7 @@ the Booklist.</p>
 the Uniform Size charts.</p>
 </li>
 <li>
-<p>Click <a href="https://for.edu.sg/rvhsbkshopuninformvendors2026" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/My_Uniform_Shop__ASIA__Pte_Ltd___River_Valley_High_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">here</a> for
 operating hours of the bookshop and the uniform vendors.</p>
 </li>
 </ul>
