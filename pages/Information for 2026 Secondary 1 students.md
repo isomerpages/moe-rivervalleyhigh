@@ -13,7 +13,8 @@ results.&nbsp;
 <br>We look forward to seeing you and your child at RVHS.
 <br>
 </p>
-<h4><strong>Purchase of Textbooks and School Uniform</strong></h4>
+<p><strong>Purchase of Textbooks and School Uniform</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click <a href="https://for.edu.sg/rvhss1booklist2026" rel="noopener nofollow" target="_blank">here</a> for
