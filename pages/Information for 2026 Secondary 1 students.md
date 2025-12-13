@@ -29,4 +29,5 @@ the Uniform Size charts.</p>
 </p>
 <p>The operating hours of the bookshop and the uniform vendors are:</p>
 <p>Monday – Friday (excluding 24 and 31 Dec), 9am – 3pm</p>
-<p>Alternative methods of purchase of Textbooks and School Uniform:</p>
+<p>Alternative methods of purchase of Textbooks and School Uniform:<a href="https://for.edu.sg/rvhss1booklist2026" rel="noopener nofollow" target="_blank">here</a>
+</p>
