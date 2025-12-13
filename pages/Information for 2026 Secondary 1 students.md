@@ -24,10 +24,8 @@ the Booklist.</p>
 <p>Click <a href="https://for.edu.sg/rvhsuniformsizecharts2026" rel="noopener nofollow" target="_blank">here</a> for
 the Uniform Size charts.</p>
 </li>
+<li>
+<p>Click for operating hours of the bookshop and the uniform vendors.</p>
+</li>
 </ul>
-<p><strong>Students can buy their textbooks and school uniforms online or at RVHS.</strong>
-</p>
-<p>The operating hours of the bookshop and the uniform vendors are:</p>
-<p>Monday – Friday (excluding 24 and 31 Dec), 9am – 3pm</p>
-<p>Alternative methods of purchase of Textbooks and School Uniform:<a href="https://for.edu.sg/rvhss1booklist2026" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p></p>
