@@ -17,7 +17,7 @@ results.&nbsp;
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here </a>for
+<p>Click <a href="https://for.edu.sg/rvhss1booklist2026" rel="noopener nofollow" target="_blank">here</a> for
 the Booklist.</p>
 </li>
 <li>
