@@ -243,10 +243,13 @@ more information on the school’s uniform requirements.</p>
 fees and other expenses.</p>
 </li>
 <li>
-<p>You can submit the application through the MOE e-FAS link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)
-or via hardcopy form in the General Office.</p>
+<p>You can submit the application through the MOE e-FAS link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>) or via
+hardcopy form in the General Office.</p>
 </li>
 </ul>
+<p><strong>Start of School 2026 – Important Information for Students and Parents</strong>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
