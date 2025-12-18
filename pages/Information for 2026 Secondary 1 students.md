@@ -374,6 +374,14 @@ to see his/her class.</p>
 <br>The Parent-Teacher Association (PTA) recognizes the importance of parents’
 participation on the learning journey of their teens.&nbsp; You can find
 out more about the PTA <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/school-partners/pta/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>Personal Device for Learning Programme (PDLP)</strong>
+<br>MOE had announced that every secondary student will need to have a personal
+digital device for the purpose of learning.</p>
+<p>Parents are advised not to purchase digital device at the moment and wait
+for the announcement of the PDLP offer. Should there be an urgent need
+for a digital device, parents can consider purchasing a Windows based second
+hand device.&nbsp; Otherwise, the student can also loan out a laptop from
+the school (subject to availability).</p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
