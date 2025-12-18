@@ -16,18 +16,12 @@ results.&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">More detail
 </p>
 <p>We look forward to seeing you and your child at RVHS.</p>
 <p><a href="#_Online_Registration" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a>
-</p>
-<p><a href="#_Purchase_of_Textbooks" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and School Uniform</a>
-</p>
-<p><a href="#_2023_School_Fees" rel="noopener noreferrer nofollow" target="_blank">2026 School Fees for Secondary School Students</a>
-</p>
-<p><a href="#_Financial_Assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
-</p>
-<p><a href="#_Start_of_School" rel="noopener noreferrer nofollow" target="_blank">Start of School 2026 – Important Information for Students and Parents</a>
-</p>
-<p><a href="#_Personal_Device_for" rel="noopener noreferrer nofollow" target="_blank">Personal Device for Learning Programme (PDLP)</a>
-</p>
-<p><a href="#_Appeal_for_School" rel="noopener noreferrer nofollow" target="_blank">Appeal for School Transfer (Primary 6 Students)</a>
+<br><a href="#_Purchase_of_Textbooks" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and School Uniform</a>
+<br><a href="#_2023_School_Fees" rel="noopener noreferrer nofollow" target="_blank">2026 School Fees for Secondary School Students</a>
+<br><a href="#_Financial_Assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
+<br><a href="#_Start_of_School" rel="noopener noreferrer nofollow" target="_blank">Start of School 2026 – Important Information for Students and Parents</a>
+<br><a href="#_Personal_Device_for" rel="noopener noreferrer nofollow" target="_blank">Personal Device for Learning Programme (PDLP)</a>
+<br><a href="#_Appeal_for_School" rel="noopener noreferrer nofollow" target="_blank">Appeal for School Transfer (Primary 6 Students)</a>
 </p>
 <p>&nbsp;</p>
 <h2>Online Registration</h2>
