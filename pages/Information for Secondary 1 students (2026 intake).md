@@ -14,8 +14,8 @@ to report to school.</p>
 results. More details are provided below.
 <br>
 </p>
-<p>We look forward to seeing you and your child at RVHS.
-<br><a href="#_Online_Registration" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a>
+<p>We look forward to seeing you and your child at RVHS.</p>
+<p><a href="#_Online_Registration" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a>
 <br><a href="#_Purchase_of_Textbooks" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and School Uniform</a>
 <br><a href="#_2023_School_Fees" rel="noopener noreferrer nofollow" target="_blank">2026 School Fees for Secondary School Students</a>
 <br><a href="#_Financial_Assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
