@@ -44,13 +44,19 @@ scan this QR code alternatively.</p>
 </li>
 </ul>
 <p><strong>Purchase of Textbooks and School Uniform</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here is the Booklist &lt;<em>see attachment: River Valley High 2026 - Sec1.pdf</em>&gt;
-and Uniform Size charts &lt;<em>see attachment: River Valley High School Uniform SIze Chart 2025.pdf</em>&gt;.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can purchase the textbooks
-and school uniforms online or at RVHS.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>on-site</strong> operating
-hours of the bookshop and the uniform vendors <strong>at RVHS</strong> are:</p>
+<br>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Booklist
+<br>Click <a href="/files/River_Valley_High_School_Uniform_Size_Chart_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Uniform Size charts</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students can purchase the textbooks and school uniforms online or at RVHS.</p>
+</li>
+<li>
+<p>The <strong>on-site</strong> operating hours of the bookshop and the uniform
+vendors <strong>at RVHS</strong> are:</p>
+</li>
+</ul>
 <p>Monday – Friday (excluding 24 and 31 Dec): 9am – 3pm</p>
 <p>Alternative methods of purchase of Textbooks and School Uniform:</p>
 <p></p>
