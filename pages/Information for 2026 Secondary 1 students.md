@@ -4,15 +4,38 @@ permalink: /information-for-2026-secondary-1-students/
 variant: tiptap
 description: ""
 ---
-<p>Dear Parents and Students,
+<p>Dear Parents and students,
 <br>
 </p>
-<p>A warm welcome to River Valley High School!&nbsp;
-<br>You can purchase the textbooks and uniforms after the release of the posting
-results.&nbsp;
-<br>We look forward to seeing you and your child at RVHS.
+<p>A warm welcome to River Valley High School!&nbsp; The Secondary One Registration
+Exercise will be <u>conducted online</u> and there is no need for your child
+to report to school.</p>
+<p>You can purchase the textbooks and uniforms after the release of the posting
+results.&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">More details are provided below.</a>
 <br>
 </p>
+<p>We look forward to seeing you and your child at RVHS.</p>
+<p><a href="#_Online_Registration" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a>
+</p>
+<p><a href="#_Purchase_of_Textbooks" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and School Uniform</a>
+</p>
+<p><a href="#_2023_School_Fees" rel="noopener noreferrer nofollow" target="_blank">2026 School Fees for Secondary School Students</a>
+</p>
+<p><a href="#_Financial_Assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
+</p>
+<p><a href="#_Start_of_School" rel="noopener noreferrer nofollow" target="_blank">Start of School 2026 – Important Information for Students and Parents</a>
+</p>
+<p><a href="#_Personal_Device_for" rel="noopener noreferrer nofollow" target="_blank">Personal Device for Learning Programme (PDLP)</a>
+</p>
+<p><a href="#_Appeal_for_School" rel="noopener noreferrer nofollow" target="_blank">Appeal for School Transfer (Primary 6 Students)</a>
+</p>
+<p>&nbsp;</p>
+<h2>Online Registration</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will be sending an announcement
+through Parents Gateway directing you to the Online Registration Form.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Otherwise, you may wish to access
+the form <a href="https://go.gov.sg/rvhs-sec1-registration" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;
+You can scan this QR code alternatively.</p>
 <p><strong>Purchase of Textbooks and School Uniform</strong>
 </p>
 <ul data-tight="true" class="tight">
