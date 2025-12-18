@@ -23,7 +23,8 @@ results.&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">More detail
 <br><a href="#_Personal_Device_for" rel="noopener noreferrer nofollow" target="_blank">Personal Device for Learning Programme (PDLP)</a>
 <br><a href="#_Appeal_for_School" rel="noopener noreferrer nofollow" target="_blank">Appeal for School Transfer (Primary 6 Students)</a>
 </p>
-<p>Online Registration</p>
+<p><strong>Online Registration</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>We will be sending an announcement through Parents Gateway directing you
@@ -37,7 +38,21 @@ scan this QR code alternatively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="2026 S1 registration" src="/images/2026_S1_registration.png">
 </div>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please complete &amp; submit the online registration by 26 Dec 2026, 1pm.&nbsp;</p>
+</li>
+</ul>
+<p><strong>Purchase of Textbooks and School Uniform</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here is the Booklist &lt;<em>see attachment: River Valley High 2026 - Sec1.pdf</em>&gt;
+and Uniform Size charts &lt;<em>see attachment: River Valley High School Uniform SIze Chart 2025.pdf</em>&gt;.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can purchase the textbooks
+and school uniforms online or at RVHS.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>on-site</strong> operating
+hours of the bookshop and the uniform vendors <strong>at RVHS</strong> are:</p>
+<p>Monday – Friday (excluding 24 and 31 Dec): 9am – 3pm</p>
+<p>Alternative methods of purchase of Textbooks and School Uniform:</p>
 <p></p>
 <p></p>
 <p></p>
