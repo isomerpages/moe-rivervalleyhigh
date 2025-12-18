@@ -130,6 +130,7 @@ apply.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>You can refer to this <a href="/files/RVHS_Uniform_Requirement.pdf" rel="noopener nofollow" target="_blank">document</a> for
+more information on the school’s uniform requirements.</p>
 <p></p>
 <p></p>
