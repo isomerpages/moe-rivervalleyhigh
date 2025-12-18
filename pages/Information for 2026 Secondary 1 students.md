@@ -54,11 +54,15 @@ the Uniform Size charts</p>
 </li>
 <li>
 <p>The <strong>on-site</strong> operating hours of the bookshop and the uniform
-vendors <strong>at RVHS</strong> are:</p>
+vendors <strong>at RVHS</strong> are:
+<br>
+</p>
+<p>Monday – Friday (excluding 24 and 31 Dec): 9am – 3pm
+<br>
+</p>
+<p>Alternative methods of purchase of Textbooks and School Uniform:</p>
 </li>
 </ul>
-<p>Monday – Friday (excluding 24 and 31 Dec): 9am – 3pm</p>
-<p>Alternative methods of purchase of Textbooks and School Uniform:</p>
 <p></p>
 <p></p>
 <p></p>
