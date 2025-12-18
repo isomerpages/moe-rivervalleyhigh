@@ -132,5 +132,12 @@ apply.</p>
 </table>
 <p>You can refer to this <a href="/files/RVHS_Uniform_Requirement.pdf" rel="noopener nofollow" target="_blank">document</a> for
 more information on the school’s uniform requirements.</p>
+<p><strong>2026 School Fees for Secondary School Students</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
