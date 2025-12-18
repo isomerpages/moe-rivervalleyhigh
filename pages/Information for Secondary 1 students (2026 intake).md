@@ -11,7 +11,7 @@ description: ""
 Exercise will be <u>conducted online</u> and there is no need for your child
 to report to school.</p>
 <p>You can purchase the textbooks and uniforms after the release of the posting
-results. <u>More details are provided below.</u>
+results. More details are provided below.
 <br>
 </p>
 <p>We look forward to seeing you and your child at RVHS.</p>
