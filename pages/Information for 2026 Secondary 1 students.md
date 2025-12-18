@@ -23,13 +23,20 @@ results.&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">More detail
 <br><a href="#_Personal_Device_for" rel="noopener noreferrer nofollow" target="_blank">Personal Device for Learning Programme (PDLP)</a>
 <br><a href="#_Appeal_for_School" rel="noopener noreferrer nofollow" target="_blank">Appeal for School Transfer (Primary 6 Students)</a>
 </p>
-<p>&nbsp;</p>
-<h2>Online Registration</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will be sending an announcement
-through Parents Gateway directing you to the Online Registration Form.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Otherwise, you may wish to access
-the form <a href="https://go.gov.sg/rvhs-sec1-registration" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;
-You can scan this QR code alternatively.</p>
+<p>Online Registration</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We will be sending an announcement through Parents Gateway directing you
+to the Online Registration Form.&nbsp;</p>
+</li>
+<li>
+<p>Otherwise, you may wish to access the form <a href="https://go.gov.sg/rvhs-sec1-registration" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp; You can
+scan this QR code alternatively.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Purchase of Textbooks and School Uniform</strong>
 </p>
 <ul data-tight="true" class="tight">
