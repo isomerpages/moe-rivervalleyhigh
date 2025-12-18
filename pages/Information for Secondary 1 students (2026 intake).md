@@ -93,14 +93,13 @@ vendors <strong>at RVHS</strong> are:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Login to:</u>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a>
+<p>Login to: <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg/</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Visit:</u>
-</p>
-<p>209 New Upper Changi Road #03-651 Singapore 460209
+<br>209 New Upper Changi Road #03-651 Singapore 460209
 <br>(Opposite Bedok MRT station)</p>
 </td>
 </tr>
