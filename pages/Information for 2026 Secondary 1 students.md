@@ -134,6 +134,107 @@ apply.</p>
 more information on the school’s uniform requirements.</p>
 <p><strong>2026 School Fees for Secondary School Students</strong>
 </p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nationality</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Monthly School Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Monthly Misc Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Monthly Autonomous School Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Total</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Permanent Residents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$680</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$643</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Students (ASEAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,090</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$21.80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3.27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,115.07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$21.80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3.27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,215.07</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
