@@ -63,7 +63,73 @@ vendors <strong>at RVHS</strong> are:
 <p>Alternative methods of purchase of Textbooks and School Uniform:</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Textbooks</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Uniform</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asencio Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MyUniform Shop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Purchase Method</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Login to:</u>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Visit:</u>
+</p>
+<p>209 New Upper Changi Road #03-651 Singapore 460209
+<br>(Opposite Bedok MRT station)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Things to Note</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents who make online purchases by 23 December 2025 will be able to
+receive their textbooks before school starts in 2026.&nbsp; Delivery charges
+apply.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information <a href="/files/My_Uniform_Shop__ASIA__Pte_Ltd___River_Valley_High_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
