@@ -353,17 +353,16 @@ can contact the school General Office at Tel No. 65678115.</p>
 </tbody>
 </table>
 <p>*<em>If you are leaving early, please inform your form teacher and facilitators beforehand.</em>
+<br>
 </p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Sec 1 Orientation Programme for Term 1, Week 1</u>
-</p>
-<p></p>
-<p><strong>Attire</strong>: Full RV school uniform</p>
-<p><strong>Wearing of Masks</strong>: Optional</p>
-<p><strong>Things to bring</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Primary School Ez-link Card</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dry Snacks</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Administrative Matters for Day 1</u>
+<br><strong>Attire</strong>: Full RV school uniform
+<br><strong>Wearing of Masks</strong>: Optional
+<br><strong>Things to bring</strong>:
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing materials
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary School Ez-link Card
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dry Snacks</p>
 <p>&nbsp;</p>
 <p><strong>Reporting venue</strong>: School Hall</p>
 <p></p>
