@@ -249,6 +249,27 @@ hardcopy form in the General Office.</p>
 </ul>
 <p><strong>Start of School 2026 – Important Information for Students and Parents</strong>
 </p>
+<p>To ensure you are well-prepared for the start of your journey with us,
+please note the following information:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reporting Date &amp; Time</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>First day of school is on <strong>12 January 2026, Monday</strong>, <strong>all newly posted Sec 1 students will report to the School Hall.</strong>
+</p>
+</li>
+<li>
+<p>There will be student ushers to guide them to the School Hall when they
+arrive.</p>
+</li>
+</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are allowed to drop-off
+their children at the school and advised not to accompany your child into
+the school compound.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your child is unwell on day 1,
+please let him/her rest at home. Parents can contact the school General
+Office at Tel No. 65678115.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
