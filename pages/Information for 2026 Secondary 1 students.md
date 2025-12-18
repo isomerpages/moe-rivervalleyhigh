@@ -34,6 +34,11 @@ to the Online Registration Form.&nbsp;</p>
 scan this QR code alternatively.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="2026 S1 registration" src="/images/2026_S1_registration.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
