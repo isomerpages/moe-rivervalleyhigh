@@ -273,8 +273,87 @@ can contact the school General Office at Tel No. 65678115.</p>
 </ul>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Sec 1 Orientation Programme for Term 1, Week 1</u>
 </p>
-<p></p>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Jan, Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jan, Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Jan, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Jan, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30 am
+<br>(RVHS 70<sup>th</sup> Anniversary Celebrations)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*<em>If you are leaving early, please inform your form teacher and facilitators beforehand.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
