@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: River Valley High School
-description: A world-class institution that develops leaders of distinction for Singapore
+description: A School of Opportunities
 image: /images/photo_2022-12-22_18-20-23.jpg
 permalink: /
 notification: ""
@@ -12,12 +12,21 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Info for 2025 DSA (Sec)
+        - title: School reopening information for 2026
           description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2025/
-        - title: Info for 2025 DSA (JC)
+          url: /information-for-2026-secondary-1-students/
+        - title: A warm welcome to our Secondary 1 students
           description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/dsa-jc/
+          url: /about-rv/pm/
+  - infopic:
+      title: RV70
+      subtitle: Celebrating
+      id: infopic
+      button: Read More
+      image: /images/RV70 (2026)/RV70_banner_for_emails.jpg
+      alt: Image alt text
+      url: /rv70/
+      description: Learn more about RV70 and hear our stories.
   - infopic:
       title: Inspiring Excellence
       id: infopic

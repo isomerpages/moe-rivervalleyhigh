@@ -4,7 +4,11 @@ permalink: /achievements/2023achievements/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -21,19 +25,20 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Division Floorball Girls: Champion</p>
-<p>A Division Wushu Girls: 2nd</p>
-<p>C Division Wushu Girls: 2nd</p>
-<p>A Division&nbsp;Wushu&nbsp;Boys: 3rd</p>
-<p>C Division&nbsp;Wushu&nbsp;Boys: 3rd</p>
-<p>A Division&nbsp;Badminton&nbsp;Girls: 3rd</p>
-<p>B Division Badminton Boys: 3rd&nbsp;</p>
-<p>A Division Softball Boys: 3rd</p>
-<p>C Division&nbsp;Table Tennis&nbsp;Girls: 4th</p>
-<p>B Division&nbsp;Floorball Girls: 4th</p>
-<p>A Division&nbsp;Softball&nbsp;Girls: 4th</p>
+<p>Floorball A Div Girls: Champion
+<br>Wushu A Div Girls: 2nd
+<br>Wushu C Div Girls: 2nd
+<br>Wushu A Div Boys: 3rd
+<br>Wushu C Div&nbsp;Boys: 3rd
+<br>Badminton&nbsp;A Div Girls: 3rd
+<br>Badminton B Div Boys: 3rd
+<br>Softball A Div Boys: 3rd
+<br>Table Tennis&nbsp;C Div Girls: 4th
+<br>Floorball B Div Girls: 4th
+<br>Softball&nbsp;A Div Girls: 4th</p>
 <p></p>
-<p>Wushu Individual Medals: 13 Gold, 14 Silver, 19 Bronze medals</p>
+<p>Wushu Individual Medals:
+<br>13 Gold, 14 Silver, 19 Bronze medals</p>
 </td>
 </tr>
 <tr>
@@ -41,10 +46,10 @@ variant: tiptap
 <p>West Zone Table Tennis Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys - 2nd</p>
-<p>B Division Girls - 2nd</p>
-<p>C Division Boys - 2nd</p>
-<p>C Division Girls - 2nd&nbsp;</p>
+<p>B Division Boys: 2nd
+<br>B Division Girls: 2nd
+<br>C Division Boys: 2nd
+<br>C Division Girls: 2nd&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +57,7 @@ variant: tiptap
 <p>West Zone Badminton Championships&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys - 3rd</p>
+<p>B Division Boys: 3rd</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +65,7 @@ variant: tiptap
 <p>West Zone Netball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Girls - 4th&nbsp;</p>
+<p>B Division Girls: 4th&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -69,7 +74,7 @@ variant: tiptap
 <p>West Zone Volleyball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Division - 4th</p>
+<p>C Division: 4th</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +132,7 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit overall proficiency award for 2022 - Distinction</p>
+<p>Unit Overall Proficiency Award for 2022: Distinction</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +140,7 @@ variant: tiptap
 <p>Junior League of ACJC Orators Trophy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion – Jacob Kwek (2C)&nbsp;</p>
+<p>Champion: Jacob Kwek (2C)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -155,22 +160,22 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <td rowspan="1" colspan="1">
 <p>探讨“佛系”文化现象对新中两国青年的影响:&nbsp;杰出奖</p>
 <p>张睿娗(23J01) ,&nbsp;张睿熙(23J08)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>从新中政府与青少年对元宇宙的态度探讨元宇宙未来的发展:&nbsp;卓越奖</p>
 <p>梁可悦&nbsp;(23J14),&nbsp;王于航&nbsp;(23J15)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>从斜杠人生观念探讨新中两国青年的就业观:&nbsp;卓越奖</p>
 <p>王婉婷(23J01)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>浅析构建文化自信对新中两国维护社会稳定的作用与重要性:&nbsp;卓越奖</p>
 <p>纪慧洁(23J14)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>探讨新中两国青年朋克养生现象及影响:&nbsp;杰出奖</p>
 <p>郑雯鑫(23J14)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>探讨信息化时代对新中民法普法工作的影响:&nbsp;杰出奖</p>
 <p>刘天健(23J08),&nbsp;李沛璘(23J14)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>探讨新中两国人民是否对食物替代品主流化的概念买单:&nbsp;杰出奖</p>
 <p>陈信宏(23J01)</p>
 </td>
@@ -180,8 +185,8 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <p>2023年镜头会说话</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>梁可悦(23J14)</p>
-<p>作品:&nbsp;一步、一脚印</p>
+<p>梁可悦(23J14)
+<br>作品:&nbsp;一步、一脚印</p>
 </td>
 </tr>
 <tr>
@@ -193,10 +198,10 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st in GRG Mobile Robotics 3</strong>
-</p>
-<p>Goh Yan Bin (4I)</p>
-<p>Trevor Tan (2B)</p>
-<p>Lim Zheng Rui, Alexander (1H)<strong>&nbsp;</strong>
+<br>Goh Yan Bin (4I)
+<br>Trevor Tan (2B)
+<br>Lim Zheng Rui, Alexander (1H)<strong>&nbsp;</strong>
+<br>
 </p>
 </td>
 </tr>
@@ -206,15 +211,12 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Judges’ Award for Robomission Senior</strong>
-</p>
-<p>Lin Xinying (23J13)</p>
-<p>Yeo Su Gar (23J17)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>Lin Xinying (23J13)
+<br>Yeo Su Gar (23J17)</p>
+<p></p>
 <p><strong>2nd in Robomission Senior (Side Quest 3)</strong>
-</p>
-<p>Lin Xinying (23J13)</p>
-<p>Yeo Su Gar (23J17)</p>
+<br>Lin Xinying (23J13)
+<br>Yeo Su Gar (23J17)</p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
@@ -225,21 +227,16 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st in Best Programming</strong>
-</p>
-<p>Goh Yan Bin (4I)</p>
-<p>Trevor Tan (2B)</p>
-<p>Lim Zheng Rui, Alexander (1H)</p>
-<p>&nbsp;</p>
+<br>Goh Yan Bin (4I)
+<br>Trevor Tan (2B)
+<br>Lim Zheng Rui, Alexander (1H)</p>
 <p><strong>3rd in Best Robot Performance</strong>
-</p>
-<p>Goh Yan Bin (4I)</p>
-<p>Trevor Tan (2B)</p>
-<p>Lim Zheng Rui, Alexander (1H)</p>
-<p>&nbsp;</p>
+<br>Goh Yan Bin (4I)
+<br>Trevor Tan (2B)
+<br>Lim Zheng Rui, Alexander (1H)</p>
 <p><strong>3rd in Best Engineering Design</strong>
-</p>
-<p>Tan Zheng Jue (4G)</p>
-<p>Tang Yu Kun, Clarence (3A)</p>
+<br>Tan Zheng Jue (4G)
+<br>Tang Yu Kun, Clarence (3A)</p>
 </td>
 </tr>
 <tr>
@@ -252,12 +249,11 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>一等奖</strong>
-</p>
-<p>叶睿宁 Yap Swee Ning (4B, 2023）</p>
-<p>古佳乐 Gu Jiale (3G, 2023）</p>
-<p>陈柔妍 Chen Rouyan (3G, 2023）</p>
-<p>童钰轩 Tong Yuxuan (3G, 2023)</p>
-<p>蔡依恬 Chua Yee Tien (3G, 2023)&nbsp;</p>
+<br>叶睿宁 Yap Swee Ning (4B, 2023）
+<br>古佳乐 Gu Jiale (3G, 2023）
+<br>陈柔妍 Chen Rouyan (3G, 2023）
+<br>童钰轩 Tong Yuxuan (3G, 2023)
+<br>蔡依恬 Chua Yee Tien (3G, 2023)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -269,12 +265,11 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>二等奖</strong>
-</p>
-<p>郑涵尹 Tang Han Yin (2A, 2023)</p>
-<p>王怡静 Hazel Heng Yee Jing (2G, 2023)</p>
-<p>赵思甯 Angel Chew Si Ning (2E, 2023)</p>
-<p>沈思颖 Sim Si Ying, Shavonne (2F, 2023)</p>
-<p>柯智婷 Kwa Tze Ting (2D, 2023)&nbsp;</p>
+<br>郑涵尹 Tang Han Yin (2A, 2023)
+<br>王怡静 Hazel Heng Yee Jing (2G, 2023)
+<br>赵思甯 Angel Chew Si Ning (2E, 2023)
+<br>沈思颖 Sim Si Ying, Shavonne (2F, 2023)
+<br>柯智婷 Kwa Tze Ting (2D, 2023)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -283,17 +278,15 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Bronze Medal</strong> 
-<br>Chan Xing Yu, James (23J13)</p>
-<p>Chen Qing Yuan (23J10)
+<br>Chan Xing Yu, James (23J13)
+<br>Chen Qing Yuan (23J10)
 <br>Chua Jia Rong (23J09)
 <br>Chua Zhong Ding (23J17)
 <br>Tang Tian Le (23J12)
 <br>Wang Xinyu (23J18)
 <br>Zhu Ziyan (23J11)</p>
-<p>
-<br><strong>Honourable Mentions</strong>
-</p>
-<p>Ayden-Luke Tan Jing En (23J11)
+<p><strong>Honourable Mentions</strong>
+<br>Ayden-Luke Tan Jing En (23J11)
 <br>Tan Dao En 23J10&nbsp;</p>
 </td>
 </tr>
@@ -303,16 +296,13 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver</strong>
-</p>
-<p>Chen Qingyuan (23J10)</p>
-<p>Khow Willard (23J18)</p>
-<p>&nbsp;</p>
+<br>Chen Qingyuan (23J10)
+<br>Khow Willard (23J18)</p>
 <p><strong>Bronze</strong>
-</p>
-<p>Tan Xin Yang Elliott (23J01)</p>
-<p>Jiang Yuhan (23J03)</p>
-<p>Tan Dao En (23J10)</p>
-<p>Khor Xin Yee (23J11)<strong>&nbsp;</strong>
+<br>Tan Xin Yang Elliott (23J01)
+<br>Jiang Yuhan (23J03)
+<br>Tan Dao En (23J10)
+<br>Khor Xin Yee (23J11)<strong>&nbsp;</strong>
 </p>
 </td>
 </tr>

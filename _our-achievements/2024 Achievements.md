@@ -24,8 +24,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Certificate of Distinction</strong>
-</p>
-<p>EL and CL Drama (JC)</p>
+<br>EL and CL Drama (JC)</p>
 </td>
 </tr>
 <tr>
@@ -34,40 +33,37 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National 1st</strong>
-</p>
-<p>Wushu – B Division Boys</p>
-<p>&nbsp;<strong>National 2nd</strong>
-</p>
-<p>Floorball – A Division Girls</p>
+<br>Wushu – B Division Boys</p>
+<p>
+<br><strong>National 2nd</strong>
+<br>Floorball – A Division Girls</p>
 <p>&nbsp;<strong>National 3rd</strong>
-</p>
-<p>Softball – A Division Boys &amp; Girls</p>
-<p>Wushu – A Division Boys &amp; Girls</p>
-<p>&nbsp;<strong>National 4th</strong>
-</p>
-<p>Badminton – A &amp; B Division Boys</p>
-<p>Table Tennis – A Division Boys &amp; B Division Girls</p>
-<p>Wushu – C Division Girls</p>
+<br>Softball – A Division Boys &amp; Girls
+<br>Wushu – A Division Boys &amp; Girls
+<br><strong>National 4th</strong>
+<br>Badminton – A &amp; B Division Boys
+<br>Table Tennis – A Division Boys &amp; B Division Girls
+<br>Wushu – C Division Girls</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Olympic Foundation-Peter Lim Scholarship</p>
-<p>High Performance (Under-18 Category)</p>
+<p>Singapore Olympic Foundation-Peter Lim Scholarship High Performance (Under-18
+Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 RV student athletes are awarded the above scholarship this year.&nbsp;</p>
+<p>5 RV student athletes are awarded the scholarship this year.&nbsp;</p>
+<p></p>
 <p><strong>High Performance (U18)</strong>
+<br>Lim Yi Fan 23J05 (Softball)
+<br>Verity Claire Neo Jia En 23J06 (Softball)
+<br>Cholene Aw Rui En 3I (Wushu)</p>
+<p><strong>Tertiary</strong>
+<br>Lee Si Lin 23J12 (Softball)</p>
+<p><strong>Secondary</strong>
+<br>Jaedon Chua Hao Cheng 2D (Table Tennis)
+<br>
 </p>
-<p>Lim Yi Fan 23J05 (Softball)</p>
-<p>Verity Claire Neo Jia En 23J06 (Softball)</p>
-<p>Cholene Aw Rui En 3I (Wushu)</p>
-<p>&nbsp;<strong>Tertiary</strong>
-</p>
-<p>Lee Si Lin 23J12 (Softball)</p>
-<p>&nbsp;<strong>Secondary</strong>
-</p>
-<p>Jaedon Chua Hao Cheng 2D (Table Tennis)</p>
 </td>
 </tr>
 <tr>
@@ -78,13 +74,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>优胜奖（团体）</strong>
-</p>
-<p>王新懿&nbsp;Wang Xinyi (4G)
+<br>王新懿&nbsp;Wang Xinyi (4G)
 <br>童钰轩&nbsp;Tong Yuxuan (4G)
 <br>朱婧萱&nbsp;Zhu Jingxuan (4G)</p>
 <p><strong>个人优异奖</strong>
-</p>
-<p>卢欣&nbsp;Lu Xin (3H)</p>
+<br>卢欣&nbsp;Lu Xin (3H)</p>
 </td>
 </tr>
 <tr>
@@ -96,8 +90,7 @@ description: ""
 <p><strong>银奖Silver</strong>
 <br>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
 <p><strong><br>优异奖Excellent</strong>
-</p>
-<p>卢欣&nbsp;Lu Xin (3H)
+<br>卢欣&nbsp;Lu Xin (3H)
 <br>林嘉雨&nbsp;Lin Jia Yu (4E)</p>
 </td>
 </tr>
@@ -109,8 +102,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>亚军</strong>
 <br>耿彤&nbsp;Geng Tong (23J08)
-<br>陈杨蕙菘&nbsp;Tang Yang Hwee Song, Christina&nbsp;(23J08)</p>
-<p>吴裿瑩&nbsp;Doris Goh Kee Ying (23J14)
+<br>陈杨蕙菘&nbsp;Tang Yang Hwee Song, Christina&nbsp;(23J08)
+<br>吴裿瑩&nbsp;Doris Goh Kee Ying (23J14)
 <br>賴鋆僖&nbsp;Lai Yun Xi (23J14)
 <br>何潤旭&nbsp;Ho Roon Xu (23J14)</p>
 </td>
@@ -122,60 +115,53 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>特优奖</strong>
-</p>
-<p>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
+<br>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
 <p><strong>优秀奖</strong>
-</p>
-<p>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
+<br>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
 <p><strong>佳作奖</strong>
-</p>
-<p>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
+<br>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
 <p>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>第三十五届全国学生书法比赛</p>
-<p>35th National Schools Chinese Calligraphy Competition</p>
+<p>第三十五届全国学生书法比赛
+<br>35th National Schools Chinese Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>殿军</strong>
-</p>
-<p>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
+<br>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>年威德智海全国硬笔书法比赛</p>
-<p>Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition</p>
+<p>年威德智海全国硬笔书法比赛
+<br>Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>优胜奖</strong>
-</p>
-<p>孔馨怡&nbsp;Kong Xin Yi (2E)</p>
+<br>孔馨怡&nbsp;Kong Xin Yi (2E)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>华文大比拼</p>
-<p>National Chinese Challenge</p>
+<p>华文大比拼
+<br>National Chinese Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>个人优异奖&nbsp;(全国前30）</strong>
-</p>
-<p>顾瀚文&nbsp;Gu Hanwen (3I)</p>
+<br>顾瀚文&nbsp;Gu Hanwen (3I)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>第三届《我来报新闻》挑战赛</p>
-<p>Young Reporter News Challenge</p>
+<p>第三届《我来报新闻》挑战赛
+<br>Young Reporter News Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>再生新闻-金奖</strong>
-</p>
-<p>郑涵尹&nbsp;Tang Han Yin (3C)</p>
-<p>顾楷昕&nbsp;Gu Kaixin (3C)</p>
+<br>郑涵尹&nbsp;Tang Han Yin (3C)
+<br>顾楷昕&nbsp;Gu Kaixin (3C)</p>
 <p></p>
 <p><strong>再生新闻-鼓励奖</strong>
 <br>林凯欣&nbsp;Lim Kai Xin (3A)
@@ -188,15 +174,13 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singing (group category) – 3rd place:</strong>
-</p>
-<p>Alicia Kok Yun Ting</p>
-<p>Khoo Xuan Mun</p>
-<p>Mr Liu Gongkai</p>
+<br>Alicia Kok Yun Ting
+<br>Khoo Xuan Mun
+<br>Mr Liu Gongkai</p>
 <p>&nbsp;<strong>Lyrics Writing Category – Merit Award</strong>
-</p>
-<p>Guo Jingyou</p>
-<p>Li Anqi</p>
-<p>Shi Diwen</p>
+<br>Guo Jingyou
+<br>Li Anqi
+<br>Shi Diwen</p>
 </td>
 </tr>
 <tr>
@@ -205,17 +189,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction</strong>
+<br>Wei Qixiong (23J08)
+<br>Wang Si Yin (24J03)
+<br>Valerie Chia Boon Hwan (24J10)
+<br>Celeste Chua Lin Gi (24J13)
+<br>
 </p>
-<p>Wei Qixiong (23J08)</p>
-<p>Wang Si Yin (24J03)</p>
-<p>Valerie Chia Boon Hwan (24J10)</p>
-<p>Celeste Chua Lin Gi (24J13)</p>
 <p><strong>Distinction</strong>
-</p>
-<p>Ayden-Luke Tan Jing En (23J11)</p>
-<p>Tan Zi Jun (24J11)</p>
-<p>Lin Yuen (24J13)</p>
-<p>Ang Ian (4G)</p>
+<br>Ayden-Luke Tan Jing En (23J11)
+<br>Tan Zi Jun (24J11)
+<br>Lin Yuen (24J13)
+<br>Ang Ian (4G)</p>
 </td>
 </tr>
 <tr>
@@ -224,9 +208,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver Award</strong>
-</p>
-<p>Teo Hong Kai, Dexter (4C)</p>
-<p>Zhang Hengwei (4C)</p>
+<br>Teo Hong Kai, Dexter (4C)
+<br>Zhang Hengwei (4C)</p>
 </td>
 </tr>
 <tr>
@@ -236,10 +219,9 @@ Explore Track</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Special Award (Best Poster Design)</strong>
-</p>
-<p>Jocelyn Lau Yu Xuan (3D)</p>
-<p>Kew Zhi Xuan (3F)</p>
-<p>Randall Lim Qiao Feng (3F)</p>
+<br>Jocelyn Lau Yu Xuan (3D)
+<br>Kew Zhi Xuan (3F)
+<br>Randall Lim Qiao Feng (3F)</p>
 </td>
 </tr>
 <tr>
@@ -248,23 +230,22 @@ Explore Track</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Upper Secondary</strong>
-</p>
-<p>Lucius Oo (4E)</p>
-<p>Low Xin Lei (4E)</p>
-<p>Avril Teow Siqi (4E)</p>
-<p>Amelia Chee En Xi (4E)</p>
-<p>Chua Yu Jun, Lucas (4E)</p>
-<p>Kaelyn Quah Yu Tong (4E)</p>
-<p>Cheng Yok Yong (Zeng Yurong) (4E)</p>
-<p>Eng Teng Jyu, Aerith (Weng Yingyu) (4E)</p>
-<p>Ang Ian (4G)</p>
-<p>Zhang Jingxuan (4G)</p>
-<p>Gabriel Lim Zhexi (4G)</p>
-<p>Loh Ying Jie, Ryo (4G)</p>
+<br>Lucius Oo (4E)
+<br>Low Xin Lei (4E)
+<br>Avril Teow Siqi (4E)
+<br>Amelia Chee En Xi (4E)
+<br>Chua Yu Jun, Lucas (4E)
+<br>Kaelyn Quah Yu Tong (4E)
+<br>Cheng Yok Yong (Zeng Yurong) (4E)
+<br>Eng Teng Jyu, Aerith
+<br>(Weng Yingyu) (4E)
+<br>Ang Ian (4G)
+<br>Zhang Jingxuan (4G)
+<br>Gabriel Lim Zhexi (4G)
+<br>Loh Ying Jie, Ryo (4G)</p>
 <p><strong>Junior College</strong>
-</p>
-<p>Ng Zhi Xi (23J03)</p>
-<p>Jiang Yuhan (23J03)</p>
+<br>Ng Zhi Xi (23J03)
+<br>Jiang Yuhan (23J03)</p>
 </td>
 </tr>
 <tr>
@@ -272,8 +253,8 @@ Explore Track</p>
 <p>Young Defence Scientists Programme Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Cheng Ling (3A)</p>
-<p>Ethan Bai Yixuan (3D)</p>
+<p>Ong Cheng Ling (3A)
+<br>Ethan Bai Yixuan (3D)</p>
 </td>
 </tr>
 <tr>
@@ -291,9 +272,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st Place (Team)</strong>
-</p>
-<p>Chan Si Yu, David (23J13)</p>
-<p>Chan Xing Yu, James (23J13)</p>
+<br>Chan Si Yu, David (23J13)
+<br>Chan Xing Yu, James (23J13)</p>
 </td>
 </tr>
 <tr>
@@ -302,21 +282,19 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Silver Awards (Team)</strong>
-</p>
-<p>Lim En Qi (24J02)</p>
-<p>Teo Shen Han (24J02)</p>
-<p>Christine Chuah Hui Qi (24J05)</p>
-<p>Chong Qing Ya (23J01)</p>
-<p>Eaindra Khin (23J04)</p>
-<p>Ng Jia Ying (23J05)</p>
+<br>Lim En Qi (24J02)
+<br>Teo Shen Han (24J02)
+<br>Christine Chuah Hui Qi (24J05)
+<br>Chong Qing Ya (23J01)
+<br>Eaindra Khin (23J04)
+<br>Ng Jia Ying (23J05)</p>
 <p><strong>2 Bronze Awards (Team)</strong>
-</p>
-<p>Chua Wan Zhen Kevina (24J02)</p>
-<p>Kong Teck Nyin (24J10)</p>
-<p>Chua Chin Tat (24J16)</p>
-<p>Mya Cherry (23J03)</p>
-<p>Ngieng Xin Hui (23J03)</p>
-<p>Hong Shi Ting, Geraldine (23J03)</p>
+<br>Chua Wan Zhen Kevina (24J02)
+<br>Kong Teck Nyin (24J10)
+<br>Chua Chin Tat (24J16)
+<br>Mya Cherry (23J03)
+<br>Ngieng Xin Hui (23J03)
+<br>Hong Shi Ting, Geraldine (23J03)</p>
 </td>
 </tr>
 <tr>
@@ -325,9 +303,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Merit Awards</strong>
-</p>
-<p>Mya Cherry (23J03)</p>
-<p>Hong Shi Ting, Geraldine (23J03)</p>
+<br>Mya Cherry (23J03)
+<br>Hong Shi Ting, Geraldine (23J03)</p>
 </td>
 </tr>
 <tr>
@@ -336,17 +313,15 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3 Silver Medals</strong>
-</p>
-<p>Zhang Hengwei (4C)</p>
-<p>Chen Qingyuan (23J10)</p>
-<p>Chua Zhong Ding (23J17)</p>
+<br>Zhang Hengwei (4C)
+<br>Chen Qingyuan (23J10)
+<br>Chua Zhong Ding (23J17)</p>
 <p><strong>5 Bronze Medals</strong>
-</p>
-<p>Megan Miranda Khoo (4C)</p>
-<p>Zhu Ziyan (23J11)</p>
-<p>Shi Yu Xiang (23J17)</p>
-<p>Lin Yuen (24J13)</p>
-<p>Tan Zhu Mo (24J13)</p>
+<br>Megan Miranda Khoo (4C)
+<br>Zhu Ziyan (23J11)
+<br>Shi Yu Xiang (23J17)
+<br>Lin Yuen (24J13)
+<br>Tan Zhu Mo (24J13)</p>
 </td>
 </tr>
 <tr>
@@ -355,9 +330,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Open Category: 2nd Runner Up (Team)</strong>
-</p>
-<p>Xu Lexin (2C)</p>
-<p>Chloe Chan Kai Ho (2F)</p>
+<br>Xu Lexin (2C)
+<br>Chloe Chan Kai Ho (2F)</p>
 </td>
 </tr>
 <tr>
@@ -366,9 +340,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Creative Innovation Award (Team)</strong>
-</p>
-<p>Ang Hui Ru (2F)</p>
-<p>Chloe Chan Kai Ho (2F)</p>
+<br>Ang Hui Ru (2F)
+<br>Chloe Chan Kai Ho (2F)</p>
 </td>
 </tr>
 <tr>
@@ -391,93 +364,79 @@ for recycling companies to do further processing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Secondary Schools Category</u></strong>
-</p>
-<p><strong>3rd Prize (Team)</strong>
-</p>
-<p>Hoo Rui Ting (2B)</p>
-<p>Emmaus Wong Rui (2B)</p>
-<p><strong>3 Merit Awards (Team)</strong>
-</p>
-<p>Luan Jiahui (2C)</p>
-<p>Tan Yu Xuan Jenell (2C)</p>
-<p></p>
-<p>Boo Jia Chen (2H)</p>
-<p>Han Chengxi Javen (2H)</p>
-<p>Lovelle Tan (4C)</p>
-<p>Lin Yushan (4E)</p>
-<p>Toh Zheng Yu (4G)</p>
+<br><strong>3rd Prize (Team)</strong>
+<br>Hoo Rui Ting (2B)
+<br>Emmaus Wong Rui (2B)</p>
+<p>
+<br><strong>3 Merit Awards (Team)</strong>
+<br>Luan Jiahui (2C)
+<br>Tan Yu Xuan Jenell (2C)
+<br>Boo Jia Chen (2H)
+<br>Han Chengxi Javen (2H)
+<br>Lovelle Tan (4C)
+<br>Lin Yushan (4E)
+<br>Toh Zheng Yu (4G)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Biomedical Quiz</p>
-<p>(organised by Anglo-Chinese Junior College)</p>
+<p>Biomedical Quiz
+<br>(organised by Anglo-Chinese Junior College)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Category 1: Secondary 3 &amp; 4</u></strong>
-</p>
-<p><strong>6 Gold Awards</strong>
-</p>
-<p>Mok Jia Xuan (4E)</p>
-<p>Tan Min Juan (4E)</p>
-<p>Avril Teow Si Qi (4E)</p>
-<p>Cheng Shi Teng (4E)</p>
-<p>Low Xin En Eliora (4E)</p>
-<p>Lin Rui'En (4H)</p>
-<p></p>
+<br><strong>6 Gold Awards</strong>
+<br>Mok Jia Xuan (4E)
+<br>Tan Min Juan (4E)
+<br>Avril Teow Si Qi (4E)
+<br>Cheng Shi Teng (4E)
+<br>Low Xin En Eliora (4E)
+<br>Lin Rui'En (4H)</p>
 <p><strong>2 Silver Awards</strong>
-</p>
-<p>Koh Wie Millie (4E)</p>
-<p>Gu Jiale (4G)</p>
+<br>Koh Wie Millie (4E)
+<br>Gu Jiale (4G)</p>
 <p><strong>2 Bronze Awards</strong>
+<br>Zhao Jiayi Felicity (4E)
+<br>Chua Yu Jun, Lucas (4E)
+<br>
 </p>
-<p>Zhao Jiayi Felicity (4E)</p>
-<p>Chua Yu Jun, Lucas (4E)</p>
 <p><strong>1 Honourable Mention Award</strong>
-</p>
-<p>Lew Rui Ling (4E)</p>
+<br>Lew Rui Ling (4E)</p>
 <p><strong>2 Merit Awards</strong>
-</p>
-<p>Lim Jia Jing Bernice (4E)</p>
-<p>Zhang Jingxuan (4G)</p>
+<br>Lim Jia Jing Bernice (4E)
+<br>Zhang Jingxuan (4G)</p>
 <p><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
-</p>
-<p><strong>3 Gold Awards</strong>
-</p>
-<p>Wai Rui Enn (23J02)</p>
-<p>Chiew Pui See Sarah (23J04)</p>
-<p>Lim Qian Hui (23J05)</p>
+<br><strong>3 Gold Awards</strong>
+<br>Wai Rui Enn (23J02)
+<br>Chiew Pui See Sarah (23J04)
+<br>Lim Qian Hui (23J05)</p>
 <p><strong>5 Silver Awards</strong>
-</p>
-<p>Li Hanyu (23J02)</p>
-<p>Tam Jing Yi Joanne (23J02)</p>
-<p>Leo Kit Yee (23J03)</p>
-<p>Hong Shi Ting, Geraldine (23J03)</p>
-<p>Pour Zhi Lin (23J05)</p>
+<br>Li Hanyu (23J02)
+<br>Tam Jing Yi Joanne (23J02)
+<br>Leo Kit Yee (23J03)
+<br>Hong Shi Ting, Geraldine (23J03)
+<br>Pour Zhi Lin (23J05)</p>
 <p><strong>6 Bronze Awards</strong>
-</p>
-<p>Low Zi Ting (23J02)</p>
-<p>Lim Yi Fan (23J05)</p>
-<p>Ng Jia Ying (23J05)</p>
-<p>Pua Jia Yee (23J05)</p>
-<p>Ang Yi En Jerlene (23J05)</p>
+<br>Low Zi Ting (23J02)
+<br>Lim Yi Fan (23J05)
+<br>Ng Jia Ying (23J05)
+<br>Pua Jia Yee (23J05)
+<br>Ang Yi En Jerlene (23J05)</p>
 <p><strong>3 Honourable Mention Awards</strong>
-</p>
-<p>Chan Wen Hsin (23J03)</p>
-<p>Melanie Tan Qiao Enn (23J05)</p>
-<p>Wong Shao Qin (23J12)</p>
+<br>Chan Wen Hsin (23J03)
+<br>Melanie Tan Qiao Enn (23J05)
+<br>Wong Shao Qin (23J12)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LKCMedicine Anatomy Challenge</p>
-<p>(organised by NTU Lee Kong Chian School of Medicine)</p>
+<p>LKC Medicine Anatomy Challenge (organised by NTU Lee Kong Chian School
+of Medicine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 Merit Awards</strong>
-</p>
-<p>Jiang Yuhan (23J03)</p>
-<p>Alston Choo Tian Jun (23J05)</p>
+<br>Jiang Yuhan (23J03)
+<br>Alston Choo Tian Jun (23J05)</p>
 </td>
 </tr>
 <tr>
@@ -486,8 +445,7 @@ for recycling companies to do further processing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Outstanding Delegate</strong>
-</p>
-<p>Heidi Goh 3A</p>
+<br>Heidi Goh 3A</p>
 </td>
 </tr>
 <tr>
@@ -496,15 +454,13 @@ for recycling companies to do further processing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction</strong>
-</p>
-<p>NCC Boys</p>
-<p>NCC Girls</p>
-<p>NPCC Boys</p>
-<p>NPCC Girls</p>
+<br>NCC Boys
+<br>NCC Girls
+<br>NPCC Boys
+<br>NPCC Girls</p>
 <p></p>
 <p><strong>Puan Noor Aishah Award – Gold</strong>
-</p>
-<p>Girl Guides</p>
+<br>Girl Guides</p>
 </td>
 </tr>
 <tr>
@@ -548,8 +504,7 @@ prestigious Mapletree-TENG scholarship.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Young Defence Scientists Programme (YDSP) Congress</strong>
-</p>
-<p>Three students received scholarships:
+<br>Three students received scholarships:
 <br>YDSP Scholarship - Ong Cheng Ling (3A) &amp; Ethan Bai Yixuan (3D)&nbsp;</p>
 <p>DSTA JC scholarship - Ching Yuhui Natalie (24J13)&nbsp;</p>
 <p>During the Students Keynote Presentation, their seniors, James Chan and
@@ -563,8 +518,7 @@ including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Champion</strong>
-</p>
-<p>Tan Jann (24J20)</p>
+<br>Tan Jann (24J20)</p>
 </td>
 </tr>
 <tr>
@@ -573,16 +527,15 @@ including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2nd Place</strong>
-</p>
-<p>Alexander David Goh Yuen Jun (3C)</p>
-<p>Chen Jieren, Jairus (3D)</p>
-<p>Chong Tze Tung (4A)</p>
-<p>Lee Wen Yu Spencer (4F)</p>
-<p>Lim Xuan Han, Zavi (3F)</p>
-<p>Liu Yancheng (4G)</p>
-<p>Ng Jia Enn (4D)</p>
-<p>Xu Tianyou (4C)</p>
-<p>Yang Maolong (3J)</p>
+<br>Alexander David Goh Yuen Jun (3C)
+<br>Chen Jieren, Jairus (3D)
+<br>Chong Tze Tung (4A)
+<br>Lee Wen Yu Spencer (4F)
+<br>Lim Xuan Han, Zavi (3F)
+<br>Liu Yancheng (4G)
+<br>Ng Jia Enn (4D)
+<br>Xu Tianyou (4C)
+<br>Yang Maolong (3J)</p>
 </td>
 </tr>
 <tr>
@@ -591,17 +544,16 @@ including Senior Minister of State (Defence)&nbsp;Mr Heng Chee How.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3rd Place</strong>
-</p>
-<p>Anais Ensi Marmonier (3A)</p>
-<p>Avery Ng Yi Wei (3A)</p>
-<p>Celeste Tang Xinyun (4C)</p>
-<p>Cheong Xiu Li Nicole (3F)</p>
-<p>Cheyenne Chua (4C)</p>
-<p>Chiun Yi Yun (4A)</p>
-<p>Gu Jiale (4G)</p>
-<p>Neo Xin Yu, Kylie (4A)</p>
-<p>Shayna Lee Zhi En (4D)</p>
-<p>Yong Xin Yu, Chloe (3H)</p>
+<br>Anais Ensi Marmonier (3A)
+<br>Avery Ng Yi Wei (3A)
+<br>Celeste Tang Xinyun (4C)
+<br>Cheong Xiu Li Nicole (3F)
+<br>Cheyenne Chua (4C)
+<br>Chiun Yi Yun (4A)
+<br>Gu Jiale (4G)
+<br>Neo Xin Yu, Kylie (4A)
+<br>Shayna Lee Zhi En (4D)
+<br>Yong Xin Yu, Chloe (3H)</p>
 </td>
 </tr>
 <tr>
@@ -611,19 +563,18 @@ Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Champions</strong>
-</p>
-<p>Chew Guan Zhi, Titus (4A)</p>
-<p>Chew Jie Ren (4H)</p>
-<p>Chew Jie Rui (4C)</p>
-<p>Chia Le Rong (3G)</p>
-<p>Guo Zhiqian (3G)</p>
-<p>Haru Kwan (4I)</p>
-<p>Keyan Ong (3G)</p>
-<p>Lee Dong Lin Kenny (3G)</p>
-<p>Lim Tze Ray (3B)</p>
-<p>Ng Zai Xi (4A)</p>
-<p>Wang Zekai (3F)</p>
-<p>Zheng Yichun (3G)</p>
+<br>Chew Guan Zhi, Titus (4A)
+<br>Chew Jie Ren (4H)
+<br>Chew Jie Rui (4C)
+<br>Chia Le Rong (3G)
+<br>Guo Zhiqian (3G)
+<br>Haru Kwan (4I)
+<br>Keyan Ong (3G)
+<br>Lee Dong Lin Kenny (3G)
+<br>Lim Tze Ray (3B)
+<br>Ng Zai Xi (4A)
+<br>Wang Zekai (3F)
+<br>Zheng Yichun (3G)</p>
 </td>
 </tr>
 <tr>
@@ -649,8 +600,8 @@ Boys</p>
 <td rowspan="1" colspan="1">
 <p>Wushu National Champions: B Division Boys</p>
 <p>Individual events: Team RV won 8 Gold, 10 Silver, and 11 Bronze medals</p>
-<p>Group events:</p>
-<p>Champions of the Group Weapon event: B Division Boys</p>
+<p>Group events:
+<br>Champions of the Group Weapon event: B Division Boys</p>
 <p></p>
 <p>Champions of the Group Weapon event and Divisional 4th placing: C Division
 Girls</p>
@@ -667,11 +618,11 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
-</p>
-<p>Chen Qingyuan (23J10)</p>
+<br>Chen Qingyuan (23J10)</p>
 <p><strong>Silver Award</strong>
+<br>Goh Rou Hui Ashley (23J17)
+<br>
 </p>
-<p>Goh Rou Hui Ashley (23J17)</p>
 <p>Goh Rou Hui Ashley (23J17) won 4 awards:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -687,28 +638,25 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p>Singapore Association for the Advancement of Science Poster</p>
 </li>
 </ul>
-<p>Award for Science Communication</p>
-<p><strong>2 Bronze Awards (Team)</strong>
-</p>
-<p>Ng Shi Qing Eugenia (23J17)</p>
-<p>Chan Si Yu, David (23J13)</p>
-<p>Chan Xing Yu, James (23J13)</p>
+<p>Award for Science Communication
+<br><strong>2 Bronze Awards (Team)</strong>
+<br>Ng Shi Qing Eugenia (23J17)
+<br>Chan Si Yu, David (23J13)
+<br>Chan Xing Yu, James (23J13)</p>
 <p><strong>2 Merit Awards (Team)</strong>
-</p>
-<p>Joslyn Yap Qian Ting (24J08)</p>
-<p>Chong Chee Wen (24J10)</p>
-<p>Valerie Chia Boon Hwan (24J10)</p>
-<p>Li Hanyu (23J02)</p>
-<p>Chua Jia Rong (23J09)</p>
-<p>Khow Willard (23J18)</p>
+<br>Joslyn Yap Qian Ting (24J08)
+<br>Chong Chee Wen (24J10)
+<br>Valerie Chia Boon Hwan (24J10)
+<br>Li Hanyu (23J02)
+<br>Chua Jia Rong (23J09)
+<br>Khow Willard (23J18)</p>
 <p><strong>2 Singapore Association for the Advancement of Science Poster Awards for Science Communication (Team)</strong>
-</p>
-<p>Kiana Loh Kai Wei (24J01)</p>
-<p>Tey Yu Xin Richelle (24J05)</p>
-<p>Lim Sin Yu (24J12)</p>
-<p>Lim En Qi (24J02)</p>
-<p>Teo Shen Han (24J02)</p>
-<p>Christine Chuah Hui Qi (24J05)</p>
+<br>Kiana Loh Kai Wei (24J01)
+<br>Tey Yu Xin Richelle (24J05)
+<br>Lim Sin Yu (24J12)
+<br>Lim En Qi (24J02)
+<br>Teo Shen Han (24J02)
+<br>Christine Chuah Hui Qi (24J05)</p>
 </td>
 </tr>
 <tr>
@@ -717,15 +665,13 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Category A: Junior College Commendation Award (Team)</strong>
-</p>
-<p>Fabius Tan Choon Keong (23J09)</p>
-<p>Lim Yu Yang (23J10)</p>
-<p>Nicholas Ng Yi Jie (23J17)</p>
+<br>Fabius Tan Choon Keong (23J09)
+<br>Lim Yu Yang (23J10)
+<br>Nicholas Ng Yi Jie (23J17)</p>
 <p><strong>Category B: Secondary School Bronze Award (Team)</strong>
-</p>
-<p>Li Xin Hui (4E)</p>
-<p>Lucius Oo (4E)</p>
-<p>Lew Rui Ling (4E)</p>
+<br>Li Xin Hui (4E)
+<br>Lucius Oo (4E)
+<br>Lew Rui Ling (4E)</p>
 </td>
 </tr>
 <tr>
@@ -736,20 +682,18 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p><strong>Starter Category (for Secondary Schools)</strong>
 </p>
 <p><strong>Distinction Award (Team)</strong>
-</p>
-<p>Chin Xiao Rou (24J08)</p>
-<p>Tan Zi Jun (24J11)</p>
-<p>Ching Yuhui, Natalie (24J13)</p>
-<p>Yang Lin Xuan (24J15)</p>
-<p>Merit Award (Team)</p>
-<p>Li Xin Hui (4E)</p>
-<p>Lin Yushan (4E)</p>
-<p>Lew Rui Ling (4E)</p>
-<p>Lim Jia Jing Bernice (4E)</p>
+<br>Chin Xiao Rou (24J08)
+<br>Tan Zi Jun (24J11)
+<br>Ching Yuhui, Natalie (24J13)
+<br>Yang Lin Xuan (24J15)
+<br>Merit Award (Team)
+<br>Li Xin Hui (4E)
+<br>Lin Yushan (4E)
+<br>Lew Rui Ling (4E)
+<br>Lim Jia Jing Bernice (4E)</p>
 <p><strong>Best Mentor Award</strong>
-</p>
-<p>Ms Khiu Yi Wen</p>
-<p>Ms Lau Shi Yun</p>
+<br>Ms Khiu Yi Wen
+<br>Ms Lau Shi Yun</p>
 </td>
 </tr>
 <tr>
@@ -758,19 +702,17 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st</strong>
-</p>
-<p>Dylan Zihong Saga&nbsp;(23J17)</p>
-<p>Foo Chuan Yuan (23J17)</p>
-<p>Mah Kian Siong Jerald&nbsp;(23J17)</p>
-<p>Tan Ik Kai Ayden (23J17)</p>
-<p>Tan Yi Jun (23J17)</p>
+<br>Dylan Zihong Saga&nbsp;(23J17)
+<br>Foo Chuan Yuan (23J17)
+<br>Mah Kian Siong Jerald&nbsp;(23J17)
+<br>Tan Ik Kai Ayden (23J17)
+<br>Tan Yi Jun (23J17)</p>
 <p><strong>3rd</strong>
-</p>
-<p>Lin Lejing, Fanny&nbsp;(23J13)</p>
-<p>Ong Yi Qian&nbsp;(23J13)</p>
-<p>Ng Shi Qing, Eugenia (23J17)</p>
-<p>Yeo Su Gar&nbsp;(23J17)</p>
-<p>Nicholas Ng Yi Jie&nbsp;(23J17)</p>
+<br>Lin Lejing, Fanny&nbsp;(23J13)
+<br>Ong Yi Qian&nbsp;(23J13)
+<br>Ng Shi Qing, Eugenia (23J17)
+<br>Yeo Su Gar&nbsp;(23J17)
+<br>Nicholas Ng Yi Jie&nbsp;(23J17)</p>
 </td>
 </tr>
 <tr>
@@ -779,15 +721,14 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Merit Award</strong>
-</p>
-<p>Li Hanyu (23J02)</p>
-<p>Zhang Wenya&nbsp;(23J06)</p>
-<p>Siak Jing Wen&nbsp;(23J06)</p>
-<p>Deborah Seng&nbsp;(23J20)</p>
-<p>Chua Wen Zhe&nbsp;(23J20)</p>
-<p>Averyl Cheong&nbsp;(23J20)</p>
-<p>Liu Xi&nbsp;(23J20)</p>
-<p>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
+<br>Li Hanyu (23J02)
+<br>Zhang Wenya&nbsp;(23J06)
+<br>Siak Jing Wen&nbsp;(23J06)
+<br>Deborah Seng&nbsp;(23J20)
+<br>Chua Wen Zhe&nbsp;(23J20)
+<br>Averyl Cheong&nbsp;(23J20)
+<br>Liu Xi&nbsp;(23J20)
+<br>Nicole Yeo Wen Wen&nbsp;(23J20)</p>
 </td>
 </tr>
 <tr>
@@ -795,11 +736,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p>Lion Cup Chinese Debate Competition (JC Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
-</p>
-<p><strong>Best Debater Award</strong>
-</p>
-<p>Geng Tong (23J08)</p>
+<p><strong>2nd Best Debater Award</strong>
+<br>Geng Tong (23J08)</p>
 </td>
 </tr>
 <tr>
@@ -851,8 +789,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p>2024年全国中学生现场翻译比赛（National Secondary School Translation Competition 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>团体优胜奖(Team Award):</p>
-<p>Wang Xinyi (4G)
+<p>团体优胜奖(Team Award)
+<br>Wang Xinyi (4G)
 <br>Zhu Jingxuan (4G)
 <br>Tong Yuxuan (4G)
 <br>
@@ -903,4 +841,9 @@ in New Yang Style Taijiquan.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>

@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Overview/.keep
-      - School Overview/A World Class Educational Institution.md
+      - School Overview/A School of Opportunities.md
       - School Overview/Academic Departments.md
       - School Overview/Non Academic Departments.md
       - Vision, Mission, Motto.md
