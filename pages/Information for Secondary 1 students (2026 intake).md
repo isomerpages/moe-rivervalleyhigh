@@ -233,11 +233,9 @@ more information on the school’s uniform requirements.</p>
 <p>Singapore Citizens in financial need can get assistance from MOE on school
 fees and other expenses.</p>
 </li>
-<li>
-<p>You can submit the application through the MOE e-FAS link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>) or via
-hardcopy form in the General Office.</p>
-</li>
 </ul>
+<p>You can submit the application through the MOE e-FAS link (<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)
+or via hardcopy form in the General Office.</p>
 <p><strong>Start of School 2026 – Important Information for Students and Parents</strong>
 <br>To ensure you are well-prepared for the start of your journey with us,
 please note the following information:
