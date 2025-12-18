@@ -363,8 +363,18 @@ can contact the school General Office at Tel No. 65678115.</p>
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing materials
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary School Ez-link Card
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dry Snacks
-<br><strong>Reporting venue</strong>: School Hall</p>
-<p></p>
+<br><strong>Reporting venue</strong>: School Hall
+<br>
+</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>2026 Sec 1 Class Allocation</u>
+<br>Please refer to the Parents Gateway App for 2026 Year 1 Class Allocation
+on 2 January 2026. At the Home Page, click on the name icon of the child
+to see his/her class.</p>
+<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>River Valley High School Parent-Teacher Association</u>
+<br>The Parent-Teacher Association (PTA) recognizes the importance of parents’
+participation on the learning journey of their teens.&nbsp; You can find
+out more about the PTA <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/school-partners/pta/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
