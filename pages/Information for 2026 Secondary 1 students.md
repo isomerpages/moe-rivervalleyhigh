@@ -362,9 +362,9 @@ can contact the school General Office at Tel No. 65678115.</p>
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing materials
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary School Ez-link Card
-<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dry Snacks</p>
-<p>&nbsp;</p>
-<p><strong>Reporting venue</strong>: School Hall</p>
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dry Snacks
+<br><strong>Reporting venue</strong>: School Hall</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
