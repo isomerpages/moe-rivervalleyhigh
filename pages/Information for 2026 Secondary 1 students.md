@@ -382,6 +382,34 @@ for the announcement of the PDLP offer. Should there be an urgent need
 for a digital device, parents can consider purchasing a Windows based second
 hand device.&nbsp; Otherwise, the student can also loan out a laptop from
 the school (subject to availability).</p>
+<p><strong>Appeal for School Transfer (Primary 6 Students)</strong>
+<br>Primary 6 students who have applied to River Valley High School (RVHS)
+during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal
+to be considered for transfer to RVHS. These students appealing for admission
+to RVHS after the release of the Secondary 1 Posting result must meet the
+school’s cut-off points (COP).</p>
+<p>Please note that students admitted to a school through the DSA-Sec Exercise <strong>WILL NOT BE</strong> &nbsp;allowed
+to transfer to another school after the release of the PSLE results. They
+are expected to honour the commitment to the posted DSA school for the
+duration of the programme admitted to.</p>
+<p>The appeal application period is from the <strong><u>19 to 26 December 2025, 1700 hours.</u></strong>
+</p>
+<p>Late or incomplete appeal will not be considered.</p>
+<p>Application is to be done strictly via this <a href="http://go.gov.sg/2026rvhssec1appeal" rel="noopener noreferrer nofollow" target="_blank">form</a> .</p>
+<p>For your convenience, it is not necessary to submit any hardcopy appeal
+form personally.&nbsp; Students who are successful in their appeals will
+need to provide us with the actual documents which they have used to support
+their appeal for checking purpose when school re-opens.</p>
+<p><strong>Pending the outcome of appeal, all applicants are required to report to the school that they are posted to by the Ministry of Education on Secondary 1 Registration Day.</strong>
+</p>
+<p>Successful applicants will be informed by 30 December 2025.</p>
+<p>The decision of the school’s Admissions Committee is final and the school
+will not facilitate further discussion with the applicants regarding its
+decision.</p>
+<p>For further information, please contact the General Office at Tel: 65678115
+during office hours</p>
+<p>Thank you.</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
