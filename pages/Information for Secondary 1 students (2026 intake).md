@@ -36,7 +36,7 @@ scan this QR code alternatively.</p>
 </li>
 </ul>
 <p><strong>Purchase of Textbooks and School Uniform</strong>
-<br>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<br>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here </a>for
 the Booklist
 <br>Click <a href="/files/River_Valley_High_School_Uniform_Size_Chart_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the Uniform Size charts</p>
