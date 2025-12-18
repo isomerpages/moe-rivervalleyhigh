@@ -386,8 +386,8 @@ the school (subject to availability).</p>
 <br>Primary 6 students who have applied to River Valley High School (RVHS)
 during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal
 to be considered for transfer to RVHS. These students appealing for admission
-to RVHS after the release of the Secondary 1 Posting result must meet the
-school’s cut-off points (COP).</p>
+to RVHS after the release of the Secondary 1 Posting result <u>must</u> meet
+the school’s cut-off points (COP).</p>
 <p>Please note that students admitted to a school through the DSA-Sec Exercise <strong>WILL NOT BE</strong> &nbsp;allowed
 to transfer to another school after the release of the PSLE results. They
 are expected to honour the commitment to the posted DSA school for the
