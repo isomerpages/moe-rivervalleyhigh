@@ -15,7 +15,7 @@ sections:
         - title: School reopening information for 2026
           description: Click here
           url: /information-for-2026-secondary-1-students/
-        - title: A warm welcome to our Secondary 1 students
+        - title: A warm welcome to our Secondary 1 students (2026 intake)
           description: Click here
           url: /about-rv/pm/
   - infopic:
