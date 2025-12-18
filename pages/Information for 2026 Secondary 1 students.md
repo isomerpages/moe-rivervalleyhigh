@@ -271,6 +271,8 @@ not to accompany your child into the school compound.</p>
 can contact the school General Office at Tel No. 65678115.</p>
 </li>
 </ul>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Sec 1 Orientation Programme for Term 1, Week 1</u>
+</p>
 <p></p>
 <p></p>
 <p></p>
