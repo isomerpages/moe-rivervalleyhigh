@@ -235,7 +235,18 @@ more information on the school’s uniform requirements.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Financial Assistance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Citizens in financial need can get assistance from MOE on school
+fees and other expenses.</p>
+</li>
+<li>
+<p>You can submit the application through the MOE e-FAS link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)
+or via hardcopy form in the General Office.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
