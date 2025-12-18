@@ -67,27 +67,3 @@ vendors <strong>at RVHS</strong> are:
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Purchase of Textbooks and School Uniform</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click <a href="/files/River_Valley_High_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Booklist.</p>
-</li>
-<li>
-<p>Click <a href="/files/River_Valley_High_School_Uniform_Size_Chart_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Uniform Size charts.</p>
-</li>
-<li>
-<p>Click <a href="/files/My_Uniform_Shop__ASIA__Pte_Ltd___River_Valley_High_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">here</a> for
-Operating Hours of the bookshop and the uniform vendors.</p>
-</li>
-<li>
-<p>Click <a href="/files/RVHS_Uniform_Requirement.pdf" rel="noopener nofollow" target="_blank">here</a> for
-RVHS Uniform requirement.</p>
-</li>
-</ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
