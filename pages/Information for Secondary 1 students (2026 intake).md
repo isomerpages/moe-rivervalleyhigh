@@ -187,7 +187,7 @@ more information on the school’s uniform requirements.</p>
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$643</p>
+<p>$703</p>
 </td>
 </tr>
 <tr>
