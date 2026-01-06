@@ -82,9 +82,9 @@ sections:
       button: Read More
   - infopic:
       title: Open House
-      subtitle: Visit Us!
+      subtitle: Come Visit Us!
       id: infopic
-      description: 19 January, Monday. 9.30am- 12.30pm.
+      description: 19 January 2026, Monday. 9.30am- 12.30pm.
       image: /images/JAE_Open_House_MOTD.jpg
       alt: Image alt text
 ---
