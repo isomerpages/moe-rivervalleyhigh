@@ -19,6 +19,14 @@ sections:
           description: Click here
           url: /about-rv/pm/
   - infopic:
+      title: Open House
+      subtitle: Come Visit Us!
+      id: infopic
+      description: Discover what we're all about on Monday 19 January 2026, 9.30am to
+        12.30pm!
+      image: /images/JAE_Open_House_MOTD.jpg
+      alt: Image alt text
+  - infopic:
       title: RV70
       subtitle: Celebrating
       id: infopic
