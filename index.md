@@ -22,7 +22,7 @@ sections:
       title: Open House
       subtitle: Join Us!
       id: infopic
-      description: Meet our team and Discover what we're all about!
+      description: Meet our team. Discover what we're all about!
       image: /images/JAE_Open_House_MOTD.jpg
       alt: Image alt text
   - infopic:
