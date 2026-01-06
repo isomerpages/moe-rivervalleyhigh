@@ -20,7 +20,7 @@ sections:
           url: /about-rv/pm/
   - infopic:
       title: Open House
-      subtitle: Join Us!
+      subtitle: Come Visit Us!
       id: infopic
       description: Discover what we're all about on 19 January 2026 (Monday), 9.30am
         to 12.30pm!
