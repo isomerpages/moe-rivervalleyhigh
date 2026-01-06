@@ -82,11 +82,9 @@ sections:
       button: Read More
   - infopic:
       title: Open House
-      subtitle: Join Us!
+      subtitle: Visit Us!
       id: infopic
-      description: 19 January, Monday. 9.30am-
-        12.30pm.                                                                      Discover
-        what we're all about!
+      description: 19 January, Monday. 9.30am- 12.30pm.
       image: /images/JAE_Open_House_MOTD.jpg
       alt: Image alt text
 ---
