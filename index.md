@@ -86,7 +86,7 @@ sections:
       id: infopic
       description: 19 January 2026, Monday 0930 to
         1230.                                                                      Discover
-        what we're all about.
+        what we're all about!
       image: /images/JAE_Open_House_MOTD.jpg
       alt: Image alt text
 ---
