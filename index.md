@@ -22,7 +22,8 @@ sections:
       title: Open House
       subtitle: Join Us!
       id: infopic
-      description: Meet our team. Discover what we're all about!
+      description: Discover what we're all about on 19 January 2026 (Monday), 9.30am
+        to 12.30pm!
       image: /images/JAE_Open_House_MOTD.jpg
       alt: Image alt text
   - infopic:
