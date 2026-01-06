@@ -80,4 +80,13 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Open House
+      subtitle: Join Us!
+      id: infopic
+      description: 19 January 2026, Monday. 0930 to
+        1230hrs.                                                                     Discover
+        what we're all about.
+      image: /images/JAE_Open_House_MOTD.jpg
+      alt: Image alt text
 ---
