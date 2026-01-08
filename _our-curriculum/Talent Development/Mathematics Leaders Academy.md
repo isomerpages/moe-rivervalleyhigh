@@ -30,18 +30,13 @@ Connecting cultures and perspectives with local students in Sydney
 
 ![](/images/P5_Mathematics_Meets_Architectural_Marvel___MLA_OELP_Sydney_Opera_House.jpg)			 
 Mathematics Meets Architectural Marvel - MLA OELP Sydney Opera House
-
-
-
 ### Deep Subject Mastery
 Rigorous training is conducted to equip students with higher-order critical thinking and problem-solving skills, and prepare them for national and international Mathematics competitions. Sec 4 and JC 1 students can also look forward to undertaking a several-month-long research project under the mentorship of academics or researchers from institutes of higher learning or research institutions. In groups, students build their mathematical rigour and intellect, and acquire useful mathematical research skills.
 
 ![](/images/P6_MLA_students_learning_about_Optimising_3D_Printing_with_AI_Based_Defect_Detection_at_Singapore_Centre_for_3D_Printing.jpg) MLA students learning about Optimising 3D Printing with AI-Based Defect Detection at Singapore Centre for 3D Printing
-
 #### Leadership Development
-
 Students have opportunities to develop their leadership capabilities through planning, leading and implementing key initiatives  such as the RV STEM Fest, a flagship student-led event jointly with the Science Leaders Academy. Designed for primary school students, student leaders work collaboratively across disciplines, sharpening their organisational and communication skills, and ensuring effective implementation of engaging STEM learning experiences.
-
+![](/images/P7_RV_STEM_Fest_learning_laughing_and_loving_every_moment.jpg)
 ![river valley mathematics 2023](/images/river%20valley%20mathematics%20challenge%202023%20organised%20by%20sec%204%20mla%20members.jpg) River Valley Mathematics Challenge 2023 organised by Sec 4 MLA members
 
  ![MLA workshop on python programming](/images/senior%20mla%20members%20conducted%20a%20workshop%20on%20python%20programming%20for%20sec%202%20juniors.jpg) Senior MLA members conducted a workshop on Python Programming for Sec 2 juniors
