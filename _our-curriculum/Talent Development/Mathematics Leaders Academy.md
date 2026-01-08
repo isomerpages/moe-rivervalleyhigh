@@ -41,7 +41,6 @@ Rigorous training is conducted to equip students with higher-order critical thin
 #### Leadership Development
 
 Students have opportunities to develop their leadership capabilities through planning, leading and implementing key initiatives  such as the RV STEM Fest, a flagship student-led event jointly with the Science Leaders Academy. Designed for primary school students, student leaders work collaboratively across disciplines, sharpening their organisational and communication skills, and ensuring effective implementation of engaging STEM learning experiences.
-events such as the River Valley Mathematics Challenge, the Mathematics department’s key student-centered event organised for primary school students. MLA further promotes student agency though MyMLA, a leadership platform that empowers students to propose bottom-up initiatives which they are passionate in, to lead and take charge. As students value-create in support of MLA’s objectives, they also find greater purpose as contributing members of the academy.&nbsp;
 
 ![river valley mathematics 2023](/images/river%20valley%20mathematics%20challenge%202023%20organised%20by%20sec%204%20mla%20members.jpg) River Valley Mathematics Challenge 2023 organised by Sec 4 MLA members
 
