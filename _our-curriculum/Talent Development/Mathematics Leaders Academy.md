@@ -18,6 +18,8 @@ MLA Students Building the Mathematical Bridge Model, a wooden footbridge in Camb
 Students’ perspectives are broadened through enrichment workshops conducted in-house or by external speakers, as well as learning journeys designed to enhance their mathematical learning experience. There are also opportunities for student-directed research where students engage in self-initiated learning to explore, discover, construct knowledge and apply their mathematical understanding in areas of their interest. Through purposeful discussions, students engage in mathematical discourse, exchange perspectives and extend their thinking.
 &nbsp; ![](/images/P2_Pigeonhole_Primciple_Workshop_conducted_by_Dr_Yap_Jit_WU.jpg)
 Principle Workshop conducted by Dr Yap Jit Wu
+![](/images/P3_Exploring_acoustic_amplification_through_parabolic_design_of_the_Rain_Oculus_at_MBS.jpg)
+Exploring acoustic amplification through the parabolic design of the Rain Oculus at MBS
 ### Deep Subject Mastery
 
 Rigorous training is conducted to equip students with higher-order critical thinking and problem-solving skills, and prepare them for national and international Mathematics competitions. Sec 4 and JC 1 students can also look forward to undertaking a several-month-long research project under the mentorship of academics or researchers from institutes of higher learning or research institutions. In groups, students build their mathematical rigour and intellect, and acquire useful mathematical research skills.
