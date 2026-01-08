@@ -3,6 +3,7 @@ title: Mathematics Leaders Academy
 permalink: /our-curriculum/Talent-Academies/mla/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ### Mathematics Leaders Academy
 
@@ -11,6 +12,8 @@ third_nav_title: Talent Development
 </figure>
 
 The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&amp;i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
+
+The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&amp;i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies
  
 #### Broad-based Learning
 
