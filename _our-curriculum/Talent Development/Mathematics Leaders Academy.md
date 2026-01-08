@@ -20,6 +20,8 @@ Students’ perspectives are broadened through enrichment workshops conducted in
 Principle Workshop conducted by Dr Yap Jit Wu
 ![](/images/P3_Exploring_acoustic_amplification_through_parabolic_design_of_the_Rain_Oculus_at_MBS.jpg)
 Exploring acoustic amplification through the parabolic design of the Rain Oculus at MBS
+
+Students also have the opportunity to participate in the Overseas Experiential Learning Programme, where they experience interdisciplinary learning by connecting mathematics with other disciplines through real-world applications in areas such as architecture, innovation, technology and engineering. Through cultural immersion and interactions with local students, our students also gain valuable global exposure, broadening their perspectives and developing a deeper appreciation of diverse cultures and viewpoints in an increasingly interconnected
 ### Deep Subject Mastery
 
 Rigorous training is conducted to equip students with higher-order critical thinking and problem-solving skills, and prepare them for national and international Mathematics competitions. Sec 4 and JC 1 students can also look forward to undertaking a several-month-long research project under the mentorship of academics or researchers from institutes of higher learning or research institutions. In groups, students build their mathematical rigour and intellect, and acquire useful mathematical research skills.
