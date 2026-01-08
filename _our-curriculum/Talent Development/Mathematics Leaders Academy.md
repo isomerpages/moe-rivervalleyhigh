@@ -34,7 +34,6 @@ Mathematics Meets Architectural Marvel - MLA OELP Sydney Opera House
 
 
 ### Deep Subject Mastery
-
 Rigorous training is conducted to equip students with higher-order critical thinking and problem-solving skills, and prepare them for national and international Mathematics competitions. Sec 4 and JC 1 students can also look forward to undertaking a several-month-long research project under the mentorship of academics or researchers from institutes of higher learning or research institutions. In groups, students build their mathematical rigour and intellect, and acquire useful mathematical research skills.
 
 ![mla  selected to present their science mentorship programme project](/images/mla%20%20selected%20to%20present%20their%20science%20mentorship%20programme%20project%20at%20the%20youth%20science%20conference.jpg)Our MLA group was one of three groups selected to present their Science Mentorship Programme project at the Youth Science Conference
