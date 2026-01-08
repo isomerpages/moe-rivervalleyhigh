@@ -12,7 +12,7 @@ variant: markdown
 </figure>
 
 The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&amp;i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
-![](/images/MLA.jpg)    
+![](/images/MLA.jpg) 
 MLA Students Building the Mathematical Bridge Model, a wooden footbridge in Cambridge. 
 #### Broad-based Learning
 Students’ perspectives are broadened through enrichment workshops conducted in-house or by external speakers, as well as learning journeys designed to enhance their mathematical learning experience. There are also opportunities for student-directed research where students engage in self-initiated learning to explore, discover, construct knowledge and apply their mathematical understanding in areas of their interest.&nbsp;
