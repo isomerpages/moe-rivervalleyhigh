@@ -16,14 +16,10 @@ The Mathematics Leaders Academy (MLA) harnesses the talents of our students, ins
 MLA Students Building the Mathematical Bridge Model, a wooden footbridge in Cambridge. 
 #### Broad-based Learning
 Students’ perspectives are broadened through enrichment workshops conducted in-house or by external speakers, as well as learning journeys designed to enhance their mathematical learning experience. There are also opportunities for student-directed research where students engage in self-initiated learning to explore, discover, construct knowledge and apply their mathematical understanding in areas of their interest. Through purposeful discussions, students engage in mathematical discourse, exchange perspectives and extend their thinking.
-&nbsp;
-![Sharing session by MLA Alumni](/images/sharing%20session%20by%20mla%20alumni.jpg)         Principle Workshop conducted by Dr Yap Jit Wu
+&nbsp; ![](/images/P2_Pigeonhole_Primciple_Workshop_conducted_by_Dr_Yap_Jit_WU.jpg)
+Principle Workshop conducted by Dr Yap Jit Wu
 
-![Sec 4 Learning Journey to NUS School of Computing](/images/sec%204%20learning%20journey%20to%20nus%20school%20of%20computing.jpg) Sec 4 Learning Journey to NUS School of Computing
 
-![JC MLA members learning how to keep the Singapore currency stable](/images/jc%20mla%20members%20learning%20how%20to%20keep%20the%20singapore%20currency%20stable.JPG)  JC MLA members learning how to keep the Singapore currency stable at the Monetary Authority of Singapore Gallery
-
-![Learning about Borel – A Game about Probability](/images/learning%20about%20borel%20–%20a%20game%20about%20probability.jpg) Learning about Borel – A Game about Probability
 
 
 ### Deep Subject Mastery
