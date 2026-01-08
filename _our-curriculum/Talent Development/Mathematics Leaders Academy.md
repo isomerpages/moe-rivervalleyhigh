@@ -37,5 +37,5 @@ Rigorous training is conducted to equip students with higher-order critical thin
 #### Leadership Development
 Students have opportunities to develop their leadership capabilities through planning, leading and implementing key initiatives  such as the RV STEM Fest, a flagship student-led event jointly with the Science Leaders Academy. Designed for primary school students, student leaders work collaboratively across disciplines, sharpening their organisational and communication skills, and ensuring effective implementation of engaging STEM learning experiences.
 ![](/images/P7_RV_STEM_Fest_learning_laughing_and_loving_every_moment.jpg) RV STEM Fest learning laughing and loving every moment
-
-
+     
+MLA further promotes student agency though MyMLA, a leadership platform that empowers students to initiate and lead ground-up projects driven by their passion for Mathematics. Through MyMLA, students share their enthusiasm with their peers and the wider student community by designing meaningful activities. As they value-create in support of MLA’s objectives, students develop a strong sense of ownership, purpose and responsibility as contributing members of the Academy.
