@@ -41,4 +41,5 @@ Students have opportunities to develop their leadership capabilities through pla
 ![](/images/P7_RV_STEM_Fest_learning_laughing_and_loving_every_moment.jpg) RV STEM Fest learning laughing and loving every moment
      
 MLA further promotes student agency though MyMLA, a leadership platform that empowers students to initiate and lead ground-up projects driven by their passion for Mathematics. Through MyMLA, students share their enthusiasm with their peers and the wider student community by designing meaningful activities. As they value-create in support of MLA’s objectives, students develop a strong sense of ownership, purpose and responsibility as contributing members of the Academy.
+
 ![](/images/P8_Inspiring_curiosity_about___on_Pi_Day__14_March_.jpg) Inspiring curiosity about π on Pi Day (14 March)
