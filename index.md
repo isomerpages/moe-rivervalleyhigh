@@ -36,17 +36,6 @@ sections:
       url: /rv70/
       description: Learn more about RV70 and hear our stories.
   - infopic:
-      title: Inspiring Excellence
-      id: infopic
-      description: Recognise our teachers' exceptional contributions to education
-      image: /images/2025/PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: Spotlighting our young educators
-      id: infopic
-      image: /images/2025/OYEA.jpg
-      alt: Image alt text
-  - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
       id: infopic
