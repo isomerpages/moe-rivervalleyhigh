@@ -31,7 +31,7 @@ Connecting cultures and perspectives with local students in Sydney
 ![](/images/P5_Mathematics_Meets_Architectural_Marvel___MLA_OELP_Sydney_Opera_House.jpg)			 
 Mathematics Meets Architectural Marvel - MLA OELP Sydney Opera House
 ### Deep Subject Mastery
-Rigorous training is conducted to equip students with higher-order critical thinking and problem-solving skills, and prepare them for national and international Mathematics competitions. Sec 4 and JC 1 students can also look forward to undertaking a several-month-long research project under the mentorship of academics or researchers from institutes of higher learning or research institutions. In groups, students build their mathematical rigour and intellect, and acquire useful mathematical research skills.
+Rigorous training is conducted to equip students with higher-order critical thinking and problem-solving skills, and prepare them for national and international Mathematics competitions. Sec 4 and JC 1 students can also look forward to undertaking several-month-long research projects under the mentorship of academics or researchers from institutes of higher learning or research institutions. In groups, students build their mathematical rigour and intellect, and acquire useful mathematical research skills.
 
 ![](/images/P6_MLA_students_learning_about_Optimising_3D_Printing_with_AI_Based_Defect_Detection_at_Singapore_Centre_for_3D_Printing.jpg) MLA students learning about Optimising 3D Printing with AI-Based Defect Detection at Singapore Centre for 3D Printing
 #### Leadership Development
