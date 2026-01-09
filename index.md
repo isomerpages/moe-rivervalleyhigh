@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/GIF4.gif
+      background: /images/carousell2.gif
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
       variant: center
