@@ -12,9 +12,10 @@ variant: markdown
 </figure>
 
 The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&amp;i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
+
 ![](/images/MLA.jpg) 
 MLA Students Building the Mathematical Bridge Model, a wooden footbridge in Cambridge
-##### Broad-based Learning
+##### Broad-based Learning <br>
 Students’ perspectives are broadened through enrichment workshops conducted in-house or by external speakers, as well as learning journeys designed to enhance their mathematical learning experience. There are also opportunities for student-directed research where students engage in self-initiated learning to explore, discover, construct knowledge and apply their mathematical understanding in areas of their interest. Through purposeful discussions, students engage in mathematical discourse, exchange perspectives and extend their thinking.
 
 ![](/images/P2_Pigeonhole_Primciple_Workshop_conducted_by_Dr_Yap_Jit_WU.jpg)
@@ -40,4 +41,5 @@ Students have opportunities to develop their leadership capabilities through pla
 ![](/images/P7_RV_STEM_Fest_learning_laughing_and_loving_every_moment.jpg) RV STEM Fest learning laughing and loving every moment
      
 MLA further promotes student agency though MyMLA, a leadership platform that empowers students to initiate and lead ground-up projects driven by their passion for Mathematics. Through MyMLA, students share their enthusiasm with their peers and the wider student community by designing meaningful activities. As they value-create in support of MLA’s objectives, students develop a strong sense of ownership, purpose and responsibility as contributing members of the Academy.
+
 ![](/images/P8_Inspiring_curiosity_about___on_Pi_Day__14_March_.jpg) Inspiring curiosity about π on Pi Day (14 March)

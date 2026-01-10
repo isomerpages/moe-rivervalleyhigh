@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/GIF4.gif
+      background: /images/carousell_1_10_Jan_.gif
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
       variant: center
@@ -35,17 +35,6 @@ sections:
       alt: Image alt text
       url: /rv70/
       description: Learn more about RV70 and hear our stories.
-  - infopic:
-      title: Inspiring Excellence
-      id: infopic
-      description: Recognise our teachers' exceptional contributions to education
-      image: /images/2025/PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: Spotlighting our young educators
-      id: infopic
-      image: /images/2025/OYEA.jpg
-      alt: Image alt text
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
