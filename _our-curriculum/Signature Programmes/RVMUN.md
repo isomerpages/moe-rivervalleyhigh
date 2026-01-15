@@ -20,8 +20,7 @@ in addressing and finding solutions to these challenges.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
 </div>
 <h2><strong>RVMUN 2026</strong></h2>
-<p><strong>OUR THEME</strong>
-</p>
+<h4><strong>OUR THEME</strong></h4>
 <p>For our 14th iteration this year, our theme is "Verbis Creare", or "to
 Create with Words". Through this theme, we hope to remind delegates that
 their words hold great meaning. The conveying of ideas through speeches
