@@ -35,8 +35,9 @@ collaboration, to speak not just to be heard, but to build.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN3.jpg">
 </div>
-<p></p>
-<p></p>
+<p><strong>DETAILS</strong>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 16th March 2026 — 18th March 2026
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: River Valley High School</p>
 <p></p>
 <p>Connect with @rvmun on Instagram.</p>
 <div class="isomer-image-wrapper">
