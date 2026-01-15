@@ -16,7 +16,9 @@ to be able to understand and address the intricacies and complexities of
 the world. RVMUN aims to provide delegates with the essential and critical
 insight into global issues, and foster a sense of responsibility and integrity
 in addressing and finding solutions to these challenges.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
+</div>
 <p></p>
 <p>Connect with @rvmun on Instagram.</p>
 <div class="isomer-image-wrapper">
