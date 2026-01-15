@@ -47,7 +47,5 @@ January 2026, or earlier if slots are filled</p>
 <p><strong>INQUIRIES</strong>
 <br>For more information, head to our linktree at <a rel="noopener noreferrer nofollow" target="_blank">linktr.ee/rvmun2026</a>
 <br>Should you require further assistance, please email <a rel="noopener noreferrer nofollow" target="_blank">rvmun2026@gmail.com</a>.</p>
-<p>
-<br>
-<br>
-</p>
+<h3><br><br></h3>
+<p></p>
