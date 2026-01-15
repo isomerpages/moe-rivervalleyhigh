@@ -32,7 +32,9 @@ not just as debate, but as constructive dialogue that shapes a better world.</p>
 that the most profound global progress begins not with force, but with
 conversation. It invites delegates to use their voices as instruments of
 collaboration, to speak not just to be heard, but to build.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN3.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
