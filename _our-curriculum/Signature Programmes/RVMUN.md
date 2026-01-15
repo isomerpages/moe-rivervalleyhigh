@@ -42,6 +42,9 @@ collaboration, to speak not just to be heard, but to build.</p>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open: 16th January 2026
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Close: Registration will close on 28th
 January 2026, or earlier if slots are filled</p>
+<p><strong>INQUIRIES</strong>
+<br>For more information, head to our linktree at <a rel="noopener noreferrer nofollow" target="_blank">linktr.ee/rvmun2026</a>
+<br>Should you require further assistance, please email <a rel="noopener noreferrer nofollow" target="_blank">rvmun2026@gmail.com</a>.</p>
 <p>
 <br>
 <br>
