@@ -38,11 +38,10 @@ collaboration, to speak not just to be heard, but to build.</p>
 <p><strong>DETAILS</strong>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 16th March 2026 — 18th March 2026
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: River Valley High School</p>
-<p></p>
-<p>Connect with @rvmun on Instagram.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/RVMUN_Organising_Committee_of_RV_Model_United_Nations.jpg">
-</div>
+<p><strong>REGISTRATION</strong>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open: 16th January 2026
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Close: Registration will close on 28th
+January 2026, or earlier if slots are filled</p>
 <p>
 <br>
 <br>
