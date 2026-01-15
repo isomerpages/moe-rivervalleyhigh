@@ -20,6 +20,19 @@ in addressing and finding solutions to these challenges.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
 </div>
 <h2><strong>RVMUN 2026</strong></h2>
+<p><strong>OUR THEME</strong>
+</p>
+<p>For our 14th iteration this year, our theme is "Verbis Creare", or "to
+Create with Words". Through this theme, we hope to remind delegates that
+their words hold great meaning. The conveying of ideas through speeches
+and negotiations becomes a tool for the creation of ideas, solutions, and
+partnerships. “Verbis Creare” celebrates the transformative potential of
+effective communication and encourages participants to harness diplomacy
+not just as debate, but as constructive dialogue that shapes a better world.</p>
+<p>Aligned with the mission of Model United Nations, this theme emphasises
+that the most profound global progress begins not with force, but with
+conversation. It invites delegates to use their voices as instruments of
+collaboration, to speak not just to be heard, but to build.</p>
 <p></p>
 <p></p>
 <p></p>
