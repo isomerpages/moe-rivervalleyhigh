@@ -16,9 +16,6 @@ to be able to understand and address the intricacies and complexities of
 the world. RVMUN aims to provide delegates with the essential and critical
 insight into global issues, and foster a sense of responsibility and integrity
 in addressing and finding solutions to these challenges.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
-</div>
 <p></p>
 <h2>RVMUN 2026</h2>
 <p><strong>OUR THEME</strong>
@@ -33,9 +30,6 @@ not just as debate, but as constructive dialogue that shapes a better world.</p>
 that the most profound global progress begins not with force, but with
 conversation. It invites delegates to use their voices as instruments of
 collaboration, to speak not just to be heard, but to build.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN3.jpg">
-</div>
 <p><strong>DETAILS</strong>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 16th March 2026 — 18th March 2026
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: River Valley High School</p>
