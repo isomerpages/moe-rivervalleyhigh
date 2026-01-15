@@ -19,6 +19,10 @@ in addressing and finding solutions to these challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
 </div>
+<h2><strong>RVMUN 2026</strong></h2>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>Connect with @rvmun on Instagram.</p>
 <div class="isomer-image-wrapper">
