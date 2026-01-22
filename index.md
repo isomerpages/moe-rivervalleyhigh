@@ -26,9 +26,9 @@ sections:
       image: /images/RV70 (2026)/RV70_banner_for_emails.jpg
       alt: Image alt text
       url: /rv70/
-      description: Learn more about RV70 and hear our stories
+      description: Learn more about RV70 and hear our stories.
   - infobar:
-      title: RV70
+      title: Our RV Story
       id: infobar
       description: <iframe allowfullscreen=""
         referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer;
@@ -37,9 +37,8 @@ sections:
         player"
         src="https://www.youtube.com/embed/5dfP8p7mm64?si=Q_1F-MXDNhb5uTwf"
         height="315" width="560"></iframe>
-      button: Read Our Stories Here
+      button: Read More
       url: /rv70/
-      subtitle: Celebrating
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
