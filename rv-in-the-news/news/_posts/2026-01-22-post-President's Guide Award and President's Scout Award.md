@@ -13,4 +13,5 @@ Scout Award from President Mr Tharman Shanmugaratnam at the Istana. These
 awards are a recognition of their resilience, hard work, and passion for
 making a difference in the community. Their leadership and unwavering commitment
 to service have inspired us all. To find out more about their journey,
-you can read about it in</p>
+you can read about it <a href="https://www.straitstimes.com/singapore/19-guides-and-scouts-receive-singapores-top-awards" rel="noopener nofollow" target="_blank">The Straits Times</a>
+</p>
