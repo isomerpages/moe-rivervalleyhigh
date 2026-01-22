@@ -39,6 +39,7 @@ sections:
         height="315" width="560"></iframe>
       button: Read More
       url: /rv70/
+      subtitle: Celebrating
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
