@@ -69,4 +69,16 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infobar:
+      title: Our RV Story
+      id: infobar
+      description: <iframe allowfullscreen=""
+        referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" frameborder="0" title="YouTube video
+        player"
+        src="https://www.youtube.com/embed/5dfP8p7mm64?si=Q_1F-MXDNhb5uTwf"
+        height="315" width="560"></iframe>
+      button: Watch
+      url: https://www.youtube.com/watch?v=5dfP8p7mm64
 ---
