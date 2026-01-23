@@ -466,10 +466,13 @@ reflecting dedicated community-wide sustainability efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Chemistry Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Silver Medal:</strong>
+<br>Gabriel Lim Zhexi (25J03)
+<br>Gabriel is also invited to attend training sessions with the national
+team for the International Chemistry Olympiad.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
