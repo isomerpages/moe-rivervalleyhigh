@@ -26,11 +26,6 @@ and negotiations becomes a tool for the creation of ideas, solutions, and
 partnerships. “Verbis Creare” celebrates the transformative potential of
 effective communication and encourages participants to harness diplomacy
 not just as debate, but as constructive dialogue that shapes a better world.</p>
-<p><strong>&lt;img src="RVMUN2.jpg" style="width:70%"&gt;</strong>
-</p>
-<p></p>
-<p><strong>&lt;img src="your-image-URL" style="width:80%"&gt;</strong>
-</p>
 <p>Aligned with the mission of Model United Nations, this theme emphasises
 that the most profound global progress begins not with force, but with
 conversation. It invites delegates to use their voices as instruments of
