@@ -5,9 +5,8 @@ description: ""
 variant: markdown
 ---
 ## Our Curriculum
-![](/images/2025/2_Science_Laboratory.jpg)
+**<img style="width:70%" src="/images/2025/2_Science_Laboratory.jpg">**
 #### RV Integrated Programme
-
 **6-Year Integrated Programme**<br>
 As one of the few schools that offer a 6-year Integrated Programme, we customise and design our programme to provide a seamless development of RVians' talent and potential to the fullest.
 
