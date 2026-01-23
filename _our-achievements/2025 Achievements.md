@@ -495,7 +495,18 @@ team for the International Chemistry Olympiad.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Space Challenge</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Challenge Track: Code Core in HacX! Hack for Public Safety 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The following students worked on an AI haze sentinel for early haze detection and came in 1st:<br></strong>Cheng&nbsp;Yok&nbsp;Yong
