@@ -18,15 +18,6 @@ sections:
         - title: School reopening information for 2026
           description: Click here
           url: /about-rv/pm/
-  - infopic:
-      title: RV70
-      subtitle: Celebrating
-      id: infopic
-      button: Read More
-      image: /images/RV70 (2026)/RV70_banner_for_emails.jpg
-      alt: Image alt text
-      url: /rv70/
-      description: Learn more about RV70 and hear our stories.
   - infobar:
       title: Our RV Story
       id: infobar
@@ -37,9 +28,15 @@ sections:
         player"
         src="https://www.youtube.com/embed/5dfP8p7mm64?si=Q_1F-MXDNhb5uTwf"
         height="315" width="560"></iframe>
-      button: Read More
-      url: /rv70/
+  - infopic:
+      title: RV70
       subtitle: Celebrating
+      id: infopic
+      button: Read More
+      image: /images/RV70 (2026)/RV70_banner_for_emails.jpg
+      alt: Image alt text
+      url: /rv70/
+      description: Learn more about RV70 and hear our stories.
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
