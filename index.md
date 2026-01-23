@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Sexuality Education (Secondary) Overview
           description: Click here
-          url: RVHS_2026_Info_on_SEd_for_Sch_Website__Sec__Final__002_
+          url: /rvhs-2026-info-on-sed-for-school/
         - title: A warm welcome to our Secondary 1 students
           description: Click here
           url: /information-for-2026-secondary-1-students/
