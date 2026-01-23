@@ -18,6 +18,9 @@ sections:
         - title: School reopening information for 2026
           description: Click here
           url: /about-rv/pm/
+        - title: Sexuality Education (Secondary) Overview
+          description: Click here
+          url: RVHS_2026_Info_on_SEd_for_Sch_Website__Sec__Final__002_
   - infobar:
       title: Our RV Story
       id: infobar
