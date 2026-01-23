@@ -437,10 +437,15 @@ you can read about it in <a href="https://www.straitstimes.com/singapore/19-guid
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Environment Council:
+<br>School Green Awards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Yellow Flame Award</strong>
+<br>The Yellow Flame Award recognises the school for significant environmental
+efforts and a strong green culture, excellent performance in energy reduction,
+eco-friendly practices, and student environmental awareness programmes,
+reflecting dedicated community-wide sustainability efforts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
