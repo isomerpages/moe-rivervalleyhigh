@@ -12,12 +12,25 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
+        - title: Sexuality Education (Secondary) Overview
+          description: Click here
+          url: /rvhs-2026-info-on-sed-for-school/
         - title: A warm welcome to our Secondary 1 students
           description: Click here
           url: /information-for-2026-secondary-1-students/
         - title: School reopening information for 2026
           description: Click here
           url: /about-rv/pm/
+  - infobar:
+      title: Our RV Story
+      id: infobar
+      description: <iframe allowfullscreen=""
+        referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" frameborder="0" title="YouTube video
+        player"
+        src="https://www.youtube.com/embed/5dfP8p7mm64?si=Q_1F-MXDNhb5uTwf"
+        height="315" width="560"></iframe>
   - infopic:
       title: RV70
       subtitle: Celebrating
@@ -62,7 +75,7 @@ sections:
         results at the 2025 Singapore Youth Festival Arts Presentation!
       button: 2025 Achievements
       url: /2025-achievements/
-      image: /images/2025/Screenshot_2025_07_04_134701.png
+      image: /images/CCA_homepage.jpg
       alt: Image alt text
   - resources:
       title: RV in the News

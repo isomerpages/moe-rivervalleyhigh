@@ -5,9 +5,8 @@ description: ""
 variant: markdown
 ---
 ## Our Curriculum
-![](/images/2025/2_Science_Laboratory.jpg)
+**<img style="width:70%" src="/images/2025/2_Science_Laboratory.jpg">**
 #### RV Integrated Programme
-
 **6-Year Integrated Programme**<br>
 As one of the few schools that offer a 6-year Integrated Programme, we customise and design our programme to provide a seamless development of RVians' talent and potential to the fullest.
 
@@ -40,8 +39,9 @@ RVHS recognises the importance of a holistic education. In order for a student t
 
 Thus, RVHS designed and put in place the Balanced Education Curriculum to equip students with knowledge and skills, inculcate the right ethics and moral values, build students’ leadership capabilities, and strengthen students physically.
 
-The Balanced Education Curriculum consists of three domains of development:
+The Balanced Education Curriculum consists of four domains of development:
 
 *   [Cognitive-Interest Development Curriculum (CIDC)](/our-curriculum/cid/)&nbsp;
 *   [Leadership Character Development Curriculum (LCDC)](/our-curriculum/Ldrship-Character-Development/lcd/)
 *   [Civic Literacy-Global Awareness Development Curriculum (CGDC)](/our-curriculum/clgad/)
+*   [Co-Curricular Activities Curriculum (CCAC)](https://youtu.be/TzA7g6nAm7E)

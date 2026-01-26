@@ -404,6 +404,136 @@ and the James Dyson Foundation)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President’s Guide Award and President’s Scout Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheam Kai Qi (4H, 2025) and Grace Tan En-Yu (4H, 2025) received the President's
+Guide Award while Matthew Tay Tze Kiat (24J17)&nbsp;received the President’s
+Scout Award from President Mr Tharman Shanmugaratnam at the Istana. These
+awards are a recognition of their resilience, hard work, and passion for
+making a difference in the community. Their leadership and unwavering commitment
+to service have inspired us all. To find out more about their journey,
+you can read about it in <a href="https://www.straitstimes.com/singapore/19-guides-and-scouts-receive-singapores-top-awards" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Gifted Education Branch Youth Science Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction Award (Team):</strong>
+<br>Sherman Tan Haridas (4A, 2025)
+<br>Jocelyn Lau Yu Xuan (4D, 2025)
+<br>Heng Mian Yu (Wang Minyu) (4I, 2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Environment Council:
+<br>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yellow Flame Award</strong>
+<br>The Yellow Flame Award recognises the school for significant environmental
+efforts and a strong green culture, excellent performance in energy reduction,
+eco-friendly practices, and student environmental awareness programmes,
+reflecting dedicated community-wide sustainability efforts.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Merit:</strong>
+<br>Leong Ngai Seng (25J02)
+<br>Tan Le Xuan Zoe (25J02)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Medal:</strong>
+<br>Gabriel Lim Zhexi (25J03)
+<br>Gabriel is also invited to attend training sessions with the national
+team for the International Chemistry Olympiad.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Medal:</strong>
+<br>Megan Miranda Khoo (25J08)
+<br><strong>Honourable Mention:</strong>
+<br>Sun Sijia (25J12)
+<br>Gibson Bong Hoong Nien (25J17)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Space Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Merit Award (Team):</strong>
+<br>Lo Shao Kai (4A, 2025)
+<br>Sherman Tan Haridas (4A, 2025)
+<br>Wong Chi To Aidan (4D, 2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Challenge Track: Code Core in HacX! Hack for Public Safety 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The following students worked on an AI haze sentinel for early haze detection and came in 1st:<br></strong>Cheng&nbsp;Yok&nbsp;Yong
+(25J08)
+<br>Kuan Yue Han (25J13)
+<br>Lai Yi Zhe Lucas (25J13)
+<br>Lim Enoch (25J13)
+<br>Claire Liu Yu Chen (25J17)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;
