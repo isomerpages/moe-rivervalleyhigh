@@ -64,9 +64,7 @@ All IDPs are subjected to approval from the HOD PE/CCA.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h4><strong>CCAs offered in River Valley High School</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
