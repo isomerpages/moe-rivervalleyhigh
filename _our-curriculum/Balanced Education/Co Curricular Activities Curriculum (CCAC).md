@@ -68,6 +68,5 @@ All IDPs are subjected to approval from the HOD PE/CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<p></p>
 <h4><a href="https://youtu.be/TzA7g6nAm7E" rel="noopener nofollow" target="_blank">Check out our vibrant CCAs in RV!</a></h4>
 <p></p>
