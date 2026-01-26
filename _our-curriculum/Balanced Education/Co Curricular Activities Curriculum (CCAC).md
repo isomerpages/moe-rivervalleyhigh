@@ -15,7 +15,7 @@ are allocated CCAs based on their talents and interests.
 </p>
 <h4><strong>CCA Engagement Guidelines</strong></h4>
 <p>1. Secondary 1 to 4 Integrated Programme (IP) students are required to
-participate in at least one core CCA offered by the school. IP students
+<br>participate in at least one core CCA offered by the school. IP students
 are strongly encouraged to opt for the same CCA in their Junior College
 (JC) years for holistic longer-term development.</p>
 <p>2. JC students are highly encouraged to engage in at least one CCA and
