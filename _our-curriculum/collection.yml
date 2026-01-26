@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities Curriculum (CCAC).md
       - Our Curriculum.md
       - Balanced Education/.keep
       - Balanced Education/Cognitive Interest Development.md
@@ -22,3 +21,4 @@ collections:
       - Talent Development/Mathematics Leaders Academy.md
       - Talent Development/Science Leaders Academy.md
       - Inspiring Classroom Innovators.md
+      - Co Curricular Activities Curriculum (CCAC).md
