@@ -33,23 +33,36 @@ are strongly encouraged to opt for the same CCA in their Junior College
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>JC students are highly encouraged to engage in at least one CCA and are
+encouraged to stay in the same CCA for two years.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students may choose to have a second CCA only if they are able to cope
+with the academic demands.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JC students may initiate suitable Interest Development Programme (IDP).
+All IDPs are subjected to approval from the HOD PE/CCA.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p>1. Secondary 1 to 4 Integrated Programme (IP) students are required to
-<br>participate in at least one core CCA offered by the school. IP students
-are strongly encouraged to opt for the same CCA in their Junior College
-(JC) years for holistic longer-term development.</p>
-<p>2. JC students are highly encouraged to engage in at least one CCA and
-are encouraged to stay in the same CCA for two years.</p>
-<p>3. Students may choose to have a second CCA only if they are able to cope
-with the academic demands.</p>
-<p>4. JC students may initiate suitable Interest Development Programme (IDP).
-All IDPs are subjected to approval from the HOD PE/CCA.</p>
