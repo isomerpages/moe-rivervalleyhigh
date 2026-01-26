@@ -66,53 +66,9 @@ All IDPs are subjected to approval from the HOD PE/CCA.</p>
 </table>
 <h4></h4>
 <h4><strong>CCAs offered in River Valley High School</strong></h4>
-<p>Physical Sports</p>
-<p>Visual &amp; Performing Arts</p>
-<p>Badminton</p>
-<p>Basketball (boys only)</p>
-<p>Floorball^</p>
-<p>Netball</p>
-<p>Softball (girls only)</p>
-<p>Table Tennis</p>
-<p>Volleyball (girls only)</p>
-<p>Wushu</p>
-<p>Cross Country#@ (IDP)</p>
-<p>Frisbee# (IDP)</p>
-<p>Football# (IDP) (boys only)</p>
-<p>Tchoukball#* (IDP)</p>
-<p>^ Boys team only applicable in JC</p>
-<p>Art Club#@</p>
-<p>Chinese Drama</p>
-<p>Chinese Orchestra</p>
-<p>Chinese Calligraphy and Painting</p>
-<p>Choir</p>
-<p>Concert Band</p>
-<p>Dance Society</p>
-<p>English Drama</p>
-<p>Guitar Ensemble#</p>
-<p>Photography#</p>
-<p>Street Dance#</p>
-<p>* Chinese and English Drama are for Sec 1 to 4 students only.</p>
-<p>Clubs &amp; Societies</p>
-<p>Uniformed Groups</p>
-<p>Chinese Debate</p>
-<p>Editorial Club#</p>
-<p>English Debate</p>
-<p>Humanities &amp; Current Affairs Society#</p>
-<p>Infocomm Club</p>
-<p>Multimedia Club</p>
-<p>Service and Citizenship Society#</p>
-<p>Singapore Youth Flying Club*@</p>
-<p>Chess Club#@ (IDP)</p>
-<p>Girl Guides</p>
-<p>National Cadet Corps</p>
-<p>National Police Cadet Corps</p>
-<p>Scouts</p>
-<p>St. John Brigade</p>
-<p>JC students may continue as Cadet Officers or Adult Leaders in their respective
-Uniformed Groups.</p>
-<p># For Junior College only</p>
-<p>@ Secondary students may join as a second CCA</p>
-<p>* External CCA</p>
-<p>IDP - Interest Development Programme</p>
-<p>11</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
+</div>
+<p></p>
+<p></p>
