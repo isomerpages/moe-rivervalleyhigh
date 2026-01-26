@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Secondary Section
 variant: markdown
 ---
-Click  to view an overview of Sexuality Education at RVHS. This document also contains Annex A and Annex B, which have to be submitted by 23/03/2025 (Monday) should parents wish to opt their children out of Sexuality Education lessons and/or the eTeens programme.
+Click [here](/rvhs-2026-info-on-sed-for-school/)  to view an overview of Sexuality Education at RVHS. This document also contains Annex A and Annex B, which have to be submitted by 23/03/2025 (Monday) should parents wish to opt their children out of Sexuality Education lessons and/or the eTeens programme.
