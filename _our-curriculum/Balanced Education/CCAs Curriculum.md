@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Balanced Education
 ---
-<h4><strong>Co-Curricular Activities</strong></h4>
+<h4><strong>CCA Curriculum</strong></h4>
 <p>The Co-Curricular Activity (CCA) curriculum fosters strong moral character,
 values-based leadership and active citizenry in students. CCA is a key
 Student Development Experience that nurtures leadership, character, social-emotional
