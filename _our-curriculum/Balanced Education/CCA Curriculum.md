@@ -15,7 +15,7 @@ are allocated CCAs based on their talents and interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_26_Sports.jpg">
 </div>
-<h4><a href="https://youtu.be/TzA7g6nAm7E" rel="noopener nofollow" target="_blank">Check out our vibrant CCAs in RV!</a><br></h4>
+<h4><a href="https://youtu.be/TzA7g6nAm7E" rel="noopener nofollow" target="_blank">Check out </a>our vibrant CCAs in RV!</h4>
 <h4><strong>CCAs offered in River Valley High School</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
