@@ -13,7 +13,7 @@ competencies, citizenship dispositions and 21st Century Competencies. Students
 are allocated CCAs based on their talents and interests.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_26_Sports.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
 </div>
 <h4><a href="https://youtu.be/TzA7g6nAm7E" rel="noopener nofollow" target="_blank">Check out </a>our vibrant CCAs in this video!</h4>
 <h4><strong>CCAs offered in River Valley High School</strong></h4>
