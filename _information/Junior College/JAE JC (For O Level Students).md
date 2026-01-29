@@ -18,7 +18,7 @@ the JC route and who would like an experience in an Integrated Programme
 polytechnic and Institute of Technical Education is conducted by the Ministry
 of Education. If you wish to apply for a transfer to River Valley High
 School Junior College section, please complete the online form by 9 Feb
-(5pm) 2026:&nbsp;<a href="" rel="noopener nofollow" target="_blank">go.gov.sg/2026rvhsjc1appeal</a>
+(5pm) 2026: <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/2026rvhsjc1appeal</a>
 </p>
 <p>For JAE students posted to River Valley High School in 2026, you may refer
 to the google site below to view the subject information videos and FAQs
