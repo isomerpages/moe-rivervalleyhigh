@@ -23,25 +23,23 @@ for updates:
 Half-Uniform / Full-Uniform
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
 School Half-Uniform / Full-Uniform
-<br><strong>Reporting Venue</strong>
+<br>
+</p>
+<p><strong>Reporting Venue</strong>
 <br>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
 with <strong>morning assembly commencing at 8.00am</strong>. Signages will
 be placed at all entry points to guide you to the MPC and our Orientation
-Committee members will be stationed around the campus to assist with directions.</p>
-<p>&nbsp;</p>
-<p>Students arriving by private transport may alight at the <strong>drop-off point in front of the school’s General Office</strong>.</p>
-<p>&nbsp;</p>
-<p>JAE students may check their <strong>Orientation Groups (OGs)</strong> on
+Committee members will be stationed around the campus to assist with directions.
+<br>Students arriving by private transport may alight at the <strong>drop-off point in front of the school’s General Office</strong>.
+<br>JAE students may check their <strong>Orientation Groups (OGs)</strong> on
 the notice board located outside the General Office before proceeding to
 the MPC.</p>
-<p>&nbsp;</p>
 <p><strong>Things to Bring</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / EZ-Link card /
-PayLah account on a mobile device</p>
-<p><strong>&nbsp;</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / EZ-Link card /
+PayLah account on a mobile device
+<br>
 </p>
 <p><strong>First Day Programme</strong>
 </p>
@@ -105,5 +103,6 @@ our general office at 65678115 during office hours or email <a href="mailto:rvhs
 </p>
 <p>&nbsp;</p>
 <p>Thank you!
+<br>
 <br>
 </p>
