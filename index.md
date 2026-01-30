@@ -18,6 +18,17 @@ sections:
         - title: JAE JC Appeal (For O Level Students)
           description: Click here
           url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
+  - infopic:
+      title: JC Orientation 2026
+      subtitle: Welcome JC1 students!
+      id: infopic
+      description: "See you this  Wednesday, 4 February, 7:45 a.m.   📢 Final Update:
+        No further messages will be sent.  ✨ Stay Informed: Check the school
+        website for all details."
+      button: Read More
+      url: https://www.rivervalleyhigh.moe.edu.sg/
+      image: /images/Aurea_Logo.png
+      alt: Image alt text
   - infobar:
       title: Our RV Story
       id: infobar
@@ -79,15 +90,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: JC Orientation 2026
-      subtitle: Welcome JC1 students!
-      id: infopic
-      description: "See you this  Wednesday, 4 February, 7:45 a.m.   📢 Final Update:
-        No further messages will be sent.  ✨ Stay Informed: Check the school
-        website for all details."
-      button: Read More
-      url: https://www.rivervalleyhigh.moe.edu.sg/
-      image: /images/Aurea_Logo.png
-      alt: Image alt text
 ---
