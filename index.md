@@ -22,7 +22,7 @@ sections:
       title: JC Orientation 2026
       subtitle: Welcome JC1 students!
       id: infopic
-      description: "See you Wed, 4 Feb at 7:45 a.m 📢Please Note : No further messages
+      description: "Wednesday, 4 February at 7:45 a.m 📢 Note : No further messages
         will be sent before reporting day. ✨ Stay Informed: Check the school
         website for all details!"
       button: Read More
