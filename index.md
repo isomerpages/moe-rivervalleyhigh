@@ -26,7 +26,7 @@ sections:
         No further messages will be sent.  ✨ Stay Informed: Check the school
         website for all details."
       button: Read More
-      url: https://www.rivervalleyhigh.moe.edu.sg/
+      url: /jc-orientation-2026-aurea/
       image: /images/Aurea_Logo.png
       alt: Image alt text
   - infobar:
