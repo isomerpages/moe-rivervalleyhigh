@@ -11,14 +11,7 @@ To ensure that you are ready to begin your junior college journey with
 us, please take note of the information found in the link below.&nbsp;
 <br>
 </p>
-<p>Please note that no further emails or messages will be sent prior to the
-reporting day. All information related to JC Orientation will be published
-on the school website. You may also follow our student-led Instagram accounts
-for updates:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/rvjcorigins/?__d=11" rel="noopener nofollow" target="_blank">@rvjcorigins</a>
-</p>
-<p>&nbsp;<strong>Attire</strong>
+<p><strong>Attire</strong>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students:</strong> RVHS
 Half-Uniform / Full-Uniform
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
@@ -81,24 +74,21 @@ on <strong>Thursday, 5 February 2026</strong>.</p>
 <p>Cost: $178</p>
 </li>
 <li>
-<p>Payment modes: Cash (exact change only) or PayLah</p>
+<p>Payment modes: Cash (exact change only) or PayLah
+<br>
+</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Enquiries</strong>
-</p>
-<p>Please note that no further emails or messages will be sent prior to the
+<br>Please note that no further emails or messages will be sent prior to the
 reporting day. All information related to JC Orientation will be published
-on the school website.</p>
-<p>&nbsp;</p>
-<p>You may also follow our student-led Instagram accounts for updates:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @the_rvibe</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @rvjcorigins</p>
-<p>&nbsp;</p>
+on the school website. You may also follow our student-led Instagram accounts
+for updates:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/rvjcorigins/?__d=11" rel="noopener nofollow" target="_blank">@rvjcorigins</a>&nbsp;</p>
 <p>Should you require additional information, <a rel="noopener noreferrer nofollow" target="_blank">please </a>contact
 our general office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
 <p>Thank you!
 <br>
 <br>
