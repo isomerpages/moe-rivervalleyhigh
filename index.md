@@ -15,12 +15,9 @@ sections:
         - title: Sexuality Education (Secondary) Overview
           description: Click here
           url: /rvhs-2026-info-on-sed-for-school/
-        - title: A warm welcome to our Secondary 1 students
+        - title: JAE JC Appeal (For O Level Students)
           description: Click here
-          url: /information-for-2026-secondary-1-students/
-        - title: School reopening information for 2026
-          description: Click here
-          url: /about-rv/pm/
+          url: ""
   - infobar:
       title: Our RV Story
       id: infobar
