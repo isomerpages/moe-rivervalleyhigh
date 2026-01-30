@@ -51,38 +51,33 @@ will officially kickstart <strong>JC Orientation 2026 – Aurea</strong>.
 visit the respective subject booths to help them make an informed choice
 regarding their subject combinations. More information on the <strong>2026 JC1 subject combinations and individual subjects offered</strong> can
 be found <a href="https://sites.google.com/moe.edu.sg/rvhssubjectcombination/overview" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-and students are encouraged to review this before reporting day.</p>
-<p>&nbsp;</p>
+and students are encouraged to review this before reporting day.
+<br>
+</p>
 <p>An optional qualifying test will be conducted at 3.15pm for students intending
-to offer:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Computing</strong>; and
+to offer:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Computing</strong>; and
 did not offer GCE O-Level Computing OR did not obtain at least A2 for GCE
-O-Level Computing;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Translation</strong>;
+O-Level Computing;
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Translation</strong>;
 and have not met the MOE subject pre-requisite of at least A2 for English
 Language AND at least B3 for Higher Chinese OR at least A2 for Chinese
 at the GCE O-Level Examinations.</p>
-<p>&nbsp;</p>
-<p><strong>Dismissal Time for the First Day (4 Feb 2026)</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RVIP students not taking the H2
-Computing or H2 Translation qualifying tests will be dismissed by 12.00pm.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAE students not taking the qualifying
-tests will be dismissed by 3.15pm.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students sitting for the H2 Computing
+<p>&nbsp;<strong>Dismissal Time for the First Day (4 Feb 2026)</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RVIP students not taking the H2
+Computing or H2 Translation qualifying tests will be dismissed by 12.00pm.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAE students not taking the qualifying
+tests will be dismissed by 3.15pm.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students sitting for the H2 Computing
 or H2 Translation qualifying tests will be dismissed after the test. Time
-will be given to students to have lunch in the canteen before the test.</p>
-<p><strong>&nbsp;</strong>
+will be given to students to have lunch in the canteen before the test.<strong>&nbsp;</strong>
 </p>
 <p><strong>Purchase of Graphing Calculator on the Second Day (5 Feb 2026)</strong>
-</p>
-<p><strong>All JC students</strong> taking H2 Math or H1 Math for A Levels
+<br><strong>All JC students</strong> taking H2 Math or H1 Math for A Levels
 need to purchase a Graphing Calculator (GC). The vendor will be on campus
-on <strong>Thursday, 5 February 2026</strong>.</p>
+on <strong>Thursday, 5 February 2026</strong>.
+<br>Cost: $178</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Cost: $178</p>
-</li>
 <li>
 <p>Payment modes: Cash (exact change only) or PayLah</p>
 </li>
