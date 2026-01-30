@@ -83,7 +83,9 @@ sections:
       title: JC Orientation 2026
       subtitle: Welcome JC1 students!
       id: infopic
-      description: See you on Wednesday, 4 February 2026, at 7:45 a.m.
+      description: "See you this  Wednesday, 4 February, 7:45 a.m.   📢 Final Update:
+        No further messages will be sent.  ✨ Stay Informed: Check the school
+        website for all details."
       button: Read More
       url: https://www.rivervalleyhigh.moe.edu.sg/
       image: /images/Aurea_Logo.png
