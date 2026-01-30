@@ -14,20 +14,16 @@ us, please take note of the information found in the link below.&nbsp;
 <p>Please note that no further emails or messages will be sent prior to the
 reporting day. All information related to JC Orientation will be published
 on the school website. You may also follow our student-led Instagram accounts
-for updates:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
+for updates:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/rvjcorigins/?__d=11" rel="noopener nofollow" target="_blank">@rvjcorigins</a>
 </p>
-<p>&nbsp;</p>
-<p><strong>Attire</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students:</strong> RVHS
-Half-Uniform / Full-Uniform</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
-School Half-Uniform / Full-Uniform</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Reporting Venue</strong>
+<p>&nbsp;<strong>Attire</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students:</strong> RVHS
+Half-Uniform / Full-Uniform
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
+School Half-Uniform / Full-Uniform
+<br><strong>Reporting Venue</strong>
 </p>
 <p>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
 with <strong>morning assembly commencing at 8.00am</strong>. Signages will
