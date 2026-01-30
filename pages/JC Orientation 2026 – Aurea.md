@@ -7,8 +7,8 @@ description: ""
 <p>Dear students,
 <br>A warm welcome to River Valley High School! We look forward to meeting
 you on <strong>Wednesday, 4 February 2026</strong>, at <strong>7.45am</strong> for <strong>JC Orientation 2026 – Aurea</strong>.
-To ensure that you are ready to begin your junior college journey with
-us, please take note of the information found in the link below.&nbsp;
+To ensure that you are well prepared to begin your junior college journey
+with us, please take note of the following important information.
 <br>
 </p>
 <p><strong>Attire</strong>
