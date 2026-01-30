@@ -22,9 +22,9 @@ sections:
       title: JC Orientation 2026
       subtitle: Welcome JC1 students!
       id: infopic
-      description: "See you Wednesday, 4 Feb, 7:45 a.m.  📢 Please Note: No more
-        updates before reporting day. ✨ Stay Informed: Check the school website
-        for details!"
+      description: "See you Wednesday, 4 February, 7:45 a.m  📢 Please Note : No
+        further messages before reporting day. ✨ Stay Informed: Check the school
+        website for all details!"
       button: Read More
       url: /jc-orientation-2026-aurea/
       image: /images/Aurea_Logo.png
