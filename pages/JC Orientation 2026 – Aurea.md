@@ -75,9 +75,11 @@ will be given to students to have lunch in the canteen before the test.<strong>&
 <p><strong>Purchase of Graphing Calculator on the Second Day (5 Feb 2026)</strong>
 <br><strong>All JC students</strong> taking H2 Math or H1 Math for A Levels
 need to purchase a Graphing Calculator (GC). The vendor will be on campus
-on <strong>Thursday, 5 February 2026</strong>.
-<br>Cost: $178</p>
+on <strong>Thursday, 5 February 2026</strong>.</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Cost: $178</p>
+</li>
 <li>
 <p>Payment modes: Cash (exact change only) or PayLah</p>
 </li>
