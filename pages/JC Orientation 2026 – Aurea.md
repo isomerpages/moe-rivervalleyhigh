@@ -42,11 +42,11 @@ PayLah account on a mobile device
 <br>
 </p>
 <p><strong>First Day Programme</strong>
-</p>
-<p>&nbsp;The highlights of the first day include getting to know your Orientation
+<br>The highlights of the first day include getting to know your Orientation
 Group (OG) members, as well as the <strong>Opening Ceremony</strong>, which
-will officially kickstart <strong>JC Orientation 2026 – Aurea</strong>.</p>
-<p>&nbsp;</p>
+will officially kickstart <strong>JC Orientation 2026 – Aurea</strong>.
+<br>
+</p>
 <p>JAE students will also attend a <strong>subject combination briefing</strong> and
 visit the respective subject booths to help them make an informed choice
 regarding their subject combinations. More information on the <strong>2026 JC1 subject combinations and individual subjects offered</strong> can
@@ -103,6 +103,7 @@ our general office at 65678115 during office hours or email <a href="mailto:rvhs
 </p>
 <p>&nbsp;</p>
 <p>Thank you!
+<br>
 <br>
 <br>
 </p>
