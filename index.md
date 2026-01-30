@@ -79,4 +79,13 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: JC Orientation 2026
+      subtitle: Welcome JC1 students!
+      id: infopic
+      description: See you on Wednesday, 4 February 2026, at 7:45 a.m.
+      button: Read More
+      url: https://www.rivervalleyhigh.moe.edu.sg/
+      image: /images/Aurea_Logo.png
+      alt: Image alt text
 ---
