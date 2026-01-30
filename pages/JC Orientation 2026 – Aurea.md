@@ -15,8 +15,9 @@ us, please take note of the information found in the link below.&nbsp;
 reporting day. All information related to JC Orientation will be published
 on the school website. You may also follow our student-led Instagram accounts
 for updates:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @the_rvibe
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @rvjcorigins</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/rvjcorigins/?__d=11" rel="noopener nofollow" target="_blank">@rvjcorigins</a>
+</p>
 <p>&nbsp;</p>
 <p><strong>Attire</strong>
 </p>
