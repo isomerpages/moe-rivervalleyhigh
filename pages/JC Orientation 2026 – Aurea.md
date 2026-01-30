@@ -24,8 +24,7 @@ Half-Uniform / Full-Uniform
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
 School Half-Uniform / Full-Uniform
 <br><strong>Reporting Venue</strong>
-</p>
-<p>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
+<br>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
 with <strong>morning assembly commencing at 8.00am</strong>. Signages will
 be placed at all entry points to guide you to the MPC and our Orientation
 Committee members will be stationed around the campus to assist with directions.</p>
@@ -105,4 +104,6 @@ on the school website.</p>
 our general office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
-<p>Thank you!</p>
+<p>Thank you!
+<br>
+</p>
