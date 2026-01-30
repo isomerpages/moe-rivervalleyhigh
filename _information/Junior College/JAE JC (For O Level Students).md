@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/IMG_46750-cropped.jpg">
 </div>
-<p><strong>&lt;img src="Experimenting_with_new_ideas-URL" style="width:80%"&gt;</strong>
+<p><strong>&lt;img src="Experimenting_with_new_ideas" style="width:80%"&gt;</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
