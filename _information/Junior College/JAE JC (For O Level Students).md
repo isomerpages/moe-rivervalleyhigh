@@ -9,6 +9,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/IMG_46750-cropped.jpg">
 </div>
+<p><strong>&lt;img src="your-image-URL" style="width:80%"&gt;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
+</div>
+<p></p>
 <p><strong>Joint Admission Exercise to JC Programme for Sec 4 students</strong> 
 <br>River Valley High School (RVHS) has been admitting JC students via the&nbsp;Joint
 Admissions Exercise (JAE)&nbsp;from 2019. O-Level students interested in
