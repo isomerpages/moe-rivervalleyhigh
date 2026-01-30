@@ -273,22 +273,69 @@ where students are placed in discourse on contemporary topics to build
 identity and belonging. Students are made aware of Cyber Wellness issues
 and the potential&nbsp; impacts through these discussions in class.&nbsp;</p>
 <h4><strong>PLD Usage Guidelines</strong></h4>
-<p>The PLD usage guidelines builds upon MOE's R3ICH core values and details
-how PLD should be use in school.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/PLD Guidelines Posters.png">
-</div>
 <h4><strong>Acceptable Usage Policy</strong></h4>
-<p>The Acceptable Usage Policy (AUP) is an agreement made by the students
-to adhere to the guidelines for proper PLD usage. There are 2 parts to
-the AUP - the first part is between the student and the school; the second
-part is between the student and the parent. The parent-student AUP requires
-the parent and the student to work out a mutual agreement on what constitutes
-to acceptable usage of PLD at home. The parent-student AUP is a dynamic
-agreement and will need to be revised as the student grows. Often than
-not, the AUP serve as a 'conversation starter' between the student and
-the parent of PLD usage at home.</p>
-<p>AUP is available for download <a href="/files/AUP%20EL%20&amp;%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The primary goal of this AUP is to ensure that all students can learn
+in a safe, respectful, and productive digital environment. As technology
+becomes central to our curriculum, this policy serves as a "code of conduct"
+for the digital world.</p>
+<p>The AUP is designed to:</p>
+<ul>
+<li>
+<p>Protect Students: Prevent exposure to inappropriate content and safeguard
+personal data.</p>
+</li>
+<li>
+<p>Promote Digital Citizenship: Teach students how to interact responsibly
+and ethically online.</p>
+</li>
+<li>
+<p>Preserve Resources: Ensure that school-provided hardware and software
+are used for their intended educational purposes.</p>
+</li>
+<li>
+<p>Establish Accountability: Clearly define the consequences for misuse of
+technology.</p>
+</li>
+</ul>
+<h4><strong>AUP within the school</strong></h4>
+<p>When in school, edtech resources are strictly for academic growth. The
+school network and devices are monitored to maintain a focused learning
+atmosphere.</p>
+<p>The complete AUP for use in school can be accessd from this <a href="https://drive.google.com/file/d/1HeOqRoC7xLfemAQ-pkQ5nQ0EjgMmRaJw/view?usp=sharing" rel="noopener nofollow" target="_blank">document</a>.</p>
+<p>The Device Management Application (DMA) is a very important aspect of
+maintaining the AUP in school. Should there be tempering of the DMA, consequences
+will be meted out as described here.</p>
+<p>AUP is available for download <a href="https://drive.google.com/file/d/1zJ0ytZGmTXTdxbPnSnYf-zGkrFUx-CCP/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4><strong>AUP for home and remote learnng</strong></h4>
+<p>Learning doesn’t stop at the school gates. When students access school
+education technology resources from personal learning device (PLD) at home,
+the same ethical standards apply.</p>
+<p>Some basic guidelines for PLD use at home:</p>
+<ul>
+<li>
+<p>Supervision: While the DMA provides essential web filtering, we encourage
+parents to monitor device usage at home to ensure students stay on task.</p>
+</li>
+<li>
+<p>Environment: We recommend using PLD in common areas (like a living room
+or kitchen) rather than a bedroom to encourage transparency.</p>
+</li>
+<li>
+<p>Online Identity: Students should maintain a good&nbsp; tone in emails
+and on video conferencing platforms.</p>
+</li>
+<li>
+<p>Data Privacy: Avoid signing up for external apps or websites using student
+ICON credentials (MIMS) unless specifically instructed by a teacher.</p>
+</li>
+<li>
+<p>Balance: We encourage digital wellness. Students should adhere to suggested
+time limits to ensure a healthy balance between screen time and offline
+activities.</p>
+</li>
+</ul>
+<p>Parents may download an AUP template <strong><a href="https://drive.google.com/file/d/1cPAw7XXSKC0U3dYQRMU_FdEuUby6ZCst/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a></strong>to
+start a conversation on how PLD should be used at home.</p>
 <h4><strong>Parents Handbook on Learning with PLD</strong></h4>
 <p>Parents/Guardians play an important role in keeping their children safe
 online, and are encouraged to read the following resources to learn more
