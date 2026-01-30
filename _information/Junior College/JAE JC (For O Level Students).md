@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>JAE-JC (For O Level Students)</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Facilities/Experimenting_with_new_ideas.jpg">
 </div>
 <p></p>
 <p><strong>Joint Admission Exercise to JC Programme for Sec 4 students</strong> 
