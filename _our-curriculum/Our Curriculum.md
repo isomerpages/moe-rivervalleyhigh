@@ -44,5 +44,4 @@ The Balanced Education Curriculum consists of four domains of development:
 *   [Cognitive-Interest Development Curriculum (CIDC)](/our-curriculum/cid/)&nbsp;
 *   [Leadership Character Development Curriculum (LCDC)](/our-curriculum/Ldrship-Character-Development/lcd/)
 *   [Civic Literacy-Global Awareness Development Curriculum (CGDC)](/our-curriculum/clgad/)
-*   
-[Co-Curricular Activities Curriculum (CCAs)](https://cms.isomer.gov.sg/sites/moe-rivervalleyhigh/folders/our-curriculum/subfolders/Balanced%20Education/editPage/CCAs.md)
+*   [Co-Curricular Activities Curriculum (CCAs)](https://www.rivervalleyhigh.moe.edu.sg/co-curricular-activities-curriculum-ccac/)
