@@ -86,8 +86,8 @@ on the school website. You may also follow our student-led Instagram accounts
 for updates:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/rvjcorigins/?__d=11" rel="noopener nofollow" target="_blank">@rvjcorigins</a>&nbsp;</p>
-<p>Should you require additional information, <a rel="noopener noreferrer nofollow" target="_blank">please </a>contact
-our general office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
+<p>Should you require additional information, please contact our general
+office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
 <p>Thank you!
 <br>
