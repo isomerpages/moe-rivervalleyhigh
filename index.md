@@ -17,7 +17,7 @@ sections:
           url: /rvhs-2026-info-on-sed-for-school/
         - title: JAE JC Appeal (For O Level Students)
           description: Click here
-          url: ""
+          url: https://cms.isomer.gov.sg/sites/moe-rivervalleyhigh/folders/information/subfolders/Junior%20College/editPage/JAE%20JC%20(For%20O%20Level%20Students).md
   - infobar:
       title: Our RV Story
       id: infobar
