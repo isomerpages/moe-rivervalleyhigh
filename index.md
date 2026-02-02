@@ -20,7 +20,7 @@ sections:
           url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
         - title: Sexuality Education (JC) Overview
           description: Click here
-          url: /2026-info-sed-for-schs-jc/
+          url: /2026-info-sed-for-schools-jc/
   - infopic:
       title: JC Orientation 2026
       subtitle: Welcome JC1 students!
