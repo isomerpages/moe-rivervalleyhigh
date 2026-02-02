@@ -29,8 +29,9 @@ Committee members will be stationed around the campus to assist with directions.
 <br>
 <br>Students arriving by private transport may alight at the <strong>drop-off point in front of the school’s General Office.</strong> 
 <br>
-<br>JAE students may check their Orientation Groups (OGs) on the notice board
-located outside the General Office before proceeding to the MPC.</p>
+<br>JAE students may check their <strong>Orientation Groups (OGs)</strong> on
+the notice board located outside the General Office before proceeding to
+the MPC.</p>
 <h4><strong>Things to Bring</strong><br></h4>
 <ul data-tight="true" class="tight">
 <li>
