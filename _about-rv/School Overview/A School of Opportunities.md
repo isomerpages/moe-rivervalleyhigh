@@ -13,20 +13,3 @@ The school is committed to providing our students with a holistic education and 
 *   **LCDC**&nbsp;seeks to provide Character and Citizenship Education (CCE) for students. Through components like the Overseas Experiential Learning Programme (OELP), Enhanced National Education (NE) and Values in Action (VIA) Programme and platforms such as the Y.LEAD Seminar, LCDC aims to nurture students who practise values-based citizenship and leadership.
 *   **CGDC**&nbsp;focuses on developing students’ civic-mindedness and global perspective. The main components of the CGDC programme are the Construct, Integrate, Differentiate (CID) programme, Appreciation of Chinese Culture (ACC) programme and the six academies.
 
-**RVHS Academic Departments**&nbsp;_(Read more&nbsp;[here](/about-rv/Educational-Institution/ad/))_
-
-*   Science
-*   Mathematics
-*   English Language
-*   Chinese Language&nbsp;
-*   The Humanities
-*   Physical Education
-
-**RVHS Non-Academic Departments**&nbsp;_(Read more&nbsp;[here](/about-rv/Educational-Institution/nad/))_
-
-*   Student Development
-*   Education and Career Guidance
-*   Aesthetics
-*   Leadership and Character Development
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="RV Virtual School Tour" src="https://www.youtube.com/embed/WHiTQYj-B0o" height="540" width="960"></iframe>
