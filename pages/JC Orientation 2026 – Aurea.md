@@ -106,11 +106,14 @@ on <strong>Thursday, 5 February 2026</strong>.</p>
 <p>Please note that no further emails or messages will be sent prior to the
 reporting day. All information related to JC Orientation will be published
 on the school website. You may also follow our student-led Instagram accounts
-for updates:</p>
-<p><a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
+for updates:
+<br><a href="https://www.instagram.com/the_rvibe/?hl=en" rel="noopener nofollow" target="_blank">@the_rvibe</a>
 <br><a href="https://www.instagram.com/rvjcorigins/?__d=11" rel="noopener nofollow" target="_blank">@rvjcorigins</a>&nbsp;</p>
 <p>Should you require additional information, please contact our general
 office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
 <p>Thank you!</p>
+<p>
+<br>
+</p>
 <p></p>
