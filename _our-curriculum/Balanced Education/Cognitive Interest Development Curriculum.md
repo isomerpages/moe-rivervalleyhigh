@@ -1,5 +1,5 @@
 ---
-title: Cognitive Interest Development
+title: Cognitive Interest Development Curriculum
 permalink: /our-curriculum/cog-int-devep/
 description: ""
 third_nav_title: Balanced Education
