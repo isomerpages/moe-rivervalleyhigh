@@ -12,8 +12,7 @@ To ensure that you are well prepared to begin your junior college journey
 with us, please take note of the following important information.
 <br>
 </p>
-<h4><strong>Attire</strong></h4>
-<p></p>
+<h4><strong>Attire</strong><br></h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students: </strong>RVHS
 Half-Uniform / Full-Uniform
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
