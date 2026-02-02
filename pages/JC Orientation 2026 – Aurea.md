@@ -47,8 +47,7 @@ located outside the General Office before proceeding to the MPC.</p>
 </li>
 </ul>
 <h4><strong>First Day Programme</strong></h4>
-<p>
-<br>The highlights of the first day include getting to know your Orientation
+<p>The highlights of the first day include getting to know your Orientation
 Group (OG) members, as well as the Opening Ceremony, which will officially
 kickstart JC Orientation 2026 – Aurea.
 <br>
@@ -69,7 +68,13 @@ O-Level Computing;
 and have not met the MOE subject pre-requisite of at least A2 for English
 Language AND at least B3 for Higher Chinese OR at least A2 for Chinese
 at the GCE O-Level Examinations.</p>
-<p>&nbsp;<strong>Dismissal Time for the First Day (4 Feb 2026)</strong>
+<h4>&nbsp;<strong>Dismissal Time for the First Day (4 Feb 2026)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>RVIP students not taking</p>
+</li>
+</ul>
+<p>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RVIP students not taking the H2
 Computing or H2 Translation qualifying tests will be dismissed by 12.00pm.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAE students not taking the qualifying
