@@ -20,14 +20,15 @@ School Half-Uniform / Full-Uniform
 <br>
 </p>
 <p><strong>Reporting Venue</strong>
-<br>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
-with <strong>morning assembly commencing at 8.00am</strong>. Signages will
-be placed at all entry points to guide you to the MPC and our Orientation
-Committee members will be stationed around the campus to assist with directions.
-<br>Students arriving by private transport may alight at the <strong>drop-off point in front of the school’s General Office</strong>.
-<br>JAE students may check their <strong>Orientation Groups (OGs)</strong> on
-the notice board located outside the General Office before proceeding to
-the MPC.</p>
+<br>
+<br>The reporting venue is the Multi-Purpose Court (MPC), with morning assembly
+commencing at 8.00am. Signages will be placed at all entry points to guide
+you to the MPC and our Orientation Committee members will be stationed
+around the campus to assist with directions.
+<br>Students arriving by private transport may alight at the drop-off point
+in front of the school’s General Office.
+<br>JAE students may check their Orientation Groups (OGs) on the notice board
+located outside the General Office before proceeding to the MPC.</p>
 <p><strong>Things to Bring</strong>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials
