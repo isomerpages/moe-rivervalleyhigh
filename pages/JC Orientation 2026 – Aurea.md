@@ -31,13 +31,7 @@ in front of the school’s General Office.
 <br>
 <br>JAE students may check their Orientation Groups (OGs) on the notice board
 located outside the General Office before proceeding to the MPC.</p>
-<p><strong>Things to Bring</strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / EZ-Link card /
-PayLah account on a mobile device
-<br>
-</p>
+<h4><strong>Things to Bring</strong><br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / EZ-Link card / PayLah account on a mobile device <br></h4>
 <p><strong>First Day Programme</strong>
 <br>The highlights of the first day include getting to know your Orientation
 Group (OG) members, as well as the <strong>Opening Ceremony</strong>, which
@@ -93,8 +87,5 @@ for updates:
 <p>Should you require additional information, please contact our general
 office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
-<p>Thank you!
-<br>
-<br>
-<br>
-</p>
+<h4>Thank you! <br><br><br></h4>
+<p></p>
