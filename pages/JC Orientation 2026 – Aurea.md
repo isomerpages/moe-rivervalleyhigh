@@ -22,13 +22,12 @@ with us, please take note of the following important information.
 </li>
 </ul>
 <h4><strong>Reporting Venue</strong><br></h4>
-<p>The reporting venue is the Multi-Purpose Court (MPC), with morning assembly
-commencing at 8.00am. Signages will be placed at all entry points to guide
-you to the MPC and our Orientation Committee members will be stationed
-around the campus to assist with directions.
+<p>The reporting venue is the <strong>Multi-Purpose Court (MPC)</strong>,
+with <strong>morning assembly commencing at 8.00am.</strong> Signages will
+be placed at all entry points to guide you to the MPC and our Orientation
+Committee members will be stationed around the campus to assist with directions.
 <br>
-<br>Students arriving by private transport may alight at the drop-off point
-in front of the school’s General Office.
+<br>Students arriving by private transport may alight at the <strong>drop-off point in front of the school’s General Office.</strong> 
 <br>
 <br>JAE students may check their Orientation Groups (OGs) on the notice board
 located outside the General Office before proceeding to the MPC.</p>
