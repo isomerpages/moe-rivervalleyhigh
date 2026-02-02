@@ -64,11 +64,12 @@ to offer:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>H2 Computing; </strong>and did not offer GCE O-Level Computing
-OR did not obtain at least A2 for GCE O-Level Computing;
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Translation</strong>;
-and have not met the MOE subject pre-requisite of at least A2 for English
-Language AND at least B3 for Higher Chinese OR at least A2 for Chinese
-at the GCE O-Level Examinations.</p>
+OR did not obtain at least A2 for GCE O-Level Computing;</p>
+</li>
+<li>
+<p><strong>H2 Translation; </strong>and have not met the MOE subject pre-requisite
+of at least A2 for English Language AND at least B3 for Higher Chinese
+OR at least A2 for Chinese at the GCE O-Level Examinations.</p>
 </li>
 </ul>
 <h4>&nbsp;<strong>Dismissal Time for the First Day (4 Feb 2026)</strong></h4>
@@ -112,4 +113,4 @@ for updates:
 office at 65678115 during office hours or email <a href="mailto:rvhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvhs@moe.edu.sg</a>
 </p>
 <h4>Thank you! <br><br><br></h4>
-<p></p>
+<p>\</p>
