@@ -32,7 +32,7 @@ in front of the school’s General Office.
 <br>
 <br>JAE students may check their Orientation Groups (OGs) on the notice board
 located outside the General Office before proceeding to the MPC.</p>
-<h4><strong>Things to Bring</strong><br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / EZ-Link card / PayLah account on a mobile device </h4>
+<h4><strong>Things to Bring</strong><br></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Water Bottle</p>
