@@ -46,7 +46,7 @@ located outside the General Office before proceeding to the MPC.</p>
 </p>
 </li>
 </ul>
-<h4><strong>First Day Programme</strong></h4>
+<h4><strong>First Day Programme</strong><br></h4>
 <p>The highlights of the first day include getting to know your Orientation
 Group (OG) members, as well as the Opening Ceremony, which will officially
 kickstart JC Orientation 2026 – Aurea.
@@ -88,8 +88,8 @@ lunch in the canteen before the test.<strong>&nbsp;</strong>
 </p>
 </li>
 </ul>
-<p><strong>Purchase of Graphing Calculator on the Second Day (5 Feb 2026)</strong>
-<br><strong>All JC students</strong> taking H2 Math or H1 Math for A Levels
+<h4><strong>Purchase of Graphing Calculator on the Second Day (5 Feb 2026)</strong><br></h4>
+<p><strong>All JC students</strong> taking H2 Math or H1 Math for A Levels
 need to purchase a Graphing Calculator (GC). The vendor will be on campus
 on <strong>Thursday, 5 February 2026</strong>.</p>
 <ul data-tight="true" class="tight">
