@@ -102,8 +102,8 @@ on <strong>Thursday, 5 February 2026</strong>.</p>
 </p>
 </li>
 </ul>
-<p><strong>Enquiries</strong>
-<br>Please note that no further emails or messages will be sent prior to the
+<h4><strong>Enquiries</strong></h4>
+<p>Please note that no further emails or messages will be sent prior to the
 reporting day. All information related to JC Orientation will be published
 on the school website. You may also follow our student-led Instagram accounts
 for updates:
