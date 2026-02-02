@@ -71,18 +71,19 @@ at the GCE O-Level Examinations.</p>
 <h4>&nbsp;<strong>Dismissal Time for the First Day (4 Feb 2026)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>RVIP students not taking</p>
+<p>RVIP students not taking the H2 Computing or H2 Translation qualifying
+tests will be dismissed by 12.00pm.</p>
+</li>
+<li>
+<p>JAE students not taking the qualifying tests will be dismissed by 3.15pm.</p>
+</li>
+<li>
+<p>Students sitting for the H2 Computing or H2 Translation qualifying tests
+will be dismissed after the test. Time will be given to students to have
+lunch in the canteen before the test.<strong>&nbsp;</strong>
+</p>
 </li>
 </ul>
-<p>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RVIP students not taking the H2
-Computing or H2 Translation qualifying tests will be dismissed by 12.00pm.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAE students not taking the qualifying
-tests will be dismissed by 3.15pm.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students sitting for the H2 Computing
-or H2 Translation qualifying tests will be dismissed after the test. Time
-will be given to students to have lunch in the canteen before the test.<strong>&nbsp;</strong>
-</p>
 <p><strong>Purchase of Graphing Calculator on the Second Day (5 Feb 2026)</strong>
 <br><strong>All JC students</strong> taking H2 Math or H1 Math for A Levels
 need to purchase a Graphing Calculator (GC). The vendor will be on campus
