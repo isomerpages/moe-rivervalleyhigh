@@ -1,5 +1,5 @@
 ---
-title: School Prospectus
+title: A School of Opportunities Nurturing & Enpowering Leaders for the Future
 permalink: /information/sch-prospectus/
 description: ""
 third_nav_title: Whole School

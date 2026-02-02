@@ -1,11 +1,11 @@
 ---
-title: CID Programme
+title: CIDC Programme
 permalink: /our-curriculum/cid/
 description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-## CID Programme
+## CIDC Programme
 
 The Construct, Integrate and Differentiate (CID) Programme is one of the flagship programmes of our Cognitive and Interest Development Curriculum. It seeks to nurture future ready learners and aims to (1) promote active and independent learning, (2) develop cognitive interest and (3) develop cross-curricular competencies.
 
