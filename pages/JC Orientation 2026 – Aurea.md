@@ -48,8 +48,8 @@ the MPC.</p>
 </ul>
 <h4><strong>First Day Programme</strong><br></h4>
 <p>The highlights of the first day include getting to know your Orientation
-Group (OG) members, as well as the Opening Ceremony, which will officially
-kickstart JC Orientation 2026 – Aurea.
+Group (OG) members, as well as the <strong>Opening Ceremony</strong>, which
+will officially kickstart <strong>JC Orientation 2026 – Aurea.</strong> 
 <br>
 </p>
 <p>JAE students will also attend a <strong>subject combination briefing</strong> and
