@@ -60,14 +60,17 @@ and students are encouraged to review this before reporting day.
 <br>
 </p>
 <p>An optional qualifying test will be conducted at 3.15pm for students intending
-to offer:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Computing</strong>; and
-did not offer GCE O-Level Computing OR did not obtain at least A2 for GCE
-O-Level Computing;
+to offer:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>H2 Computing; </strong>and did not offer GCE O-Level Computing
+OR did not obtain at least A2 for GCE O-Level Computing;
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>H2 Translation</strong>;
 and have not met the MOE subject pre-requisite of at least A2 for English
 Language AND at least B3 for Higher Chinese OR at least A2 for Chinese
 at the GCE O-Level Examinations.</p>
+</li>
+</ul>
 <h4>&nbsp;<strong>Dismissal Time for the First Day (4 Feb 2026)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
