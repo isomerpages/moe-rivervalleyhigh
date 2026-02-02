@@ -25,8 +25,10 @@ School Half-Uniform / Full-Uniform
 commencing at 8.00am. Signages will be placed at all entry points to guide
 you to the MPC and our Orientation Committee members will be stationed
 around the campus to assist with directions.
+<br>
 <br>Students arriving by private transport may alight at the drop-off point
 in front of the school’s General Office.
+<br>
 <br>JAE students may check their Orientation Groups (OGs) on the notice board
 located outside the General Office before proceeding to the MPC.</p>
 <p><strong>Things to Bring</strong>
