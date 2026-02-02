@@ -145,7 +145,7 @@ The English Department is a team of dedicated teachers who work together to achi
 
 立化双文化领袖学研中心举办研习论文研讨会，旨在让创造一个让学生们呈献自己的优秀研究项目，与同侪们分享自己的研究成果。学生们根据自己感兴趣的课题，自由组成小组一起研习。此活动的主办目的是让学生们能够切身体验东西方文化的博大精深，开拓他们的视野并加深他们对时事课题的认知。
 
-#### The Humanities
+#### Humanities
 
 <img src="/images/humanities.jpg" style="width:85%">
 
