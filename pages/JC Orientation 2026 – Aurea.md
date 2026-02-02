@@ -21,8 +21,8 @@ with us, please take note of the following important information.
 <p><strong>JAE Students: </strong>Secondary School Half-Uniform/Full-Uniform</p>
 </li>
 </ul>
-<p><strong>Reporting Venue</strong>
-<br>
+<h4><strong>Reporting Venue</strong></h4>
+<p>
 <br>The reporting venue is the Multi-Purpose Court (MPC), with morning assembly
 commencing at 8.00am. Signages will be placed at all entry points to guide
 you to the MPC and our Orientation Committee members will be stationed
