@@ -13,12 +13,15 @@ with us, please take note of the following important information.
 <br>
 </p>
 <h4><strong>Attire</strong><br></h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Returning RVIP Students: </strong>RVHS
-Half-Uniform / Full-Uniform
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>JAE Students:</strong> Secondary
-School Half-Uniform / Full-Uniform
-<br>
-</p>
+<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Returning RVIP Students: RVHS Half-Uniform / Full-Uniform <br>·&nbsp;&nbsp;&nbsp;</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Returning RVIP Students</strong>: RVHS Half-Uniform / Full-Uniform</p>
+</li>
+<li>
+<p><strong>JAE Students: </strong> Secondary School Half-Uniform/Full-Uniform</p>
+</li>
+</ul>
 <p><strong>Reporting Venue</strong>
 <br>
 <br>The reporting venue is the Multi-Purpose Court (MPC), with morning assembly
@@ -32,10 +35,11 @@ in front of the school’s General Office.
 <br>JAE students may check their Orientation Groups (OGs) on the notice board
 located outside the General Office before proceeding to the MPC.</p>
 <h4><strong>Things to Bring</strong><br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing materials <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money for lunch / EZ-Link card / PayLah account on a mobile device <br></h4>
-<p><strong>First Day Programme</strong>
+<h4><strong>First Day Programme</strong></h4>
+<p>
 <br>The highlights of the first day include getting to know your Orientation
-Group (OG) members, as well as the <strong>Opening Ceremony</strong>, which
-will officially kickstart <strong>JC Orientation 2026 – Aurea</strong>.
+Group (OG) members, as well as the Opening Ceremony, which will officially
+kickstart JC Orientation 2026 – Aurea.
 <br>
 </p>
 <p>JAE students will also attend a <strong>subject combination briefing</strong> and
