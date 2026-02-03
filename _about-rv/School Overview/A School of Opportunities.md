@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Overview
 variant: markdown
 ---
-## A School of Opportunities
-
 ![](/images/SchofOPP.png)
 Click [here](20251102_RV_Publicity_Brochure_V4)  to read more. 
 
