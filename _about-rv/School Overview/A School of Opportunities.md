@@ -6,7 +6,7 @@ third_nav_title: School Overview
 variant: markdown
 ---
 ![](/images/SchofOPP.png)
-Click [here](/files/20251102_RV_Publicity_Brochure_V4.pdf)   to read more. 
+Click [here](/files/20251102_RV_Publicity_Brochure_V4.pdf)   to learn more. 
 
 The school is committed to providing our students with a holistic education and we develop each child to his/her fullest in the intellectual, social, moral, emotional, physical and aesthetic domains. This is done through our Balanced Education Curriculum (BEC), which comprises the&nbsp;Cognitive-Interest Development Curriculum&nbsp;(CIDC), the&nbsp;Leadership-Character Development Curriculum&nbsp;(LCDC) and the Civic Literacy and Global Awareness Development  Curriculum (CGDC). 
 *   **CIDC**&nbsp;nurtures good habits of mind, critical thinking skills and knowledge construction, as well as prepares students for university admission. It is designed based on the ASK (Attitudes, Skills and Knowledge) learning culture and implemented with the TfU (Teaching for Understanding) Framework from the Harvard Graduate School of Education.
