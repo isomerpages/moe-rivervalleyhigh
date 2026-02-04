@@ -47,20 +47,21 @@ of inquiry in the final year (CID 4) of the programme.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cid%201%20students%20trying%20out%20their%20vuca%20games.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CID1 Mini Challenge Focusing on Collaboration" src="/images/CID1_Mini_Challenge_Focusing_on_Collaboration.png">
 </div>
-<p>CID 1 students trying out their VUCA games</p>
+<p>CID 1 Mini Challenge Focusing on Collaboration</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cid%202%20students%20having%20a%20virtual%20exchange%20with%20shanghai%20wei%20yu%20middle%20school.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%202%20students%20having%20a%20virtual%20exchange%20with%20shanghai%20wei%20yu%20middle%20school.jpg">
 </div>
 <p>CID 2 students having a virtual exchange with Shanghai Wei Yu Middle School</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cid%203%20students%20making%20prototype%20for%20their%20problem%20solving%20project.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%203%20students%20making%20prototype%20for%20their%20problem%20solving%20project.jpg">
 </div>
 <p>CID 3 students making prototype for their problem solving project</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cid%204%20community%20module%20build-a-book%20project.JPG">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%204%20community%20module%20build-a-book%20project.JPG">
 </div>
 <p>CID 4 Community Module Build-a-Book project</p>
 <table style="minWidth: 75px">
