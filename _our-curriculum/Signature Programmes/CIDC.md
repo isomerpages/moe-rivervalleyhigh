@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<h2>CIDC Programme</h2>
+<h2>CID Programme</h2>
 <p>The Construct, Integrate and Differentiate (CID) Programme is one of the
 flagship programmes of the RVIP Curriculum. It seeks to nurture a learning
 community of future-ready value creators by (1) promoting active and independent
