@@ -52,14 +52,13 @@ of inquiry in the final year (CID 4) of the programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="CID1 Mini Challenge Focusing on Collaboration" src="/images/CID1_Mini_Challenge_Focusing_on_Collaboration.png">
 </div>
 <p>CID 1 Mini Challenge Focusing on Collaboration</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%202%20students%20having%20a%20virtual%20exchange%20with%20shanghai%20wei%20yu%20middle%20school.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID2__Emblem_Design_Presentation.png">
 </div>
-<p>CID 2 students having a virtual exchange with Shanghai Wei Yu Middle School</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%203%20students%20making%20prototype%20for%20their%20problem%20solving%20project.jpg">
-</div>
-<p>CID 3 students making prototype for their problem solving project</p>
+<p>CID 2 Emblem Design Presentation</p>
+<p></p>
+<p>3 students making prototype for their problem solving project</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%204%20community%20module%20build-a-book%20project.JPG">
 </div>
