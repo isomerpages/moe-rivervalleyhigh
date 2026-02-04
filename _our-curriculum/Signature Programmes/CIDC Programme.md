@@ -21,7 +21,7 @@ of inquiry in the final year (CID 4) of the programme.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Highlights of the Programme</p>
+<h4>Highlights of the Programme</h4>
 </th>
 </tr>
 <tr>
