@@ -52,7 +52,6 @@ of inquiry in the final year (CID 4) of the programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="CID1 Mini Challenge Focusing on Collaboration" src="/images/CID1_Mini_Challenge_Focusing_on_Collaboration.png">
 </div>
 <p>CID 1 Mini Challenge Focusing on Collaboration</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID2__Emblem_Design_Presentation.png">
 </div>
@@ -62,85 +61,10 @@ of inquiry in the final year (CID 4) of the programme.</p>
 </div>
 <p>CID3 Empathiser Core Module</p>
 <p></p>
-<p>CID 4 Community Module Build-a-Book project</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Secondary</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ASK Foundation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students enhance their understanding of competencies valued in the VUCA
-world and engage in everyday problem solving.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Global Perspective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students enhance their understanding and appreciation of Chinese culture
-and contemporary China.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Problem Solving</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students engage in creative problem solving to address real-life problems.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Independent Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students engage in a year-long mentorship programme based on their interest
-or talent.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID4_Students_Learning_more_about_Community_Mapping.png">
+</div>
+<p>CID 4 Students learning more about Community Mapping</p>
 <h3>CID 4 Projects featured on 8world.com</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="253" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eU9fDBaYbyY"></iframe>
@@ -172,4 +96,5 @@ or talent.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="253" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aFb2jh9k9yA"></iframe>
 </div>
+<p></p>
 <p></p>
