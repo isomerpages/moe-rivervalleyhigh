@@ -37,9 +37,6 @@ aims to nurture students who practice values-based citizenship and leadership.</
 and global perspective. The main components of the CGDC programme are the
 Construct, Integrate, Differentiate (CID) programme, Appreciation of Chinese
 Culture (ACC) programme and the six academies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department_Signature_Programmes.png">
-</div>
 </li>
 </ul>
 <p></p>
