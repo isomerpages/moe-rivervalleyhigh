@@ -6,7 +6,7 @@ third_nav_title: School Overview
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/font_sch_opp.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/font_sch_opp.png">
 </div>
 <p>Click <a href="/files/20251102_RV_Publicity_Brochure_V4.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn more.</p>
