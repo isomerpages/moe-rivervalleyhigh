@@ -30,7 +30,7 @@ Framework from the Harvard Graduate School of Education.</p>
 Education (CCE) for students. Through components like the Overseas Experiential
 Learning Programme (OELP), Enhanced National Education (NE) and Values
 in Action (VIA) Programme and platforms such as the Y.LEAD Seminar, LCDC
-aims to nurture students who practise values-based citizenship and leadership.</p>
+aims to nurture students who practice values-based citizenship and leadership.</p>
 </li>
 <li>
 <p><strong>CGDC</strong>&nbsp;focuses on developing students’ civic-mindedness
