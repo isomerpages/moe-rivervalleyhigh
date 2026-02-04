@@ -57,11 +57,11 @@ of inquiry in the final year (CID 4) of the programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID2__Emblem_Design_Presentation.png">
 </div>
 <p>CID 2 Emblem Design Presentation</p>
-<p></p>
-<p>3 students making prototype for their problem solving project</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/cid%204%20community%20module%20build-a-book%20project.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID3_Empathiser_Core_Module.png">
 </div>
+<p>CID3 Empathiser Core Module</p>
+<p></p>
 <p>CID 4 Community Module Build-a-Book project</p>
 <table style="minWidth: 75px">
 <colgroup>
