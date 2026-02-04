@@ -60,7 +60,6 @@ of inquiry in the final year (CID 4) of the programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID3_Empathiser_Core_Module.png">
 </div>
 <p>CID3 Empathiser Core Module</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CID4_Students_Learning_more_about_Community_Mapping.png">
 </div>
