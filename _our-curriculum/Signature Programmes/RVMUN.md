@@ -16,7 +16,6 @@ to be able to understand and address the intricacies and complexities of
 the world. RVMUN aims to provide delegates with the essential and critical
 insight into global issues, and foster a sense of responsibility and integrity
 in addressing and finding solutions to these challenges.</p>
-<p></p>
 <h2>RVMUN 2026</h2>
 <h4><strong>OUR THEME</strong><br></h4>
 <p>For our 14th iteration this year, our theme is "Verbis Creare", or "to
