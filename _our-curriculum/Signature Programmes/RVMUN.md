@@ -27,7 +27,7 @@ effective communication and encourages participants to harness diplomacy
 not just as debate, but as constructive dialogue that shapes a better world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/RVMUN3.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/RVMUN3.jpg">
 </div>
 <p>Aligned with the mission of Model United Nations, this theme emphasises
 that the most profound global progress begins not with force, but with
@@ -36,7 +36,7 @@ collaboration, to speak not just to be heard, but to build.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
 </div>
 <p><strong>DETAILS</strong>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 16th March 2026 — 18th March 2026
