@@ -15,9 +15,6 @@ sections:
         - title: Sexuality Education (Secondary) Overview
           description: Click here
           url: /rvhs-2026-info-on-sed-for-school/
-        - title: JAE JC Appeal (For O Level Students)
-          description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
         - title: Sexuality Education (JC) Overview
           description: Click here
           url: /information/moe-sexuality-education-in-schools-jc/
