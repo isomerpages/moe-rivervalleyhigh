@@ -11,7 +11,7 @@ Click   to take a closer look.
 
 ## Academic Departments
 
-<img src="/images/2019 Singapore Economy Quiz Live Game show.jpeg" style="width:85%">
+<img src="/images/2019 Singapore Economy Quiz Live Game show.jpeg" style="width:70%">
 
 River Valley High School offers the 6-year Integrated Programme and our students undertake the ‘A’ Level curriculum. The curriculum is aimed at preparing students well for the rapidly changing world of the 21st century. Learn more about the current 'A' Level curriculum [here](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses).
 
@@ -19,7 +19,7 @@ Specific to RVHS, we customise and design our programme to provide a seamless de
 
 #### Science
 
-<img src="/images/Science.jpeg" style="width:85%">
+<img src="/images/Science.jpeg" style="width:70%">
 
 The Science Department provides the skills, knowledge and platforms to enable students to develop scientific dispositions that support high-level research and understanding of natural phenomena. With a comprehensive programme that offers diversity while unifying core capacities to encourage curiosity, innovation and creativity, the Science curriculum aims to nurture tomorrow’s scientists, inventors and researchers for Singapore and beyond. Through subjects such as Physics, Biology, Chemistry, Computing and D&amp;T (Design and Technology), and platforms such as the Science Leaders Academy and internships at high-end research facilities, a plethora of intellectual challenges are presented to students to extend their capabilities and interest in various scientific fields.  
 
@@ -35,7 +35,7 @@ The six-year&nbsp;**Biology**&nbsp;curriculum in River Valley High School seeks 
 
 #### Mathematics
 
-<img src="/images/Mathematics.jpg" style="width:85%">
+<img src="/images/Mathematics.jpg" style="width:70%">
 
 The Mathematics Department aims to nurture thinking students and to inculcate in them intellectual curiosity, passion and confidence in mathematical problem-solving through purposeful learning experiences.  
   
@@ -45,7 +45,7 @@ To extend mathematics learning, the department brings students overseas to bette
 
 #### English Language
 
-<img src="/images/English Language.jpg" style="width:85%">
+<img src="/images/English Language.jpg" style="width:70%">
 
 The English Department is committed to nurturing students who are strong and confident communicators: individuals who are thinkers, leaders, and achievers with a global perspective. We want our students to achieve the competencies that will allow them to thrive in the 21st&nbsp;century: critical and inventive thinking; communication, collaboration and information skills; civic literacy, global awareness, and cross-cultural skills.  
 
@@ -55,7 +55,7 @@ The English Department is a team of dedicated teachers who work together to achi
 
 #### Chinese Language
 
-<img src="/images/photo1670414205.jpeg" style="width:85%">
+<img src="/images/photo1670414205.jpeg" style="width:70%">
 
 立化中学是一所集特选、综合课程及自治于一身的学校，肩负着为新加坡培养双语双文化人才的重要使命。通过学校精心设计的课程，以及参与相关的语文及文化活动，学生可以体会丰富多彩的华文文化，借此提升自身的内涵与修养。  
 
@@ -75,7 +75,7 @@ The English Department is a team of dedicated teachers who work together to achi
 
 **立化特选计划旗舰项目（SAP Flagship Programme)**
 
-<img src="/images/photo1670414342.jpeg" style="width:85%">
+<img src="/images/photo1670414342.jpeg" style="width:70%">
 
 **1 \.**&nbsp;**中二格物致知学习课程（CID Programme）学习之旅**  
 
@@ -119,7 +119,7 @@ The English Department is a team of dedicated teachers who work together to achi
 
 &nbsp;**双文化领袖学研中心（Bicultural Leaders Academy)**
  
- <img src="/images/photo1670414526.jpeg" style="width:85%">
+ <img src="/images/photo1670414526.jpeg" style="width:70%">
  
  **REQUIRE JACKSON'S INPUT VIDEO**
  
@@ -151,7 +151,7 @@ The English Department is a team of dedicated teachers who work together to achi
 
 #### Humanities
 
-<img src="/images/humanities.jpg" style="width:85%">
+<img src="/images/humanities.jpg" style="width:70%">
 
 The study of the humanities develops in students 21st&nbsp;century competencies, knowledge, skills and key dispositional traits to prepare for a dynamic and interconnected world. As an integral part of the RV holistic education, the humanities curriculum aims to inculcate in students the habit of reading critically to gain information about the changing socio-spatial environment at both the local and global levels. Armed with the tools of a social scientist, students will consider different viewpoints, make well-reasoned arguments to arrive at rational and considered decisions.  
 
@@ -159,7 +159,7 @@ The Humanities Department offer plentiful opportunities to promote students’ a
 
 #### Physical Education
 
-<img src="/images/PE.jpeg" style="width:85%">
+<img src="/images/PE.jpeg" style="width:70%">
 
 The Physical Education (PE) Department aims to provide a 6-year integrated PE Programme through a PE syllabus that exposes students to a variety of games such as badminton, basketball, floorball, football, frisbee, gymnastics, softball, table tennis, tchoukball, tennis and wushu. Students also learn about strategies to lead a healthy lifestyle through the Food and Consumer Education module.  
 
