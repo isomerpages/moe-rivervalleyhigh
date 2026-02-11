@@ -16,7 +16,7 @@ moral, emotional, physical and aesthetic domains. This is done through
 our Balanced Education Curriculum (BEC), which comprises the&nbsp;Cognitive-Interest
 Development Curriculum&nbsp;(CIDC), the&nbsp;Leadership-Character Development
 Curriculum&nbsp;(LCDC) and the Civic Literacy and Global Awareness Development
-Curriculum (CGDC).</p>
+Programme (CGDP).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>CIDC</strong>&nbsp;nurtures good habits of mind, critical thinking
@@ -26,14 +26,23 @@ learning culture and implemented with the TfU (Teaching for Understanding)
 Framework from the Harvard Graduate School of Education.</p>
 </li>
 <li>
-<p><strong>LCDC</strong>&nbsp;seeks to provide Character and Citizenship
-Education (CCE) for students. Through components like the Overseas Experiential
-Learning Programme (OELP), Enhanced National Education (NE) and Values
-in Action (VIA) Programme and platforms such as the Y.LEAD Seminar, LCDC
-aims to nurture students who practice values-based citizenship and leadership.</p>
+<p><strong>LCDC</strong>: We believe in nurturing leaders of distinction
+who possess good character to serve the community and nation. We place
+students at the heart of all our efforts in student development, catering
+to their developmental needs and their social-emotional well-being, as
+we nurture their character growth and develop them into morally upright
+individuals, and responsible and active citizens. When designing learning
+experiences, we seek to understand our students’ needs and interests and
+focus on student engagement and student voice. In this way, we aim to empower
+them to take ownership and derive personal meaning from their learning
+experiences.
+<br>As a Special Assistance Plan school, RVHS places a strong emphasis on
+values such as respect, appreciation, gratitude and contribution to society.
+RVians demonstrate personal, team, and thought leadership while placing
+people at the heart of what they do and serving with empathy.</p>
 </li>
 <li>
-<p><strong>CGDC</strong>&nbsp;focuses on developing students’ civic-mindedness
+<p><strong>CGDP</strong>&nbsp;focuses on developing students’ civic-mindedness
 and global perspective. The main components of the CGDC programme are the
 Construct, Integrate, Differentiate (CID) programme, Appreciation of Chinese
 Culture (ACC) programme and the six academies.</p>
