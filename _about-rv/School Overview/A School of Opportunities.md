@@ -36,10 +36,10 @@ thoughtfully and responsibly.
 construct knowledge. In constructing knowledge, students must show a thoughtful
 understanding of the connections and relationships between various disciplines.
 They must also show an ability to apply their learning to address problems
-that they are likely to encounter in life beyond the classroom.</p>
-<p>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
-from the Harvard Graduate School of Education to implement the CIDC.</p>
-<p>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
+that they are likely to encounter in life beyond the classroom.
+<br>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
+from the Harvard Graduate School of Education to implement the CIDC.
+<br>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
 from the Harvard Graduate School of Education to implement the CIDC.</p>
 </li>
 <li>
