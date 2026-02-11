@@ -31,8 +31,8 @@ thinker. At the same time, students engage in learning experiences that
 empower them to actively contribute to the community and the nation, nurturing
 their civic, global and cross-cultural literacy. In an increasingly digital
 world, they are also guided to communicate, collaborate and manage information
-thoughtfully and responsibly.</p>
-<p>In addition, students learn not just to acquire knowledge, but to also
+thoughtfully and responsibly.
+<br>In addition, students learn not just to acquire knowledge, but to also
 construct knowledge. In constructing knowledge, students must show a thoughtful
 understanding of the connections and relationships between various disciplines.
 They must also show an ability to apply their learning to address problems
