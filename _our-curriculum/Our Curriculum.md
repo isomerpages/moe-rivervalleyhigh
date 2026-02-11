@@ -41,7 +41,7 @@ Thus, RVHS designed and put in place the Balanced Education Curriculum to equip 
 
 The Balanced Education Curriculum consists of four domains of development:
 
-*   [Cognitive-Interest Development Curriculum (CIDC)](/our-curriculum/cid/)&nbsp;
+* [Cognitive-Interest Development Curriculum (CIDC) ](https://www.rivervalleyhigh.moe.edu.sg/about-rv/Educational-Institution/ad/)&nbsp;
 *   [Leadership Character Development Curriculum (LCDC)](/our-curriculum/Ldrship-Character-Development/lcd/)
 *   [Civic Literacy-Global Awareness Development Curriculum (CGDC)](/our-curriculum/clgad/)
 *   [Co-Curricular Activities Curriculum (CCAs)](https://www.rivervalleyhigh.moe.edu.sg/co-curricular-activities-curriculum-ccac/)
