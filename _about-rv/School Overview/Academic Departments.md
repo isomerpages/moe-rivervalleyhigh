@@ -5,8 +5,8 @@ description: ""
 third_nav_title: School Overview
 variant: markdown
 ---
-##  Our Signature Programmes
-Click   to take a closer look.
+##  Our Signature Programme
+Click   to take a closer look at our Construct, Integrate and Differentiate (CID) Programme.
 
 
 ## Academic Departments
