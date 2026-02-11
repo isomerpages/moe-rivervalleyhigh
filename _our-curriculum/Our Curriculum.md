@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ## Our Curriculum
-**<img style="width:70%" src="/images/2025/2_Science_Laboratory.jpg">**
+**<img style="width:60%" src="/images/2025/2_Science_Laboratory.jpg">**
 #### RV Integrated Programme
 **6-Year Integrated Programme**<br>
 As one of the few schools that offer a 6-year Integrated Programme, we customise and design our programme to provide a seamless development of RVians' talent and potential to the fullest.
@@ -41,7 +41,7 @@ Thus, RVHS designed and put in place the Balanced Education Curriculum to equip 
 
 The Balanced Education Curriculum consists of four domains of development:
 
-*   [Cognitive-Interest Development Curriculum (CIDC)](/our-curriculum/cid/)&nbsp;
+* [Cognitive-Interest Development Curriculum (CIDC) ](https://www.rivervalleyhigh.moe.edu.sg/about-rv/Educational-Institution/ad/)&nbsp;
 *   [Leadership Character Development Curriculum (LCDC)](/our-curriculum/Ldrship-Character-Development/lcd/)
 *   [Civic Literacy-Global Awareness Development Curriculum (CGDC)](/our-curriculum/clgad/)
 *   [Co-Curricular Activities Curriculum (CCAs)](https://www.rivervalleyhigh.moe.edu.sg/co-curricular-activities-curriculum-ccac/)

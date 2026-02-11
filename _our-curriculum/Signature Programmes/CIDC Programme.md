@@ -1,5 +1,5 @@
 ---
-title: CID Programme
+title: CIDC Programme
 permalink: /our-curriculum/cid/
 description: ""
 third_nav_title: Signature Programmes

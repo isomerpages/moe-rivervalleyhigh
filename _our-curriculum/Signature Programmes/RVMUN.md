@@ -16,7 +16,6 @@ to be able to understand and address the intricacies and complexities of
 the world. RVMUN aims to provide delegates with the essential and critical
 insight into global issues, and foster a sense of responsibility and integrity
 in addressing and finding solutions to these challenges.</p>
-<p></p>
 <h2>RVMUN 2026</h2>
 <h4><strong>OUR THEME</strong><br></h4>
 <p>For our 14th iteration this year, our theme is "Verbis Creare", or "to
@@ -26,10 +25,19 @@ and negotiations becomes a tool for the creation of ideas, solutions, and
 partnerships. “Verbis Creare” celebrates the transformative potential of
 effective communication and encourages participants to harness diplomacy
 not just as debate, but as constructive dialogue that shapes a better world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/RVMUN3.jpg">
+</div>
 <p>Aligned with the mission of Model United Nations, this theme emphasises
 that the most profound global progress begins not with force, but with
 conversation. It invites delegates to use their voices as instruments of
-collaboration, to speak not just to be heard, but to build.</p>
+collaboration, to speak not just to be heard, but to build.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/RVMUN2.jpg">
+</div>
 <p><strong>DETAILS</strong>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 16th March 2026 — 18th March 2026
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: River Valley High School</p>

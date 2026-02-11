@@ -15,23 +15,9 @@ sections:
         - title: Sexuality Education (Secondary) Overview
           description: Click here
           url: /rvhs-2026-info-on-sed-for-school/
-        - title: JAE JC Appeal (For O Level Students)
-          description: Click here
-          url: https://www.rivervalleyhigh.moe.edu.sg/information/jaejc/
         - title: Sexuality Education (JC) Overview
           description: Click here
           url: /information/moe-sexuality-education-in-schools-jc/
-  - infopic:
-      title: JC Orientation 2026
-      subtitle: Welcome JC1 students!
-      id: infopic
-      description: "Wednesday, 4 February at 7:45 a.m 📢 Please Note: No messages will
-        be sent before reporting day. ✨ Stay Informed: Check the school website
-        for all details!"
-      button: Read More
-      url: /jc-orientation-2026-aurea/
-      image: /images/Aurea_Logo.png
-      alt: Image alt text
   - infobar:
       title: Our RV Story
       id: infobar
