@@ -56,6 +56,7 @@ experiences, we seek to understand our students’ needs and interests and
 focus on student engagement and student voice. In this way, we aim to empower
 them to take ownership and derive personal meaning from their learning
 experiences.
+<br>
 <br>As a Special Assistance Plan school, RVHS places a strong emphasis on
 values such as respect, appreciation, gratitude and contribution to society.
 RVians demonstrate personal, team, and thought leadership while placing
