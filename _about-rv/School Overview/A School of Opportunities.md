@@ -40,25 +40,27 @@ that they are likely to encounter in life beyond the classroom.</p>
 from the Harvard Graduate School of Education to implement the CIDC.</p>
 </li>
 <li>
-<p><strong>LCDC </strong>nurtures leaders of distinction who possess good
-character to serve the community and nation. We place students at the heart
-of all our efforts in student development, catering to their developmental
-needs and their social-emotional well-being, as we nurture their character
-growth and develop them into morally upright individuals, and responsible
-and active citizens. When designing learning experiences, we seek to understand
-our students’ needs and interests and focus on student engagement and student
-voice. In this way, we aim to empower them to take ownership and derive
-personal meaning from their learning experiences.
+<p><strong>LCDC: </strong>We believe in nurturing leaders of distinction
+who possess good character to serve the community and nation. We place
+students at the heart of all our efforts in student development, catering
+to their developmental needs and their social-emotional well-being, as
+we nurture their character growth and develop them into morally upright
+individuals, and responsible and active citizens. When designing learning
+experiences, we seek to understand our students’ needs and interests and
+focus on student engagement and student voice. In this way, we aim to empower
+them to take ownership and derive personal meaning from their learning
+experiences.
 <br>As a Special Assistance Plan school, RVHS places a strong emphasis on
 values such as respect, appreciation, gratitude and contribution to society.
 RVians demonstrate personal, team, and thought leadership while placing
 people at the heart of what they do and serving with empathy.</p>
 </li>
 <li>
-<p><strong>CGDP</strong>&nbsp;focuses on developing students’ civic-mindedness
-and global perspective. The main components of the CGDC programme are the
-Construct, Integrate, Differentiate (CID) programme, Appreciation of Chinese
-Culture (ACC) programme and the six academies.</p>
+<p><strong>CGDP</strong>: Our Global Awareness Development Programme enables
+our students to thrive in an increasingly complex global landscape through
+a plethora of programmes, notably our Virtual Twinning Programme, Global
+Scholars Programme, Overseas Experiential Learning Programmes and talent
+trips.</p>
 </li>
 </ul>
 <p></p>
