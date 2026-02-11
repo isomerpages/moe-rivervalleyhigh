@@ -19,10 +19,11 @@ Curriculum&nbsp;(LCDC) and the Civic Literacy and Global Awareness Development
 Programme (CGDP).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>CIDC </strong>seeks to develop students holistically and equip
-all of them with important “Attitude, Skills and Knowledge” (ASK) through
-authentic learning experiences.</p>
-<p>Students have the opportunity to develop good habits of mind and dispositions
+<p><strong>CIDC: </strong>River Valley High School’s Cognitive-Interest Development
+Curriculum (CIDC) seeks to develop students holistically and equip all
+of them with important “Attitude, Skills and Knowledge” (ASK) through authentic
+learning experiences.
+<br>Students have the opportunity to develop good habits of mind and dispositions
 through a curriculum that fosters a culture of thinking. Students acquire
 critical, adaptive and inventive thinking skills that are crucial in the
 21st Century, moving progressively from being a novice thinker to an advanced
@@ -36,6 +37,8 @@ construct knowledge. In constructing knowledge, students must show a thoughtful
 understanding of the connections and relationships between various disciplines.
 They must also show an ability to apply their learning to address problems
 that they are likely to encounter in life beyond the classroom.</p>
+<p>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
+from the Harvard Graduate School of Education to implement the CIDC.</p>
 <p>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
 from the Harvard Graduate School of Education to implement the CIDC.</p>
 </li>
