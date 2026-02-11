@@ -23,6 +23,7 @@ Programme (CGDP).</p>
 Curriculum (CIDC) seeks to develop students holistically and equip all
 of them with important “Attitude, Skills and Knowledge” (ASK) through authentic
 learning experiences.
+<br>
 <br>Students have the opportunity to develop good habits of mind and dispositions
 through a curriculum that fosters a culture of thinking. Students acquire
 critical, adaptive and inventive thinking skills that are crucial in the
@@ -32,15 +33,17 @@ empower them to actively contribute to the community and the nation, nurturing
 their civic, global and cross-cultural literacy. In an increasingly digital
 world, they are also guided to communicate, collaborate and manage information
 thoughtfully and responsibly.
+<br>
 <br>In addition, students learn not just to acquire knowledge, but to also
 construct knowledge. In constructing knowledge, students must show a thoughtful
 understanding of the connections and relationships between various disciplines.
 They must also show an ability to apply their learning to address problems
 that they are likely to encounter in life beyond the classroom.
+<br>
 <br>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
 from the Harvard Graduate School of Education to implement the CIDC.
-<br>RVHS adopts the Teaching for Understanding (TfU) curriculum framework
-from the Harvard Graduate School of Education to implement the CIDC.</p>
+<br>
+</p>
 </li>
 <li>
 <p><strong>LCDC: </strong>We believe in nurturing leaders of distinction
