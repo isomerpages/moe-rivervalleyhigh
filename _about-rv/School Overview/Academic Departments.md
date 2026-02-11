@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_8674.jpg">
 </div>
 <p>Discover what makes our Construct, Integrate and Differentiate (CID) Programme
-unique .</p>
+unique <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/cid/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>Academic Departments</h3>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2019 Singapore Economy Quiz Live Game show.jpeg">
