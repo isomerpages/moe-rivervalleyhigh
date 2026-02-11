@@ -5,9 +5,8 @@ description: ""
 third_nav_title: School Overview
 variant: markdown
 ---
-
 ##  Our Signature Programmes
-Click    to read more. 
+Click   to take a closer look.
 
 
 ## Academic Departments
