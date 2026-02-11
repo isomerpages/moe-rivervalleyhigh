@@ -7,7 +7,6 @@ variant: markdown
 ---
 ###  Our Signature Programme
 Click [here](https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/cid/)   to take a closer look at our Construct, Integrate and Differentiate (CID) Programme.
-
 ### Academic Departments
 
 <img src="/images/2019 Singapore Economy Quiz Live Game show.jpeg" style="width:70%">
