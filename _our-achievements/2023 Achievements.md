@@ -52,6 +52,26 @@ Language, she received the&nbsp;Ee Hoe Hean Chinese Book Prize Award in
 2022.&nbsp;</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Wong Kang Lim</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>An environmentalist at heart, Kang Lim was&nbsp;deeply involved in environmental-related
+activities. As the President of The Eco Sustainability Leaders' Academy,
+he sought to address pressing environmental issues by promoting water and
+food sustainability through a myriad of activities. His passion in using
+scientific principles to create innovative solutions for complex problems
+was exemplified in his project where he collaborated with NTU professors
+on a 9-month research project that focused on Malaria prevention in India.
+Kang Lim’s dedication to eco stewardship serves to inspire his peers to
+advocate for a more sustainable future.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
