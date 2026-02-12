@@ -44,7 +44,7 @@ Festival Choir at the Esplanade with other avid choristers and the international
 renowned group, The King's Singers. She&nbsp;even participated in the National
 Schools Xinyao Singing and Songwriting Competition where she was awarded
 2nd&nbsp;place in the solo singing category (check out Zaobao’s interview
-with her here:&nbsp;<a href="https://www.zaobao.com.sg/lifestyle/gen/story20230410-1381398" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zaobao.com.sg/lifestyle/gen/story20230410-1381398</u></a>).&nbsp;Under
+with her <a href="https://www.zaobao.com.sg/lifestyle/gen/story20230410-1381398" rel="noopener nofollow" target="_blank">here</a>.&nbsp;Under
 the BLA, Xi Yee organised various seminars and fora on contemporary China
 for her peers to deepen their understanding of the global political climate.
 In recognition of her exemplary performance in both Chinese and English
