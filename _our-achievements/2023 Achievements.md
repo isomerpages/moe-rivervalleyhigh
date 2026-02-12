@@ -79,6 +79,19 @@ eager to explore the wonders of Mathematics.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Shermaine Kuah</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>With a heart for community service, Shermaine went above and beyond her
+school responsibilities to serve the community tirelessly. She proactively
+identified community needs and organised large-scale events and activities
+to help uplift the community. When leading&nbsp;the Service and Citizenship
+Society, she advocated the importance of serving others, igniting her peers’
+passion and showing them how to meaningfully value-add in a service-learning
+opportunity. Her genuine enthusiasm and passion for the community projects
+she managed truly set her apart as a compassionate and empathetic leader.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
