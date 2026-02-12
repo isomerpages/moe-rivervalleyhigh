@@ -19,8 +19,7 @@ his peers to thrive together.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Ng Qi Heng</strong>
-</summary>
+<summary>Ng Qi Heng</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A valedictorian for the Class of 2023, Qi Heng took on leadership as the
 Vice President of&nbsp;the Science Leaders Academy, Infocomm Club, and
@@ -34,8 +33,7 @@ in various competitions.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Gan Xi Yee</strong>
-</summary>
+<summary>Gan Xi Yee</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
