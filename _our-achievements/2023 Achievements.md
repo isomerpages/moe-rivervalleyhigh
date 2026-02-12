@@ -144,6 +144,7 @@ courage and grit. (You can watch the media interview with her <a href="https://w
 </div>
 </details>
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
