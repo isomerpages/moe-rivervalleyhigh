@@ -139,7 +139,7 @@ and explained the concepts that she grappled with, allowed her to gradually
 find the academic rigour to be an enjoyable challenge. Jessie’s academic
 journey has been a remarkable one and her story is a testament to the power
 of determination and the extraordinary heights one can reach with sheer
-courage and grit. (You can watch the media interview with her <a href="https://www.8world.com/singapore/a-level-results-2382201" rel="noopener nofollow" target="_blank">here.</a> 
+courage and grit. (You can watch the media interview with her <a href="https://www.8world.com/singapore/a-level-results-2382201" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 </div>
 </details>
