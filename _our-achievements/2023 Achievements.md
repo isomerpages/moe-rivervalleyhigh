@@ -152,12 +152,10 @@ courage and grit. (You can watch the media interview with her <a href="https://w
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Competition / Event</p>
+<h4>Name of Competition / Event</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievement / Name of Recipient
-<br>
-</p>
+<h4>Achievement / Name of Recipient <br></h4>
 </td>
 </tr>
 <tr>
@@ -452,5 +450,5 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <br>
 </p>
 <p>
-<br><strong>Chen Zhe Rui</strong>
+<br>
 </p>
