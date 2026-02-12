@@ -5,9 +5,37 @@ description: ""
 variant: tiptap
 ---
 <h4>Outstanding Graduates from the Class of 2023</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Lutfil Hadi Bin Iskandar</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As the first JAE student to be our Junior College Students' Council President,
+Lutfil’s unwavering commitment to&nbsp;make a positive impact on the student
+body&nbsp;left an indelible mark on the school. A people-centric leader,
+he was proactive in creating opportunities for students to bond together
+and have those #whyrv moments. Lutfil became a driving force behind student
+initiatives and school events, shaping the student experience and enabling
+his peers to thrive together.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ng Qi Heng</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A valedictorian for the Class of 2023, Qi Heng took on leadership as the
+Vice President of&nbsp;the Science Leaders Academy, Infocomm Club, and
+Audio-Visual Club. Through his leadership roles, he not only facilitated
+knowledge-sharing but also inspired fellow students to delve deeper into
+these fields. His&nbsp;inventive thinking capabilities and passion for
+aerodynamics also shone when his self-initiated project on the redesign
+and optimisation of wings of autonomous planes was adopted&nbsp;for mentorship
+by engineers from the DSO National Laboratories and his project won awards
+in various competitions.&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Gan Xi Yee</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
