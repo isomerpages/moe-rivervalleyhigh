@@ -92,6 +92,19 @@ she managed truly set her apart as a compassionate and empathetic leader.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Chyann Cheah</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Chyann was a multifaceted leader and achiever whose talents span across
+various domains. As the Captain of the Floorball team, she consistently
+demonstrated leadership qualities by guiding her teammates and fostering
+team unity.&nbsp;Chyann’s&nbsp;passion extends to dance as she sought opportunities
+to participate in external dance competitions and even&nbsp;practised&nbsp;at
+dance studios outside of school in a bid to hone her craft. Her achievements
+in floorball and dance show her versatility and dedication to pursuing
+her passions.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
