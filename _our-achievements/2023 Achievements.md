@@ -105,9 +105,22 @@ her passions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Ganesh S</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>A role model and servant leader at heart, Ganesh finds joy in helping
+others and working towards the greater good. Having demonstrated exceptional
+leadership and community service, he was one of&nbsp;ten Primers to be
+conferred the Boys’ Brigade President’s Award in 2023 (you can read about
+it <a href="https://www.zaobao.com.sg/news/singapore/story20230726-1417828?fbclid=IwAR02qZQ5t7DHlUKPHpDhYrlyghQMof_vespbZgqYEN1Jv2c8-EM2QukelAw)" rel="noopener nofollow" target="_blank">here</a>.
+As the Council Chairman of the Boys' Brigade’s 50th Singapore Company,
+he advised his peers and helped them to become stronger leaders. Ganesh
+also had an immense love for football, having joined the Woodlands Lions
+Under-17s and qualifying for the Singapore Under-17 Centre of Excellence
+League through hard work and perseverance. In leading the school’s ‘A’
+Division Boys team, he oversaw the formation of the joint RV and NUS High’s
+football teams and conducted training sessions for the team.&nbsp;His ability
+to commit to both community service and football serves as an inspiration
+to all who know him.</p>
 </div>
 </details>
 </div>
