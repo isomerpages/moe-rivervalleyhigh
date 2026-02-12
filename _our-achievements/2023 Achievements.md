@@ -123,6 +123,26 @@ to commit to both community service and football serves as an inspiration
 to all who know him.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Jessie Wong</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>After Jessie graduated from her secondary school, she pursued banking
+and finance at a polytechnic in 2021. However, when she realised that she
+had a deep-seated passion for STEM subjects and problem-solving, she decided
+to switch to the A-Level route. Taking the JC route was no easy feat for
+Jessie as she could not recall some of the math and science concepts that
+she had studied in secondary school after spending a year in polytechnic.
+Things took a positive turn when Jessie’s dedicated subject tutors encouraged
+her and gave her additional help after learning about her academic concerns.
+This, coupled with supportive schoolmates who readily shared their knowledge
+and explained the concepts that she grappled with, allowed her to gradually
+find the academic rigour to be an enjoyable challenge. Jessie’s academic
+journey has been a remarkable one and her story is a testament to the power
+of determination and the extraordinary heights one can reach with sheer
+courage and grit. (You can watch the media interview with her <a href="https://www.8world.com/singapore/a-level-results-2382201" rel="noopener nofollow" target="_blank">here.</a> 
+</p>
+</div>
+</details>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
