@@ -67,6 +67,18 @@ advocate for a more sustainable future.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Chen Zhe Rui</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Zhe Rui’s avid interest in Mathematics and the Sciences is evident when
+he relished every opportunity to&nbsp;utilise his knowledge in real-world
+applications and participate in problem-solving. took the initiative to
+deepen his understanding of Computing and Modelling by reading widely.
+Under Zhe Rui’s leadership in the Mathematics Leaders Academy (MLA), he
+organised various activities to build&nbsp;a vibrant community of learners
+eager to explore the wonders of Mathematics.&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -381,5 +393,5 @@ Chen (23J14), were awarded the Ee Hoe Hean Book Prize</p>
 <br>
 </p>
 <p>
-<br>
+<br><strong>Chen Zhe Rui</strong>
 </p>
