@@ -4,6 +4,15 @@ permalink: /achievements/2023achievements/
 description: ""
 variant: tiptap
 ---
+<h4>Outstanding Graduates from the Class of 2023</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Lutfil Hadi Bin Iskandar</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
