@@ -35,7 +35,21 @@ in various competitions.&nbsp;&nbsp;</p>
 <details class="isomer-details">
 <summary>Gan Xi Yee</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As Vice President of Junior College Students' Council and an EXCO member
+of the school’s Bicultural Leaders Academy (BLA) and RV Chamber Singers,
+Xi Yee is a multi-faceted leader whose accomplishments earned her the Lee
+Kuan Yew Award for All-Round Excellence in 2022. Despite her busy schedule,
+she made time for her musical pursuits by&nbsp;performing in the Voices
+Festival Choir at the Esplanade with other avid choristers and the internationally
+renowned group, The King's Singers. She&nbsp;even participated in the National
+Schools Xinyao Singing and Songwriting Competition where she was awarded
+2nd&nbsp;place in the solo singing category (check out Zaobao’s interview
+with her here:&nbsp;<a href="https://www.zaobao.com.sg/lifestyle/gen/story20230410-1381398" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zaobao.com.sg/lifestyle/gen/story20230410-1381398</u></a>).&nbsp;Under
+the BLA, Xi Yee organised various seminars and fora on contemporary China
+for her peers to deepen their understanding of the global political climate.
+In recognition of her exemplary performance in both Chinese and English
+Language, she received the&nbsp;Ee Hoe Hean Chinese Book Prize Award in
+2022.&nbsp;</p>
 </div>
 </details>
 </div>
