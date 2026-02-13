@@ -131,6 +131,12 @@ as a production crew member for Chingay Parade Singapore 2024, allowing
 her to engage with various social groups beyond the school community. &nbsp;</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Geng Tong (23J08)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
