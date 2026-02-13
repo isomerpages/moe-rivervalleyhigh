@@ -229,7 +229,9 @@ action.</p>
 <details class="isomer-details">
 <summary>Chua Wen Zhe (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chua_Wen_Zhe.jpg">
+</div>
 <p>As President of Chinese Orchestra (CO), Wen Zhe was a talented Sheng player
 who made creative musical arrangements for CO. His musicianship was recognised
 by the Singapore National Youth Chinese Orchestra which gave him the opportunity
@@ -244,6 +246,12 @@ urban planning. His love for the humanities translated into a desire to
 mentor his junior academy members to cultivate intellectual curiosity and
 humanist ideals via the academy's School-wide "HSSLA Now!" programme which
 seeks to spark a deeper interest in Humanities among students.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
@@ -1087,6 +1095,5 @@ in New Yang Style Taijiquan.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
