@@ -182,7 +182,9 @@ diverse cultural perspectives.</p>
 <details class="isomer-details">
 <summary>Chen Qingyuan (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chen_Qingyuan.jpg">
+</div>
 <p>Qingyuan demonstrated leadership as President of the Mathematics Leaders
 Academy (MLA) and co-founder of the school’s Informatics Olympiad team,
 mentoring juniors and fostering a love for learning. As Director of the
