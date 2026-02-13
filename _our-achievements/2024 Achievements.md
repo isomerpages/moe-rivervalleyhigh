@@ -4,7 +4,7 @@ permalink: /achievements/2024achievements/
 variant: tiptap
 description: ""
 ---
-<h4>Outstanding Graduates from the Class of 2023<br></h4>
+<h4>Outstanding Graduates from the Class of 2024<br></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Chan Xing Yu James (23J13)</summary>
