@@ -77,8 +77,11 @@ pursuit of excellence.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Koh Le Bon (23J09)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
