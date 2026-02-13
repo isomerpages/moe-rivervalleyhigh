@@ -226,6 +226,26 @@ she has made a meaningful impact in raising environmental awareness and
 action.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Chua Wen Zhe (23J20)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>As President of Chinese Orchestra (CO), Wen Zhe was a talented Sheng player
+who made creative musical arrangements for CO. His musicianship was recognised
+by the Singapore National Youth Chinese Orchestra which gave him the opportunity
+to grow his experience through four overseas concerts and exchanges in
+Malaysia, as well as local concerts. A member of the Humanities and Social
+Sciences Leaders Academy (HSSLA), Wen Zhe had a deep passion for Geography,
+as seen from his participation in an urban planning competition, “Challenge
+for the Urban and Built Environment”. His team’s redevelopment proposal
+and design scheme for Jurong Hill and Bird Park earned them a Certificate
+of Merit, showcasing his ability to apply classroom knowledge to real-world
+urban planning. His love for the humanities translated into a desire to
+mentor his junior academy members to cultivate intellectual curiosity and
+humanist ideals via the academy's School-wide "HSSLA Now!" programme which
+seeks to spark a deeper interest in Humanities among students.</p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
