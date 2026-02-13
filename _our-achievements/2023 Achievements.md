@@ -145,6 +145,7 @@ courage and grit. (You can watch the media interview with her <a href="https://w
 </details>
 </div>
 <p></p>
+<h4>Academic and Co-Curricular Awards</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -153,10 +154,12 @@ courage and grit. (You can watch the media interview with her <a href="https://w
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Name of Competition / Event</h4>
+<p>Name of Competition / Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Achievement / Name of Recipient <br></h4>
+<p>Achievement / Name of Recipient
+<br>
+</p>
 </td>
 </tr>
 <tr>
