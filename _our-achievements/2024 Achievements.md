@@ -259,9 +259,9 @@ methods, inspired in his juniors a passion for Scouting, and motivated
 them to strive for the President’s Scout Award. His involvement in national
 Scouting events helped spread enthusiasm for outdoor activities. He transformed
 a Values-in-Action (VIA) project, undertaken by his Venture Scouts peers,
-into his Venture service project, benefiting seniors in the community (
+into his Venture service project, benefiting seniors in the community
 <a href="https://www.zaobao.com.sg/news/singapore/story20241202-5450170" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zaobao.com.sg/news/singapore/story20241202-5450170</u>
-</a>). Despite his numerous commitments, including History and Current Affairs
+</a>. Despite his numerous commitments, including History and Current Affairs
 Society (HACAS) and RV Model United Nations (RVMUN) responsibilities, scout
 assessments, chairperson duties, and academic pursuits, Chuanyu successfully
 balanced these with his preparation for the President’s Scout Award, which
