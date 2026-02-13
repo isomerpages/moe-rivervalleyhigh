@@ -183,6 +183,27 @@ diverse cultural perspectives.</p>
 <summary>Chen Qingyuan (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Qingyuan demonstrated leadership as President of the Mathematics Leaders
+Academy (MLA) and co-founder of the school’s Informatics Olympiad team,
+mentoring juniors and fostering a love for learning. As Director of the
+inaugural RVHS Science, Technology, Engineering and Mathematics (STEM)
+Festival, he promoted STEM education among primary students. His proficiency
+in foreign languages, natural sciences, mathematics, and computational
+modelling has earned him several accolades, including an opportunity to
+represent Singapore at the International Science School held at the University
+of Sydney. From this overseas attachment, he gained valuable insights which
+he applied to the planning of MLA’s Overseas Experiential Learning Programme,
+Sydney (Australia). His passion for STEM is evident in his commitment to
+tackling global issues. His innovative proposal to improve seawater desalination
+efficiency, addressing the critical issue of water scarcity, earned him
+a Gold award at the Singapore Science and Engineering Fair 2024. Seeking
+real-world experiences, Qingyuan worked at Defence Science and Technology
+Agency (DSTA) and volunteered for the Youth STEM Empowerment Programme.
+His service in these areas reflects his belief in giving back to the community
+by sharing his acquired knowledge.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 </div>
@@ -1030,9 +1051,4 @@ in New Yang Style Taijiquan.</p>
 </table>
 <p>
 <br>
-<br>
-<br>
-<br>
 </p>
-<p></p>
-<p></p>
