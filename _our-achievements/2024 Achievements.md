@@ -135,6 +135,29 @@ her to engage with various social groups beyond the school community. &nbsp;</p>
 <summary>Geng Tong (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Geng_Tong.jpg">
+</div>
+<p>Geng Tong is a dedicated community leader, serving as team leader of the
+Boon Lay Youth PAP and secretary of the Boon Lay Resident Network for Zone
+D in 2023 to strengthen community engagement. She collaborated with six
+disability organisations, helped at weekly Meet-The-People Sessions, and
+participated in community initiatives by facilitating engagement with the
+residents. Her dedication to service was also evident in school where she
+curated cultural events, including the annual China Studies Perspective
+Forum in partnership with Business China, in her capacity as EXCO member
+of the Bicultural Leaders Academy (BLA). Geng Tong led her team to clinch
+the championship at the Hwa Chong China Studies in Chinese Forum 2023 and
+was named Best Speaker in the Singapore Chinese Debate Invitational 2023,
+where her team secured the national 1st runner-up position. She is also
+passionate about the creative arts – her short film, co-produced with a
+classmate, explored the theme of “World Around Me” at a student visual
+storytelling competition in 2024, securing the second-place position in
+its category.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
@@ -984,4 +1007,5 @@ in New Yang Style Taijiquan.</p>
 <br>
 <br>
 </p>
+<p></p>
 <p></p>
