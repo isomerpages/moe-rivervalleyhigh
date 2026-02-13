@@ -649,8 +649,7 @@ for recycling companies to do further processing.</p>
 <p><strong><u>Secondary Schools Category</u></strong>
 <br><strong>3rd Prize (Team)</strong>
 <br>Hoo Rui Ting (2B)
-<br>Emmaus Wong Rui (2B)</p>
-<p>
+<br>Emmaus Wong Rui (2B)
 <br><strong>3 Merit Awards (Team)</strong>
 <br>Luan Jiahui (2C)
 <br>Tan Yu Xuan Jenell (2C)
@@ -674,38 +673,36 @@ for recycling companies to do further processing.</p>
 <br>Avril Teow Si Qi (4E)
 <br>Cheng Shi Teng (4E)
 <br>Low Xin En Eliora (4E)
-<br>Lin Rui'En (4H)</p>
-<p><strong>2 Silver Awards</strong>
+<br>Lin Rui'En (4H)
+<br><strong>2 Silver Awards</strong>
 <br>Koh Wie Millie (4E)
-<br>Gu Jiale (4G)</p>
-<p><strong>2 Bronze Awards</strong>
+<br>Gu Jiale (4G)
+<br><strong>2 Bronze Awards</strong>
 <br>Zhao Jiayi Felicity (4E)
 <br>Chua Yu Jun, Lucas (4E)
-<br>
-</p>
-<p><strong>1 Honourable Mention Award</strong>
-<br>Lew Rui Ling (4E)</p>
-<p><strong>2 Merit Awards</strong>
+<br><strong>1 Honourable Mention Award</strong>
+<br>Lew Rui Ling (4E)
+<br><strong>2 Merit Awards</strong>
 <br>Lim Jia Jing Bernice (4E)
-<br>Zhang Jingxuan (4G)</p>
-<p><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
+<br>Zhang Jingxuan (4G)
+<br><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
 <br><strong>3 Gold Awards</strong>
 <br>Wai Rui Enn (23J02)
 <br>Chiew Pui See Sarah (23J04)
-<br>Lim Qian Hui (23J05)</p>
-<p><strong>5 Silver Awards</strong>
+<br>Lim Qian Hui (23J05)
+<br><strong>5 Silver Awards</strong>
 <br>Li Hanyu (23J02)
 <br>Tam Jing Yi Joanne (23J02)
 <br>Leo Kit Yee (23J03)
 <br>Hong Shi Ting, Geraldine (23J03)
-<br>Pour Zhi Lin (23J05)</p>
-<p><strong>6 Bronze Awards</strong>
+<br>Pour Zhi Lin (23J05)
+<br><strong>6 Bronze Awards</strong>
 <br>Low Zi Ting (23J02)
 <br>Lim Yi Fan (23J05)
 <br>Ng Jia Ying (23J05)
 <br>Pua Jia Yee (23J05)
-<br>Ang Yi En Jerlene (23J05)</p>
-<p><strong>3 Honourable Mention Awards</strong>
+<br>Ang Yi En Jerlene (23J05)
+<br><strong>3 Honourable Mention Awards</strong>
 <br>Chan Wen Hsin (23J03)
 <br>Melanie Tan Qiao Enn (23J05)
 <br>Wong Shao Qin (23J12)</p>
@@ -740,9 +737,8 @@ of Medicine)</p>
 <br>NCC Boys
 <br>NCC Girls
 <br>NPCC Boys
-<br>NPCC Girls</p>
-<p></p>
-<p><strong>Puan Noor Aishah Award – Gold</strong>
+<br>NPCC Girls
+<br><strong>Puan Noor Aishah Award – Gold</strong>
 <br>Girl Guides</p>
 </td>
 </tr>
@@ -901,8 +897,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
-<br>Chen Qingyuan (23J10)</p>
-<p><strong>Silver Award</strong>
+<br>Chen Qingyuan (23J10)
+<br><strong>Silver Award</strong>
 <br>Goh Rou Hui Ashley (23J17)
 <br>
 </p>
@@ -925,8 +921,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br><strong>2 Bronze Awards (Team)</strong>
 <br>Ng Shi Qing Eugenia (23J17)
 <br>Chan Si Yu, David (23J13)
-<br>Chan Xing Yu, James (23J13)</p>
-<p><strong>2 Merit Awards (Team)</strong>
+<br>Chan Xing Yu, James (23J13)
+<br><strong>2 Merit Awards (Team)</strong>
 <br>Joslyn Yap Qian Ting (24J08)
 <br>Chong Chee Wen (24J10)
 <br>Valerie Chia Boon Hwan (24J10)
@@ -950,8 +946,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p><strong>Category A: Junior College Commendation Award (Team)</strong>
 <br>Fabius Tan Choon Keong (23J09)
 <br>Lim Yu Yang (23J10)
-<br>Nicholas Ng Yi Jie (23J17)</p>
-<p><strong>Category B: Secondary School Bronze Award (Team)</strong>
+<br>Nicholas Ng Yi Jie (23J17)
+<br><strong>Category B: Secondary School Bronze Award (Team)</strong>
 <br>Li Xin Hui (4E)
 <br>Lucius Oo (4E)
 <br>Lew Rui Ling (4E)</p>
@@ -963,8 +959,7 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Starter Category (for Secondary Schools)</strong>
-</p>
-<p><strong>Distinction Award (Team)</strong>
+<br><strong>Distinction Award (Team)</strong>
 <br>Chin Xiao Rou (24J08)
 <br>Tan Zi Jun (24J11)
 <br>Ching Yuhui, Natalie (24J13)
@@ -973,8 +968,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br>Li Xin Hui (4E)
 <br>Lin Yushan (4E)
 <br>Lew Rui Ling (4E)
-<br>Lim Jia Jing Bernice (4E)</p>
-<p><strong>Best Mentor Award</strong>
+<br>Lim Jia Jing Bernice (4E)
+<br><strong>Best Mentor Award</strong>
 <br>Ms Khiu Yi Wen
 <br>Ms Lau Shi Yun</p>
 </td>
@@ -989,8 +984,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br>Foo Chuan Yuan (23J17)
 <br>Mah Kian Siong Jerald&nbsp;(23J17)
 <br>Tan Ik Kai Ayden (23J17)
-<br>Tan Yi Jun (23J17)</p>
-<p><strong>3rd</strong>
+<br>Tan Yi Jun (23J17)
+<br><strong>3rd</strong>
 <br>Lin Lejing, Fanny&nbsp;(23J13)
 <br>Ong Yi Qian&nbsp;(23J13)
 <br>Ng Shi Qing, Eugenia (23J17)
