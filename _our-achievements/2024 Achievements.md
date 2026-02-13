@@ -108,9 +108,6 @@ journey culminated in his nomination as the school's valedictorian, a testament
 to his all-round achievements and the impact he has made on his school
 community. His story is truly inspiring, demonstrating how the application
 of adaptability and resilience helped him overcome all odds.</p>
-<p></p>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
