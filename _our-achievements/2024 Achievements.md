@@ -154,9 +154,11 @@ passionate about the creative arts – her short film, co-produced with a
 classmate, explored the theme of “World Around Me” at a student visual
 storytelling competition in 2024, securing the second-place position in
 its category.</p>
-<p></p>
-<p></p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
