@@ -292,8 +292,7 @@ to all.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
+<h4>Academic and Co-Curricular Awards</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
