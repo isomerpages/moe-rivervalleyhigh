@@ -251,7 +251,9 @@ seeks to spark a deeper interest in Humanities among students.</p>
 <details class="isomer-details">
 <summary>Lin Chuanyu (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
+</div>
 <p>As President of Venture Scouts, Chuanyu developed innovative training
 methods, inspired in his juniors a passion for Scouting, and motivated
 them to strive for the President’s Scout Award. His involvement in national
