@@ -1,5 +1,5 @@
 ---
-title: CIDC Programme
+title: CID Programme
 permalink: /our-curriculum/cid/
 description: ""
 third_nav_title: Signature Programmes
@@ -10,10 +10,12 @@ variant: tiptap
 flagship programmes of the RVIP Curriculum. It seeks to nurture a learning
 community of future-ready value creators by (1) promoting active and independent
 learning, (2) developing students’ cognitive interest and (3) developing
-their interdisciplinary competencies. The programme focuses on 21st Century
-Competencies, thinking skills and problem-solving skills, culminating in
-the integration of knowledge, skills and interests through various modes
-of inquiry in the final year (CID 4) of the programme.</p>
+their interdisciplinary competencies.
+<br>
+<br>The programme focuses on 21st Century Competencies, thinking skills and
+problem-solving skills, culminating in the integration of knowledge, skills
+and interests through various modes of inquiry in the final year (CID 4)
+of the programme.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
