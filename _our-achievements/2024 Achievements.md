@@ -445,9 +445,8 @@ Category)</p>
 <td rowspan="1" colspan="1">
 <p><strong>再生新闻-金奖</strong>
 <br>郑涵尹&nbsp;Tang Han Yin (3C)
-<br>顾楷昕&nbsp;Gu Kaixin (3C)</p>
-<p></p>
-<p><strong>再生新闻-鼓励奖</strong>
+<br>顾楷昕&nbsp;Gu Kaixin (3C)
+<br><strong>再生新闻-鼓励奖</strong>
 <br>林凯欣&nbsp;Lim Kai Xin (3A)
 <br>王嘉怡&nbsp;Wang Jiayi (3H)</p>
 </td>
@@ -460,8 +459,8 @@ Category)</p>
 <p><strong>Singing (group category) – 3rd place:</strong>
 <br>Alicia Kok Yun Ting
 <br>Khoo Xuan Mun
-<br>Mr Liu Gongkai</p>
-<p>&nbsp;<strong>Lyrics Writing Category – Merit Award</strong>
+<br>Mr Liu Gongkai
+<br><strong>Lyrics Writing Category – Merit Award</strong>
 <br>Guo Jingyou
 <br>Li Anqi
 <br>Shi Diwen</p>
@@ -526,8 +525,8 @@ Explore Track</p>
 <br>Ang Ian (4G)
 <br>Zhang Jingxuan (4G)
 <br>Gabriel Lim Zhexi (4G)
-<br>Loh Ying Jie, Ryo (4G)</p>
-<p><strong>Junior College</strong>
+<br>Loh Ying Jie, Ryo (4G)
+<br><strong>Junior College</strong>
 <br>Ng Zhi Xi (23J03)
 <br>Jiang Yuhan (23J03)</p>
 </td>
@@ -571,8 +570,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <br>Christine Chuah Hui Qi (24J05)
 <br>Chong Qing Ya (23J01)
 <br>Eaindra Khin (23J04)
-<br>Ng Jia Ying (23J05)</p>
-<p><strong>2 Bronze Awards (Team)</strong>
+<br>Ng Jia Ying (23J05)
+<br><strong>2 Bronze Awards (Team)</strong>
 <br>Chua Wan Zhen Kevina (24J02)
 <br>Kong Teck Nyin (24J10)
 <br>Chua Chin Tat (24J16)
@@ -599,8 +598,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <p><strong>3 Silver Medals</strong>
 <br>Zhang Hengwei (4C)
 <br>Chen Qingyuan (23J10)
-<br>Chua Zhong Ding (23J17)</p>
-<p><strong>5 Bronze Medals</strong>
+<br>Chua Zhong Ding (23J17)
+<br><strong>5 Bronze Medals</strong>
 <br>Megan Miranda Khoo (4C)
 <br>Zhu Ziyan (23J11)
 <br>Shi Yu Xiang (23J17)
