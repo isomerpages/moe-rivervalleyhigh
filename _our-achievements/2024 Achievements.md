@@ -272,7 +272,9 @@ exemplifies the qualities of a well-rounded and dedicated leader.</p>
 <details class="isomer-details">
 <summary>Lim Jing Xiang Jovan (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lim_Jing_Xiang_Jovan.jpg">
+</div>
 <p>Jovan demonstrated exceptional resilience in his academic journey as he
 sought to overcome his learning challenges. He proactively developed and
 diligently practiced reading and visualisation strategies to enhance his
@@ -1129,5 +1131,6 @@ in New Yang Style Taijiquan.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
