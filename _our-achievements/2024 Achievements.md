@@ -322,11 +322,10 @@ to all.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National 1st</strong>
-<br>Wushu – B Division Boys</p>
-<p>
+<br>Wushu – B Division Boys
 <br><strong>National 2nd</strong>
-<br>Floorball – A Division Girls</p>
-<p>&nbsp;<strong>National 3rd</strong>
+<br>Floorball – A Division Girls
+<br><strong>National 3rd</strong>
 <br>Softball – A Division Boys &amp; Girls
 <br>Wushu – A Division Boys &amp; Girls
 <br><strong>National 4th</strong>
@@ -341,9 +340,8 @@ to all.</p>
 Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 RV student athletes are awarded the scholarship this year.&nbsp;</p>
-<p></p>
-<p><strong>High Performance (U18)</strong>
+<p>5 RV student athletes are awarded the scholarship this year.&nbsp;
+<br><strong>High Performance (U18)</strong>
 <br>Lim Yi Fan 23J05 (Softball)
 <br>Verity Claire Neo Jia En 23J06 (Softball)
 <br>Cholene Aw Rui En 3I (Wushu)</p>
