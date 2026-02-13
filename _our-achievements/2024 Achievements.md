@@ -203,10 +203,11 @@ real-world experiences, Qingyuan worked at Defence Science and Technology
 Agency (DSTA) and volunteered for the Youth STEM Empowerment Programme.
 His service in these areas reflects his belief in giving back to the community
 by sharing his acquired knowledge.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
