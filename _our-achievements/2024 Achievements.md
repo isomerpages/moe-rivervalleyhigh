@@ -11,7 +11,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J13_08_4R.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J13_08_4R.jpg">
 </div>
 <p>James is a promising young scientist who has a strong passion for Science,
 Technology, Engineering, and Mathematics (STEM). This can be seen from
@@ -50,9 +50,8 @@ desire to make a positive impact on the world through STEM.</p>
 <details class="isomer-details">
 <summary>Chan Si Yu David (23J13)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
 </div>
 <p></p>
 <p>David demonstrates an exceptional aptitude for technology, evident in
@@ -80,7 +79,7 @@ pursuit of excellence.</p>
 <summary>Koh Le Bon (23J09)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J09_19_4R.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J09_19_4R.jpg">
 </div>
 <p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
 of dedication, skill, and discipline. His stellar performance earned him
