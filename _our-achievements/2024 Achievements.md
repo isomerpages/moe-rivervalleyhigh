@@ -157,10 +157,11 @@ its category.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Joshua Tan Seng Hong (23J01)</strong>
-</summary>
+<summary>Joshua Tan Seng Hong (23J01)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Joshua_Tan_Seng_Hong.jpg">
+</div>
 <p>As President of the Bicultural Leaders Academy (BLA), Joshua demonstrated
 a strong commitment to promoting Chinese language and culture by spearheading
 innovative initiatives. These included a hands-on Pineapple Tart Workshop,
