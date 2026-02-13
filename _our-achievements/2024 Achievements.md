@@ -9,6 +9,10 @@ description: ""
 <details class="isomer-details">
 <summary>Chan Xing Yu James (23J13)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J13_08_4R.jpg">
+</div>
 <p>James is a promising young scientist who has a strong passion for Science,
 Technology, Engineering, and Mathematics (STEM). This can be seen from
 his active involvement in various workshops and enrichment programmes,
