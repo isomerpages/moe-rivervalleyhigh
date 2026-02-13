@@ -113,7 +113,9 @@ of adaptability and resilience helped him overcome all odds.</p>
 <details class="isomer-details">
 <summary>Wong Yu Xin (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Wong_Yu_Xin.jpg">
+</div>
 <p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
 Council, she has demonstrated exceptional leadership skills. She helmed
 numerous school events successfully, including serving as Chairperson of
@@ -976,3 +978,4 @@ in New Yang Style Taijiquan.</p>
 <br>
 <br>
 </p>
+<p></p>
