@@ -110,6 +110,25 @@ community. His story is truly inspiring, demonstrating how the application
 of adaptability and resilience helped him overcome all odds.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Wong Yu Xin (23J10)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
+Council, she has demonstrated exceptional leadership skills. She helmed
+numerous school events successfully, including serving as Chairperson of
+Boon Lay Countdown 2024 and Programme Committee Head for the Y.LEAD seminar.
+&nbsp;At the core of Yu Xin's leadership approach is a strong belief in
+people-centricity and compassion. She is empathetic towards her peers and
+has a keen understanding of their strengths. Her confidence and willingness
+to voice her convictions, even in challenging situations, have made her
+a dependable and inspiring role model. Despite her heavy school commitments,
+she found time to assist children of diverse backgrounds and needs in their
+studies every week under the Budding Minds Programme. She also volunteered
+as a production crew member for Chingay Parade Singapore 2024, allowing
+her to engage with various social groups beyond the school community. &nbsp;</p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
