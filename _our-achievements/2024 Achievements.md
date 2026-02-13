@@ -179,6 +179,14 @@ His enthusiasm illustrates the rewards that come from embracing and synthesising
 diverse cultural perspectives.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Chen Qingyuan (23J10)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
