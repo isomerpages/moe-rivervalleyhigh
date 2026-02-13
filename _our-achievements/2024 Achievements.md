@@ -344,13 +344,11 @@ Category)</p>
 <br><strong>High Performance (U18)</strong>
 <br>Lim Yi Fan 23J05 (Softball)
 <br>Verity Claire Neo Jia En 23J06 (Softball)
-<br>Cholene Aw Rui En 3I (Wushu)</p>
-<p><strong>Tertiary</strong>
-<br>Lee Si Lin 23J12 (Softball)</p>
-<p><strong>Secondary</strong>
-<br>Jaedon Chua Hao Cheng 2D (Table Tennis)
-<br>
-</p>
+<br>Cholene Aw Rui En 3I (Wushu)
+<br><strong>Tertiary</strong>
+<br>Lee Si Lin 23J12 (Softball)
+<br><strong>Secondary</strong>
+<br>Jaedon Chua Hao Cheng 2D (Table Tennis)</p>
 </td>
 </tr>
 <tr>
@@ -363,8 +361,8 @@ Category)</p>
 <p><strong>优胜奖（团体）</strong>
 <br>王新懿&nbsp;Wang Xinyi (4G)
 <br>童钰轩&nbsp;Tong Yuxuan (4G)
-<br>朱婧萱&nbsp;Zhu Jingxuan (4G)</p>
-<p><strong>个人优异奖</strong>
+<br>朱婧萱&nbsp;Zhu Jingxuan (4G)
+<br><strong>个人优异奖</strong>
 <br>卢欣&nbsp;Lu Xin (3H)</p>
 </td>
 </tr>
@@ -375,8 +373,7 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>银奖Silver</strong>
-<br>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
-<p><strong><br>优异奖Excellent</strong>
+<br>张丞纬&nbsp;Teo Cheng Wei (2B)<strong><br>优异奖Excellent</strong>
 <br>卢欣&nbsp;Lu Xin (3H)
 <br>林嘉雨&nbsp;Lin Jia Yu (4E)</p>
 </td>
@@ -402,12 +399,12 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>特优奖</strong>
-<br>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
-<p><strong>优秀奖</strong>
-<br>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
-<p><strong>佳作奖</strong>
-<br>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
-<p>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
+<br>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)
+<br><strong>优秀奖</strong>
+<br>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)
+<br><strong>佳作奖</strong>
+<br>胡文玮&nbsp;Oh Wen Wee (23J04)
+<br>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
 </td>
 </tr>
 <tr>
