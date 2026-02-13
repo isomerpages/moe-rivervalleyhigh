@@ -113,7 +113,7 @@ of adaptability and resilience helped him overcome all odds.</p>
 <summary>Wong Yu Xin (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Wong_Yu_Xin.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Wong_Yu_Xin.jpg">
 </div>
 <p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
 Council, she has demonstrated exceptional leadership skills. She helmed
@@ -135,7 +135,7 @@ her to engage with various social groups beyond the school community. &nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Geng_Tong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Geng_Tong.jpg">
 </div>
 <p>Geng Tong is a dedicated community leader, serving as team leader of the
 Boon Lay Youth PAP and secretary of the Boon Lay Resident Network for Zone
@@ -159,7 +159,7 @@ its category.</p>
 <summary>Joshua Tan Seng Hong (23J01)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Joshua_Tan_Seng_Hong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Joshua_Tan_Seng_Hong.jpg">
 </div>
 <p>As President of the Bicultural Leaders Academy (BLA), Joshua demonstrated
 a strong commitment to promoting Chinese language and culture by spearheading
@@ -182,7 +182,7 @@ diverse cultural perspectives.</p>
 <summary>Chen Qingyuan (23J10)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chen_Qingyuan.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chen_Qingyuan.jpg">
 </div>
 <p>Qingyuan demonstrated leadership as President of the Mathematics Leaders
 Academy (MLA) and co-founder of the school’s Informatics Olympiad team,
@@ -208,7 +208,7 @@ by sharing his acquired knowledge.</p>
 <summary>Rajvi Rajesh Sapre (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Rajvi_Rajesh_Sapre.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Rajvi_Rajesh_Sapre.jpg">
 </div>
 <p>As Vice-President of The Eco-Sustainability Leadership Academy (TESLA),
 Rajvi played a key role in advancing environmental sustainability initiatives.
@@ -229,7 +229,7 @@ action.</p>
 <summary>Chua Wen Zhe (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chua_Wen_Zhe.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chua_Wen_Zhe.jpg">
 </div>
 <p>As President of Chinese Orchestra (CO), Wen Zhe was a talented Sheng player
 who made creative musical arrangements for CO. His musicianship was recognised
@@ -251,7 +251,7 @@ seeks to spark a deeper interest in Humanities among students.</p>
 <summary>Lin Chuanyu (23J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
 </div>
 <p>As President of Venture Scouts, Chuanyu developed innovative training
 methods, inspired in his juniors a passion for Scouting, and motivated
@@ -272,7 +272,7 @@ exemplifies the qualities of a well-rounded and dedicated leader.</p>
 <summary>Lim Jing Xiang Jovan (23J20)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lim_Jing_Xiang_Jovan.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lim_Jing_Xiang_Jovan.jpg">
 </div>
 <p>Jovan demonstrated exceptional resilience in his academic journey as he
 sought to overcome his learning challenges. He proactively developed and
