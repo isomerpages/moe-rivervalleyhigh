@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Information regarding  the Collection of A-level results
           description: Click here
-          url: ""
+          url: /information-regarding-the-collection-of-a-level-results/
         - title: Sexuality Education (Secondary) Overview
           description: Click here
           url: /rvhs-2026-info-on-sed-for-school/
