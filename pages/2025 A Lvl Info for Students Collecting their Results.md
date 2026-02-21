@@ -10,10 +10,10 @@ description: ""
 school hall to celebrate your efforts as a cohort.</p>
 <p>Here are some documents for you to take note of:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press release from the Ministry of Education
-(MOE)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="2__CP_User_Guide___School_Candidates" rel="noopener nofollow" target="_blank">Guide on using the Candidates Portal </a>to
-access your results if you are unable to join us in school</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authorization Letter for a third party
+(MOE)
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="2__CP_User_Guide___School_Candidates" rel="noopener nofollow" target="_blank">Guide on using the Candidates Portal </a>to
+access your results if you are unable to join us in school
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authorization Letter for a third party
 to help you collect your results, where applicable</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A deck of slides from MOE with some useful
 advice on planning for your future and the lead-up to getting your results,
