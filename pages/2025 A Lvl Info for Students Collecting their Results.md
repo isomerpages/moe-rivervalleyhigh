@@ -13,7 +13,7 @@ school hall to celebrate your efforts as a cohort.</p>
 <p>Here are some documents for you to take note of:
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press release from the Ministry of Education
 (MOE)
-<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="2__CP_User_Guide___School_Candidates" rel="noopener nofollow" target="_blank">Guide on using the Candidates Portal </a>to
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/2__CP_User_Guide___School_Candidates.pdf" rel="noopener nofollow" target="_blank">Guide on using the Candidates Portal </a>to
 access your results if you are unable to join us in school
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="3__Authorisation_Letter___A_Level" rel="noopener nofollow" target="_blank">Authorization Letter for a third party</a> to
 help you collect your results, where applicable
