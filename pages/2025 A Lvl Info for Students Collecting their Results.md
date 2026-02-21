@@ -19,8 +19,8 @@ access your results if you are unable to join us in school
 help you collect your results, where applicable
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A deck of slides from MOE with some useful
 advice on planning for your future and the lead-up to getting your results,
-and immediately afterwards</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A poster from MOE with useful advice
+and immediately afterwards
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A poster from MOE with useful advice
 on how to support your friends during the results release</p>
 <p>RV will continue to support you as you begin your post-JC education journey.
 You may check the ECG website (<a href="https://go.gov.sg/ecgrvhs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgrvhs</a>) or get
