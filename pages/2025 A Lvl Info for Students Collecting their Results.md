@@ -13,8 +13,8 @@ school hall to celebrate your efforts as a cohort.</p>
 (MOE)
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="2__CP_User_Guide___School_Candidates" rel="noopener nofollow" target="_blank">Guide on using the Candidates Portal </a>to
 access your results if you are unable to join us in school
-<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authorization Letter for a third party
-to help you collect your results, where applicable</p>
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="3__Authorisation_Letter___A_Level" rel="noopener nofollow" target="_blank">Authorization Letter for a third party</a> to
+help you collect your results, where applicable</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A deck of slides from MOE with some useful
 advice on planning for your future and the lead-up to getting your results,
 and immediately afterwards</p>
