@@ -12,15 +12,15 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
+        - title: Information for the Collection of the A Lvl Results
+          description: Click here
+          url: ""
         - title: Sexuality Education (Secondary) Overview
           description: Click here
           url: /rvhs-2026-info-on-sed-for-school/
         - title: Sexuality Education (JC) Overview
           description: Click here
           url: /information/moe-sexuality-education-in-schools-jc/
-        - title: Information for the Collection of A Lvl Results
-          description: Click here
-          url: ""
   - infobar:
       title: Our RV Story
       id: infobar
