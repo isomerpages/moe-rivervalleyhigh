@@ -12,7 +12,7 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Information for the Collection of the A Lvl Results
+        - title: Collection of A-level results information
           description: Click here
           url: ""
         - title: Sexuality Education (Secondary) Overview
