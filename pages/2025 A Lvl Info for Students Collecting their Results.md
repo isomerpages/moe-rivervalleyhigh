@@ -20,8 +20,8 @@ help you collect your results, where applicable
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A <a href="4__2025_A_Level_Results_Release_Briefing_Slides_for_Students" rel="noopener nofollow" target="_blank">deck of slides from MOE</a> with
 some useful advice on planning for your future and the lead-up to getting
 your results, and immediately afterwards
-<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A poster from MOE with useful advice
-on how to support your friends during the results release</p>
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A <a href="5__2025_A_Level_Student_Collateral" rel="noopener nofollow" target="_blank">poster from MOE</a> with useful
+advice on how to support your friends during the results release</p>
 <p>RV will continue to support you as you begin your post-JC education journey.
 You may check the ECG website (<a href="https://go.gov.sg/ecgrvhs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgrvhs</a>) or get
 in touch with us directly to find out how we can support you.</p>
