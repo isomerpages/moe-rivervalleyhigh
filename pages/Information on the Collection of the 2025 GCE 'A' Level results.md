@@ -28,10 +28,6 @@ in touch with us directly to find out how we can support you.</p>
 <p>Other information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>J3 students returning to RVHS are to dress appropriately, no slippers
-are allowed.</p>
-</li>
-<li>
 <p><strong><u>Before 1 pm</u></strong>, any J3 students and their parents
 coming to RVHS, are required to register as visitor at the Guard post to
 obtain a visitor’s sticker.
