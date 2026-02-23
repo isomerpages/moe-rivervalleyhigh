@@ -12,7 +12,7 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Information about the Collection of A level results
+        - title: Information about the Collection of GCE 'A' level results
           description: Click here
           url: /information-regarding-the-collection-of-a-level-results/
         - title: Sexuality Education (Secondary) Overview
