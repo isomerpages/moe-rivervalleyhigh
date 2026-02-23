@@ -12,5 +12,5 @@ information on the release of the 2025 GCE 'A' Level results and find
 steps.</p>
 <p>Parents can accompany their child back to school. Due to limited car parking
 spaces, parking within the school compound is on a first-come-first served
-basis. Once the carpark is full, our Security staff will direct parents
+basis. Once the carpark is full, our security staff will direct parents
 to park at the nearest HDB carpark located opposite the school.</p>
