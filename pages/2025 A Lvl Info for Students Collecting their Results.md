@@ -44,4 +44,6 @@ crossing ). No registration will be required.
 </li>
 </ul>
 <p>We hope you are all doing well and are excited by the prospect of receiving
-your results on Friday, 27 February! See you soon!</p>
+your results on Friday, 27 February! See you soon!
+<br>
+</p>
