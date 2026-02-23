@@ -15,7 +15,7 @@ school hall to celebrate your efforts as a cohort.</p>
 the Ministry of Education (MOE)
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/2__CP_User_Guide___School_Candidates.pdf" rel="noopener nofollow" target="_blank">Guide on using the Candidates Portal </a>to
 access your results if you are unable to join us in school
-<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/3__Authorisation_Letter___A_Level.pdf" rel="noopener nofollow" target="_blank">Authorization Letter for a third party</a> to
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Authrorisation_to_collect_result_slip.pdf" rel="noopener nofollow" target="_blank">Authorisation Letter for a third party</a> to
 help you collect your results, where applicable
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/4__2025_A_Level_Results_Release_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">A deck of slides from MOE </a>with
 some useful advice on planning for your future and the lead-up to getting
