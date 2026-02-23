@@ -4,6 +4,294 @@ permalink: /achievements/2024achievements/
 variant: tiptap
 description: ""
 ---
+<h4>Outstanding Graduates from the Class of 2024<br></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chan Xing Yu James (23J13)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J13_08_4R.jpg">
+</div>
+<p>James is a promising young scientist who has a strong passion for Science,
+Technology, Engineering, and Mathematics (STEM). This can be seen from
+his active involvement in various workshops and enrichment programmes,
+including the Young Defence Scientists Programme (YDSP) World of Science
+modules in Computer Security and Quantum Technologies, YDSP Enrichment
+Workshops, and the SWIFT Accelerator Programme. As the President of the
+school’s Science Leaders Academy (SLA), James was committed to promoting
+STEM education when planning the inaugural RV STEM Festival 2024 and fostering
+strong bonds within the academy. A pivotal moment in James's journey was
+his YDSP experience at the DSO National Laboratories. Here, he researched
+on artificial intelligence, chatbots, and the security of large language
+models. This project was particularly significant as it allowed James and
+his twin brother, David, to explore uncharted territory in research. They
+traversed the entire research cycle, from hypothesis formulation to data
+analysis and conclusion drawing, gaining invaluable insights into the differences
+between practical skills and research methodologies. His strong interest
+in cybersecurity is evident from his role as Vice President of the school’s
+Capture-The-Flag (CTF), where he planned training sessions and achieved
+impressive rankings in cybersecurity competitions. In his free time, he
+attended online courses such as Harvard's cybersecurity and TryHackMe.
+He also actively participated in competitions with the locally founded
+"Singapore Students Merger Team", co-founded by David. This team participates
+in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
+of learning and skill development. It swiftly rose to prominence, becoming
+one of the top teams in Singapore. James played a crucial role in recruiting
+new members, organising training sessions, and promoting events within
+their networks. As James continues his journey in STEM, he stands as an
+inspiration to his peers and juniors alike. His story is one of relentless
+pursuit of knowledge, unwavering dedication to innovation, and a deep-seated
+desire to make a positive impact on the world through STEM.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chan Si Yu David (23J13)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chan_Si_Yu_David.jpg">
+</div>
+<p></p>
+<p>David demonstrates an exceptional aptitude for technology, evident in
+his founding of the "Singapore Students Merger Team". This team participates
+in Capture-The-Flag (CTF) cybersecurity competitions, fostering a community
+of learning and skill development. Comprising highly skilled student participants,
+it swiftly rose to become one of Singapore's top competition teams. David’s
+innovative approaches to team building, skill development, and outreach
+efforts reflect his commitment to nurturing Singapore's young cybersecurity
+talent. His prowess and efforts are further evidenced by his victory in
+the Cyber Security Agency of Singapore’s Advanced Youth Cyber Exploration
+Programme 2023 and his leadership of the school team to emerge as champions
+in the international OS CTF 2024 competition. Internships at the Ministry
+of Home Affairs and DSO National Laboratories, coupled with his DSTA Junior
+College Scholarship, further underscore his passion and potential in the
+field of cybersecurity. David’s leadership skills shine through in his
+various roles: Vice President of the Mathematics Leaders Academy, Director
+of the school’s inaugural STEM Fest, Vice President of the school’s Chess
+Club, and EXCO member of Infocomm Club. His leadership abilities and active
+engagement in academic and community endeavours exemplify his unwavering
+pursuit of excellence.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Koh Le Bon (23J09)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /23J09_19_4R.jpg">
+</div>
+<p>As a Wushu athlete in the national team, Koh Le Bon exemplifies the pinnacle
+of dedication, skill, and discipline. His stellar performance earned him
+top honours in two events at the National School Games of 2023 and a silver
+medal in the Qiangshu category at the International Wushu Invitational
+Tournament 2024 in Jiangsu, China. Le Bon’s wushu journey was not without
+its setbacks. In J1, he had an injury which prevented him from training
+for the Asian Wushu Junior trials. Although he was disappointed at having
+missed a golden opportunity, he chose to focus on his recovery, working
+diligently with his physiotherapist and coaches rather than dwelling on
+the missed trials. As Le Bon was gearing up to represent Singapore in the
+Asian Wushu Championships in September 2024, an untimely injury compelled
+him to withdraw from the competition. This was frustrating for him but
+he recognised that the situation was largely beyond his control and chose
+to redirect his energy towards his A-Level preparation, viewing this as
+the most constructive way to move forward. Beyond competitions, Le Bon
+was so passionate about wushu that he volunteered to perform and choreograph
+wushu routines for Chingay when he was in J1. In the following year, he
+took on the challenge of leading and teaching children aged 12 and below
+to perform. This was no mean feat as he had to choreograph routines that
+were manageable for the young performers, many of whom lacked a strong
+wushu foundation. He also had to constantly adapt and finetune the choreography
+to accommodate Chingay’s evolving artistic vision. Le Bon's remarkable
+journey culminated in his nomination as the school's valedictorian, a testament
+to his all-round achievements and the impact he has made on his school
+community. His story is truly inspiring, demonstrating how the application
+of adaptability and resilience helped him overcome all odds.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Wong Yu Xin (23J10)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Wong_Yu_Xin.jpg">
+</div>
+<p>Throughout Yu Xin’s tenure as Vice-President of the Junior College Students’
+Council, she has demonstrated exceptional leadership skills. She helmed
+numerous school events successfully, including serving as Chairperson of
+Boon Lay Countdown 2024 and Programme Committee Head for the Y.LEAD seminar.
+&nbsp;At the core of Yu Xin's leadership approach is a strong belief in
+people-centricity and compassion. She is empathetic towards her peers and
+has a keen understanding of their strengths. Her confidence and willingness
+to voice her convictions, even in challenging situations, have made her
+a dependable and inspiring role model. Despite her heavy school commitments,
+she found time to assist children of diverse backgrounds and needs in their
+studies every week under the Budding Minds Programme. She also volunteered
+as a production crew member for Chingay Parade Singapore 2024, allowing
+her to engage with various social groups beyond the school community. &nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Geng Tong (23J08)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Geng_Tong.jpg">
+</div>
+<p>Geng Tong is a dedicated community leader, serving as team leader of the
+Boon Lay Youth PAP and secretary of the Boon Lay Resident Network for Zone
+D in 2023 to strengthen community engagement. She collaborated with six
+disability organisations, helped at weekly Meet-The-People Sessions, and
+participated in community initiatives by facilitating engagement with the
+residents. Her dedication to service was also evident in school where she
+curated cultural events, including the annual China Studies Perspective
+Forum in partnership with Business China, in her capacity as EXCO member
+of the Bicultural Leaders Academy (BLA). Geng Tong led her team to clinch
+the championship at the Hwa Chong China Studies in Chinese Forum 2023 and
+was named Best Speaker in the Singapore Chinese Debate Invitational 2023,
+where her team secured the national 1st runner-up position. She is also
+passionate about the creative arts – her short film, co-produced with a
+classmate, explored the theme of “World Around Me” at a student visual
+storytelling competition in 2024, securing the second-place position in
+its category.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Joshua Tan Seng Hong (23J01)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Joshua_Tan_Seng_Hong.jpg">
+</div>
+<p>As President of the Bicultural Leaders Academy (BLA), Joshua demonstrated
+a strong commitment to promoting Chinese language and culture by spearheading
+innovative initiatives. These included a hands-on Pineapple Tart Workshop,
+where participants learned to craft this traditional Lunar New Year delicacy,
+and the creation of an exclusive Red Packet design for the school, incorporating
+elements of Chinese art and symbolism. His keen interest in global affairs
+is evident from his active participation in political science and international
+relations forums. Notably, Joshua served as a moderator at the 2023 China
+Studies Perspective Forum, showcasing his ability to facilitate high-level
+discussions on complex global issues. An inventive thinker, his interdisciplinary
+research on plant-based meat earned him the Outstanding Award at the Bicultural
+Studies Programme (BSP) Symposium. Joshua’s zeal for bicultural studies
+is infectious, as he actively encouraged his peers to pursue this field.
+His enthusiasm illustrates the rewards that come from embracing and synthesising
+diverse cultural perspectives.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Chen Qingyuan (23J10)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chen_Qingyuan.jpg">
+</div>
+<p>Qingyuan demonstrated leadership as President of the Mathematics Leaders
+Academy (MLA) and co-founder of the school’s Informatics Olympiad team,
+mentoring juniors and fostering a love for learning. As Director of the
+inaugural RVHS Science, Technology, Engineering and Mathematics (STEM)
+Festival, he promoted STEM education among primary students. His proficiency
+in foreign languages, natural sciences, mathematics, and computational
+modelling has earned him several accolades, including an opportunity to
+represent Singapore at the International Science School held at the University
+of Sydney. From this overseas attachment, he gained valuable insights which
+he applied to the planning of MLA’s Overseas Experiential Learning Programme,
+Sydney (Australia). His passion for STEM is evident in his commitment to
+tackling global issues. His innovative proposal to improve seawater desalination
+efficiency, addressing the critical issue of water scarcity, earned him
+a Gold award at the Singapore Science and Engineering Fair 2024. Seeking
+real-world experiences, Qingyuan worked at Defence Science and Technology
+Agency (DSTA) and volunteered for the Youth STEM Empowerment Programme.
+His service in these areas reflects his belief in giving back to the community
+by sharing his acquired knowledge.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Rajvi Rajesh Sapre (23J20)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Rajvi_Rajesh_Sapre.jpg">
+</div>
+<p>As Vice-President of The Eco-Sustainability Leadership Academy (TESLA),
+Rajvi played a key role in advancing environmental sustainability initiatives.
+She collaborated with an environmental social enterprise to set up a booth
+at the Eco-Carnival@PassionWave. This initiative raised awareness about
+sustainable fashion and responsible consumption. She also mentored primary
+school students on environmental sustainability, inspiring them to adopt
+eco-friendly practices. Her commitment to sustainability extended to hands-on
+initiatives like vermicomposting, where she explored effective waste management
+solutions to reduce food waste. Beyond TESLA, Rajvi leads by example, incorporating
+eco-friendly practices into her daily life and encouraging mindful resource
+use among her peers and family. Through her leadership, advocacy, and initiatives,
+she has made a meaningful impact in raising environmental awareness and
+action.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Chua Wen Zhe (23J20)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Chua_Wen_Zhe.jpg">
+</div>
+<p>As President of Chinese Orchestra (CO), Wen Zhe was a talented Sheng player
+who made creative musical arrangements for CO. His musicianship was recognised
+by the Singapore National Youth Chinese Orchestra which gave him the opportunity
+to grow his experience through four overseas concerts and exchanges in
+Malaysia, as well as local concerts. A member of the Humanities and Social
+Sciences Leaders Academy (HSSLA), Wen Zhe had a deep passion for Geography,
+as seen from his participation in an urban planning competition, “Challenge
+for the Urban and Built Environment”. His team’s redevelopment proposal
+and design scheme for Jurong Hill and Bird Park earned them a Certificate
+of Merit, showcasing his ability to apply classroom knowledge to real-world
+urban planning. His love for the humanities translated into a desire to
+mentor his junior academy members to cultivate intellectual curiosity and
+humanist ideals via the academy's School-wide "HSSLA Now!" programme which
+seeks to spark a deeper interest in Humanities among students.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Lin Chuanyu (23J08)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lin_Chuanyu.jpg">
+</div>
+<p>As President of Venture Scouts, Chuanyu developed innovative training
+methods, inspired in his juniors a passion for Scouting, and motivated
+them to strive for the President’s Scout Award. His involvement in national
+Scouting events helped spread enthusiasm for outdoor activities. He transformed
+a Values-in-Action (VIA) project, undertaken by his Venture Scouts peers,
+into his Venture service project, benefiting seniors in the community
+<a href="https://www.zaobao.com.sg/news/singapore/story20241202-5450170" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zaobao.com.sg/news/singapore/story20241202-5450170</u>
+</a>. Despite his numerous commitments, including History and Current Affairs
+Society (HACAS) and RV Model United Nations (RVMUN) responsibilities, scout
+assessments, chairperson duties, and academic pursuits, Chuanyu successfully
+balanced these with his preparation for the President’s Scout Award, which
+he ultimately achieved. Known for his humility and determination, Chuanyu
+exemplifies the qualities of a well-rounded and dedicated leader.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Lim Jing Xiang Jovan (23J20)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 GCE A Level /Lim_Jing_Xiang_Jovan.jpg">
+</div>
+<p>Jovan demonstrated exceptional resilience in his academic journey as he
+sought to overcome his learning challenges. He proactively developed and
+diligently practiced reading and visualisation strategies to enhance his
+reading speed and comprehension. He stepped out of his comfort zone to
+connect with others through community service and initiated a project “Rainbow
+Heroes”, an empowerment programme for young adults with special needs.
+Jovan also volunteered regularly at a reading programme for underprivileged
+children and shared his own experiences of learning as well as his passion
+for Literature in English, with the hope that his personal journey would
+inspire and create an everlasting positive impact. In the Student Editorial
+Club, his creative flair found expression in his role as Head of Publicity.
+Jovan’s journey, marked by perseverance and courage, is an inspiration
+to all.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>Academic and Co-Curricular Awards</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -33,11 +321,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National 1st</strong>
-<br>Wushu – B Division Boys</p>
-<p>
+<br>Wushu – B Division Boys
 <br><strong>National 2nd</strong>
-<br>Floorball – A Division Girls</p>
-<p>&nbsp;<strong>National 3rd</strong>
+<br>Floorball – A Division Girls
+<br><strong>National 3rd</strong>
 <br>Softball – A Division Boys &amp; Girls
 <br>Wushu – A Division Boys &amp; Girls
 <br><strong>National 4th</strong>
@@ -52,18 +339,15 @@ description: ""
 Category)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 RV student athletes are awarded the scholarship this year.&nbsp;</p>
-<p></p>
-<p><strong>High Performance (U18)</strong>
+<p>5 RV student athletes are awarded the scholarship this year.&nbsp;
+<br><strong>High Performance (U18)</strong>
 <br>Lim Yi Fan 23J05 (Softball)
 <br>Verity Claire Neo Jia En 23J06 (Softball)
-<br>Cholene Aw Rui En 3I (Wushu)</p>
-<p><strong>Tertiary</strong>
-<br>Lee Si Lin 23J12 (Softball)</p>
-<p><strong>Secondary</strong>
-<br>Jaedon Chua Hao Cheng 2D (Table Tennis)
-<br>
-</p>
+<br>Cholene Aw Rui En 3I (Wushu)
+<br><strong>Tertiary</strong>
+<br>Lee Si Lin 23J12 (Softball)
+<br><strong>Secondary</strong>
+<br>Jaedon Chua Hao Cheng 2D (Table Tennis)</p>
 </td>
 </tr>
 <tr>
@@ -76,8 +360,8 @@ Category)</p>
 <p><strong>优胜奖（团体）</strong>
 <br>王新懿&nbsp;Wang Xinyi (4G)
 <br>童钰轩&nbsp;Tong Yuxuan (4G)
-<br>朱婧萱&nbsp;Zhu Jingxuan (4G)</p>
-<p><strong>个人优异奖</strong>
+<br>朱婧萱&nbsp;Zhu Jingxuan (4G)
+<br><strong>个人优异奖</strong>
 <br>卢欣&nbsp;Lu Xin (3H)</p>
 </td>
 </tr>
@@ -88,8 +372,7 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>银奖Silver</strong>
-<br>张丞纬&nbsp;Teo Cheng Wei (2B)</p>
-<p><strong><br>优异奖Excellent</strong>
+<br>张丞纬&nbsp;Teo Cheng Wei (2B)<strong><br>优异奖Excellent</strong>
 <br>卢欣&nbsp;Lu Xin (3H)
 <br>林嘉雨&nbsp;Lin Jia Yu (4E)</p>
 </td>
@@ -115,12 +398,12 @@ Category)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>特优奖</strong>
-<br>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)</p>
-<p><strong>优秀奖</strong>
-<br>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)</p>
-<p><strong>佳作奖</strong>
-<br>胡文玮&nbsp;Oh Wen Wee (23J04)</p>
-<p>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
+<br>吴䄎瑩&nbsp;Doris Goh Kee Ying (23J14)
+<br><strong>优秀奖</strong>
+<br>杨慕允&nbsp;Abigail Yeo Moo Woon (22J19)
+<br><strong>佳作奖</strong>
+<br>胡文玮&nbsp;Oh Wen Wee (23J04)
+<br>陈净慧&nbsp;Edel Chan Jing Hui (23J14)</p>
 </td>
 </tr>
 <tr>
@@ -161,9 +444,8 @@ Category)</p>
 <td rowspan="1" colspan="1">
 <p><strong>再生新闻-金奖</strong>
 <br>郑涵尹&nbsp;Tang Han Yin (3C)
-<br>顾楷昕&nbsp;Gu Kaixin (3C)</p>
-<p></p>
-<p><strong>再生新闻-鼓励奖</strong>
+<br>顾楷昕&nbsp;Gu Kaixin (3C)
+<br><strong>再生新闻-鼓励奖</strong>
 <br>林凯欣&nbsp;Lim Kai Xin (3A)
 <br>王嘉怡&nbsp;Wang Jiayi (3H)</p>
 </td>
@@ -176,8 +458,8 @@ Category)</p>
 <p><strong>Singing (group category) – 3rd place:</strong>
 <br>Alicia Kok Yun Ting
 <br>Khoo Xuan Mun
-<br>Mr Liu Gongkai</p>
-<p>&nbsp;<strong>Lyrics Writing Category – Merit Award</strong>
+<br>Mr Liu Gongkai
+<br><strong>Lyrics Writing Category – Merit Award</strong>
 <br>Guo Jingyou
 <br>Li Anqi
 <br>Shi Diwen</p>
@@ -242,8 +524,8 @@ Explore Track</p>
 <br>Ang Ian (4G)
 <br>Zhang Jingxuan (4G)
 <br>Gabriel Lim Zhexi (4G)
-<br>Loh Ying Jie, Ryo (4G)</p>
-<p><strong>Junior College</strong>
+<br>Loh Ying Jie, Ryo (4G)
+<br><strong>Junior College</strong>
 <br>Ng Zhi Xi (23J03)
 <br>Jiang Yuhan (23J03)</p>
 </td>
@@ -287,8 +569,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <br>Christine Chuah Hui Qi (24J05)
 <br>Chong Qing Ya (23J01)
 <br>Eaindra Khin (23J04)
-<br>Ng Jia Ying (23J05)</p>
-<p><strong>2 Bronze Awards (Team)</strong>
+<br>Ng Jia Ying (23J05)
+<br><strong>2 Bronze Awards (Team)</strong>
 <br>Chua Wan Zhen Kevina (24J02)
 <br>Kong Teck Nyin (24J10)
 <br>Chua Chin Tat (24J16)
@@ -315,8 +597,8 @@ High School STEM Competition (Online) @ Bogota, Colombia</p>
 <p><strong>3 Silver Medals</strong>
 <br>Zhang Hengwei (4C)
 <br>Chen Qingyuan (23J10)
-<br>Chua Zhong Ding (23J17)</p>
-<p><strong>5 Bronze Medals</strong>
+<br>Chua Zhong Ding (23J17)
+<br><strong>5 Bronze Medals</strong>
 <br>Megan Miranda Khoo (4C)
 <br>Zhu Ziyan (23J11)
 <br>Shi Yu Xiang (23J17)
@@ -366,8 +648,7 @@ for recycling companies to do further processing.</p>
 <p><strong><u>Secondary Schools Category</u></strong>
 <br><strong>3rd Prize (Team)</strong>
 <br>Hoo Rui Ting (2B)
-<br>Emmaus Wong Rui (2B)</p>
-<p>
+<br>Emmaus Wong Rui (2B)
 <br><strong>3 Merit Awards (Team)</strong>
 <br>Luan Jiahui (2C)
 <br>Tan Yu Xuan Jenell (2C)
@@ -391,38 +672,36 @@ for recycling companies to do further processing.</p>
 <br>Avril Teow Si Qi (4E)
 <br>Cheng Shi Teng (4E)
 <br>Low Xin En Eliora (4E)
-<br>Lin Rui'En (4H)</p>
-<p><strong>2 Silver Awards</strong>
+<br>Lin Rui'En (4H)
+<br><strong>2 Silver Awards</strong>
 <br>Koh Wie Millie (4E)
-<br>Gu Jiale (4G)</p>
-<p><strong>2 Bronze Awards</strong>
+<br>Gu Jiale (4G)
+<br><strong>2 Bronze Awards</strong>
 <br>Zhao Jiayi Felicity (4E)
 <br>Chua Yu Jun, Lucas (4E)
-<br>
-</p>
-<p><strong>1 Honourable Mention Award</strong>
-<br>Lew Rui Ling (4E)</p>
-<p><strong>2 Merit Awards</strong>
+<br><strong>1 Honourable Mention Award</strong>
+<br>Lew Rui Ling (4E)
+<br><strong>2 Merit Awards</strong>
 <br>Lim Jia Jing Bernice (4E)
-<br>Zhang Jingxuan (4G)</p>
-<p><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
+<br>Zhang Jingxuan (4G)
+<br><strong><u>Category 2: Junior College 1 &amp; 2</u></strong>
 <br><strong>3 Gold Awards</strong>
 <br>Wai Rui Enn (23J02)
 <br>Chiew Pui See Sarah (23J04)
-<br>Lim Qian Hui (23J05)</p>
-<p><strong>5 Silver Awards</strong>
+<br>Lim Qian Hui (23J05)
+<br><strong>5 Silver Awards</strong>
 <br>Li Hanyu (23J02)
 <br>Tam Jing Yi Joanne (23J02)
 <br>Leo Kit Yee (23J03)
 <br>Hong Shi Ting, Geraldine (23J03)
-<br>Pour Zhi Lin (23J05)</p>
-<p><strong>6 Bronze Awards</strong>
+<br>Pour Zhi Lin (23J05)
+<br><strong>6 Bronze Awards</strong>
 <br>Low Zi Ting (23J02)
 <br>Lim Yi Fan (23J05)
 <br>Ng Jia Ying (23J05)
 <br>Pua Jia Yee (23J05)
-<br>Ang Yi En Jerlene (23J05)</p>
-<p><strong>3 Honourable Mention Awards</strong>
+<br>Ang Yi En Jerlene (23J05)
+<br><strong>3 Honourable Mention Awards</strong>
 <br>Chan Wen Hsin (23J03)
 <br>Melanie Tan Qiao Enn (23J05)
 <br>Wong Shao Qin (23J12)</p>
@@ -457,9 +736,8 @@ of Medicine)</p>
 <br>NCC Boys
 <br>NCC Girls
 <br>NPCC Boys
-<br>NPCC Girls</p>
-<p></p>
-<p><strong>Puan Noor Aishah Award – Gold</strong>
+<br>NPCC Girls
+<br><strong>Puan Noor Aishah Award – Gold</strong>
 <br>Girl Guides</p>
 </td>
 </tr>
@@ -618,8 +896,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
-<br>Chen Qingyuan (23J10)</p>
-<p><strong>Silver Award</strong>
+<br>Chen Qingyuan (23J10)
+<br><strong>Silver Award</strong>
 <br>Goh Rou Hui Ashley (23J17)
 <br>
 </p>
@@ -642,8 +920,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br><strong>2 Bronze Awards (Team)</strong>
 <br>Ng Shi Qing Eugenia (23J17)
 <br>Chan Si Yu, David (23J13)
-<br>Chan Xing Yu, James (23J13)</p>
-<p><strong>2 Merit Awards (Team)</strong>
+<br>Chan Xing Yu, James (23J13)
+<br><strong>2 Merit Awards (Team)</strong>
 <br>Joslyn Yap Qian Ting (24J08)
 <br>Chong Chee Wen (24J10)
 <br>Valerie Chia Boon Hwan (24J10)
@@ -667,8 +945,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <p><strong>Category A: Junior College Commendation Award (Team)</strong>
 <br>Fabius Tan Choon Keong (23J09)
 <br>Lim Yu Yang (23J10)
-<br>Nicholas Ng Yi Jie (23J17)</p>
-<p><strong>Category B: Secondary School Bronze Award (Team)</strong>
+<br>Nicholas Ng Yi Jie (23J17)
+<br><strong>Category B: Secondary School Bronze Award (Team)</strong>
 <br>Li Xin Hui (4E)
 <br>Lucius Oo (4E)
 <br>Lew Rui Ling (4E)</p>
@@ -680,8 +958,7 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Starter Category (for Secondary Schools)</strong>
-</p>
-<p><strong>Distinction Award (Team)</strong>
+<br><strong>Distinction Award (Team)</strong>
 <br>Chin Xiao Rou (24J08)
 <br>Tan Zi Jun (24J11)
 <br>Ching Yuhui, Natalie (24J13)
@@ -690,8 +967,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br>Li Xin Hui (4E)
 <br>Lin Yushan (4E)
 <br>Lew Rui Ling (4E)
-<br>Lim Jia Jing Bernice (4E)</p>
-<p><strong>Best Mentor Award</strong>
+<br>Lim Jia Jing Bernice (4E)
+<br><strong>Best Mentor Award</strong>
 <br>Ms Khiu Yi Wen
 <br>Ms Lau Shi Yun</p>
 </td>
@@ -706,8 +983,8 @@ in New Yang Style Taijiquan at the World Taijiquan Championships.</p>
 <br>Foo Chuan Yuan (23J17)
 <br>Mah Kian Siong Jerald&nbsp;(23J17)
 <br>Tan Ik Kai Ayden (23J17)
-<br>Tan Yi Jun (23J17)</p>
-<p><strong>3rd</strong>
+<br>Tan Yi Jun (23J17)
+<br><strong>3rd</strong>
 <br>Lin Lejing, Fanny&nbsp;(23J13)
 <br>Ong Yi Qian&nbsp;(23J13)
 <br>Ng Shi Qing, Eugenia (23J17)
@@ -841,9 +1118,6 @@ in New Yang Style Taijiquan.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
