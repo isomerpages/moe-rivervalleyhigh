@@ -10,7 +10,7 @@ collection instructions.</p>
 find <a href="/files/3__2025_A_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">tips and resources </a>on
 how to support your child through their next steps.
 <br>Parents can accompany their child back to school. Due to limited car parking
-spaces, parking within the school is first-come-first served basis. Once
-the car park is full, our Security Staff will direct the parents to park
-at the nearest HDB car parks opposite the school.</p>
+spaces, parking within the school is on a first-come-first served basis.
+Once the car park is full, our Security Staff will direct the parents to
+park at the nearest HDB car parks opposite the school.</p>
 <p></p>
