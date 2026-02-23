@@ -29,8 +29,8 @@ in touch with us directly to find out how we can support you.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Before 1 pm</u></strong>, any J3 students and their parents
-coming to RVHS, are required to register as visitor at the Guard post to
-obtain a visitor’s sticker.
+coming to RVHS, are required to register as visitors at the Guard post
+to obtain a visitor’s sticker.
 <br><strong><u>From 1 pm onwards</u></strong>, returning students and their
 parents can enter the school premises via the school main gate, Gate 2
 Turnstile (next to the stadium) and Gate 5 Turnstile (next to the zebra
