@@ -25,5 +25,23 @@ useful advice on how to support your friends during the results release</p>
 <p>RV will continue to support you as you begin your post-JC education journey.
 You may check the ECG website (<a href="https://go.gov.sg/ecgrvhs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgrvhs</a>) or get
 in touch with us directly to find out how we can support you.</p>
+<p>Other information:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>J3 students returning to RVHS are to dress appropriately, no slippers
+are allowed.</p>
+</li>
+<li>
+<p><strong><u>Before 1 pm</u></strong>, any J3 students and their parents
+coming to RVHS, are required to register as visitor at the Guard post to
+obtain a visitor’s sticker.
+<br><strong><u>From 1 pm onwards</u></strong>, returning students and their
+parents can enter the school premises via the school main gate, Gate 2
+Turnstile (next to the stadium) and Gate 5 Turnstile (next to the zebra
+crossing ). No registration will be required.
+<br>
+</p>
+</li>
+</ul>
 <p>We hope you are all doing well and are excited by the prospect of receiving
 your results on Friday, 27 February! See you soon!</p>
