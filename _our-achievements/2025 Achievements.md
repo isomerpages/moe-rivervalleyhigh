@@ -89,7 +89,7 @@ and commitment to excellence distinguish her as a role model.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;Matthew Tay Tze Kiat (24J17)</summary>
+<summary>Matthew Tay Tze Kiat (24J17)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Matthew_Tay_Sze_Kiat_24J17.jpg">
