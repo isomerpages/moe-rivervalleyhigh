@@ -79,12 +79,15 @@ and commitment to excellence distinguish her as a role model.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>&nbsp;Matthew Tay Tze Kiat (24J17)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
