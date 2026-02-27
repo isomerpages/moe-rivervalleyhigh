@@ -246,7 +246,7 @@ commitment to personal growth.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lim_Zi_Fu_24J08.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lim_Zi_Fu_24J08.jpg">
 </div>
 <p>Lim Zi Fu’s leadership journey began as the Wushu Captain in 2021. Through
 perseverance and active participation in leadership programmes such as
@@ -266,6 +266,45 @@ with the National Kidney Foundation, offering emotional support to dialysis
 patients. Through empathy and dedication, he brought comfort to those in
 need. Zi Fu is a grounded and compassionate leader who adopted a people-centric
 approach that promoted trust, collaboration, and leadership development.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Srinivasan Nitin (24J08)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Srinivasan_Nitin_24J08.jpg">
+</div>
+<p>Driven by curiosity and a desire to make a positive impact, Nitin sought
+opportunities to deepen his knowledge and develop innovative solutions.
+A recipient of the Engineering and Technology Programme Scholarship (ETPS),
+Nitin participated in the ETPS signature STEM workshop where he explored
+robotics and its applications in healthcare and transportation. He further
+broadened his exposure through an internship with the Singapore Semiconductor
+Industry Association, gaining valuable insights into semiconductor technologies
+and their real-world applications. &nbsp;
+<br>
+</p>
+<p>Nitin demonstrated strong leadership when he led as a facilitator during
+STEM Fest 2024, Committee Head for Administration and Logistics for 2025
+Junior College Orientation, and member of the House Committee. He was actively
+involved in Capture-The-Flag (CTF) and Math Leaders Academy (MLA). Through
+CTF, he learnt about cybersecurity and served the community by teaching
+children with learning disabilities basic Python programming. As a leader
+of MLA, he organised an R programming workshop and designed learning materials
+for his juniors. These experiences reflect Nitin's deep love for science,
+mathematics, and technology, and his commitment to putting his knowledge
+to good use in service of others.&nbsp;</p>
+</div>
+</details>
+</div>
+<p>&nbsp;</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
