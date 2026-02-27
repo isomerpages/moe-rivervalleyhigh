@@ -19,3 +19,37 @@ legacies. Many have already begun this journey through their remarkable
 contributions to our school and the wider community, demonstrating the
 impact they can make when they apply their talents, skills, and values
 to serve others. We are proud to highlight some of these outstanding graduates.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teo Shen Han (24J02)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Teo_Shen_Han_24J02.jpg">
+</div>
+<p>Shen Han's passion for wildlife conservation led him to explore sustainable
+food solutions through the MOE Science Mentorship Programme. He helped
+researchers at the Singapore University of Technology and Design develop
+3D-printed food products with cricket powder as a sustainable alternative,
+which later won him first prize at the Shanghai International Youth Science
+and Technology Camp.
+<br>
+</p>
+<p>Beyond the classroom, Shen Han independently secured research opportunities
+at the National University of Singapore. With guidance from Associate Professor
+Ryan Chisholm, he conducted literature reviews on endangered bird species
+during JC1 GAP Month. After this stint, he worked under Associate Professor
+Frank Rheindt, where he proposed a novel colourimetric method to study
+avian taxonomy until the end of JC2. His comprehensive report earned first
+authorship in an article published in <em>Avian Research</em>, a Gold Award
+at the Singapore Science and Engineering Fair, and selection as one of
+six projects representing Singapore at the International Science and Engineering
+Fair in Ohio, USA. He also volunteered with the Worldwide Fund for Nature,
+contributing to butterfly counts and habitat impact studies, reflecting
+his commitment to conservation. &nbsp;
+<br>
+</p>
+</div>
+</details>
+</div>
+<p></p>
