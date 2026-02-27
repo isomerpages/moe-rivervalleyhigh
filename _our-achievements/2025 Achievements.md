@@ -65,6 +65,7 @@ is an example of a Leader of Distinction who is purposeful and does good.</p>
 <details class="isomer-details">
 <summary>Javelle Toh (24J18)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Javelle_Toh_Quanxiu_24J18.jpg">
 </div>
@@ -92,6 +93,7 @@ and commitment to excellence distinguish her as a role model.</p>
 <details class="isomer-details">
 <summary>Matthew Tay Tze Kiat (24J17)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Matthew_Tay_Sze_Kiat_24J17.jpg">
 </div>
