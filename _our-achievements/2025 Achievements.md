@@ -57,6 +57,30 @@ is an example of a Leader of Distinction who is purposeful and does good.</p>
 <details class="isomer-details">
 <summary>Javelle Toh (24J18)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Demonstrating exceptional leadership and commitment to service, Javelle
+Toh received the 2023 President's Guide Award. She played a pivotal role
+as Head of the Activities Committee for the 2025 World Thinking Day Celebrations,
+a large-scale national event hosted by Girl Guides Singapore that involved
+over 5,000 participants from Singapore and abroad. In this capacity, she
+spearheaded the planning and execution of a Singapore record-breaking initiative,
+"Largest Banner Covered in Fabric Pieces with Handwritten Notes". Equally
+committed to service, Javelle led the Boon Lay Residents' Network initiative,
+Hearts &amp; Homes, where she forged strong bonds with elderly residents
+during weekly visits over eight months. She also helped Xingnan Primary
+School’s lower primary students with emerging reading skills to foster
+a passion for reading.&nbsp;</p>
+<p>Beyond her leadership, Javelle's analytical abilities were evident when
+she co-authored a research paper for the 2024 Bicultural Studies Programme
+Symposium. Her team’s research on examining differing perspectives of Singaporean
+and Chinese teenagers towards entrepreneurship earned the title of "Outstanding
+Research Paper". Overall, Javelle is a multifaceted individual whose leadership
+and commitment to excellence distinguish her as a role model.</p>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
