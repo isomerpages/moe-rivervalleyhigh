@@ -120,6 +120,7 @@ his belief that service should be driven by empathy and respect.</p>
 <details class="isomer-details">
 <summary>Chang Wan Xuan (24J04)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Chang_Wan_Xuan_24J04.jpg">
 </div>
@@ -147,6 +148,7 @@ dedication to everything she undertakes.&nbsp;</p>
 <details class="isomer-details">
 <summary>Chin Xiao Rou (24J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Chin_Xiao_Rou_24J08.jpg">
 </div>
@@ -174,6 +176,7 @@ and platform to serve others.&nbsp;</p>
 <details class="isomer-details">
 <summary>Yang Lin Xuan (25J15)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Yang_Lin_Xuan_24J15.jpg">
 </div>
