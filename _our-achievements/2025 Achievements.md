@@ -117,6 +117,10 @@ his belief that service should be driven by empathy and respect.</p>
 <details class="isomer-details">
 <summary>Chang Wan Xuan (24J04)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Chang_Wan_Xuan_24J04.jpg">
+</div>
 <p>Chang Wan Xuan is a thoughtful and driven student leader who exemplifies
 resilience and empathy. As the President of the Students’ Council from
 2024 to 2025, she fostered an inclusive environment through Town Halls
