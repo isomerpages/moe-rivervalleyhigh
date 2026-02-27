@@ -309,8 +309,7 @@ role in three iterations of the Southwest District Non-Commissioned Officer
 Camp, twice as an assistant course instructor and once as a course instructor.
 In these capacities, he led platoons, mentored future leaders, and honed
 his instructional capabilities. These experiences deepened his own understanding
-of leadership while enabling him to shape and inspire younger cadets.</p>
-<p>&nbsp;</p>
+of leadership while enabling him to shape and inspire younger cadets.&nbsp;</p>
 </div>
 </details>
 </div>
