@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Outstanding Graduates from the Class of 2025</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Teo Shen Han (24J02)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -28,9 +28,13 @@ at the Singapore Science and Engineering Fair, and selection as one of
 six projects representing Singapore at the International Science and Engineering
 Fair in Ohio, USA. He also volunteered with the Worldwide Fund for Nature,
 contributing to butterfly counts and habitat impact studies, reflecting
-his commitment to conservation. &nbsp;
-<br>
-</p>
+his commitment to conservation. &nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Hayley Ng (24J07)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
