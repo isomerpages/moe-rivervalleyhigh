@@ -27,6 +27,7 @@ sections:
       id: infopic
       button: read more
       url: /2025-gce-a-level-results/
+      image: /images/2025 A Lvl  Distinction/IMG_4442.jpg
   - infobar:
       title: Our RV Story
       id: infobar
