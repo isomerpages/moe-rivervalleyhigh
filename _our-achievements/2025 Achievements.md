@@ -11,7 +11,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Teo_Shen_Han_24J02.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Teo_Shen_Han_24J02.jpg">
 </div>
 <p>Shen Han's passion for wildlife conservation led him to explore sustainable
 food solutions through the MOE Science Mentorship Programme. He helped
