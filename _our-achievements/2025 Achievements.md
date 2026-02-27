@@ -38,6 +38,9 @@ his commitment to conservation. &nbsp;</p>
 <details class="isomer-details">
 <summary>Hayley Ng (24J07)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Hayley_Ng_Theng_24J07.jpg">
+</div>
 <p>A finalist in the People of Good (Student) category at the President's
 Volunteerism &amp; Philanthropy Awards 2025 and as Vice-President of the
 school's Service and Citizenship Society, Hayley has made significant contributions
@@ -61,6 +64,9 @@ is an example of a Leader of Distinction who is purposeful and does good.</p>
 <details class="isomer-details">
 <summary>Javelle Toh (24J18)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Javelle_Toh_Quanxiu_24J18.jpg">
+</div>
 <p>Demonstrating exceptional leadership and commitment to service, Javelle
 Toh received the 2023 President's Guide Award. She played a pivotal role
 as Head of the Activities Committee for the 2025 World Thinking Day Celebrations,
