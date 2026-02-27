@@ -242,39 +242,11 @@ commitment to personal growth.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Yang_Lin_Xuan_24J15.jpg">
-</div>
-<p>As President of the Chinese Orchestra, Yang Lin Xuan led with heart, purpose,
-and creativity. Playing the Dizi, she served a month-long internship with
-TENG Company, where she deepened her understanding of arts management and
-community engagement while creating original content for their social media
-platforms. Her impressive videos amassed more than 500,000 views across
-TikTok and Instagram, with her most viral video reaching 95,000 views.
-Based on merit and her outstanding audition performance, she was awarded
-the prestigious MapleTree-TENG Scholarship for her contributions. Using
-her musical talents to serve the community, Lin Xuan spearheaded Values-In-Action
-initiatives such as performances and engagement sessions with seniors at
-the NTUC Health Active Ageing Centre.
-<br>
-<br>Beyond her musical excellence, Lin Xuan's diverse interests include scientific
-research. She applied her knowledge to solve global challenges, representing
-the school at the International Space Challenge 2023, where her team clinched
-first place with a groundbreaking proposal on sustainable lunar resource
-utilisation. Her willingness to engage with unfamiliar content and persevere
-through intellectual obstacles underscores her adaptability, grit, and
-commitment to personal growth.</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>Lim Zi Fu (24J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lim_Zi_Fu_24J08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lim_Zi_Fu_24J08.jpg">
 </div>
 <p>Lim Zi Fu’s leadership journey began as the Wushu Captain in 2021. Through
 perseverance and active participation in leadership programmes such as
@@ -288,84 +260,14 @@ adaptability. As House Captain, he played a pioneering role in establishing
 the school’s first House Committee and launching the inaugural House League
 Season. &nbsp;
 <br>
-<br>Committed to serving the community, Zi Fu volunteered as a befriender
+</p>
+<p>Committed to serving the community, Zi Fu volunteered as a befriender
 with the National Kidney Foundation, offering emotional support to dialysis
 patients. Through empathy and dedication, he brought comfort to those in
 need. Zi Fu is a grounded and compassionate leader who adopted a people-centric
 approach that promoted trust, collaboration, and leadership development.&nbsp;</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Dilys_Lim_Yi_Ling_24J06.jpg">
-</div>
-<p>and helped her develop meaningful connections.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Srinivasan Nitin (24J08)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Srinivasan_Nitin_24J08.jpg">
-</div>
-<p>Driven by curiosity and a desire to make a positive impact, Nitin sought
-opportunities to deepen his knowledge and develop innovative solutions.
-A recipient of the Engineering and Technology Programme Scholarship (ETPS),
-Nitin participated in the ETPS signature STEM workshop where he explored
-robotics and its applications in healthcare and transportation. He further
-broadened his exposure through an internship with the Singapore Semiconductor
-Industry Association, gaining valuable insights into semiconductor technologies
-and their real-world applications. &nbsp;&nbsp;</p>
-<p>Nitin demonstrated strong leadership when he led as a facilitator during
-STEM Fest 2024, Committee Head for Administration and Logistics for 2025
-Junior College Orientation, and member of the House Committee. He was actively
-involved in Capture-The-Flag (CTF) and Math Leaders Academy (MLA). Through
-CTF, he learnt about cybersecurity and served the community by teaching
-children with learning disabilities basic Python programming. As a leader
-of MLA, he organised an R programming workshop and designed learning materials
-for his juniors. These experiences reflect Nitin's deep love for science,
-mathematics, and technology, and his commitment to putting his knowledge
-to good use in service of others.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Lee Hsiang (24J19)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lee_Hsiang_24J19.jpg">
-</div>
-<p>As Chair of the inaugural Reve Carnival, Lee Hsiang coordinated the planning
-and execution across multiple stakeholders, demonstrating his organisational
-acumen and initiative. Under his leadership, this large-scale event successfully
-raised $11,294 for Community Chest. His people-centric approach to leadership
-is also evident in his role as Welfare Head for the River Valley Photography
-Club where he organised bonding activities that strengthened camaraderie.
-Passionate about photography, he devoted nearly 100 service hours in a
-year to providing photography support.
-<br>
-<br>Lee Hsiang’s dedication to serving others is further exemplified through
-his involvement as a Warrant Officer in St John Brigade Singapore. Having
-received the Chief Commissioner Badge, he served as Parade Regiment Sergeant
-Major for the 2023 National Observance Ceremony. He also played an instrumental
-role in three iterations of the Southwest District Non-Commissioned Officer
-Camp, twice as an assistant course instructor and once as a course instructor.
-In these capacities, he led platoons, mentored future leaders, and honed
-his instructional capabilities. These experiences deepened his own understanding
-of leadership while enabling him to shape and inspire younger cadets.&nbsp;</p>
-</div>
-</details>
-</div>
-<p></p>
 <p></p>
 <p></p>
