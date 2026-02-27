@@ -280,19 +280,34 @@ at St Luke's Hospital, where she spent time conversing with seniors and
 tailored games to their preferences. These experiences raised her awareness
 of others' needs and helped her develop meaningful connections.</p>
 <p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Lee Hsiang (24J19)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As Chair of the inaugural Reve Carnival, Lee Hsiang coordinated the planning
+and execution across multiple stakeholders, demonstrating his organisational
+acumen and initiative. Under his leadership, this large-scale event successfully
+raised $11,294 for Community Chest. His people-centric approach to leadership
+is also evident in his role as Welfare Head for the River Valley Photography
+Club where he organised bonding activities that strengthened camaraderie.
+Passionate about photography, he devoted nearly 100 service hours in a
+year to providing photography support.
+<br>
+<br>Lee Hsiang’s dedication to serving others is further exemplified through
+his involvement as a Warrant Officer in St John Brigade Singapore. Having
+received the Chief Commissioner Badge, he served as Parade Regiment Sergeant
+Major for the 2023 National Observance Ceremony. He also played an instrumental
+role in three iterations of the Southwest District Non-Commissioned Officer
+Camp, twice as an assistant course instructor and once as a course instructor.
+In these capacities, he led platoons, mentored future leaders, and honed
+his instructional capabilities. These experiences deepened his own understanding
+of leadership while enabling him to shape and inspire younger cadets.</p>
 <p>&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
