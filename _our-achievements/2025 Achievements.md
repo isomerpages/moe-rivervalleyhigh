@@ -86,8 +86,7 @@ she co-authored a research paper for the 2024 Bicultural Studies Programme
 Symposium. Her team’s research on examining differing perspectives of Singaporean
 and Chinese teenagers towards entrepreneurship earned the title of "Outstanding
 Research Paper". Overall, Javelle is a multifaceted individual whose leadership
-and commitment to excellence distinguish her as a role model.</p>
-<p>&nbsp;</p>
+and commitment to excellence distinguish her as a role model.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
