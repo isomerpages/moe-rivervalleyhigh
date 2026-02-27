@@ -182,9 +182,7 @@ Help" initiative, leading floorball sessions for children, taking them
 on science field trips, and volunteering with the National Kidney Foundation
 where she engaged with dialysis patients. Her ability to balance leadership
 responsibilities with community service and academics reflects her steadfast
-dedication to everything she undertakes.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+dedication to everything she undertakes.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
