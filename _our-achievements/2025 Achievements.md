@@ -4,7 +4,6 @@ permalink: /2025-achievements/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
