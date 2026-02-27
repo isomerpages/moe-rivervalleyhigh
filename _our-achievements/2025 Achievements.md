@@ -282,8 +282,7 @@ managing sponsorship funds and curating meaningful experiences for beneficiaries
 &nbsp;Her compassion was further demonstrated through her volunteer work
 at St Luke's Hospital, where she spent time conversing with seniors and
 tailored games to their preferences. These experiences raised her awareness
-of others' needs and helped her develop meaningful connections.</p>
-<p>&nbsp;</p>
+of others' needs and helped her develop meaningful connections.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
