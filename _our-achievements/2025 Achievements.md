@@ -228,7 +228,7 @@ approach that promoted trust, collaboration, and leadership development.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Srinivasan_Nitin_24J08.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Srinivasan_Nitin_24J08.jpg">
 </div>
 <p>Driven by curiosity and a desire to make a positive impact, Nitin sought
 opportunities to deepen his knowledge and develop innovative solutions.
