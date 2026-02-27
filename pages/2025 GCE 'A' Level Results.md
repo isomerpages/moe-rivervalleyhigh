@@ -128,6 +128,12 @@ he fostered genuine connections between students and the elderly, reflecting
 his belief that service should be driven by empathy and respect.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Chang Wan Xuan (24J04)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
