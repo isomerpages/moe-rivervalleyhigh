@@ -213,6 +213,10 @@ commitment to personal growth.</p>
 <details class="isomer-details">
 <summary>Lim Zi Fu (24J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lim_Zi_Fu_24J08.jpg">
+</div>
 <p>Lim Zi Fu’s leadership journey began as the Wushu Captain in 2021. Through
 perseverance and active participation in leadership programmes such as
 the Leadership Development Camp and the Mentor Committee, he grew in self-confidence
