@@ -29,14 +29,6 @@ sections:
       url: /2025-gce-a-level-results/
       image: /images/2025 A Lvl  Distinction/IMG_4442.jpg
       alt: Image alt text
-  - infopic:
-      title: Class of 2025
-      subtitle: CONgratulations!
-      id: infopic
-      button: read more
-      url: /2025-gce-a-level-results/
-      image: /images/2025 A Lvl  Distinction/IMG_4442.jpg
-      alt: Image alt text
   - infobar:
       title: Our RV Story
       id: infobar
