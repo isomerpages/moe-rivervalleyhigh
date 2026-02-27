@@ -253,6 +253,41 @@ to good use in service of others.</p>
 <p>&nbsp;</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>&nbsp;Dilys Lim Yi Ling (24J06)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dilys leads with humility and is deeply committed to building a positive
+school culture. She has held multiple leadership roles, including President
+of the 45th High School Students’ Council, Vice Chairperson for Secondary
+One Orientation, Logistics Head for Graduation Day 2023, Logistics Deputy
+Secretary-General for RVMUN 2025, and Peer Support Leader (PSL) for her
+class. As Chairperson of PSL (JC) Exco, she spearheaded initiatives such
+as Self-Care Month and Kindness Month to enhance student well-being. By
+sharing well-being messages at morning assemblies and coming up with creative
+activities like writing notes of appreciation and self-care Bingo, the
+JC students got to experience how it felt to give and receive kind words
+or deeds and learnt to prioritise self-care.
+<br>
+</p>
+<p>Beyond school, Dilys served as Liaison Head at Cancer Kids First Singapore,
+managing sponsorship funds and curating meaningful experiences for beneficiaries.
+&nbsp;Her compassion was further demonstrated through her volunteer work
+at St Luke's Hospital, where she spent time conversing with seniors and
+tailored games to their preferences. These experiences raised her awareness
+of others' needs and helped her develop meaningful connections.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <table style="minWidth: 75px">
