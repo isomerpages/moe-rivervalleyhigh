@@ -171,6 +171,9 @@ and platform to serve others.&nbsp;</p>
 <details class="isomer-details">
 <summary>Yang Lin Xuan (25J15)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Yang_Lin_Xuan_24J15.jpg">
+</div>
 <p>As President of the Chinese Orchestra, Yang Lin Xuan led with heart, purpose,
 and creativity. Playing the Dizi, she served a month-long internship with
 TENG Company, where she deepened her understanding of arts management and
