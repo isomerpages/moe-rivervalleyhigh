@@ -38,6 +38,7 @@ his commitment to conservation. &nbsp;</p>
 <details class="isomer-details">
 <summary>Hayley Ng (24J07)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Hayley_Ng_Theng_24J07.jpg">
 </div>
