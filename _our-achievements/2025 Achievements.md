@@ -81,7 +81,24 @@ and commitment to excellence distinguish her as a role model.</p>
 <details class="isomer-details">
 <summary>&nbsp;Matthew Tay Tze Kiat (24J17)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As a President's Scout Award recipient, Matthew Tay exemplifies resilience,
+leadership, and a deep commitment to service. From 2024 to 2025, he was
+the President of the school's Venture CCA where he created an inclusive
+environment and demonstrated strategic thinking and adaptability in managing
+CCA events. As part of the President's Scout Award, he completed his Pioneering
+Exploration Assessment, trekking more than 60 km over two days. Beyond
+demonstrating physical endurance and technical competence, he led his team
+to stay coordinated and motivated despite harsh conditions.
+<br>
+<br>Matthew’s leadership qualities shone when he initiated and led in collaboration
+with SG Cares – Thye Hua Kuan Moral Charities. As Chairperson, Matthew
+coordinated two large-scale community outings for over 50 elderly participants
+and led a team of 30 student volunteers. He worked closely with community
+partners to plan meaningful activities that addressed social isolation
+among seniors, ensuring that logistical, safety, and engagement needs were
+met. Through clear communication, careful planning, and strong leadership,
+he fostered genuine connections between students and the elderly, reflecting
+his belief that service should be driven by empathy and respect.</p>
 <p></p>
 <p></p>
 </div>
