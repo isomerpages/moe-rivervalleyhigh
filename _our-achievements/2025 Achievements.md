@@ -254,8 +254,7 @@ children with learning disabilities basic Python programming. As a leader
 of MLA, he organised an R programming workshop and designed learning materials
 for his juniors. These experiences reflect Nitin's deep love for science,
 mathematics, and technology, and his commitment to putting his knowledge
-to good use in service of others.</p>
-<p>&nbsp;</p>
+to good use in service of others.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
