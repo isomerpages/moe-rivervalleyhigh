@@ -4,6 +4,36 @@ permalink: /2025-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>Outstanding Graduates from the Class of 2025</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teo Shen Han (24J02)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Shen Han's passion for wildlife conservation led him to explore sustainable
+food solutions through the MOE Science Mentorship Programme. He helped
+researchers at the Singapore University of Technology and Design develop
+3D-printed food products with cricket powder as a sustainable alternative,
+which later won him first prize at the Shanghai International Youth Science
+and Technology Camp.
+<br>
+</p>
+<p>Beyond the classroom, Shen Han independently secured research opportunities
+at the National University of Singapore. With guidance from Associate Professor
+Ryan Chisholm, he conducted literature reviews on endangered bird species
+during JC1 GAP Month. After this stint, he worked under Associate Professor
+Frank Rheindt, where he proposed a novel colourimetric method to study
+avian taxonomy until the end of JC2. His comprehensive report earned first
+authorship in an article published in <em>Avian Research</em>, a Gold Award
+at the Singapore Science and Engineering Fair, and selection as one of
+six projects representing Singapore at the International Science and Engineering
+Fair in Ohio, USA. He also volunteered with the Worldwide Fund for Nature,
+contributing to butterfly counts and habitat impact studies, reflecting
+his commitment to conservation. &nbsp;
+<br>
+</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
