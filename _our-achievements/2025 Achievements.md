@@ -285,6 +285,10 @@ of others' needs and helped her develop meaningful connections.</p>
 <details class="isomer-details">
 <summary>Lee Hsiang (24J19)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Lee_Hsiang_24J19.jpg">
+</div>
 <p>As Chair of the inaugural Reve Carnival, Lee Hsiang coordinated the planning
 and execution across multiple stakeholders, demonstrating his organisational
 acumen and initiative. Under his leadership, this large-scale event successfully
