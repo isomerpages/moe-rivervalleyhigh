@@ -54,6 +54,12 @@ at the event. Her strong leadership and dedication to community service
 is an example of a Leader of Distinction who is purposeful and does good.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Javelle Toh (24J18)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
