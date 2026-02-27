@@ -121,8 +121,9 @@ committed to service, Javelle led the Boon Lay Residents' Network initiative,
 Hearts &amp; Homes, where she forged strong bonds with elderly residents
 during weekly visits over eight months. She also helped Xingnan Primary
 School’s lower primary students with emerging reading skills to foster
-a passion for reading.</p>
-<p>&nbsp;</p>
+a passion for reading.
+<br>
+</p>
 <p>Beyond her leadership, Javelle's analytical abilities were evident when
 she co-authored a research paper for the 2024 Bicultural Studies Programme
 Symposium. Her team’s research on examining differing perspectives of Singaporean
