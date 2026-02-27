@@ -4,6 +4,10 @@ permalink: /2025-gce-a-level-results/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/IMG_4442.jpg">
+</div>
 <p>Congratulations to the Class of 2025! Our students have continued to do
 well! As RV celebrates 70 years of excellence this year, we are reminded
 that our legacy extends far beyond academic achievements to encompass the
