@@ -145,8 +145,7 @@ environment and demonstrated strategic thinking and adaptability in managing
 CCA events. As part of the President's Scout Award, he completed his Pioneering
 Exploration Assessment, trekking more than 60 km over two days. Beyond
 demonstrating physical endurance and technical competence, he led his team
-to stay coordinated and motivated despite harsh conditions.</p>
-<p>&nbsp;</p>
+to stay coordinated and motivated despite harsh conditions.&nbsp;</p>
 <p>Matthew’s leadership qualities shone when he initiated and led in collaboration
 with SG Cares – Thye Hua Kuan Moral Charities. As Chairperson, Matthew
 coordinated two large-scale community outings for over 50 elderly participants
