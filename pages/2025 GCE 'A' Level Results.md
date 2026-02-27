@@ -185,6 +185,10 @@ and platform to serve others.&nbsp;</p>
 <details class="isomer-details">
 <summary>Yang Lin Xuan (24J15)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Yang_Lin_Xuan_24J15.jpg">
+</div>
 <p>As President of the Chinese Orchestra, Yang Lin Xuan led with heart, purpose,
 and creativity. Playing the Dizi, she served a month-long internship with
 TENG Company, where she deepened her understanding of arts management and
@@ -204,6 +208,29 @@ first place with a groundbreaking proposal on sustainable lunar resource
 utilisation. Her willingness to engage with unfamiliar content and persevere
 through intellectual obstacles underscores her adaptability, grit, and
 commitment to personal growth.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Lim Zi Fu (24J08)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Lim Zi Fu’s leadership journey began as the Wushu Captain in 2021. Through
+perseverance and active participation in leadership programmes such as
+the Leadership Development Camp and the Mentor Committee, he grew in self-confidence
+and honed his interpersonal and communication skills which enabled him
+to foster strong team cohesion. Motivated by his desire for growth, he
+sought opportunities to take on greater responsibilities, serving as House
+Captain of the 46th Junior College Student Council and Chairperson of Prom
+2024. In these roles, he demonstrated strong organisational skills and
+adaptability. As House Captain, he played a pioneering role in establishing
+the school’s first House Committee and launching the inaugural House League
+Season. &nbsp;
+<br>
+<br>Committed to serving the community, Zi Fu volunteered as a befriender
+with the National Kidney Foundation, offering emotional support to dialysis
+patients. Through empathy and dedication, he brought comfort to those in
+need. Zi Fu is a grounded and compassionate leader who adopted a people-centric
+approach that promoted trust, collaboration, and leadership development.</p>
+<p>&nbsp;</p>
 </div>
 </details>
 </div>
