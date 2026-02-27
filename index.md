@@ -21,6 +21,14 @@ sections:
         - title: Sexuality Education (JC) Overview
           description: Click here
           url: /information/moe-sexuality-education-in-schools-jc/
+  - infopic:
+      title: Class of 2025
+      subtitle: Congratulations!
+      id: infopic
+      button: Read More
+      url: /2025-gce-a-level-results/
+      image: /images/2025 A Lvl  Distinction/IMG_4442.jpg
+      alt: Image alt text
   - infobar:
       title: Our RV Story
       id: infobar
