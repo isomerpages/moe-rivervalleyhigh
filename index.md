@@ -26,7 +26,6 @@ sections:
       subtitle: CONgratulations!
       id: infopic
       button: read more
-      alt: Image alt text
       url: /2025-gce-a-level-results/
   - infobar:
       title: Our RV Story
