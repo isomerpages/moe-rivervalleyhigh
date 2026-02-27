@@ -131,7 +131,24 @@ his belief that service should be driven by empathy and respect.</p>
 <details class="isomer-details">
 <summary>Chang Wan Xuan (24J04)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Chang Wan Xuan is a thoughtful and driven student leader who exemplifies
+resilience and empathy. As the President of the Students’ Council from
+2024 to 2025, she fostered an inclusive environment through Town Halls
+and council meetings. Collaborating with peers to revitalise house culture,
+she played a key role in establishing a new House Committee and successfully
+organised multiple house events over two years, including a sports carnival,
+thereby strengthening school spirit. Wan Xuan spearheaded the Leaders Summit
+2024, where she curated meaningful dialogues for over 100 CCA leaders.
+She also initiated council exchanges with two other junior colleges, resulting
+in the adoption of best practices and stronger inter-school networks.
+<br>
+<br>Wan Xuan’s strong commitment to service was evident as she dedicated her
+Saturday mornings to tutoring less privileged children through the "Homework
+Help" initiative, leading floorball sessions for children, taking them
+on science field trips, and volunteering with the National Kidney Foundation
+where she engaged with dialysis patients. Her ability to balance leadership
+responsibilities with community service and academics reflects her steadfast
+dedication to everything she undertakes.&nbsp;</p>
 </div>
 </details>
 </div>
