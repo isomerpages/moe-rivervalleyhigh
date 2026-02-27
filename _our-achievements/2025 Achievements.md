@@ -91,6 +91,9 @@ and commitment to excellence distinguish her as a role model.</p>
 <details class="isomer-details">
 <summary>&nbsp;Matthew Tay Tze Kiat (24J17)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Matthew_Tay_Sze_Kiat_24J17.jpg">
+</div>
 <p>As a President's Scout Award recipient, Matthew Tay exemplifies resilience,
 leadership, and a deep commitment to service. From 2024 to 2025, he was
 the President of the school's Venture CCA where he created an inclusive
