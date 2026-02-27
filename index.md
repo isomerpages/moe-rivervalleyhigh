@@ -86,7 +86,7 @@ sections:
       title: Class of 2025
       subtitle: CONgratulations!
       id: infopic
-      button: Button Text
+      button: read more
       alt: Image alt text
       url: /2025-gce-a-level-results/
 ---
