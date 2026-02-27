@@ -254,8 +254,12 @@ to good use in service of others.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;Dilys Lim Yi Ling (24J06)</summary>
+<summary>Dilys Lim Yi Ling (24J06)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Dilys_Lim_Yi_Ling_24J06.jpg">
+</div>
 <p>Dilys leads with humility and is deeply committed to building a positive
 school culture. She has held multiple leadership roles, including President
 of the 45th High School Students’ Council, Vice Chairperson for Secondary
