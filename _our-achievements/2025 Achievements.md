@@ -126,9 +126,27 @@ dedication to everything she undertakes.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Chin Xiao Rou (24J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Chin Xiao Rou is a forward-thinking leader who demonstrated a strong global
+outlook and bicultural acumen. In her diverse roles as President of the
+Chinese Debate Club, Vice President of the Multimedia Club, and Student
+Councillor, she excelled in fostering intellectual discourse in debate,
+training students in multimedia, and representing student interests. As
+a Bicultural Studies Programme Scholar and Vice President of the Bicultural
+Leaders Academy, Xiao Rou actively promoted cross-cultural understanding
+and engagement. She played a key role in initiatives that encouraged discourse
+on China's evolving role in the world and its implications for Singapore.
+Her deep understanding of cultural dynamics and international affairs,
+combined with a breadth of leadership experience, enabled her to navigate
+diverse perspectives with sensitivity and insight.
+<br>
+</p>
+<p>Beyond school, Xiao Rou was deeply committed to community service and
+social impact. She distributed food to lower income families, provided
+photography support for NGOs, and contributed to national celebrations
+like Chingay. These experiences reflect her belief in using her skills
+and platform to serve others.&nbsp;</p>
 </div>
 </details>
 </div>
