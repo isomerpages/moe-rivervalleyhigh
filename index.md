@@ -82,4 +82,10 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Class of 2025
+      subtitle: CONgratulations!
+      id: infopic
+      button: Button Text
+      alt: Image alt text
 ---
