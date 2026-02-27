@@ -158,29 +158,6 @@ his belief that service should be driven by empathy and respect.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>As a President's Scout Award recipient, Matthew Tay exemplifies resilience,
-leadership, and a deep commitment to service. From 2024 to 2025, he was
-the President of the school's Venture CCA where he created an inclusive
-environment and demonstrated strategic thinking and adaptability in managing
-CCA events. As part of the President's Scout Award, he completed his Pioneering
-Exploration Assessment, trekking more than 60 km over two days. Beyond
-demonstrating physical endurance and technical competence, he led his team
-to stay coordinated and motivated despite harsh conditions.
-<br>
-<br>Matthew’s leadership qualities shone when he initiated and led in collaboration
-with SG Cares – Thye Hua Kuan Moral Charities. As Chairperson, Matthew
-coordinated two large-scale community outings for over 50 elderly participants
-and led a team of 30 student volunteers. He worked closely with community
-partners to plan meaningful activities that addressed social isolation
-among seniors, ensuring that logistical, safety, and engagement needs were
-met. Through clear communication, careful planning, and strong leadership,
-he fostered genuine connections between students and the elderly, reflecting
-his belief that service should be driven by empathy and respect.</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>Chang Wan Xuan (24J04)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -204,11 +181,36 @@ Help" initiative, leading floorball sessions for children, taking them
 on science field trips, and volunteering with the National Kidney Foundation
 where she engaged with dialysis patients. Her ability to balance leadership
 responsibilities with community service and academics reflects her steadfast
-dedication to everything she undertakes.&nbsp;</p>
+dedication to everything she undertakes.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Chin Xiao Rou (24J08)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Chin Xiao Rou</strong> is a <strong>forward-thinking leader</strong> who
+demonstrated a strong global outlook and bicultural acumen. In her diverse
+roles as President of the Chinese Debate Club, Vice President of the Multimedia
+Club, and Student Councillor, she excelled in fostering intellectual discourse
+in debate, training students in multimedia, and representing student interests.
+As a Bicultural Studies Programme Scholar and Vice President of the Bicultural
+Leaders Academy, Xiao Rou actively promoted cross-cultural understanding
+and engagement. She played a key role in initiatives that encouraged discourse
+on China's evolving role in the world and its implications for Singapore.
+Her deep understanding of cultural dynamics and international affairs,
+combined with a breadth of leadership experience, enabled her to navigate
+diverse perspectives with sensitivity and insight.
+<br>
+<br>Beyond school, Xiao Rou was deeply committed to community service and
+social impact. She distributed food to lower income families, provided
+photography support for NGOs, and contributed to national celebrations
+like Chingay. These experiences reflect her belief in using her skills
+and platform to serve others.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
