@@ -263,6 +263,13 @@ mathematics, and technology, and his commitment to putting his knowledge
 to good use in service of others.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Dilys Lim Yi Ling (24J06)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p></p>
