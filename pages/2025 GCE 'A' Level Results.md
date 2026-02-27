@@ -77,32 +77,30 @@ is an example of a Leader of Distinction who is purposeful and does good.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Javelle Toh (24J18)</summary>
+<summary>Dilys Lim Yi Ling (24J06)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Javelle_Toh_Quanxiu_24J18.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Dilys_Lim_Yi_Ling_24J06.jpg">
 </div>
-<p>Demonstrating exceptional leadership and commitment to service, Javelle
-Toh received the 2023 President's Guide Award. She played a pivotal role
-as Head of the Activities Committee for the 2025 World Thinking Day Celebrations,
-a large-scale national event hosted by Girl Guides Singapore that involved
-over 5,000 participants from Singapore and abroad. In this capacity, she
-spearheaded the planning and execution of a Singapore record-breaking initiative,
-"Largest Banner Covered in Fabric Pieces with Handwritten Notes". Equally
-committed to service, Javelle led the Boon Lay Residents' Network initiative,
-Hearts &amp; Homes, where she forged strong bonds with elderly residents
-during weekly visits over eight months. She also helped Xingnan Primary
-School’s lower primary students with emerging reading skills to foster
-a passion for reading.
+<p>Dilys leads with humility and is deeply committed to building a positive
+school culture. She has held multiple leadership roles, including President
+of the 45th High School Students’ Council, Vice Chairperson for Secondary
+One Orientation, Logistics Head for Graduation Day 2023, Logistics Deputy
+Secretary-General for RVMUN 2025, and Peer Support Leader (PSL) for her
+class. As Chairperson of PSL (JC) Exco, she spearheaded initiatives such
+as Self-Care Month and Kindness Month to enhance student well-being. By
+sharing well-being messages at morning assemblies and coming up with creative
+activities like writing notes of appreciation and self-care Bingo, the
+JC students got to experience how it felt to give and receive kind words
+or deeds and learnt to prioritise self-care.
 <br>
-<br>Beyond her leadership, Javelle's analytical abilities were evident when
-she co-authored a research paper for the 2024 Bicultural Studies Programme
-Symposium. Her team’s research on examining differing perspectives of Singaporean
-and Chinese teenagers towards entrepreneurship earned the title of "Outstanding
-Research Paper". Overall, Javelle is a multifaceted individual whose leadership
-and commitment to excellence distinguish her as a role model.</p>
-<p>&nbsp;</p>
+<br>Beyond school, Dilys served as Liaison Head at Cancer Kids First Singapore,
+managing sponsorship funds and curating meaningful experiences for beneficiaries.
+&nbsp;Her compassion was further demonstrated through her volunteer work
+at St Luke's Hospital, where she spent time conversing with seniors and
+tailored games to their preferences. These experiences raised her awareness
+of others' needs</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -240,42 +238,26 @@ approach that promoted trust, collaboration, and leadership development.&nbsp;</
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Srinivasan_Nitin_24J08.jpg">
-</div>
-<p>use in service of others.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Dilys Lim Yi Ling (24J06)</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Dilys_Lim_Yi_Ling_24J06.jpg">
 </div>
-<p>Dilys leads with humility and is deeply committed to building a positive
-school culture. She has held multiple leadership roles, including President
-of the 45th High School Students’ Council, Vice Chairperson for Secondary
-One Orientation, Logistics Head for Graduation Day 2023, Logistics Deputy
-Secretary-General for RVMUN 2025, and Peer Support Leader (PSL) for her
-class. As Chairperson of PSL (JC) Exco, she spearheaded initiatives such
-as Self-Care Month and Kindness Month to enhance student well-being. By
-sharing well-being messages at morning assemblies and coming up with creative
-activities like writing notes of appreciation and self-care Bingo, the
-JC students got to experience how it felt to give and receive kind words
-or deeds and learnt to prioritise self-care.
-<br>
-<br>Beyond school, Dilys served as Liaison Head at Cancer Kids First Singapore,
-managing sponsorship funds and curating meaningful experiences for beneficiaries.
-&nbsp;Her compassion was further demonstrated through her volunteer work
-at St Luke's Hospital, where she spent time conversing with seniors and
-tailored games to their preferences. These experiences raised her awareness
-of others' needs and helped her develop meaningful connections.</p>
+<p>and helped her develop meaningful connections.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Srinivasan Nitin (24J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Srinivasan_Nitin_24J08.jpg">
+</div>
 <p>Driven by curiosity and a desire to make a positive impact, Nitin sought
 opportunities to deepen his knowledge and develop innovative solutions.
 A recipient of the Engineering and Technology Programme Scholarship (ETPS),
@@ -293,8 +275,7 @@ children with learning disabilities basic Python programming. As a leader
 of MLA, he organised an R programming workshop and designed learning materials
 for his juniors. These experiences reflect Nitin's deep love for science,
 mathematics, and technology, and his commitment to putting his knowledge
-to good</p>
-<p></p>
+to good use in service of others.</p>
 </div>
 </details>
 <details class="isomer-details">
