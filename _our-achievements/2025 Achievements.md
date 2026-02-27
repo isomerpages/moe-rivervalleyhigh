@@ -149,6 +149,31 @@ like Chingay. These experiences reflect her belief in using her skills
 and platform to serve others.&nbsp;</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Yang Lin Xuan (25J15)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As President of the Chinese Orchestra, Yang Lin Xuan led with heart, purpose,
+and creativity. Playing the Dizi, she served a month-long internship with
+TENG Company, where she deepened her understanding of arts management and
+community engagement while creating original content for their social media
+platforms. Her impressive videos amassed more than 500,000 views across
+TikTok and Instagram, with her most viral video reaching 95,000 views.
+Based on merit and her outstanding audition performance, she was awarded
+the prestigious MapleTree-TENG Scholarship for her contributions. Using
+her musical talents to serve the community, Lin Xuan spearheaded Values-In-Action
+initiatives such as performances and engagement sessions with seniors at
+the NTUC Health Active Ageing Centre.
+<br>
+</p>
+<p>Beyond her musical excellence, Lin Xuan's diverse interests include scientific
+research. She applied her knowledge to solve global challenges, representing
+the school at the International Space Challenge 2023, where her team clinched
+first place with a groundbreaking proposal on sustainable lunar resource
+utilisation. Her willingness to engage with unfamiliar content and persevere
+through intellectual obstacles underscores her adaptability, grit, and
+commitment to personal growth.</p>
+</div>
+</details>
 </div>
 <p></p>
 <table style="minWidth: 75px">
