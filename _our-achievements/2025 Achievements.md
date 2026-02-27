@@ -144,6 +144,9 @@ dedication to everything she undertakes.&nbsp;</p>
 <details class="isomer-details">
 <summary>Chin Xiao Rou (24J08)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Lvl  Distinction/Chin_Xiao_Rou_24J08.jpg">
+</div>
 <p>Chin Xiao Rou is a forward-thinking leader who demonstrated a strong global
 outlook and bicultural acumen. In her diverse roles as President of the
 Chinese Debate Club, Vice President of the Multimedia Club, and Student
