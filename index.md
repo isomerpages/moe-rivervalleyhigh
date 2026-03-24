@@ -12,7 +12,7 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Immersive 360 degrees Campus Guide
+        - title: Interactive RVHS Campus Guide
           description: click here
           url: https://campusguide-ajgq.onrender.com/
   - infopic:
