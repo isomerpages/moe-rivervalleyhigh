@@ -12,7 +12,7 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
       key_highlights:
-        - title: Interactive RVHS Campus Guide
+        - title: Explore RVHS Campus
           description: click here
           url: https://campusguide-ajgq.onrender.com/
   - infopic:
