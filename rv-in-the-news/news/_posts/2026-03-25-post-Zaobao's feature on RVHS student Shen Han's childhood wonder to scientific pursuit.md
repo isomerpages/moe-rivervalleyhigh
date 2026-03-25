@@ -8,3 +8,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Click <a href="https://www.zaobao.com.sg/news/singapore/story20260310-8687036" rel="noopener nofollow" target="_blank">here</a> to
+read the news article.</p>
