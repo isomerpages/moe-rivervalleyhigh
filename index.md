@@ -11,10 +11,6 @@ sections:
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
       variant: center
-      key_highlights:
-        - title: Explore RVHS Campus
-          description: click here
-          url: https://campusguide-ajgq.onrender.com/
   - infopic:
       title: Class of 2025
       subtitle: Congratulations!
