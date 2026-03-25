@@ -4,7 +4,6 @@ permalink: /hold-facilities/
 variant: tiptap
 description: ""
 ---
-<h4>Click <a href="https://campusguide-ajgq.onrender.com/" rel="noopener nofollow" target="_blank">here</a> to explore our RHVS Campus. </h4>
 <h4><br>Spaces for Learning</h4>
 <table style="minWidth: 50px">
 <colgroup>
