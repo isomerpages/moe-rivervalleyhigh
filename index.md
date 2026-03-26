@@ -11,16 +11,6 @@ sections:
       title: River Valley High School
       subtitle: Leaders of Distinction for Singapore
       variant: center
-      key_highlights:
-        - title: Collection of GCE 'A' level results
-          description: Click here
-          url: /information-regarding-the-collection-of-a-level-results/
-        - title: Sexuality Education (Secondary) Overview
-          description: Click here
-          url: /rvhs-2026-info-on-sed-for-school/
-        - title: Sexuality Education (JC) Overview
-          description: Click here
-          url: /information/moe-sexuality-education-in-schools-jc/
   - infopic:
       title: Class of 2025
       subtitle: Congratulations!
