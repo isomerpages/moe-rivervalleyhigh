@@ -588,7 +588,7 @@ in the future.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021(–Present)</p>
+<p>2021-2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Shi Qian</p>
@@ -600,6 +600,14 @@ in the future.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Hong Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026(-Present)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aaron Tang Wei Lun</p>
 </td>
 </tr>
 </tbody>
