@@ -588,7 +588,7 @@ in the future.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021-2026</p>
+<p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Shi Qian</p>
