@@ -4,5 +4,5 @@ permalink: /virtual-open-house/
 variant: tiptap
 description: ""
 ---
-<h4>Class is Almost in Session!<br><br>Save the date: 25 April 2026</h4>
+<h4>Class is Almost in Session!<br><br>Join us for our Virtual Open House<br><br>Save the date: 25 April 2026</h4>
 <p></p>
