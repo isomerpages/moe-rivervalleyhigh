@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Virtual Open House.md
       - Whole School/.keep
       - Whole School/Information for students.md
       - Whole School/School Fees.md
