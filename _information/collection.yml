@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - 2025 Secondary 1 Registration/.keep
       - Whole School/.keep
       - Whole School/Information for students.md
       - Whole School/School Fees.md
