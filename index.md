@@ -13,7 +13,7 @@ sections:
       variant: center
   - infopic:
       title: Virtual Open House on 25 April 2026
-      subtitle: Get Online!
+      subtitle: Join us Online!
       id: infopic
       image: /images/virtual_open_house_s.png
       alt: Image alt text
