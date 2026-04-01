@@ -12,6 +12,12 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
   - infopic:
+      title: Virtual Open House on 25 April 2026
+      subtitle: Get Online!
+      id: infopic
+      image: /images/virtual_open_house_s.png
+      alt: Image alt text
+  - infopic:
       title: Class of 2025
       subtitle: Congratulations!
       id: infopic
