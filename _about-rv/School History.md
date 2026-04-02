@@ -604,10 +604,10 @@ in the future.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026(-Present)</p>
+<p>2025(-Present)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Tang Wei Lun</p>
+<p>Mr Tang Wei Lun Aaron</p>
 </td>
 </tr>
 </tbody>
