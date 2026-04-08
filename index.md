@@ -91,6 +91,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       button: Click here to learn more about RV70morrow and Purchase Tickets
-      url: url
+      url: /rv70morrow/
       alt: Image alt text
+      image: /images/School_Publicity_Poster.png
 ---
