@@ -13,7 +13,6 @@ sections:
       variant: center
   - infopic:
       title: RV 70morrow 七十•启示
-      subtitle: Add an image and text
       id: infopic
       button: Click here to learn more about RV70morrow and Purchase Tickets
       url: /rv70morrow/
