@@ -12,6 +12,14 @@ sections:
       subtitle: Leaders of Distinction for Singapore
       variant: center
   - infopic:
+      title: RV 70morrow 七十•启示
+      subtitle: Add an image and text
+      id: infopic
+      button: Click here to learn more about RV70morrow and Purchase Tickets
+      url: /rv70morrow/
+      alt: Image alt text
+      image: /images/School_Publicity_Poster.png
+  - infopic:
       title: Virtual Open House on 25 April 2026
       subtitle: Join us Online!
       id: infopic
@@ -86,12 +94,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: RV 70morrow 七十•启示
-      subtitle: Add an image and text
-      id: infopic
-      button: Click here to learn more about RV70morrow and Purchase Tickets
-      url: /rv70morrow/
-      alt: Image alt text
-      image: /images/School_Publicity_Poster.png
 ---
