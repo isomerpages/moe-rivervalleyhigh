@@ -86,4 +86,11 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: RV 70morrow 七十•启示
+      subtitle: Add an image and text
+      id: infopic
+      button: Click here to learn more about RV70morrow and Purchase Tickets
+      url: url
+      alt: Image alt text
 ---
