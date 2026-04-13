@@ -644,8 +644,20 @@ students need to meet in order to be promoted to the next level.</p>
 to be admitted into RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There is no need to but your child will have to take Higher Chinese in
-RV.</p>
+<p>Students who took&nbsp;<strong>both</strong>&nbsp;English and Chinese
+at the PSLE can opt for SAP schools. They need not have taken Higher Chinese
+Language (HCL) in primary school.</p>
+<p></p>
+<p>Students who obtained Pass, Merit or Distinction in HCL and have a PSLE
+score of 14 or better (i.e. PSLE score ≤ 14) are eligible for a posting
+advantage when applying to SAP schools.</p>
+<p></p>
+<p>When multiple students with the same PSLE score apply to an SAP school,
+those with better HCL grades will be given priority. This applies before
+the tie-breakers.</p>
+<p></p>
+<p>The cut-off point (COP) of SAP schools include the HCL grade of the last
+student posted to the school, if applicable.</p>
 </td>
 </tr>
 <tr>
