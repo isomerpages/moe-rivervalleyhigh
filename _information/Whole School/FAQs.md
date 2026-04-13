@@ -634,8 +634,7 @@ the West.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Just like any other school, there is a set of promotion criteria that
-students need to meet in order to be promoted to the next level.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -739,7 +738,8 @@ subject combination in Secondary 3.</p>
 <p>Is there any promotion criteria from Sec 1 to JC 2?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Just like any other school, there is a set of promotion criteria that
+students need to meet in order to be promoted to the next level.</p>
 </td>
 </tr>
 <tr>
