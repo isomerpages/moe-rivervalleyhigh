@@ -661,14 +661,12 @@ student posted to the school, if applicable.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What is the Chinese Language Programme like in RV?</p>
+<p>When do the students sit for the GCE "O" Level HCL examination?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>As an SAP and IP school, we have a specially designed RV Chinese Language
-programme for all students. This programme aims to build their foundation
-and equip them with the necessary skills and competencies so that they
-are well prepared to sit for the GCE O-Level Higher Chinese Language Examination
-in secondary 4.</p>
+programnd competencies so that they are well prepared to sit for the GCE
+O-Level Higher Chinese Language Examination in secondary 4.</p>
 </td>
 </tr>
 <tr>
