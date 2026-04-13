@@ -621,7 +621,7 @@ or IP schools after acceptance of the Confirmed Offer.</p>
 <p>Does RV place more emphasis on the Chinese Language than on English Language?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As a SAP school, we strongly believe in the importance of both languages,
+<p>As an SAP school, we strongly believe in the importance of both languages,
 given the global landscape that demands proficiency in both languages and
 bicultural sensitivity in order for us to engage with the rest of the world.&nbsp;By
 placing equal emphasis on both languages, our students will have a competitive
@@ -631,7 +631,7 @@ the West.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Is there any promotion criteria from Sec 1 to J2?</p>
+<p>Is there any promotion criteria from Sec 1 to JC 2?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Just like any other school, there is a set of promotion criteria that
