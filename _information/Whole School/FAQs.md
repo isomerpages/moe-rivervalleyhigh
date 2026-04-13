@@ -320,10 +320,10 @@ in the CCA Certificate.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Is there a recreational team apart from the school team?</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There is no recreational team.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
