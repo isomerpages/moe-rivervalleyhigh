@@ -159,7 +159,7 @@ to:</p>
 <p>Submit school choices during the Secondary 1 (S1) posting process.</p>
 </li>
 <li>
-<p>Change their CCA</p>
+<p>Change their CCA if it is the chosen talent area</p>
 </li>
 <li>
 <p>Transfer to another school. They <strong>must</strong> commit to their chosen
@@ -167,9 +167,12 @@ school for the duration of the programme.</p>
 </li>
 </ul>
 <p></p>
-<p>This would allow us to develop your child's full potential. If choice
-of CCA is important, your child should avoid applying for admission via
-DSA due to the aforementioned conditions.</p>
+<p>In accepting a DSA offer, your child is expressing a commitment to study
+in that school and develop their talent in the chosen area. Your child
+should honour this commitment.</p>
+<p></p>
+<p>If choice of CCA is important, your child should avoid applying for admission
+via DSA due to the aforementioned conditions.</p>
 </td>
 </tr>
 <tr>
