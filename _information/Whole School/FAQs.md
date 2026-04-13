@@ -778,10 +778,11 @@ websites.</p>
 <p>What are the school hours like in RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School starts at 8 am each morning from Tuesday to Friday, and we start
-at 9 am on Mondays. Lessons usually end at about 2.30pm, depending on which
-level and the students’ subject combination. On some afternoons, students
-may attend supplementary classes or enrichment programmes.</p>
+<p>School begins at 8 am from Tuesday to Friday, with a later start time
+of 9:00 am on Mondays. Lessons typically end around 2:30 pm, although the
+exact timing may vary depending on the student's level and subject combination.
+On some afternoons, students may attend supplementary classes or enrichment
+programmes.</p>
 </td>
 </tr>
 <tr>
