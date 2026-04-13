@@ -640,13 +640,13 @@ students need to meet in order to be promoted to the next level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Does my child need to take Higher Chinese Language in P5 and 6 in order
-to be admitted into RV?</p>
+<p>Does my child need to take Higher Chinese Language (HCL) in P5 and 6 in
+order to be admitted into RV?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who took&nbsp;<strong>both</strong>&nbsp;English and Chinese
-at the PSLE can opt for SAP schools. They need not have taken Higher Chinese
-Language (HCL) in primary school.</p>
+at the PSLE can opt for SAP schools. They need not have taken HCL in primary
+school.</p>
 <p></p>
 <p>Students who obtained Pass, Merit or Distinction in HCL are eligible for
 a posting advantage when applying to SAP schools.</p>
@@ -664,9 +664,7 @@ student posted to the school, if applicable.</p>
 <p>When do the students sit for the GCE "O" Level HCL examination?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As an SAP and IP school, we have a specially designed RV Chinese Language
-programnd competencies so that they are well prepared to sit for the GCE
-O-Level Higher Chinese Language Examination in secondary 4.</p>
+<p>Students will sit for the GCE "O" Level HCL Examination in secondary 4.</p>
 </td>
 </tr>
 <tr>
