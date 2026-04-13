@@ -809,10 +809,6 @@ programmes.</p>
 <p>No, we do not provide bus services as the school is conveniently located
 near Boon Lay MRT station with excellent public transport connectivity,
 including multiple bus routes serving the area.</p>
-<p></p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
