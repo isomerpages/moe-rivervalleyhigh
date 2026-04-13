@@ -174,10 +174,14 @@ DSA due to the aforementioned conditions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>If my child is offered admission to a secondary school through DSA, does
+he need to meet the school’s cut-off-point for S1 posting?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No, your child does not need to meet the school’s Cut-off point under
+Secondary 1 Posting. To be successfully admitted to a school through DSA,
+your child's PSLE results must qualify them for the Posting Group offered
+by the school.</p>
 </td>
 </tr>
 <tr>
@@ -907,4 +911,5 @@ to take effect.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>If my child is offered admission to a secondary school through DSA, does
+he need to meet the school’s cut-off-point for S1 posting?</p>
