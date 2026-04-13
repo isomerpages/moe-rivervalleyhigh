@@ -373,12 +373,13 @@ Academy and Students' Council and be part of leadership projects and initiatives
 <p>What are the selection criteria for robotics?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are highly recommended to be proficient in Python programming
-and be able to use computational thinking to solve problems. They will
-need to pass a Python programming test that assesses their skills and knowledge
-in the DSA test stage. For the assessment, Python reference materials will
-be provided for students familiar with other programming languages who
-need a quick refresher on Python programming.</p>
+<p>Prior knowledge of Python programming is highly recommended as it is an
+accessible and beginner-friendly language. Students who are well versed
+in other common programming languages, such as C++ or Java, may also apply.
+The school will provide appropriate Java and C++ IDEs for students who
+choose to use these languages. Block-based programming languages are not
+accepted.</p>
+<p></p>
 </td>
 </tr>
 <tr>
