@@ -853,8 +853,8 @@ schools are not allowed, unless under exceptional circumstances.</p>
 <br>Does RV accept transfer students from other schools?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents can call the school at the end of the academic year to check if
-there are any vacancies. If there are, parents can apply and the student
+<p>Parents may call the school at the end of the academic year to check if
+there are any vacancies. If there are, parents may apply and the student
 will sit for the aptitude tests.</p>
 </td>
 </tr>
@@ -863,8 +863,7 @@ will sit for the aptitude tests.</p>
 <p>How many Secondary 1 students do you admit every year?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The cohort size varies every year. Due to a shrinking population, there
-is a reduction in the number of students being admitted to RV.</p>
+<p>The cohort size varies every year.</p>
 </td>
 </tr>
 <tr>
