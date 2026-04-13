@@ -695,8 +695,11 @@ membership in more than one Academy is possible and encouraged.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>If my child is talented in the English Language, will there be opportunities
-to stretch him?</p>
+<p>If my child is very proficient in English Language, will there be opportunities
+to further develop and challenge his/her skills?</p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We support students' learning and interest areas, and we have different
