@@ -548,7 +548,7 @@ in JC2.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Are the GCE A-Level subjects taught in-house in RVHS?</p>
+<p>Are the GCE A-Level subjects taught in RVHS?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>As an Integrated Programme school, our students go through a seamless
