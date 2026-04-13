@@ -716,14 +716,6 @@ are spread out across the term so that they can pace their revision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>If my child takes the Art Elective Programme in another school, can my
 child take fewer subjects in RV?</p>
 </td>
