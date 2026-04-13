@@ -567,14 +567,12 @@ in RV.</p>
 <td rowspan="1" colspan="1">
 <p>RV students have been performing above the national average in the GCE
 A-Level Examinations and the school has been consistently value-adding
-to the students’ A-Level performance. In addition, 1 in 3 students get
-a scholarship, something that we are immensely proud of, considering that
-our students do not take the O-Levels. This shows the dedication and support
-of our teachers to ensure that our students do well in the examinations.
-Many students get scholarships to study at prestigious universities such
-as Oxford, Cambridge, Imperial college, London School of Economics, UC
-Berkeley, Harvard, Stanford, Massachusetts Institute of Technology, Peking
-University, Tsinghua University, Fudan and other renowned universities.</p>
+to the students’ A-Level performance. Our graduates are enrolled in local
+and overseas universities such as Oxford, Cambridge, Imperial college,
+London School of Economics, UC Berkeley, Harvard, Stanford, Massachusetts
+Institute of Technology, Peking University, Tsinghua University, Fudan
+and other renowned universities. This shows the dedication and support
+of our teachers to ensure that our students do well in the examinations.</p>
 </td>
 </tr>
 <tr>
