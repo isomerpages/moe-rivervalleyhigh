@@ -420,11 +420,11 @@ languages are not accepted.</p>
 <p>For Scientific Investigation, students should have a deep passion in science
 and innovative problem-solving skills. They should also demonstrate a natural
 curiosity in Science through their performance in science inquiry tasks.
-Besides academic excellence in Science and Mathematics in school-based
-exams, students' involvements in related competitions and enrichment activities
-(e.g. Primary School Science Club programmes and science / innovation research
-projects) are good evidence in the student portfolios, which indicate their
-interests in these domains.</p>
+Besides academic excellence in Science in school-based exams, students'
+involvements in related competitions and enrichment activities (e.g. Primary
+School Science Club programmes and science / innovation research projects)
+are good evidence in the student portfolios, which they need to present
+during the DSA trials, to highlight their interests in these domains.</p>
 </td>
 </tr>
 </tbody>
