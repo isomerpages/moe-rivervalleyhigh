@@ -32,12 +32,15 @@ variant: tiptap
 <p>What is the DSA exercise timeline like?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For DSA 2025 exercise, the online MOE application portal will be opened
-from 7th May (11am) to 3rd Jun (3pm). For RVHS, the shortlisted applicants
-will be informed of their DSA test via email on specified dates in July
-and August by 11 July (Friday). All applicants will be notified of the
-outcome of their application via email between 25 August and 4 September
-2025.</p>
+<p>The actual dates for DSA 2026 have not been released yet, please look
+out for MOE's announcements in early May. For reference, you may look at
+the DSA 2025 timeline:</p>
+<p></p>
+<p>For DSA 2025 exercise, the online MOE application portal was opened from
+7th May (11am) to 3rd Jun (3pm). For RVHS, the shortlisted applicants were
+informed of their DSA test via email on specified dates in July and August
+by 11 July (Friday). All applicants were notified of the outcome of their
+application via email between 25 August and 4 September 2025.</p>
 </td>
 </tr>
 <tr>
@@ -83,16 +86,18 @@ between 25 August and 4 September 2025 via email.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>You will have to indicate your preferences in ranked order for up to three
-schools during the School Preference Submission Exercise from 27 – 31 October
-2025 via the online MOE DSA portal.</p>
+schools during the School Preference Submission Exercise via the online
+MOE DSA portal.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What is the minimum AL score needed to be shortlisted for DSA trial /
-audition?
-<br>
-<br>Does RV only accept DSA students with AL1 in all subjects?</p>
+<p>What is the minimum AL score needed for my child to be shortlisted for
+DSA trial / audition? Does RV only accept DSA students with AL1 in all
+subjects?</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The DSA scheme provides students with an alternative route to gain admission
@@ -128,7 +133,8 @@ to RVHS, all students in RV must take Higher Chinese Language from Sec
 <p>Where can I find the list of CCAs for DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The 2025 DSA CCA list is available on our school website.</p>
+<p>The 2025 DSA CCA list is available on our school website . The 2026 DSA
+CCA list will be published once the DSA Exercise commences.</p>
 </td>
 </tr>
 <tr>
@@ -142,15 +148,43 @@ into consideration the student’s interest and long-term development potential.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>If my child gets in through DSA, how long must my child remain in the
-CCA? What if his interest changes?</p>
+<p>If my child gets into a secondary school through DSA-Sec, what obligations
+do they have?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Your child must remain in the same CCA so that we can develop his/her
-full potential over four years from Sec 1 to 4. If choice of CCA is important,
-then your child should avoid applying for admission via DSA as there are
-conditions attached.</p>
+<p>If your child is admitted to a secondary school through DSA, they are <strong>not</strong> allowed
+to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
+</li>
+<li>
+<p>Change their CCA if it is the chosen talent area</p>
+</li>
+<li>
+<p>Transfer to another school. They <strong>must</strong> commit to their chosen
+school for the duration of the programme.</p>
+</li>
+</ul>
+<p></p>
+<p>In accepting a DSA offer, your child is expressing a commitment to study
+in that school and develop their talent in the chosen area. Your child
+should honour this commitment.</p>
+<p></p>
+<p>If choice of CCA is important, your child should avoid applying for admission
+via DSA due to the aforementioned conditions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If my child is offered admission to a secondary school through DSA, does
+he need to meet the school’s cut-off-point for S1 posting?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No, your child does not need to meet the school’s Cut-off point under
+Secondary 1 Posting. To be successfully admitted to a school through DSA,
+your child's PSLE results must qualify them for the Posting Group offered
+by the school.</p>
 </td>
 </tr>
 <tr>
@@ -208,10 +242,11 @@ heavy workload, can she still apply for dance DSA and does she need to
 be the key dancer in her CCA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes, having ballet or any dance skills would be an advantage, but she
-does not need to be the key dancer. In RV Dance society, our dancers learn&nbsp;<strong>both Chinese and modern contemporary dance</strong>.
-All dancers would have to learn both genres, i.e. they cannot choose which
-genre they want to learn.</p>
+<p>While a dance background in any genre is beneficial, it is not a requirement.
+Previous experience as a lead dancer in school CCAs is not necessary, as
+selection is based primarily on your child’s performance during the audition.
+All successful candidates will receive training in both Chinese and contemporary
+modern dance styles.</p>
 </td>
 </tr>
 <tr>
@@ -317,14 +352,6 @@ primary school does not have that particular sport?</p>
 in the CCA Certificate.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Is there a recreational team apart from the school team?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>There is no recreational team.</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -376,12 +403,13 @@ Academy and Students' Council and be part of leadership projects and initiatives
 <p>What are the selection criteria for robotics?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are highly recommended to be proficient in Python programming
-and be able to use computational thinking to solve problems. They will
-need to pass a Python programming test that assesses their skills and knowledge
-in the DSA test stage. For the assessment, Python reference materials will
-be provided for students familiar with other programming languages who
-need a quick refresher on Python programming.</p>
+<p>Prior knowledge of Python programming is highly recommended as it is an
+accessible and beginner-friendly language. Students who are well versed
+in other common programming languages, such as C++ or Java, may also apply.
+The school will provide appropriate Java and C++ IDEs for students who
+choose to use these languages during the trial. Block-based programming
+languages are not accepted.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -392,11 +420,11 @@ need a quick refresher on Python programming.</p>
 <p>For Scientific Investigation, students should have a deep passion in science
 and innovative problem-solving skills. They should also demonstrate a natural
 curiosity in Science through their performance in science inquiry tasks.
-Besides academic excellence in Science and Mathematics in school-based
-exams, students' involvements in related competitions and enrichment activities
-(e.g. Primary School Science Club programmes and science / innovation research
-projects) are good evidence in the student portfolios, which indicate their
-interests in these domains.</p>
+Besides academic excellence in Science in school-based exams, students'
+involvements in related competitions and enrichment activities (e.g. Primary
+School Science Club programmes and science / innovation research projects)
+are good evidence in the student portfolios, which they need to present
+during the DSA trials, to highlight their interests in these domains.</p>
 </td>
 </tr>
 </tbody>
@@ -484,12 +512,13 @@ end-of-year examination period, CCA sessions will be phased down.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Besides the biennial SYF performances, students in the performing arts
-CCA have many platforms to perform such as our annual month-long Arts Fest.
-In addition, the Performing Arts CCAs perform in many internal and external
-school events ranging from Honours Day to performances at the Istana. Under
-the guidance of our experienced instructors, they also get to take part
-in competitions and when they are at their apex, they may be sent for external
-MOE courses such as the conductor’s course, to hone their skills.</p>
+CCA have many platforms to perform such as our annual Arts Fest performances,
+Reverie. In addition, the Performing Arts CCAs perform in many internal
+and external school events ranging from Honours Day to performances at
+the Istana. Under the guidance of our experienced instructors, they also
+get to take part in competitions and when they are at their apex, they
+may be sent for external MOE courses such as the conductor’s course, to
+hone their skills.</p>
 </td>
 </tr>
 <tr>
@@ -499,8 +528,8 @@ DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Your child has to remain committed to the CCA that he or she got in via
-DSA, so it must not clash with the other CCA that your child would like
-to join.</p>
+DSA, so it must not coincide with the training schedule of the other CCA
+that your child would like to join.</p>
 </td>
 </tr>
 </tbody>
@@ -547,7 +576,7 @@ in JC2.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Are the GCE A-Level subjects taught in-house in RVHS?</p>
+<p>Are the GCE A-Level subjects taught in RVHS?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>As an Integrated Programme school, our students go through a seamless
@@ -566,14 +595,12 @@ in RV.</p>
 <td rowspan="1" colspan="1">
 <p>RV students have been performing above the national average in the GCE
 A-Level Examinations and the school has been consistently value-adding
-to the students’ A-Level performance. In addition, 1 in 3 students get
-a scholarship, something that we are immensely proud of, considering that
-our students do not take the O-Levels. This shows the dedication and support
-of our teachers to ensure that our students do well in the examinations.
-Many students get scholarships to study at prestigious universities such
-as Oxford, Cambridge, Imperial college, London School of Economics, UC
-Berkeley, Harvard, Stanford, Massachusetts Institute of Technology, Peking
-University, Tsinghua University, Fudan and other renowned universities.</p>
+to the students’ A-Level performance. Our graduates are enrolled in local
+and overseas universities such as Oxford, Cambridge, Imperial college,
+London School of Economics, UC Berkeley, Harvard, Stanford, Massachusetts
+Institute of Technology, Peking University, Tsinghua University, Fudan
+and other renowned universities. This shows the dedication and support
+of our teachers to ensure that our students do well in the examinations.</p>
 </td>
 </tr>
 <tr>
@@ -584,13 +611,14 @@ University, Tsinghua University, Fudan and other renowned universities.</p>
 <br>What is the drop-out rate?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As a school, we provide our fullest support to our students. This environment
-comprises the form teachers, subject teachers and Year Master, and they
-monitor students' progress and decide on a remediation programme to help
-students when necessary. Coupled with strong home-school partnership, we
-are confident of helping our students to do well in the GCE A Level Examinations.
-Students who asked to leave RV typically do so because they want to pursue
-a course that is not offered in the A Level curriculum.
+<p>As a school, we provide our fullest support to our students. This caring
+and enabling environment comprises the form teachers, subject teachers
+and Year Masters, who monitor students' progress and collaborate to help
+students reach their fullest potential. Coupled with strong home-school
+partnership, we are confident of helping our students to do well in the
+GCE A-Level Examinations. Students who asked to leave RV typically do so
+because they want to pursue a course that is not offered in the A Level
+curriculum.
 <br>
 <br>Note: DSA students are not eligible to transfer to other secondary or
 IP schools after acceptance of the Confirmed Offer.</p>
@@ -606,13 +634,11 @@ finish the 6-year programme?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Being able to proceed directly to the A-Levels is an advantage for our
-students as they get a lot more time and opportunities to develop holistically
-and hone their 21st century competencies over six years through our highly
-customised programmes.
+students as they get more time and opportunities to develop core competencies
+over six years through our customised programmes.
 <br>
-<br>IP students obtain an IP Info Sheet which is issued by MOE to reflect
-their academic status. This will enable them to pursue a different track
-offered at the polytechnic.
+<br>After completing their Secondary 4 education, all students will obtain
+an IP Certificate which is issued by MOE to reflect their academic status.
 <br>
 <br>Note: DSA students are not eligible for any transfer to other secondary
 or IP schools after acceptance of the Confirmed Offer.</p>
@@ -623,7 +649,7 @@ or IP schools after acceptance of the Confirmed Offer.</p>
 <p>Does RV place more emphasis on the Chinese Language than on English Language?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As a SAP school, we strongly believe in the importance of both languages,
+<p>As an SAP school, we strongly believe in the importance of both languages,
 given the global landscape that demands proficiency in both languages and
 bicultural sensitivity in order for us to engage with the rest of the world.&nbsp;By
 placing equal emphasis on both languages, our students will have a competitive
@@ -633,33 +659,41 @@ the West.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Is there any promotion criteria from Sec 1 to J2?</p>
+<p>Does my child need to take Higher Chinese Language (HCL) in P5 and 6 in
+order to be admitted into RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Just like any other school, there is a set of promotion criteria that
-students need to meet in order to be promoted to the next level.</p>
+<p>Students who took&nbsp;<strong>both</strong>&nbsp;English and Chinese
+at the PSLE can opt for SAP schools. They need not have taken HCL in primary
+school.</p>
+<p></p>
+<p>Students who obtained Pass, Merit or Distinction in HCL are eligible for
+a posting advantage when applying to SAP schools.</p>
+<p></p>
+<p>When multiple students with the same PSLE score apply to an SAP school,
+those with better HCL grades will be given priority. This applies before
+the tie-breakers.</p>
+<p></p>
+<p>The cut-off point (COP) of SAP schools include the HCL grade of the last
+student posted to the school, if applicable.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Does my child need to take Higher Chinese Language in P5 and 6 in order
-to be admitted into RV?</p>
+<p>Is there any support for students who struggle with the Chinese Language?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There is no need to as long as your child takes our RV Chinese Language
-Programme.</p>
+<p>Yes, we have after-school programmes to support the students’ learning
+of the Chinese Language. In addition, our school has various enrichment
+programmes to ignite their love for the language.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What is the Chinese Language Programme like in RV?</p>
+<p>When do the students sit for the GCE "O" Level HCL examination?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As an SAP and IP school, we have a specially designed RV Chinese Language
-programme for all students. This programme aims to build their foundation
-and equip them with the necessary skills and competencies so that they
-are well prepared to sit for the GCE O-Level Higher Chinese Language Examination
-in secondary 4.</p>
+<p>Students will sit for the GCE "O" Level HCL Examination in secondary 4.</p>
 </td>
 </tr>
 <tr>
@@ -689,8 +723,11 @@ membership in more than one Academy is possible and encouraged.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>If my child is talented in the English Language, will there be opportunities
-to stretch him?</p>
+<p>If my child is very proficient in English Language, will there be opportunities
+to further develop and challenge his/her skills?</p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We support students' learning and interest areas, and we have different
@@ -710,16 +747,6 @@ are spread out across the term so that they can pace their revision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Is there any support for students who struggle with the Chinese Language?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yes, we have after-school programmes to support the students’ learning
-of the Chinese Language. In addition, our school has various enrichment
-programmes to ignite their love for the language.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>If my child takes the Art Elective Programme in another school, can my
 child take fewer subjects in RV?</p>
 </td>
@@ -731,16 +758,11 @@ subject combination in Secondary 3.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>If my child takes Higher Chinese Language in primary school, does he or
-she have priority for admission into RV?</p>
+<p>Is there any promotion criteria from Sec 1 to JC 2?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who obtain Distinction, Merit or Pass in HCL and have a PSLE
-score of 14 or better (i.e. PSLE score ≤ 14) will be eligible for posting
-advantage when applying to SAP schools.&nbsp;If multiple students with
-the same PSLE score apply for the same SAP school, those with better HCL
-grades will be allocated a place ahead of other students. This applies
-before the tie-breakers.</p>
+<p>Just like any other school, there is a set of promotion criteria that
+students need to meet in order to be promoted to the next level.</p>
 </td>
 </tr>
 <tr>
@@ -784,10 +806,11 @@ websites.</p>
 <p>What are the school hours like in RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School starts at 8 am each morning from Tuesday to Friday, and we start
-at 9 am on Mondays. Lessons usually end at about 2.30pm, depending on which
-level and the students’ subject combination. On some afternoons, students
-may attend supplementary classes or enrichment programmes.</p>
+<p>School begins at 8 am from Tuesday to Friday, with a later start time
+of 9:00 am on Mondays. Lessons typically end around 2:30 pm, although the
+exact timing may vary depending on the student's level and subject combination.
+On some afternoons, students may attend supplementary classes or enrichment
+programmes.</p>
 </td>
 </tr>
 <tr>
@@ -811,8 +834,9 @@ may attend supplementary classes or enrichment programmes.</p>
 <p>Does RV offer bus services?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No, we do not offer bus services as we are located near Boon Lay MRT station
-and many buses go to our school.</p>
+<p>No, we do not provide bus services as the school is conveniently located
+near Boon Lay MRT station with excellent public transport connectivity,
+including multiple bus routes serving the area.</p>
 </td>
 </tr>
 <tr>
@@ -857,8 +881,8 @@ schools are not allowed, unless under exceptional circumstances.</p>
 <br>Does RV accept transfer students from other schools?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents can call the school at the end of the academic year to check if
-there are any vacancies. If there are, parents can apply and the student
+<p>Parents may call the school at the end of the academic year to check if
+there are any vacancies. If there are, parents may apply and the student
 will sit for the aptitude tests.</p>
 </td>
 </tr>
@@ -867,8 +891,7 @@ will sit for the aptitude tests.</p>
 <p>How many Secondary 1 students do you admit every year?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The cohort size varies every year. Due to a shrinking population, there
-is a reduction in the number of students being admitted to RV.</p>
+<p>The cohort size varies every year.</p>
 </td>
 </tr>
 <tr>
@@ -891,4 +914,5 @@ to take effect.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>If my child is offered admission to a secondary school through DSA, does
+he need to meet the school’s cut-off-point for S1 posting?</p>
