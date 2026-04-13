@@ -631,7 +631,7 @@ the West.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Is there any promotion criteria from Sec 1 to JC 2?</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Just like any other school, there is a set of promotion criteria that
@@ -736,14 +736,10 @@ subject combination in Secondary 3.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Is there any promotion criteria from Sec 1 to JC 2?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who obtain Distinction, Merit or Pass in HCL will be eligible
-for posting advantage when applying to SAP schools.&nbsp;If multiple students
-with the same PSLE score apply for the same SAP school, those with better
-HCL grades will be allocated a place ahead of other students. This applies
-before the tie-breakers.</p>
+<p></p>
 </td>
 </tr>
 <tr>
