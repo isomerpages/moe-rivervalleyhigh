@@ -151,10 +151,24 @@ into consideration the student’s interest and long-term development potential.
 CCA? What if his interest changes?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Your child must remain in the same CCA so that we can develop his/her
-full potential over four years from Sec 1 to 4. If choice of CCA is important,
-then your child should avoid applying for admission via DSA as there are
-conditions attached.</p>
+<p>If your child is admitted to a secondary school through DSA, they are <strong>not</strong> allowed
+to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
+</li>
+<li>
+<p>Change their CCA</p>
+</li>
+<li>
+<p>Transfer to another school. They <strong>must</strong> commit to their chosen
+school for the duration of the programme.</p>
+</li>
+</ul>
+<p></p>
+<p>This would allow us to develop your child's full potential. If choice
+of CCA is important, your child should avoid applying for admission via
+DSA due to the aforementioned conditions.</p>
 </td>
 </tr>
 <tr>
