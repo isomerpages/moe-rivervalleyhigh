@@ -736,8 +736,7 @@ subject combination in Secondary 3.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>If my child takes Higher Chinese Language in primary school, does he or
-she have priority for admission into RV?</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who obtain Distinction, Merit or Pass in HCL will be eligible
