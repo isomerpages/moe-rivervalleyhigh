@@ -583,13 +583,14 @@ of our teachers to ensure that our students do well in the examinations.</p>
 <br>What is the drop-out rate?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As a school, we provide our fullest support to our students. This environment
-comprises the form teachers, subject teachers and Year Master, and they
-monitor students' progress and decide on a remediation programme to help
-students when necessary. Coupled with strong home-school partnership, we
-are confident of helping our students to do well in the GCE A Level Examinations.
-Students who asked to leave RV typically do so because they want to pursue
-a course that is not offered in the A Level curriculum.
+<p>As a school, we provide our fullest support to our students. This caring
+and enabling environment comprises the form teachers, subject teachers
+and Year Masters, who monitor students' progress and collaborate to help
+students reach their fullest potential. Coupled with strong home-school
+partnership, we are confident of helping our students to do well in the
+GCE A-Level Examinations. Students who asked to leave RV typically do so
+because they want to pursue a course that is not offered in the A Level
+curriculum.
 <br>
 <br>Note: DSA students are not eligible to transfer to other secondary or
 IP schools after acceptance of the Confirmed Offer.</p>
