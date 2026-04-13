@@ -482,12 +482,13 @@ end-of-year examination period, CCA sessions will be phased down.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Besides the biennial SYF performances, students in the performing arts
-CCA have many platforms to perform such as our annual month-long Arts Fest.
-In addition, the Performing Arts CCAs perform in many internal and external
-school events ranging from Honours Day to performances at the Istana. Under
-the guidance of our experienced instructors, they also get to take part
-in competitions and when they are at their apex, they may be sent for external
-MOE courses such as the conductor’s course, to hone their skills.</p>
+CCA have many platforms to perform such as our annual Arts Fest performances,
+Reverie. In addition, the Performing Arts CCAs perform in many internal
+and external school events ranging from Honours Day to performances at
+the Istana. Under the guidance of our experienced instructors, they also
+get to take part in competitions and when they are at their apex, they
+may be sent for external MOE courses such as the conductor’s course, to
+hone their skills.</p>
 </td>
 </tr>
 <tr>
