@@ -32,12 +32,15 @@ variant: tiptap
 <p>What is the DSA exercise timeline like?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For DSA 2025 exercise, the online MOE application portal will be opened
-from 7th May (11am) to 3rd Jun (3pm). For RVHS, the shortlisted applicants
-will be informed of their DSA test via email on specified dates in July
-and August by 11 July (Friday). All applicants will be notified of the
-outcome of their application via email between 25 August and 4 September
-2025.</p>
+<p>The actual dates for DSA 2026 have not been released yet, please look
+out for MOE's announcements in early May. For reference, you may look at
+the DSA 2025 timeline:</p>
+<p></p>
+<p>For DSA 2025 exercise, the online MOE application portal was opened from
+7th May (11am) to 3rd Jun (3pm). For RVHS, the shortlisted applicants were
+informed of their DSA test via email on specified dates in July and August
+by 11 July (Friday). All applicants were notified of the outcome of their
+application via email between 25 August and 4 September 2025.</p>
 </td>
 </tr>
 <tr>
@@ -83,8 +86,8 @@ between 25 August and 4 September 2025 via email.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>You will have to indicate your preferences in ranked order for up to three
-schools during the School Preference Submission Exercise from 27 – 31 October
-2025 via the online MOE DSA portal.</p>
+schools during the School Preference Submission Exercise via the online
+MOE DSA portal.</p>
 </td>
 </tr>
 <tr>
