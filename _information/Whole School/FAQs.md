@@ -719,9 +719,7 @@ are spread out across the term so that they can pace their revision.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes, we have after-school programmes to support the students’ learning
-of the Chinese Language. In addition, our school has various enrichment
-programmes to ignite their love for the language.</p>
+<p></p>
 </td>
 </tr>
 <tr>
