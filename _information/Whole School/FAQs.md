@@ -744,11 +744,10 @@ subject combination in Secondary 3.</p>
 she have priority for admission into RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who obtain Distinction, Merit or Pass in HCL and have a PSLE
-score of 14 or better (i.e. PSLE score ≤ 14) will be eligible for posting
-advantage when applying to SAP schools.&nbsp;If multiple students with
-the same PSLE score apply for the same SAP school, those with better HCL
-grades will be allocated a place ahead of other students. This applies
+<p>Students who obtain Distinction, Merit or Pass in HCL will be eligible
+for posting advantage when applying to SAP schools.&nbsp;If multiple students
+with the same PSLE score apply for the same SAP school, those with better
+HCL grades will be allocated a place ahead of other students. This applies
 before the tie-breakers.</p>
 </td>
 </tr>
