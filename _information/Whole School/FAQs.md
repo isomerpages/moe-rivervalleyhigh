@@ -92,10 +92,12 @@ MOE DSA portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>What is the minimum AL score needed to be shortlisted for DSA trial /
-audition?
-<br>
-<br>Does RV only accept DSA students with AL1 in all subjects?</p>
+<p>What is the minimum AL score needed for my child to be shortlisted for
+DSA trial / audition? Does RV only accept DSA students with AL1 in all
+subjects?</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The DSA scheme provides students with an alternative route to gain admission
@@ -131,7 +133,7 @@ to RVHS, all students in RV must take Higher Chinese Language from Sec
 <p>Where can I find the list of CCAs for DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The 2025 DSA CCA list is available on our school website. The 2026 DSA
+<p>The 2025 DSA CCA list is available on our school website . The 2026 DSA
 CCA list will be published once the DSA Exercise commences.</p>
 </td>
 </tr>
@@ -168,6 +170,14 @@ school for the duration of the programme.</p>
 <p>This would allow us to develop your child's full potential. If choice
 of CCA is important, your child should avoid applying for admission via
 DSA due to the aforementioned conditions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
