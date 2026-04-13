@@ -377,8 +377,8 @@ Academy and Students' Council and be part of leadership projects and initiatives
 accessible and beginner-friendly language. Students who are well versed
 in other common programming languages, such as C++ or Java, may also apply.
 The school will provide appropriate Java and C++ IDEs for students who
-choose to use these languages. Block-based programming languages are not
-accepted.</p>
+choose to use these languages during the trial. Block-based programming
+languages are not accepted.</p>
 <p></p>
 </td>
 </tr>
