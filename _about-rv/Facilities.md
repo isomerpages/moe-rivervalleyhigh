@@ -4,7 +4,6 @@ permalink: /hold-facilities/
 variant: tiptap
 description: ""
 ---
-<h4>Explore our campus - view the 360degrees campus navigation map <a href="https://campusguide-fhdr.onrender.com" rel="noopener nofollow" target="_blank">here</a>!<br></h4>
 <h4>Spaces for Learning</h4>
 <table style="minWidth: 50px">
 <colgroup>
