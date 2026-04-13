@@ -606,13 +606,11 @@ finish the 6-year programme?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Being able to proceed directly to the A-Levels is an advantage for our
-students as they get a lot more time and opportunities to develop holistically
-and hone their 21st century competencies over six years through our highly
-customised programmes.
+students as they get more time and opportunities to develop core competencies
+over six years through our customised programmes.
 <br>
-<br>IP students obtain an IP Info Sheet which is issued by MOE to reflect
-their academic status. This will enable them to pursue a different track
-offered at the polytechnic.
+<br>After completing their Secondary 4 education, all students will obtain
+an IP Certificate which is issued by MOE to reflect their academic status.
 <br>
 <br>Note: DSA students are not eligible for any transfer to other secondary
 or IP schools after acceptance of the Confirmed Offer.</p>
