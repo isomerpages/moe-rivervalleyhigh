@@ -631,14 +631,6 @@ the West.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Does my child need to take Higher Chinese Language (HCL) in P5 and 6 in
 order to be admitted into RV?</p>
 </td>
@@ -656,6 +648,14 @@ the tie-breakers.</p>
 <p></p>
 <p>The cut-off point (COP) of SAP schools include the HCL grade of the last
 student posted to the school, if applicable.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Is there any support for students who struggle with the Chinese Language?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -714,7 +714,7 @@ are spread out across the term so that they can pace their revision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Is there any support for students who struggle with the Chinese Language?</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yes, we have after-school programmes to support the students’ learning
