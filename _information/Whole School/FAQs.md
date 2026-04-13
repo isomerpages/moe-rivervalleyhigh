@@ -208,10 +208,11 @@ heavy workload, can she still apply for dance DSA and does she need to
 be the key dancer in her CCA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes, having ballet or any dance skills would be an advantage, but she
-does not need to be the key dancer. In RV Dance society, our dancers learn&nbsp;<strong>both Chinese and modern contemporary dance</strong>.
-All dancers would have to learn both genres, i.e. they cannot choose which
-genre they want to learn.</p>
+<p>While a dance background in any genre is beneficial, it is not a requirement.
+Previous experience as a lead dancer in school CCAs is not necessary, as
+selection is based primarily on your child’s performance during the audition.
+All successful candidates will receive training in both Chinese and contemporary
+modern dance styles.</p>
 </td>
 </tr>
 <tr>
