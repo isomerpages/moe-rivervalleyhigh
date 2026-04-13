@@ -648,9 +648,8 @@ to be admitted into RV?</p>
 at the PSLE can opt for SAP schools. They need not have taken Higher Chinese
 Language (HCL) in primary school.</p>
 <p></p>
-<p>Students who obtained Pass, Merit or Distinction in HCL and have a PSLE
-score of 14 or better (i.e. PSLE score ≤ 14) are eligible for a posting
-advantage when applying to SAP schools.</p>
+<p>Students who obtained Pass, Merit or Distinction in HCL are eligible for
+a posting advantage when applying to SAP schools.</p>
 <p></p>
 <p>When multiple students with the same PSLE score apply to an SAP school,
 those with better HCL grades will be given priority. This applies before
