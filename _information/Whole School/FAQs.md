@@ -806,8 +806,13 @@ programmes.</p>
 <p>Does RV offer bus services?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No, we do not offer bus services as we are located near Boon Lay MRT station
-and many buses go to our school.</p>
+<p>No, we do not provide bus services as the school is conveniently located
+near Boon Lay MRT station with excellent public transport connectivity,
+including multiple bus routes serving the area.</p>
+<p></p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
