@@ -498,8 +498,8 @@ DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Your child has to remain committed to the CCA that he or she got in via
-DSA, so it must not clash with the other CCA that your child would like
-to join.</p>
+DSA, so it must not coincide with the training schedule of the other CCA
+that your child would like to join.</p>
 </td>
 </tr>
 </tbody>
