@@ -131,7 +131,8 @@ to RVHS, all students in RV must take Higher Chinese Language from Sec
 <p>Where can I find the list of CCAs for DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The 2025 DSA CCA list is available on our school website.</p>
+<p>The 2025 DSA CCA list is available on our school website. The 2026 DSA
+CCA list will be published once the DSA Exercise commences.</p>
 </td>
 </tr>
 <tr>
