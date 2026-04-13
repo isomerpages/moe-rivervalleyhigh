@@ -644,8 +644,8 @@ students need to meet in order to be promoted to the next level.</p>
 to be admitted into RV?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There is no need to as long as your child takes our RV Chinese Language
-Programme.</p>
+<p>There is no need to but your child will have to take Higher Chinese in
+RV.</p>
 </td>
 </tr>
 <tr>
