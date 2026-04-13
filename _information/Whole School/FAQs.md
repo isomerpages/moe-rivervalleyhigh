@@ -146,9 +146,8 @@ into consideration the student’s interest and long-term development potential.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>If my child gets in through DSA, how long must my child remain in the
-CCA? What if his interest changes?</p>
+<p>If my child gets into a secondary school through DSA-Sec, what obligations
+do they have?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>If your child is admitted to a secondary school through DSA, they are <strong>not</strong> allowed
