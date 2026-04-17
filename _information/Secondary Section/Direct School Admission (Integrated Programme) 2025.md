@@ -205,17 +205,18 @@ as follows:</p>
 <p><sup>[1] </sup>Not including Guzheng, Violin and Piano</p>
 <p><sup>[2]</sup> Applicants with International Dance background may also
 apply.</p>
-<p><sup>[3] </sup>Hold a key position in 2025 Primary School Prefectorial
+<p><sup>[3] </sup>Hold a key position in 2026 Primary School Prefectorial
 Board or equivalent</p>
-<p><sup>[4]</sup> Prior knowledge of Python programming is highly recommended.
-However, for assessment purpose, Python reference materials will be provided
-for students familiar with other programming languages who need a quick
-refresher on Python programming.
-<br>
-</p>
+<p><sup>[4]</sup> Prior knowledge of Python programming is highly recommended
+as it is an accessible and beginner-friendly language. Students who are
+well versed in other common programming languages, such as C++ or Java,
+may also apply. The school will provide appropriate Java and C++ IDEs for
+students who choose to use these languages during the trial. Block-based
+programming languages are not accepted.</p>
+<p></p>
 <p><strong><u>DSA Process Stage 1 - Shortlisting</u></strong>
 </p>
-<p><strong>Shortlisting Criteria for 2025 </strong>Applicants must fulfil
+<p><strong>Shortlisting Criteria for 2026 </strong>Applicants must fulfil
 the following criteria to be shortlisted for school-based DSA test and
 interview:</p>
 <ul data-tight="true" class="tight">
