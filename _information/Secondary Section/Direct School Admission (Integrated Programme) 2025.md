@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Section
 variant: tiptap
 ---
-<h2>Direct School Admission (Integrated Programme) 2025</h2>
+<h2>Direct School Admission (Integrated Programme) 2026</h2>
 <h4>Student leaders driving student engagement and empowerment in their CCAs</h4>
 <p></p>
 <div class="iframe-wrapper">
