@@ -317,7 +317,9 @@ transfer to another school after the release of the PSLE results.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school for the duration of the 6-year
 Integrated Programme, and participate in the activities related to the
-talent they are selected for from Sec 1 to Sec 4.&nbsp;</p>
+talent they are selected for from Sec 1 to Sec 4.&nbsp;Students are strongly
+encouraged to continue pursuing the same talent area when they are in Junior
+College.</p>
 <p>FAQs (for 2026) Click&nbsp;<strong><a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 <p></p>
