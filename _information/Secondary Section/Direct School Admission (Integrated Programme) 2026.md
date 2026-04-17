@@ -19,7 +19,8 @@ perspective. You may find out more about <a href="https://www.rivervalleyhigh.mo
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
 under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
-is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a>.
+is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a> from
+6 May 2026, 11am to 2 June 2026, 4.30pm.
 <br>
 <br>The DSA talent areas that students can apply for in&nbsp;<strong>2026 </strong>are
 as follows:</p>
