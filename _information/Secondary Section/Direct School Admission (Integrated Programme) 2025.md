@@ -312,12 +312,12 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.&nbsp;Applicants who do not have prior experience may
 also apply and will be assessed on the basis of their potential.</p>
 <p>Students who are successful in the DSA Selection are NOT allowed to participate
-in the S1 Posting Exercise and are <strong>NOT allowed</strong> to transfer
-to another school after the release of the PSLE results.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
+in the S1 Posting Exercise and are <strong><u>NOT</u></strong> allowed to
+transfer to another school after the release of the PSLE results.</p>
+<p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school for the duration of the 6-year
-Integrated Programme, and encouraged to participate in the activities related
-to the talent they are selected for after Sec 4.&nbsp;</p>
+Integrated Programme, and participate in the activities related to the
+talent they are selected for from Sec 1 to Sec 4.&nbsp;</p>
 <p>FAQs (for 2026) Click&nbsp;<strong><a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 <p></p>
