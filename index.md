@@ -97,9 +97,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: Infopic
-      id: infopic
-      description: Infopic description
-      alt: Image alt text
 ---
