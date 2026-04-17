@@ -213,8 +213,7 @@ students who choose to use these languages during the trial. Block-based
 programming languages are not accepted.</p>
 <p></p>
 <p><strong><u>DSA Process Stage 1 - Shortlisting</u></strong>
-</p>
-<p><strong>Shortlisting Criteria for 2026 </strong>Applicants must fulfil
+<br><strong>Shortlisting Criteria for 2026 </strong>Applicants must fulfil
 the following criteria to be shortlisted for school-based DSA test and
 interview:</p>
 <ul data-tight="true" class="tight">
@@ -234,8 +233,7 @@ interview:</p>
 <p>You will receive notification from the school by 10 July (Friday) if your
 child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 <p><strong><u>DSA Process Stage 2 - DSA Selection Tests and Interviews</u></strong>
-</p>
-<p>Students shortlisted for the respective DSA talent area will be informed
+<br>Students shortlisted for the respective DSA talent area will be informed
 of the <strong>date &amp; time</strong> for their DSA test and <strong>preparations needed</strong> for
 the test<strong> via email</strong>.</p>
 <p>The following are the <strong>scheduled dates</strong> for the <strong>DSA tests</strong> for
@@ -296,8 +294,7 @@ be informed of the <strong>interview </strong>session on one of the following <s
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 July (Fri)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4, 5 August (Tues, Wed)</p>
 <p><strong><u>DSA Process Stage 3 – Confirmation of DSA Results</u></strong>
-</p>
-<p>All applicants for RVHS DSA-Sec Exercise 2026 will be notified of their
+<br>All applicants for RVHS DSA-Sec Exercise 2026 will be notified of their
 outcomes (i.e. Confirmed Offer / Waiting list / Unsuccessful status) between
 17 August and 28 August 2026 via email.</p>
 <p>Successful applicants will join RVHS in <strong>January 2027</strong>.
