@@ -8,10 +8,9 @@ variant: tiptap
 <h2>Direct School Admission (Integrated Programme) 2026</h2>
 <h4>Student leaders driving student engagement and empowerment in their CCAs</h4>
 <p></p>
-<p>The DSA-Sec exercise seeks to promote holistic education and provides
-students with an opportunity to seek admission to a secondary school based
-on a diverse range of achievements and talents beyond the Primary School
-Leaving Examination (PSLE)</p>
+<p>The DSA-Sec exercise provides students with an opportunity to seek admission
+to a secondary school based on a diverse range of achievements and talents
+beyond the Primary School Leaving Examination (PSLE)</p>
 <p><strong>The River Valley Integrated Programme (RVIP)</strong> 
 <br>River Valley High School’s (RVHS) 6-year Integrated Programme is designed
 to develop leaders of distinction for Singapore. We aim to nurture thinkers,
