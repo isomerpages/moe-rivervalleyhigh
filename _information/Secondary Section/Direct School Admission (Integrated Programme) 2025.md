@@ -137,7 +137,7 @@ as follows:</p>
 <p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Drama</p>
+<p>Chinese Painting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -154,7 +154,7 @@ as follows:</p>
 <p>Volleyball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Painting</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -171,7 +171,7 @@ as follows:</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
