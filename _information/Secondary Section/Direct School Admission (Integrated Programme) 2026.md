@@ -133,10 +133,27 @@ as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis</p>
+<p>Softball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Painting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -168,23 +185,6 @@ as follows:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Softball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
