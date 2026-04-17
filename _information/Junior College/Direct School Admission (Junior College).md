@@ -65,7 +65,7 @@ proficiency and an e-portfolio in any of these domains:
 <p>Successful applicants will join RVHS in 2027. Students will be assessed
 on both their demonstrated and potential ability to ensure that they benefit
 from the rigorous curriculum offered at RVHS.</p>
-<p><strong>Important Information:</strong> 
+<p><strong>Important Information (2025)*:</strong> 
 <br>Application for RVHS DSA-JC application starts from 7 May 2025 and will
 end on 30 June 2025 via the following link <a href="https://go.gov.sg/2025rvhsdsajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025rvhsdsajc</a>.</p>
 <p>RVHS will conduct our DSA-JC selection tests and interviews from 30 June
@@ -73,6 +73,8 @@ to 12 Aug 2024. All applicants will receive notification from the school
 by 11 July (Friday) if they are shortlisted for Direct School Admission
 (DSA) selection. All shortlisted applicants who have participated in the
 selection will be informed of the outcome between 30 July and 12 Aug 2025.</p>
+<p><strong>*Information on application details will be updated on 5 May 2026.</strong>
+</p>
 <h4>Enquiries</h4>
 <ul data-tight="true" class="tight">
 <li>
