@@ -240,7 +240,7 @@ child has been shortlisted to undergo Direct School Admission (DSA) selection.</
 of the <strong>date &amp; time</strong> for their DSA test and <strong>preparations needed</strong> for
 the test<strong> via email</strong>.</p>
 <p>The following are the <strong>scheduled dates</strong> for the <strong>DSA tests</strong> for
-RVHS for 2025:</p>
+RVHS for 2026:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -263,30 +263,30 @@ RVHS for 2025:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
+<p><strong>Performing Arts &amp; Visual Arts</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8-9 July (Tues, Wed)</p>
-<p>11 July (Fri)</p>
-<p>15 July (Tues)</p>
+<p>7-8 July (Tues, Wed)</p>
+<p>10 July (Fri)</p>
+<p>14 July (Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 July (Tues)</p>
-<p>18 July (Fri)</p>
-<p>22 July (Tues)</p>
+<p>14 July (Tues)</p>
+<p>17 July (Fri)</p>
+<p>21 July (Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 July (Tues)</p>
-<p>11 July (Fri)</p>
-<p>15 July (Tues)</p>
+<p>7 July (Tues)</p>
+<p>10 July (Fri)</p>
+<p>14 July (Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 July (Tues)</p>
-<p>18 July (Fri)</p>
-<p>22 July (Tues)</p>
+<p>14 July (Tues)</p>
+<p>17 July (Fri)</p>
+<p>21 July (Tues)</p>
 </td>
 </tr>
 </tbody>
