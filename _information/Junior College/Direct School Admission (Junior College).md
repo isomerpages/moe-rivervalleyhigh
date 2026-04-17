@@ -9,7 +9,7 @@ variant: tiptap
 <p>The DSA-JC exercise provides students with an opportunity to demonstrate
 a more diverse range of achievements and talent when seeking admission
 to a Junior College.</p>
-<h5>The River Valley High School Junior College programme&nbsp;</h5>
+<h5>The River Valley High School Junior College programme<br></h5>
 <p>River Valley High School’s (RVHS) 2-year JC programme is designed to develop
 leaders of distinction for Singapore. We aim to nurture thinkers, leaders
 and achievers with good character, bicultural acumen and global perspective.
