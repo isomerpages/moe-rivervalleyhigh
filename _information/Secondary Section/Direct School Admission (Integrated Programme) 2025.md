@@ -224,7 +224,7 @@ interview:</p>
 &nbsp;P5 Year-End and P6 Mid-Year results (if available)&nbsp;</p>
 </li>
 <li>
-<p>Good performance for Chinese Language in P5 &nbsp;and P6</p>
+<p>Good performance for Chinese Language in P5 and P6</p>
 </li>
 <li>
 <p>Demonstrate aptitude and strength in the specific talent areas</p>
@@ -232,7 +232,7 @@ interview:</p>
 </ul>
 <p><strong>Note:</strong>  <strong>Meeting all the above criteria does not guarantee the student will be shortlisted for talent test and interview / given an offer for the DSA exercise.</strong>
 </p>
-<p>You will receive notification from the school by 11 July (Friday) if your
+<p>You will receive notification from the school by 10 July (Friday) if your
 child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 <p><strong><u>DSA Process Stage 2 - DSA Selection Tests and Interviews</u></strong>
 </p>
