@@ -118,7 +118,7 @@ as follows:</p>
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance (Chinese)<sup>[2]</sup>
+<p>Chinese Dance<sup>[2]</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
