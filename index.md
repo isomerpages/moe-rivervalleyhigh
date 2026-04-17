@@ -99,10 +99,7 @@ sections:
       button: Read More
   - infopic:
       title: Infopic
-      subtitle: Campus Guide
       id: infopic
       description: Infopic description
-      button: Explore
-      url: https://campusguide-fhdr.onrender.com
       alt: Image alt text
 ---
