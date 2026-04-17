@@ -300,8 +300,8 @@ be informed of the <strong>interview </strong>session on one of the following <s
 </p>
 <p>All applicants for RVHS DSA-Sec Exercise 2026 will be notified of their
 outcomes (i.e. Confirmed Offer / Waiting list / Unsuccessful status) between
-25 August and 4 September 2025 via email.</p>
-<p>Successful applicants will join RVHS in January in the year&nbsp;<strong>2026</strong>.
+17 August and 28 August 2026 via email.</p>
+<p>Successful applicants will join RVHS in <strong>January 2027</strong>.
 Students will be assessed on both their demonstrated and potential ability
 to ensure that they benefit from the rigorous curriculum offered at RVHS.</p>
 <p><strong>Further Information for Parents and Students:</strong>
