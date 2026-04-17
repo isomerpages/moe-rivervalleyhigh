@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Balanced Education
 variant: tiptap
 ---
-<h2>Cognitive-Interest Development</h2>
+<h2>Cognitive-Interest Development Curriculum</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/1_Big_E__Cognitive_Interest_Development.jpg">
 </div>
