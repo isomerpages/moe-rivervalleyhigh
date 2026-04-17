@@ -97,4 +97,12 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Explore
+      url: https://campusguide-fhdr.onrender.com
+      alt: Image alt text
 ---
