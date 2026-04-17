@@ -8,12 +8,6 @@ variant: tiptap
 <h2>Direct School Admission (Integrated Programme) 2026</h2>
 <h4>Student leaders driving student engagement and empowerment in their CCAs</h4>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4vca6BI44wY"></iframe>
-</div>
-<p>Check out our former students sharing about their DSA journey in RV in
-the video!</p>
-<p></p>
 <p>The DSA-Sec exercise seeks to promote holistic education and provides
 students with an opportunity to seek admission to a secondary school based
 on a diverse range of achievements and talents beyond the Primary School
@@ -23,14 +17,13 @@ Leaving Examination (PSLE)</p>
 to develop leaders of distinction for Singapore. We aim to nurture thinkers,
 leaders and achievers with good character, bicultural acumen and global
 perspective. You may find out more about <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>&nbsp;.</p>
-<p><strong>2025 RVHS DSA-Sec Categories</strong> 
+<p><strong>2026 RVHS DSA-Sec Categories</strong> 
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
 under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
-is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a> from
-7th May, 11am to 3rd June, 3pm.
+is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a>.
 <br>
-<br>The DSA talent areas that students can apply for in&nbsp;<strong>2025 </strong>are
+<br>The DSA talent areas that students can apply for in&nbsp;<strong>2026 </strong>are
 as follows:</p>
 <table style="minWidth: 125px">
 <colgroup>
