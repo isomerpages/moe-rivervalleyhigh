@@ -99,7 +99,7 @@ sections:
       button: Read More
   - infopic:
       title: Infopic
-      subtitle: Add an image and text
+      subtitle: Campus Guide
       id: infopic
       description: Infopic description
       button: Explore
