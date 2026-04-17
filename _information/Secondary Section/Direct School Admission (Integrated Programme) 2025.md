@@ -39,7 +39,7 @@ as follows:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts &amp; Aesthetics</strong>
+<p><strong>Performing Arts &amp; Visual Arts</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
