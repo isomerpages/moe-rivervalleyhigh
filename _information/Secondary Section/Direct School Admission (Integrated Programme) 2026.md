@@ -80,8 +80,7 @@ as follows:</p>
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Concert Band<sup>[1]</sup> 
-<br>
+<p>Concert Band<sup>[1]</sup>
 <br>
 </p>
 </td>
@@ -101,7 +100,8 @@ as follows:</p>
 <p>Floorball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p>Chinese Dance<sup>[2]</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -118,10 +118,10 @@ as follows:</p>
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance<sup>[2]</sup>
-</p>
+<p>Chinese Painting</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ as follows:</p>
 <p>Softball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Painting</p>
+<p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
