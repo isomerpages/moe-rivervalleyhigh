@@ -12,3 +12,10 @@ description: ""
 <h4>Your Journey Starts Here - A Message from our Principal</h4>
 <h4></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/School_Building.jpg">
+</div>
+<p>Click <a href="https://campusguide-fhdr.onrender.com" rel="noopener nofollow" target="_blank">here</a> to
+take a 3D Virtual Tour of our campus</p>
+<p></p>
+<p></p>
