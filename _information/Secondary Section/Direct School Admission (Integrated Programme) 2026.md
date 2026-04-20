@@ -13,7 +13,7 @@ beyond the Primary School Leaving Examination (PSLE).</p>
 <br>River Valley High School’s (RVHS) 6-year Integrated Programme is designed
 to develop leaders of distinction for Singapore. We aim to nurture thinkers,
 leaders and achievers with good character, bicultural acumen and global
-perspective. You may find out more about <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>&nbsp;.</p>
+perspective. You may find out more about <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/awcei/" rel="noopener noreferrer nofollow" target="_blank">RVHS's school information</a>.</p>
 <p><strong>2026 RVHS DSA-Sec Categories</strong> 
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
