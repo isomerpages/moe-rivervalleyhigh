@@ -154,5 +154,5 @@ video</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>For more information on the 2026 DSA Exercise, click</p>
 <p></p>
