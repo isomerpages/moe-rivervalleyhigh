@@ -100,7 +100,13 @@ take a 3D Virtual Tour of our campus</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Chinese Calligraphy and Painting</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=442zrpBX3-s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Calligraphy_and_Painting.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Calligraphy_and_Painting.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=442zrpBX3-s" rel="noopener nofollow" target="_blank">My Journey in RVHS Chinese Calligraphy and Painting </a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
