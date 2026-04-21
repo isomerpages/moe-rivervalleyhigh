@@ -57,24 +57,27 @@ take a 3D Virtual Tour of our campus</p>
 </details>
 <details class="isomer-details">
 <summary>Volleyball</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QLU1wUh3BWk"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png"></a>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QLU1wUh3BWk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png"></a>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Wushu</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Tlm9dXyeMeI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png"></a>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Tlm9dXyeMeI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png"></a>
 </div>
 </details>
 </div>
 <h4>Visual and Performing Arts</h4>
 <h4></h4>
 <h4>Clubs and Societies</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>EL Debates</summary>
 <div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=ZUrM-lCQ9ko"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/EL_Debates.png"></a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Robotics</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=BEcai7advrg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Robotics.png"></a>
 </div>
 </details>
 </div>
