@@ -141,10 +141,16 @@ take a 3D Virtual Tour of our campus</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Construct, Integrate, Differentiate video</summary>
+<summary>Construct, Integrate, Differentiate</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Click <a href="" rel="noopener nofollow" target="_blank">here</a> to read
-more</p>
+<p>Click <a href="" rel="noopener nofollow" target="_blank">here</a> to view
+video</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Talent Academies</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
