@@ -81,13 +81,19 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=QLU1wUh3BWk" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces </a>
+<p><a href="https://www.youtube.com/watch?v=QLU1wUh3BWk" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Wushu</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Tlm9dXyeMeI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=Tlm9dXyeMeI" rel="noopener nofollow" target="_blank">Discipline and Resilience - Our RVHS Wushu Experience </a>
+</p>
 </div>
 </details>
 </div>
