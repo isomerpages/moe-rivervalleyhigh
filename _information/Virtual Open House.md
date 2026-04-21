@@ -158,7 +158,12 @@ video</p>
 </p>
 <p>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p></p>
+<p>2026 Achievements
+<br>
+</p>
+<p>See you at our onsite Open House on <strong>21 November 2026</strong>!
+There will be a Principal's talk at 10am, campus tours, and activity booths
+for your child to learn more about our school programmes.</p>
 <p></p>
 <p></p>
 <p></p>
