@@ -8,7 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Our_RV_Story.png">
 </div>
-<p>Click here to view Our RV Story Video</p>
+<p>Click <a href="https://www.youtube.com/watch?v=5dfP8p7mm64&amp;source_ve_path=OTY3MTQ&amp;embeds_referring_euri=https%3A%2F%2Fwww.rivervalleyhigh.moe.edu.sg%2F" rel="noopener nofollow" target="_blank">here </a>to
+view Our RV Story Video</p>
 <h4>Your Journey Starts Here - A Message from our Principal</h4>
 <h4></h4>
 <p></p>
