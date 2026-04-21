@@ -67,6 +67,13 @@ take a 3D Virtual Tour of our campus</p>
 </details>
 </div>
 <h4>Visual and Performing Arts</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chinese Calligraphy and Painting</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=442zrpBX3-s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Calligraphy_and_Painting.png"></a>
+</div>
+</details>
+</div>
 <h4></h4>
 <h4>Clubs and Societies</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -78,6 +85,11 @@ take a 3D Virtual Tour of our campus</p>
 <details class="isomer-details">
 <summary>Robotics</summary>
 <div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=BEcai7advrg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Robotics.png"></a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>TESLA</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=T-gMEJ6D82k"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/TESLA.png"></a>
 </div>
 </details>
 </div>
