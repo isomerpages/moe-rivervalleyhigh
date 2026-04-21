@@ -144,17 +144,35 @@ take a 3D Virtual Tour of our campus</p>
 </details>
 <details class="isomer-details">
 <summary>Concert Band</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=-8yxPzPl_jI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Concert_Band.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Concert_Band.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=-8yxPzPl_jI" rel="noopener nofollow" target="_blank">My leadership journey in RVHS Concert Band </a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Dance Society</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=040JdeXj5G8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Dance_Society.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Dance_Society.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=040JdeXj5G8" rel="noopener nofollow" target="_blank">How RVHS Dance Society Transformed Me as a Dancer</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>English Drama</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=61UCL3xg81Y"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/English_Drama.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/English_Drama.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=61UCL3xg81Y" rel="noopener nofollow" target="_blank">From Stage to Leadership in RVHS English Drama</a>
+</p>
 </div>
 </details>
 </div>
