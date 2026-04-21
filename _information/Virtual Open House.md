@@ -10,14 +10,15 @@ description: ""
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=5dfP8p7mm64&amp;source_ve_path=OTY3MTQ&amp;embeds_referring_euri=https%3A%2F%2Fwww.rivervalleyhigh.moe.edu.sg%2F" rel="noopener nofollow" target="_blank">here </a>to
 view Our RV Story Video</p>
-<h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message from our Principal</a>  <br>(video message available 25 April)</h4>
-<p></p>
-<p></p>
+<hr>
+<h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message from our Principal</a> <br>(video message available 25 April 2026)<br></h4>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/School_Building.jpg">
 </div>
 <p>Click <a href="https://campusguide-fhdr.onrender.com" rel="noopener nofollow" target="_blank">here </a>to
 take a 3D Virtual Tour of our campus</p>
+<hr>
 <h4>Find Your Spark, Ignite Your Passion</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
