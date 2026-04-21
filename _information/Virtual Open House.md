@@ -93,6 +93,11 @@ take a 3D Virtual Tour of our campus</p>
 <div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=-8yxPzPl_jI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Concert_Band.png"></a>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Dance Society</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=040JdeXj5G8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Dance_Society.png"></a>
+</div>
+</details>
 </div>
 <h4></h4>
 <h4>Clubs and Societies</h4>
