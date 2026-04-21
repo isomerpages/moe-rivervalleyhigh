@@ -78,6 +78,11 @@ take a 3D Virtual Tour of our campus</p>
 <div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=037jppmmXjw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Drama.png"></a>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Chinese Orchestra</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=3fE7EZXLgX4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Orchestra.png"></a>
+</div>
+</details>
 </div>
 <h4></h4>
 <h4>Clubs and Societies</h4>
