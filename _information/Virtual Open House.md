@@ -53,7 +53,7 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/netball.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=hd1_T0zUl6k" rel="noopener nofollow" target="_blank">RVHS Netball - Shooting the shot! </a>
+<p><a href="https://www.youtube.com/watch?v=hd1_T0zUl6k" rel="noopener nofollow" target="_blank">RVHS Netball - Shooting the shot!</a>
 </p>
 </div>
 </details>
@@ -66,7 +66,12 @@ take a 3D Virtual Tour of our campus</p>
 <details class="isomer-details">
 <summary>Table Tennis</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=qgeWmLf7p98"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Table_Tennis.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Table_Tennis.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=qgeWmLf7p98" rel="noopener nofollow" target="_blank">RVHS Table Tennis </a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
