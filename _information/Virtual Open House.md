@@ -70,13 +70,19 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Table_Tennis.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=qgeWmLf7p98" rel="noopener nofollow" target="_blank">RVHS Table Tennis </a>
+<p><a href="https://www.youtube.com/watch?v=qgeWmLf7p98" rel="noopener nofollow" target="_blank">RVHS Table Tennis</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Volleyball</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QLU1wUh3BWk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=QLU1wUh3BWk" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces </a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
