@@ -132,5 +132,20 @@ take a 3D Virtual Tour of our campus</p>
 </div>
 <h4>Leadership</h4>
 <p></p>
+<h4>Where Every Talent Thrives</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Academic curriculum</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Construct, Integrate, Differentiate video (Click <a href="" rel="noopener nofollow" target="_blank">here</a> to read more)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
