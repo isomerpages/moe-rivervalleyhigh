@@ -116,13 +116,19 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Drama.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=037jppmmXjw" rel="noopener nofollow" target="_blank">The joys of leading RVHS Chinese Drama </a>
+<p><a href="https://www.youtube.com/watch?v=037jppmmXjw" rel="noopener nofollow" target="_blank">The joys of leading RVHS Chinese Drama</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Chinese Orchestra</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=3fE7EZXLgX4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Orchestra.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Chinese_Orchestra.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=3fE7EZXLgX4" rel="noopener nofollow" target="_blank">My most memorable experience in RVHS Chinese Orchestra</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
