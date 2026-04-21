@@ -68,8 +68,17 @@ take a 3D Virtual Tour of our campus</p>
 </div>
 </details>
 </div>
+<h4>Visual and Performing Arts</h4>
+<h4></h4>
+<h4>Clubs and Societies</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>EL Debates</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
