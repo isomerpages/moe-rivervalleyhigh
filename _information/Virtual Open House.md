@@ -58,7 +58,7 @@ take a 3D Virtual Tour of our campus</p>
 <details class="isomer-details">
 <summary>Volleyball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QLU1wUh3BWk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QLU1wUh3BWk"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png"></a>
 </div>
 </details>
 </div>
