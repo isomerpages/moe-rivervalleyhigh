@@ -81,7 +81,15 @@ take a 3D Virtual Tour of our campus</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4>Uniformed Groups</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Uniformed Groups</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=lEPwHRPM2JU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Uniformed_Groups.png"></a>
+</div>
+</details>
+</div>
+<h4>Leadership</h4>
 <p></p>
 <p></p>
 <p></p>
