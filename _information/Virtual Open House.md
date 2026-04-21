@@ -24,8 +24,13 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
 </div>
-<p>Check out our vibrant CCAs in <a href="https://www.youtube.com/watch?v=TzA7g6nAm7E" rel="noopener nofollow" target="_blank">this video. </a> 
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Sports</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
