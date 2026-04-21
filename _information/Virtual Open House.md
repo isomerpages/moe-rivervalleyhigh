@@ -141,9 +141,10 @@ take a 3D Virtual Tour of our campus</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Construct, Integrate, Differentiate video (Click <a href="" rel="noopener nofollow" target="_blank">here</a> to read more)</summary>
+<summary>Construct, Integrate, Differentiate video</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Click <a href="" rel="noopener nofollow" target="_blank">here</a> to read
+more</p>
 </div>
 </details>
 </div>
