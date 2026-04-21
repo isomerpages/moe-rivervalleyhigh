@@ -24,13 +24,13 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Sports</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
+<p>Badminton</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=-Z5jBukvKlQ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Badminton.png"></a>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
