@@ -61,12 +61,15 @@ take a 3D Virtual Tour of our campus</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QLU1wUh3BWk"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png"></a>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Wushu</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png">
-</div>
 <p></p>
