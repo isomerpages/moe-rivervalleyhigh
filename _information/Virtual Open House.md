@@ -133,7 +133,13 @@ take a 3D Virtual Tour of our campus</p>
 </details>
 <details class="isomer-details">
 <summary>Choir</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=_rLudM9GrMg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Choir.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Choir.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=_rLudM9GrMg" rel="noopener nofollow" target="_blank">Uniting Voices in RVHS Choir</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
