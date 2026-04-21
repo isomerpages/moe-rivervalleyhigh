@@ -155,4 +155,10 @@ video</p>
 </details>
 </div>
 <p>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2025/" rel="noopener nofollow" target="_blank">here.</a>
-<br>For Frequently Asked Questions, click</p>
+</p>
+<p>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
