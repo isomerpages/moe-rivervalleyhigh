@@ -37,6 +37,12 @@ take a 3D Virtual Tour of our campus</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=WoYaVczWARM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Floorball.png"></a>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Netballl</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
