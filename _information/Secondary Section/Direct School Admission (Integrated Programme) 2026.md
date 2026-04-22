@@ -213,7 +213,7 @@ students who choose to use these languages during the trial. Block-based
 programming languages are not accepted.</p>
 <p></p>
 <p><strong><u>DSA Process Stage 1 - Shortlisting</u></strong>
-<br><strong>Shortlisting Criteria for 2026 </strong>Applicants must fulfil
+<br><strong>Shortlisting Criteria for 2026 </strong>Applicants must fulfill
 the following criteria to be shortlisted for school-based DSA test and
 interview:</p>
 <ul data-tight="true" class="tight">
