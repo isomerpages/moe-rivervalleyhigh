@@ -12,11 +12,11 @@ description: ""
 <hr>
 <h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message from our Principal</a> <br>(video message available on 25 April 2026)<br></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/White_Modern_Back_To_School_Photo_Collage_Landscape_2_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/White_Modern_Back_To_School_Photo_Collage_Landscape_2_.jpg">
 </div>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
 </div>
 <p></p>
 <p></p>
@@ -265,14 +265,26 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/CID.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=Pz4nC38UkEQ" rel="noopener nofollow" target="_blank">here</a> to
-view video</p>
+view the video</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Talent Academies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Igniting_Curiosity__Advancing_Knowledge_through_STEAM.jpg">
+</div>
 <p><a href="https://youtu.be/y_ZHiVzXP3U" rel="noopener nofollow" target="_blank">RVHS The Humanities and Social Sciences Leaders (HSSLA)</a>
-<br><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy (MLA)</a>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/MLA.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy (MLA)</a>
+<br>
+<br>
 <br><a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">RVHS Science Leaders Academy (SLA)</a>
 <br><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy (TESLA)</a>
 </p>
