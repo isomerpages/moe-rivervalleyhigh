@@ -214,6 +214,26 @@ America) (28 Jun – 08 Aug 2026)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Singapore Science &amp; Engineering Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Main Category</u></strong>
+<br><strong>2 Silver Awards (Team):</strong>
+<br>Zhu Chengan (25J01)
+<br>Cheng Yok Yong (Zeng Yurong) (25J08)
+<br><strong>1 Merit Award (Team):</strong>
+<br>Chia Hui Jun (25J02)
+<br>Leong Ngai Seng (25J02)
+<br>Ng Yu Hin (Wu Yuxuan) (25J06)
+<br><strong><u>Junior Scientist Category</u></strong>
+<br><strong>Distinction Award (Project) &amp; Merit Award (Video) (Team):</strong>
+<br>Emma Chai Shen Yi (2A)
+<br>Ethan Tan Yu Kai (2G)
+<br>Koo Jia Rou (2I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
