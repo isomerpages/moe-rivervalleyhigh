@@ -41,7 +41,7 @@ description: ""
 <h4>Watch our Performing Arts CCAs in Action</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
 </div>
 <p>RVHS offers DSA through the performing arts for students who demonstrate
 passion and potential in this area. If you wonder what the performing arts
