@@ -149,7 +149,7 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Concert_Band.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=-8yxPzPl_jI" rel="noopener nofollow" target="_blank">My leadership journey in RVHS Concert Band </a>
+<p><a href="https://www.youtube.com/watch?v=-8yxPzPl_jI" rel="noopener nofollow" target="_blank">My leadership journey in RVHS Concert Band</a>
 </p>
 </div>
 </details>
@@ -180,7 +180,13 @@ take a 3D Virtual Tour of our campus</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>EL Debates</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=ZUrM-lCQ9ko"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/EL_Debates.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/EL_Debates.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=ZUrM-lCQ9ko" rel="noopener nofollow" target="_blank">RVHS EL Debate Society</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
