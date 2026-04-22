@@ -257,7 +257,7 @@ description: ""
 </details>
 </div>
 <p></p>
-<p>For the full list of CCAs, click here.</p>
+<h4>For the full list of CCAs, click here.</h4>
 <p></p>
 <h4>Where Every Talent Thrives</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -283,18 +283,11 @@ video</p>
 </div>
 </details>
 </div>
-<p>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2026/" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<p>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<p>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for
-2026 Achievements.
-<br>
-</p>
-<p>See you at our onsite Open House on <strong>21 November 2026</strong>!
-There will be a Principal's talk at 10am, campus tours, and activity booths
-for your child to learn more about our school programmes.</p>
-<p></p>
+<h4>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2026/" rel="noopener nofollow" target="_blank">here.</a></h4>
+<h4>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a></h4>
+<h4>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for 2026 Achievements. <br></h4>
+<h4>See you at our onsite Open House on <strong>21 November 2026</strong>! There will be Principal's talk at 10am, campus tour, and activity booths for your child to learn more about our school programmes.</h4>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
