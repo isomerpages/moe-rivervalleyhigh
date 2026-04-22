@@ -279,6 +279,11 @@ RV — come experience the RV Spirit for yourself!</p>
 <summary>VIA</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Values_Based_Leadership_in_Action.jpg">
+</div>
+<p><a href="https://www.youtube.com/watch?v=LHBd3FElYH8" rel="noopener nofollow" target="_blank">Values-Based Leadership in Action</a>
+</p>
 </div>
 </details>
 </div>
