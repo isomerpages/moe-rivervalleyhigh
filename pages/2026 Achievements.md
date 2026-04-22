@@ -96,6 +96,17 @@ sessions with the national team for the International Chemistry Olympiad.<strong
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>International Space Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Merit Award (Team):</strong>
+<br>Lo Shao Kai (4A, 2025)
+<br>Sherman Tan Haridas (4A, 2025)
+<br>Wong Chi To Aidan (4D, 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
