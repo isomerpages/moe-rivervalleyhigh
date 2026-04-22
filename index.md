@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: DSA-Secondary Exercise
           description: Click here
-          url: /information/dsa-integrated-programme/dsa2025/
+          url: /information/dsa-integrated-programme/dsa2026/
   - infopic:
       title: RV 70morrow 七十•启示
       id: infopic
