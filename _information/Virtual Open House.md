@@ -277,16 +277,24 @@ video</p>
 <details class="isomer-details">
 <summary>Talent Academies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy</a>
+<p>RVHS <a href="d" class="third-level-nav-item padding--top--none" rel="noopener noreferrer nofollow" target="_blank">The Humanities and Social Sciences Leaders</a>
 </p>
+<p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy</a>
+<br>RVHS <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/sla/" class="third-level-nav-item padding--top--none" rel="noopener noreferrer nofollow" target="_blank">Science Leaders Academy</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Horizon Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
 <h4>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2026/" rel="noopener nofollow" target="_blank">here.</a></h4>
 <h4>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a></h4>
-<h4>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for 2026 Achievements. </h4>
-<h4>If you have any questions for us, click <a href="https://go.gov.sg/vihgform" rel="noopener nofollow" target="_blank">here</a>  to ask us!<br></h4>
+<h4>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for 2026 Achievements.</h4>
+<h4>If you have any questions for us, click <a href="https://go.gov.sg/vihgform" rel="noopener nofollow" target="_blank">here</a> to ask us!<br></h4>
 <h4>See you at our onsite Open House on <strong>21 November 2026</strong>! There will be Principal's talk at 10am, campus tour, and activity booths for your child to learn more about our school programmes.</h4>
 <h4></h4>
 <p></p>
