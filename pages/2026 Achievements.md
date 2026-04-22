@@ -60,10 +60,12 @@ reflecting dedicated community-wide sustainability efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Biology Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Certificate of Merit:</strong>
+<br>Leong Ngai Seng (25J02)</p>
+<p>Tan Le Xuan Zoe (25J02)</p>
 </td>
 </tr>
 <tr>
