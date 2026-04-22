@@ -91,7 +91,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=QLU1wUh3BWk" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces</a>
+<p><a href="https://www.youtube.com/watch?v=OQBzcBegUkA" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces</a>
 </p>
 </div>
 </details>
