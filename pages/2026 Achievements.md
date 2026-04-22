@@ -267,4 +267,4 @@ America) (28 Jun – 08 Aug 2026)</p>
 </tr>
 </tbody>
 </table>
-<p>President’s Guide Award and President’s Scout Award</p>
+<p></p>
