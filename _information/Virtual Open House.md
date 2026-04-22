@@ -10,11 +10,14 @@ description: ""
 </div>
 <h4>Click <a href="https://www.youtube.com/watch?v=5dfP8p7mm64&amp;source_ve_path=OTY3MTQ&amp;embeds_referring_euri=https%3A%2F%2Fwww.rivervalleyhigh.moe.edu.sg%2F" rel="noopener nofollow" target="_blank">here </a>to view Our RV Story Video</h4>
 <hr>
-<h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message from our Principal</a> </h4>
+<h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message from our Principal</a></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/P_s_photo_for_virtual_open_house.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/resizedP_s_photo_for_virtual_open_house.png">
 </div>
-<h4></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/White_Modern_Back_To_School_Photo_Collage_Landscape_2_.jpg">
 </div>
@@ -22,10 +25,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <hr>
