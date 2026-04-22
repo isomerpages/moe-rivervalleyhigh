@@ -247,7 +247,7 @@ description: ""
 </details>
 </div>
 <p></p>
-<h4>For the full list of CCAs, click here.</h4>
+<h4>For the full list of CCAs, click <a href="https://www.rivervalleyhigh.moe.edu.sg/co-curricular-activities-curriculum-ccac/" rel="noopener nofollow" target="_blank">here.</a></h4>
 <p></p>
 <h4>Where Every Talent Thrives</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
