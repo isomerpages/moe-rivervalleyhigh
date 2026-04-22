@@ -36,6 +36,10 @@ description: ""
 </div>
 <p></p>
 <h4>Watch our Performing Arts CCAs in Action</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
+</div>
 <p>RVHS offers DSA through the performing arts for students who demonstrate
 passion and potential in this area. If you wonder what the performing arts
 at RVHS looks like, come wach "RV, 70morrow." our school's first-ever promenade
@@ -44,7 +48,7 @@ creativity of our performing arts students. From theatre to dance to music,
 our CCAs will come together to bring to life the stories and spirit that
 have defined RVHS across seven decades — and this is the performing arts
 community that you might be joining.</p>
-<p><u>Explore Our Campus </u>
+<p><u>Explore Our Campus</u>
 </p>
 <p>As "RV, 70morrow" takes you on a journey through our school campus, you
 will be able to get a feel of the spaces and environment that our students
