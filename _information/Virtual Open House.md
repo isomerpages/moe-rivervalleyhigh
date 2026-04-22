@@ -260,8 +260,12 @@ description: ""
 <details class="isomer-details">
 <summary>Construct, Integrate, Differentiate</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Click <a href="" rel="noopener nofollow" target="_blank">here</a> to view
-video</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/CID.png">
+</div>
+<p>Click <a href="https://www.youtube.com/watch?v=Pz4nC38UkEQ" rel="noopener nofollow" target="_blank">here</a> to
+view video</p>
 </div>
 </details>
 <details class="isomer-details">
