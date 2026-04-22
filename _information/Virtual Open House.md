@@ -34,6 +34,33 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
 </div>
+<p></p>
+<h4>Watch our Performing Arts CCAs in Action</h4>
+<p>RVHS offers DSA through the performing arts for students who demonstrate
+passion and potential in this area. If you wonder what the performing arts
+at RVHS looks like, come wach "RV, 70morrow." our school's first-ever promenade
+theatre production and experience firsthand the talent, dedication and
+creativity of our performing arts students. From theatre to dance to music,
+our CCAs will come together to bring to life the stories and spirit that
+have defined RVHS across seven decades — and this is the performing arts
+community that you might be joining.</p>
+<p><u>Explore Our Campus </u>
+</p>
+<p>As "RV, 70morrow" takes you on a journey through our school campus, you
+will be able to get a feel of the spaces and environment that our students
+call home every day.</p>
+<p>Performance Details &lt;-- underline this</p>
+<p>📅 9 May 2026 🕐 5.50pm – 7.50pm or 7.50pm – 9.50pm</p>
+<p>Simply enter the promo code RV70FRIENDS when you purchase your tickets
+at <a href="http://bookmyshow.sg/en/events/RV702026" rel="noopener noreferrer nofollow" target="_blank">http://bookmyshow.sg/en/events/RV702026</a> to
+enjoy a special ticket price.</p>
+<p>Your RV journey could start here. We look forward to welcoming you to
+RV — come experience the RV Spirit for yourself!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Sports</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
