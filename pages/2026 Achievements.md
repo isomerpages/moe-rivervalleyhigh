@@ -188,10 +188,15 @@ about the history of the Battle for Singapore:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOE Overseas Student Attachment Programme:</p>
+<p>Centre for Excellence in Education Summer Programme – Research Science
+Institute</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toh Kai Xuen (26J11) is one of the six JC 1 students in Singapore selected
+by MOE to participate in a six-week overseas research attachment programme
+at the Massachusetts Institute of Technology (Boston, United States of
+America) (28 Jun – 08 Aug 2026)</p>
 </td>
 </tr>
 <tr>
