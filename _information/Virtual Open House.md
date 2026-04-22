@@ -285,7 +285,8 @@ video</p>
 </div>
 <h4>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2026/" rel="noopener nofollow" target="_blank">here.</a></h4>
 <h4>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a></h4>
-<h4>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for 2026 Achievements. <br></h4>
+<h4>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for 2026 Achievements. </h4>
+<h4>If you have any questions for us, click <a href="https://go.gov.sg/vihgform" rel="noopener nofollow" target="_blank">here</a>  to ask us!<br></h4>
 <h4>See you at our onsite Open House on <strong>21 November 2026</strong>! There will be Principal's talk at 10am, campus tour, and activity booths for your child to learn more about our school programmes.</h4>
 <h4></h4>
 <p></p>
