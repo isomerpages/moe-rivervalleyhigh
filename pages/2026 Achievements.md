@@ -36,10 +36,13 @@ you can read about it in <a href="https://www.straitstimes.com/singapore/19-guid
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOE Gifted Education Branch Youth Science Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Distinction Award (Team):</strong>
+<br>Sherman Tan Haridas (4A, 2025)
+<br>Jocelyn Lau Yu Xuan (4D, 2025)
+<br>Heng Mian Yu (Wang Minyu) (4I, 2025)</p>
 </td>
 </tr>
 <tr>
