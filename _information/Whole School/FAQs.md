@@ -45,12 +45,6 @@ the following scheduled dates:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 July 2026 (Wed)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 July 2026 (Fri)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4, 5 August 2026 (Tues, Wed)</p>
-<p></p>
-<p></p>
-<p></p>
-<p>were informed of their DSA test via email on specified dates in July and
-August by 11 July (Friday). All applicants were notified of the outcome
-of their application via email between 25 August and 4 September 2025.</p>
 </td>
 </tr>
 <tr>
