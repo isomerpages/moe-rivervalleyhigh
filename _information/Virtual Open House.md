@@ -257,7 +257,8 @@ video</p>
 </p>
 <p>For Frequently Asked Questions, click <a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p>2026 Achievements
+<p>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for
+2026 Achievements.
 <br>
 </p>
 <p>See you at our onsite Open House on <strong>21 November 2026</strong>!
