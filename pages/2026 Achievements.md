@@ -81,10 +81,17 @@ sessions with the national team for the International Chemistry Olympiad.<strong
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Physics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Silver Medal:</strong>
+<br>Megan Miranda Khoo (25J08)
+<br>
+</p>
+<p><strong>Honourable Mention:</strong>
+<br>Sun Sijia (25J12)
+<br>Gibson Bong Hoong Nien (25J17)<strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
