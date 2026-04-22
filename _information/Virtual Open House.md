@@ -221,7 +221,7 @@ take a 3D Virtual Tour of our campus</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Uniformed_Groups.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=lEPwHRPM2JU" rel="noopener nofollow" target="_blank">RVHS Uniformed Groups share it all </a>
+<p><a href="https://www.youtube.com/watch?v=lEPwHRPM2JU" rel="noopener nofollow" target="_blank">RVHS Uniformed Groups share it all</a>
 </p>
 </div>
 </details>
