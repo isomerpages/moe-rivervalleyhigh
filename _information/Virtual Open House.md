@@ -295,7 +295,8 @@ RV — come experience the RV Spirit for yourself!</p>
 <details class="isomer-details">
 <summary>Academic curriculum</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/about-rv/Educational-Institution/ad/" rel="noopener nofollow" target="_blank">here</a> to
+find out more</p>
 </div>
 </details>
 <details class="isomer-details">
