@@ -234,10 +234,19 @@ America) (28 Jun – 08 Aug 2026)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Young Physicists’ Tournament</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Category A: Junior College</u></strong>
+<br><strong>Commendation Award (Team)</strong>
+<br>Ang Ian (25J10)
+<br>Loh Ying Jie, Ryo (25J10)
+<br>Li Xin Hui (25J11)
+<br><strong><u>Category B: Secondary School</u></strong>
+<br><strong>Bronze Award (Team)</strong>
+<br>⁠Sherman Tan Haridas (26J10)
+<br>Lo Shao Kai (26J16)
+<br>⁠Wong Chi To Aidan (26J17)</p>
 </td>
 </tr>
 <tr>
