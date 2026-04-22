@@ -166,10 +166,24 @@ with peers from other schools at the MOE HTDP symposium on 14 March 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Partnership with Former Ford Factory</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The following Secondary 2 students led public tours in partnership with
+the Former Ford Factory on 28 February and 1 March 2026. In this tour,
+they took on roles of characters from the past and shared with enthusiasm
+about the history of the Battle for Singapore:
+<br>Lian En Qi (2B)
+<br>Lim Chee Jin Jerome (2B)
+<br>Lim Wen Shuo (2B)
+<br>Bethany Fay Wong Bei En (2E)
+<br>Cecilia Li Yueran (2E)
+<br>Chan Sze Yu Giselle (2E)
+<br>Eng Xi Wen Kaitlyn (2E)
+<br>Fiona Ng Chin Thong (2E)
+<br>Ng Yi Ting Vincy (2E)
+<br>Go Kai Zhe (2E)
+<br>Phone Wati Maung Maung (2G)</p>
 </td>
 </tr>
 <tr>
