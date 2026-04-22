@@ -281,7 +281,7 @@ video</p>
 </p>
 <p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy (MLA)</a>
 <br><a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">RVHS Science Leaders Academy (SLA)</a>
-<br><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy</a>
+<br><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy (TESLA)</a>
 </p>
 </div>
 </details>
