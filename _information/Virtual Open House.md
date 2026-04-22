@@ -53,7 +53,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Floorball.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=WoYaVczWARM&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">RVHS Floorball - Beneath the blade</a>
+<p><a href="https://www.youtube.com/watch?v=9AeKik2i3dA" rel="noopener nofollow" target="_blank">RVHS Floorball - Beneath the blade</a>
 </p>
 </div>
 </details>
