@@ -280,7 +280,7 @@ video</p>
 2026 Achievements.
 <br>
 </p>
-<p><a href="https://www.youtube.com/watch?v=HAC7iG4nXew" rel="noopener nofollow" target="_blank">Google Fomr</a>
+<p><a href="https://docs.google.com/forms/d/10oAbakcfVZR0QvFKmOFVFms_BfZFdaA-fpYizg4PDDI/edit" rel="noopener nofollow" target="_blank">Google Fomr</a>
 </p>
 <p>See you at our onsite Open House on <strong>21 November 2026</strong>!
 There will be a Principal's talk at 10am, campus tours, and activity booths
