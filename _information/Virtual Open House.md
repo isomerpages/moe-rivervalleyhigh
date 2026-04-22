@@ -275,9 +275,13 @@ video</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Horizon Programme</summary>
+<summary><strong>Horizon Programme</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong><a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Visionary Pathways: </u></a></strong>
+<a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Inspiring Futures through Exploration of Careers and Learning</u>
+</a>
+</p>
 </div>
 </details>
 </div>
