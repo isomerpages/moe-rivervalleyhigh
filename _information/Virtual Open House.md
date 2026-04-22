@@ -52,12 +52,11 @@ music, our CCAs will come together to bring to life the stories and spirit
 that have defined RVHS across seven decades — and this is the performing
 arts community that you might be joining.</p>
 <p><u>Explore Our Campus</u>
-</p>
-<p>As "RV, 70morrow" takes you on a journey through our school campus, you
+<br>As "RV, 70morrow" takes you on a journey through our school campus, you
 will be able to get a feel of the spaces and environment that our students
 call home every day.</p>
-<p>Performance Details &lt;-- underline this</p>
-<p>📅 9 May 2026 🕐 5.50pm – 7.50pm or 7.50pm – 9.50pm</p>
+<p><u>Performance Details</u>
+<br>📅 9 May 2026 🕐 5.50pm – 7.50pm or 7.50pm – 9.50pm</p>
 <p>Simply enter the promo code RV70FRIENDS when you purchase your tickets
 at <a href="http://bookmyshow.sg/en/events/RV702026" rel="noopener noreferrer nofollow" target="_blank">http://bookmyshow.sg/en/events/RV702026</a> to
 enjoy a special ticket price.</p>
