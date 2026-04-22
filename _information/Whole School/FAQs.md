@@ -32,11 +32,7 @@ variant: tiptap
 <p>What is the DSA exercise timeline like?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2026 RVHS DSA-Sec Category </strong>
-<br>We invite Primary 6 students who are highly motivated and demonstrate
-passion, grit, and talent in the following areas to apply to our school
-under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
-is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa/application</u></a> from
+<p>Application is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa/application</u></a> from
 6 May 2026, 11am to 2 June 2026, 4.30pm.</p>
 </td>
 </tr>
