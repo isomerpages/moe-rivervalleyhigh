@@ -38,17 +38,6 @@ passion, grit, and talent in the following areas to apply to our school
 under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
 is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa/application</u></a> from
 6 May 2026, 11am to 2 June 2026, 4.30pm.</p>
-<p></p>
-<p>Shortlisted applicants for RVHS DSA-Sec exercise 2026 for the respective
-DSA talent areas will be notified via email and be informed of the interview
-session on one of the following scheduled dates:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 July 2026 (Wed)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 July 2026 (Fri)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4, 5 August 2026 (Tues, Wed)</p>
-<p></p>
-<p>All applicants for RVHS DSA-Sec Exercise 2026 will be notified of their
-outcomes (i.e. Confirmed Offer / Waiting list / Unsuccessful status) between
-17 August and 28 August 2026 via email.</p>
 </td>
 </tr>
 <tr>
@@ -75,8 +64,12 @@ on the application form.</p>
 trial / interview?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will be informed if they have been shortlisted and will
-be provided with the details via email by 11 July (Friday).</p>
+<p>Shortlisted applicants for RVHS DSA-Sec exercise 2026 for the respective
+DSA talent areas will be notified via email and be informed of the interview
+session on one of the following scheduled dates:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 July 2026 (Wed)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 July 2026 (Fri)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4, 5 August 2026 (Tues, Wed)</p>
 </td>
 </tr>
 <tr>
@@ -84,8 +77,9 @@ be provided with the details via email by 11 July (Friday).</p>
 <p>When will I know if I have been offered a place?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All shortlisted applicants will be notified of the outcome of their applications
-between 25 August and 4 September 2025 via email.</p>
+<p>All applicants for RVHS DSA-Sec Exercise 2026 will be notified of their
+outcomes (i.e. Confirmed Offer / Waiting list / Unsuccessful status) between
+17 August and 28 August 2026 via email.</p>
 </td>
 </tr>
 <tr>
