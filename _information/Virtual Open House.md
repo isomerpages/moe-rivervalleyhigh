@@ -191,7 +191,13 @@ take a 3D Virtual Tour of our campus</p>
 </details>
 <details class="isomer-details">
 <summary>Robotics</summary>
-<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=BEcai7advrg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Robotics.png"></a>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Robotics.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=BEcai7advrg" rel="noopener nofollow" target="_blank">Think RVHS Robotics is just coding help me put qn mark Think again!</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
