@@ -190,7 +190,7 @@ description: ""
 <h4>Clubs and Societies</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>EL Debates</summary>
+<summary>EL Debate</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -297,7 +297,4 @@ for your child to learn more about our school programmes.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
-</div>
 <p></p>
