@@ -280,7 +280,7 @@ video</p>
 <p><a href="https://youtu.be/y_ZHiVzXP3U" rel="noopener nofollow" target="_blank">RVHS The Humanities and Social Sciences Leaders (HSSLA)</a>
 </p>
 <p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy (MLA)</a>
-<br>RVHS <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/sla/" class="third-level-nav-item padding--top--none" rel="noopener noreferrer nofollow" target="_blank">Science Leaders Academy (SLA)</a>
+<br><a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">RVHS Science Leaders Academy (SLA)</a>
 <br><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy</a>
 </p>
 </div>
