@@ -343,10 +343,11 @@ view the video</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Horizon Programme</strong>
+<summary><strong>H</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Visionary Pathways: </u></a></strong>
+<p>Horizon Programme
+<br><strong><a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Visionary Pathways: </u></a></strong>
 <a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Inspiring Futures through Exploration of Careers and Learning</u>
 </a>
 </p>
