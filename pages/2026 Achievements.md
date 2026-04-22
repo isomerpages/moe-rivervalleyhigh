@@ -151,10 +151,17 @@ sessions with the national team for the International Chemistry Olympiad.<strong
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOE History Talent Development Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ong Qin Xuan Sheryl (4E) was selected to participate in the MOE History
+Talent Development Programme (HTDP) that was held from November 2025 to
+March 2026. She had the opportunity to learn from experts at the National
+Heritage Board and Urban Redevelopment Authority about the value of history.
+She has since presented her research project on Singapore’s culture and
+history, “Youth Sentiments in Xinyao: A Study of Chen Jiaming's Music”,
+with peers from other schools at the MOE HTDP symposium on 14 March 2026.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
