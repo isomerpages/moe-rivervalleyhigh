@@ -32,7 +32,7 @@ variant: tiptap
 <p>What is the DSA exercise timeline like?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2026 RVHS DSA-Sec Categories</strong>
+<p><strong>2026 RVHS DSA-Sec Category </strong>
 <br>We invite Primary 6 students who are highly motivated and demonstrate
 passion, grit, and talent in the following areas to apply to our school
 under the Direct School Admission (DSA) Exercise.&nbsp;&nbsp; Application
