@@ -15,6 +15,9 @@ sections:
         - title: DSA-Secondary Exercise
           description: Click here
           url: /information/dsa-integrated-programme/dsa2026/
+        - title: Virtual Open House
+          description: Click here
+          url: /virtual-open-house/
   - infopic:
       title: RV 70morrow 七十•启示
       id: infopic
