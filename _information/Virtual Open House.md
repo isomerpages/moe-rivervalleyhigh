@@ -268,8 +268,7 @@ video</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy</a>
 </p>
-<p><a href="https://www.youtube.com/watch?v=HAC7iG4nXew" rel="noopener nofollow" target="_blank">RVHS Student Leader Development Academy</a>
-</p>
+<p></p>
 </div>
 </details>
 </div>
