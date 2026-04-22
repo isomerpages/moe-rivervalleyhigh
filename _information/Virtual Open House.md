@@ -285,8 +285,19 @@ view the video</p>
 <p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy (MLA)</a>
 <br>
 <br>
-<br><a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">RVHS Science Leaders Academy (SLA)</a>
-<br><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy (TESLA)</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Sparking_Innovation__Shaping_Communities.jpg">
+</div>
+<p><a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">RVHS Science Leaders Academy (SLA)</a>
+<br>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/TESLA.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy (TESLA)</a>
 </p>
 </div>
 </details>
