@@ -157,14 +157,14 @@ do they have?</p>
 to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
+<p>Participate in the Secondary 1 (S1) posting process.</p>
 </li>
 <li>
 <p>Change their CCA if it is the chosen talent area</p>
 </li>
 <li>
-<p>Transfer to another school. They <strong>must</strong> commit to their chosen
-school for the duration of the programme.</p>
+<p>Transfer to another school after the release of the PSLE results. They <strong>must</strong> commit
+to their chosen school for the duration of the programme.</p>
 </li>
 </ul>
 <p></p>
