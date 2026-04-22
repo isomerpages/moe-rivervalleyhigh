@@ -343,13 +343,15 @@ view the video</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>H</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Horizon Programme
-<br><strong><a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Visionary Pathways: </u></a></strong>
-<a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank"><u>Inspiring Futures through Exploration of Careers and Learning</u>
-</a>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Inspiring_Futures_through_Exploration_of_Careers_and_Learning.jpg">
+</div>
+<p><a href="https://youtu.be/0Eka4mJZo_4" rel="noopener nofollow" target="_blank">Visionary Pathways: Inspiring Futures through Exploration of Careers and Learning</a>
 </p>
 </div>
 </details>
@@ -360,6 +362,5 @@ view the video</p>
 <h4>If you have any questions for us, click <a href="https://go.gov.sg/vihgform" rel="noopener nofollow" target="_blank">here</a> to ask us!<br></h4>
 <h4>See you at our onsite Open House on <strong>21 November 2026</strong>! There will be Principal's talk at 10am, campus tour, and activity booths for your child to learn more about our school programmes.</h4>
 <h4></h4>
-<p></p>
 <p></p>
 <p></p>
