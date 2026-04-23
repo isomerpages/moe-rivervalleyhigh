@@ -318,8 +318,9 @@ view the video and visit our CID page.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Igniting_Curiosity__Advancing_Knowledge_through_STEAM.jpg">
 </div>
 <p>Click <a href="https://youtu.be/y_ZHiVzXP3U" rel="noopener nofollow" target="_blank">here</a> to
-view the video and <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/hssla/" rel="noopener nofollow" target="_blank">visit</a> our
-HSSLA page.
+view the video.
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/hssla/" rel="noopener nofollow" target="_blank">here</a> to
+learn more about HSSLA.
 <br>
 <br>
 </p>
@@ -327,7 +328,7 @@ HSSLA page.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/MLA.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">here</a> to
-learn more about MLA.
+view the video and learn more about MLA.
 <br>
 <br>
 </p>
