@@ -16,9 +16,10 @@ HSSLA provides a vibrant platform dedicated to fostering creative and critical t
 
 Our signature programme - the Student-Led Academic Modules (SLAM) - is guided by mentors to encourage junior college members to explore personal interests, design modules, and share their knowledge. Humanities NOW! is our annual two-week, student-driven event which features a diverse range of interactive activities including educational talks and learning journeys. Each year's unique theme facilitates exploration of our complex, evolving society. Through our Overseas Experiential Learning Programme (OELP), these transformative journeys provide members with deep insights into historical events, connecting them to current global issues and enriching their understanding of the worldand their place in it. 
 
-Throughout the course of history, the humanities have served to enrich and inform society, and provide the context in which policy and technological innovations can advance meaningfully. In addition, the humanities and social sciences also have an important role to play in the development of critical and independent thinking as learners grapple with changing contexts, shifting viewpoints and intricate philosophies. 
+##### Our Objective
 
-The Humanities and Social Sciences Leaders Academy (HSSLA) at RVHS seeks to deepen students' understanding of the humanities and social sciences and to cater to those who have a passion to pursue further studies in the humanities at the tertiary level. The academy aspires to equip our students with 21st Century Competencies and to become "Thinkers, Leaders, Humanists".
+
+
 ![](/images/2025/Module__How_AI_is_taking_the__art__out_of__artificial_.jpg)
 HSSLA student participants in the Module "How AI is taking the art out of artificial"
 
