@@ -42,7 +42,7 @@ description: ""
 </div>
 <h4><a href="https://www.youtube.com/watch?v=TzA7g6nAm7E&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">Watch</a> this video to learn more about our vibrant CCAs!</h4>
 <hr>
-<h4>Watch our CCAs Action</h4>
+<h4>Watch Our Performing Arts In Action!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
 </div>
