@@ -14,7 +14,7 @@ variant: markdown
 #### Our Vision
 Empowering students with a passion and aptitude for Mathematics to deepen their understanding, become leaders in the field, and apply their knowledge to make a meaningful impact on society.
 
-The Mathematics Leaders Academy (MLA) harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Guided by the B.u&amp;i.L.D (Broaden.Lead.Deepen) approach for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
+At RV Mathematics Leaders Academy (MLA), we believe in harnessing the talents of our students in Mathematics. Our mission is to inspire and empower students, nurturing them to become leaders in the field. We cultivate a broad passion and deep subject mastery, enabling each student to realise their fullest potential and contribute meaningfully to society. Our B.u&amp;i.L.D (Broaden.Lead.Deepen) approach guides the academy.  for talent development, MLA seeks to nurture our students to be leaders in the field, to develop their passion and deep subject mastery, and to equip them with 21st century competencies.
 
 ![](/images/MLA.jpg) 
 MLA Students Building the Mathematical Bridge Model, a wooden footbridge in Cambridge
