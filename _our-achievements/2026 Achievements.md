@@ -308,14 +308,6 @@ and society, becoming changemakers ready to tackle global challenges.</p>
 <p>Gold Award</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
