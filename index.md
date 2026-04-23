@@ -15,7 +15,7 @@ sections:
         - title: DSA-Secondary Exercise
           description: Click here
           url: /information/dsa-integrated-programme/dsa2026/
-        - title: Virtual Open House
+        - title: Virtual Open House 25 April 2026
           description: Click here
           url: /virtual-open-house/
   - infopic:
