@@ -4,7 +4,7 @@ permalink: /virtual-open-house/
 variant: tiptap
 description: ""
 ---
-<h4>Step into your future at River Valley high School</h4>
+<h4>Step into your future at River Valley High School</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Our_RV_Story.png">
 </div>
