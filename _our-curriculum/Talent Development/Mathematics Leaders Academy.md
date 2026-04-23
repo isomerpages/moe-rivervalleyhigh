@@ -16,6 +16,8 @@ Empowering students with a passion and aptitude for Mathematics to deepen their 
 
 At RV Mathematics Leaders Academy (MLA), we believe in harnessing the talents of our students in Mathematics. Our mission is to inspire and empower students, nurturing them to become leaders in the field. We cultivate a broad passion and deep subject mastery, enabling each student to realise their fullest potential and contribute meaningfully to society. Our B.u&amp;i.L.D (Broaden.Lead.Deepen) approach guides the academy, characterised by Breadth, Depth, and Length in our curriculum and leadership development. 
 
+#### Our Objective
+
 ![](/images/MLA.jpg) 
 MLA Students Building the Mathematical Bridge Model, a wooden footbridge in Cambridge
 ##### Broad-based Learning <br>
