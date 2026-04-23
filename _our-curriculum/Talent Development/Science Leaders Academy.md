@@ -7,6 +7,10 @@ variant: markdown
 ---
 ## Science Leaders Academy
 
+**Our Vision**
+
+Nurturing creative and innovative STEM leaders who drive transformative change. 
+
 The Science Leaders Academy (SLA) is a key pillar of scientific development at RVHS, 
 nurturing students who have a passion for scientific inquiry and innovation, as well as leveraging science and technology to create value for society. 
 
