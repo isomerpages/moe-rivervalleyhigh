@@ -328,7 +328,9 @@ learn more about HSSLA.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/MLA.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">here</a> to
-view the video and learn more about MLA.
+view the video.
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/mla/" rel="noopener nofollow" target="_blank">here</a> to
+learn more about MLA.
 <br>
 <br>
 </p>
