@@ -349,8 +349,8 @@ learn more about MLA.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/TESLA.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">RVHS The Eco Sustainability Leadership Academy (TESLA)</a>
-</p>
+<p>Click <a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">here</a> to
+learn more about TESLA.</p>
 </div>
 </details>
 <details class="isomer-details">
