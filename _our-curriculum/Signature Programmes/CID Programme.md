@@ -14,9 +14,22 @@ community of future-ready value creators by (1) promoting active and independent
 learning, (2) developing students’ cognitive interest and (3) developing
 their interdisciplinary competencies. Students demonstrate these competencies
 across different aspects of their academic journey in RV, such as pursuing
-and deepening their interest in talent academies.
-<br>
-</p>
+and deepening their interest in talent academies.</p>
+<h4>Our Objective</h4>
+<p>The CID Programme seeks to develop in students the knowledge, skills,
+competencies, and dispositions necessary for future learning and work,
+enabling them to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>discover and deepen their interest</p>
+</li>
+<li>
+<p>develop a way of thinking to approach, analyse and solve problems innovatively</p>
+</li>
+<li>
+<p>engage effectively with others in an increasingly interconnected world</p>
+</li>
+</ul>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
