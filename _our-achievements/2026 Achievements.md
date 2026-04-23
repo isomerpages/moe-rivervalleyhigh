@@ -294,6 +294,22 @@ and society, becoming changemakers ready to tackle global challenges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>13th Biomedical Quiz organized by ACJC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
