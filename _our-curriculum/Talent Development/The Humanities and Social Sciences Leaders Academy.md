@@ -10,7 +10,7 @@ variant: markdown
 <figure><img style="width:60%" src="/images/hssla%20logo.png"></figure>
 
 ##### Our Vision 
-##### To be "Thinkers, Leaders, Humanist".
+ To be "Thinkers, Leaders, Humanist".
 
 HSSLA provides a vibrant platform dedicated to fostering creative and critical thinking in the humanities and social sciences. 
 
