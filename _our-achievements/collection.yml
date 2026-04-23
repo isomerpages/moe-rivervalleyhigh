@@ -2,6 +2,7 @@ collections:
   our-achievements:
     output: true
     order:
+      - original 2026 Achievements.md
       - Scholarship Recipients/.keep
       - Scholarship Recipients/2024 Scholarship Recipients.md
       - Scholarship Recipients/2023 Scholarship Recipients.md
