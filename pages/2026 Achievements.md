@@ -273,6 +273,33 @@ students to transform curiosity into meaningful contributions to our community
 and society, becoming changemakers ready to tackle global challenges.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19th National Secondary School Translation Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>第19届全国中学生现场翻译比赛
+<br>个人成绩优异奖 (individual best top 20)
+<br>Individual Award
+<br>Kwek Bing Xuan Justin 3I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
