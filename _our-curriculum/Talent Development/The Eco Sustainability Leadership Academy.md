@@ -26,6 +26,10 @@ amongst youths</p>
 <li>
 <p>Develop future environment leaders committed to driving change</p>
 </li>
+<li>
+<p>Engage youths effectively to create sustained and meaningful impact on
+the environment</p>
+</li>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
