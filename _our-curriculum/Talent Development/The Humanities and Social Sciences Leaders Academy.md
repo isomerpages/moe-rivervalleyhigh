@@ -18,7 +18,7 @@ Our signature programme - the Student-Led Academic Modules (SLAM) - is guided by
 
 ##### Our Objective
 
-
+We seek to deepen students' understanding of the humanities and social sciences, gaining insights into issues that are pertinent to the human condition. 
 
 ![](/images/2025/Module__How_AI_is_taking_the__art__out_of__artificial_.jpg)
 HSSLA student participants in the Module "How AI is taking the art out of artificial"
