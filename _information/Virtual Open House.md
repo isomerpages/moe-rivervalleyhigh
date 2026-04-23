@@ -340,18 +340,10 @@ learn more about MLA.
 <p>Click <a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">here</a> to
 view the video.
 <br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/sla/" rel="noopener nofollow" target="_blank">here </a>to
-learn more about SLA.</p>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Click <a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">here</a> to
-learn more about MLA.
-<br>
+learn more about SLA.
 <br>
 <br>
 </p>
-</div>
-</details>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/TESLA.png">
 </div>
@@ -361,12 +353,14 @@ view the video.
 learn more about TESLA.
 <br>
 <br>
-<br>Click <a href="https://www.youtube.com/watch?v=7CHGg9f9y8Q" rel="noopener nofollow" target="_blank">here</a> to
-view the video.</p>
-<p>Click to learn more about BLA.</p>
-<p>
-<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/BLA.png">
+</div>
+<p>Click <a href="https://www.youtube.com/watch?v=7CHGg9f9y8Q" rel="noopener nofollow" target="_blank">here</a> to
+view the video.
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/biculturalldra/" rel="noopener nofollow" target="_blank">here</a> to
+learn more about BLA.</p>
 </div>
 </details>
 <details class="isomer-details">
