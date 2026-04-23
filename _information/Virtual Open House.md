@@ -307,7 +307,9 @@ find out more.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/CID.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=Pz4nC38UkEQ" rel="noopener nofollow" target="_blank">here</a> to
-view the video and visit our CID page.</p>
+view the video.</p>
+<p>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/cid/" rel="noopener nofollow" target="_blank">here</a> to
+learn about our CID programme.</p>
 </div>
 </details>
 <details class="isomer-details">
