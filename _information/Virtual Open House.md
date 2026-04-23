@@ -338,6 +338,8 @@ learn more about MLA.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Sparking_Innovation__Shaping_Communities.jpg">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">here</a> to
+view the video.
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/sla/" rel="noopener nofollow" target="_blank">here </a> to
 learn more about SLA.</p>
 <details class="isomer-details">
 <summary></summary>
