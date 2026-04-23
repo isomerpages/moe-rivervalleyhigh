@@ -339,7 +339,7 @@ learn more about MLA.
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">here</a> to
 view the video.
-<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/sla/" rel="noopener nofollow" target="_blank">here </a> to
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/sla/" rel="noopener nofollow" target="_blank">here </a>to
 learn more about SLA.</p>
 <details class="isomer-details">
 <summary></summary>
@@ -356,6 +356,8 @@ learn more about MLA.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/TESLA.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=T-gMEJ6D82k" rel="noopener nofollow" target="_blank">here</a> to
+view the video.
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/Talent-Academies/tesla/" rel="noopener nofollow" target="_blank">here</a> to
 learn more about TESLA.</p>
 </div>
 </details>
