@@ -318,7 +318,7 @@ view the video and visit our CID page.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Igniting_Curiosity__Advancing_Knowledge_through_STEAM.jpg">
 </div>
 <p>Click <a href="https://youtu.be/y_ZHiVzXP3U" rel="noopener nofollow" target="_blank">here</a> to
-learn about HSSLA.
+view the video and visit our HSSLA page.
 <br>
 <br>
 </p>
