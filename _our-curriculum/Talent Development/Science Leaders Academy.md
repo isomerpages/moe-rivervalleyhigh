@@ -10,7 +10,7 @@ variant: markdown
 The Science Leaders Academy (SLA) is a key pillar of scientific development at RVHS, 
 nurturing students who have a passion for scientific inquiry and innovation, as well as leveraging science and technology to create value for society. 
 
-From Secondary 3 to JC2, the SLA provides our science talents with authentic learning, research and leadership experiences which highlight the relevance and applications of STEM beyond the classroom. Such exposures are pivotal in developing 21st Century Competencies, such as critical, adaptive and inventive thinking, which empower our students to create innovative solutions to address real-world challenges. 
+From Secondary 3 to JC2, the SLA provides our science talents with authentic learning, research and leadership experiences which highlight the relevance and applications of STEM beyond the classroom. Such exposures are pivotal in developing 21st Century Competencies, such as critical, adaptive and inventive thinking, which empower our students to create innovative solutions to address real-world challenges. Through partnerships with local and overseas tertiary organisations, SLA extends the learning space for our students in science research, leading to opportunities for further education, scholarships, and careers in STEM. 
 
 creative and innovative leaders in science and technology. It provides learning, research and leadership opportunities for our high ability students who show a strong interest and passion in science, through three programmes:
 
