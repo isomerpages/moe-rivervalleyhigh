@@ -317,7 +317,8 @@ view the video</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Igniting_Curiosity__Advancing_Knowledge_through_STEAM.jpg">
 </div>
-<p><a href="https://youtu.be/y_ZHiVzXP3U" rel="noopener nofollow" target="_blank">RVHS The Humanities and Social Sciences Leaders (HSSLA)</a>
+<p>Click <a href="https://youtu.be/y_ZHiVzXP3U" rel="noopener nofollow" target="_blank">here</a> to
+learn about HSSLA.
 <br>
 <br>
 </p>
