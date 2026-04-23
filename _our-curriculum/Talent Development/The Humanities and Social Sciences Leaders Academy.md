@@ -9,8 +9,12 @@ variant: markdown
 
 <figure><img style="width:60%" src="/images/hssla%20logo.png"></figure>
 
-##### Our Vision
-To be "Thinkers, Leaders, Humanist".
+##### Our Vision 
+##### To be "Thinkers, Leaders, Humanist".
+
+HSSLA provides a vibrant platform dedicated to fostering creative and critical thinking in the humanities and social sciences. 
+
+Our signature programme - the Student-Led Academic Modules (SLAM) - is guided by mentors to encourage junior college members to explore personal interests, design modules, and share their knowledge. Humanities NOW! is our annual two-week, student-driven event which features a diverse range of interactive activities including educational talks and learning journeys. Each year's unique theme facilitates exploration of our complex, evolving society. Through our Overseas Experiential Learning Programme (OELP), these transformative journeys provide members with deep insights into historical events, connecting them to current global issues and enriching their understanding of the worldand their place in it. 
 
 Throughout the course of history, the humanities have served to enrich and inform society, and provide the context in which policy and technological innovations can advance meaningfully. In addition, the humanities and social sciences also have an important role to play in the development of critical and independent thinking as learners grapple with changing contexts, shifting viewpoints and intricate philosophies. 
 
