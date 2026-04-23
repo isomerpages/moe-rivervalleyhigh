@@ -307,8 +307,8 @@ find out more.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/CID.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=Pz4nC38UkEQ" rel="noopener nofollow" target="_blank">here</a> to
-view the video.</p>
-<p>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/cid/" rel="noopener nofollow" target="_blank">here</a> to
+view the video.
+<br>Click <a href="https://www.rivervalleyhigh.moe.edu.sg/our-curriculum/cid/" rel="noopener nofollow" target="_blank">here</a> to
 learn about our CID programme.</p>
 </div>
 </details>
@@ -383,5 +383,4 @@ learn more about BLA.</p>
 <h4>If you have any questions for us, click <a href="https://go.gov.sg/vihgform" rel="noopener nofollow" target="_blank">here</a> to ask us!<br></h4>
 <h4>See you at our onsite Open House on <strong>21 November 2026</strong>! There will be Principal's talk at 10am, campus tour, and activity booths for your child to learn more about our school programmes.</h4>
 <h4></h4>
-<p></p>
 <p></p>
