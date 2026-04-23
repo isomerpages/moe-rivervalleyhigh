@@ -22,9 +22,6 @@ description: ""
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/White_Modern_Back_To_School_Photo_Collage_Landscape_2_.jpg">
 </div>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
-</div>
 <p></p>
 <p></p>
 <hr>
@@ -32,6 +29,14 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/School_Building.jpg">
 </div>
 <h4>Click <a href="https://campusguide-fhdr.onrender.com" rel="noopener nofollow" target="_blank">here </a>to take a 3D Virtual Tour of our campus</h4>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <hr>
 <h4>Find Your Spark, Ignite Your Passion</h4>
 <div class="isomer-image-wrapper">
