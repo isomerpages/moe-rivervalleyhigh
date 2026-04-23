@@ -3,10 +3,16 @@ title: Science Leaders Academy
 permalink: /our-curriculum/Talent-Academies/sla/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ## Science Leaders Academy
 
-The Science Leaders Academy (SLA) nurtures creative and innovative leaders in science and technology. It provides learning, research and leadership opportunities for our high ability students who show a strong interest and passion in science, through three programmes:
+The Science Leaders Academy (SLA) is a key pillar of scientific development at RVHS, 
+nurturing students who have a passion for scientific inquiry and innovation, as well as leveraging science and technology to create value for society. 
+
+From
+
+creative and innovative leaders in science and technology. It provides learning, research and leadership opportunities for our high ability students who show a strong interest and passion in science, through three programmes:
 
 **(a) Young Scientists @ Work Programme**<br> 
 Through internships that are at least three months long, students learn first-hand the work of scientists and experience research at laboratories of tertiary institutions, research institutes and industrial establishments.
