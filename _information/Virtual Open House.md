@@ -32,10 +32,8 @@ description: ""
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Black_Red_and_Pink_Modern_Graduation_Photo_Collage.png">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <hr>
 <h4>Find Your Spark, Ignite Your Passion</h4>
@@ -43,7 +41,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
 </div>
 <p></p>
-<h4>Watch our Performing Arts CCAs in Action</h4>
+<h4><a href="https://www.youtube.com/watch?v=TzA7g6nAm7E&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">Watch</a> our Performing Arts CCAs in Action</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
