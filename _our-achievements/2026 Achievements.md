@@ -289,7 +289,7 @@ and society, becoming changemakers ready to tackle global challenges.</p>
 <p>NCC Freestyle Drill National Finals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd placing</p>
+<p>2nd Placing</p>
 </td>
 </tr>
 <tr>
