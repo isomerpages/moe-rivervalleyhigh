@@ -41,8 +41,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_28_at_14_31_09.jpg">
 </div>
 <h4><a href="https://www.youtube.com/watch?v=TzA7g6nAm7E&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">Watch</a> this video to learn more about our vibrant CCAs!</h4>
-<h4><a href="https://www.youtube.com/watch?v=TzA7g6nAm7E&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">Watch</a> our Performing Arts CCAs in Action</h4>
-<p></p>
+<hr>
+<h4>Watch our CCAs Action</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
 </div>
