@@ -307,7 +307,7 @@ find out more.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/CID.png">
 </div>
 <p>Click <a href="https://www.youtube.com/watch?v=Pz4nC38UkEQ" rel="noopener nofollow" target="_blank">here</a> to
-view the video</p>
+view the video and visit our CID page.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -325,18 +325,27 @@ learn about HSSLA.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/MLA.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">RVHS Mathematics Leaders Academy (MLA)</a>
+<p>Click <a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">here</a> to
+learn more about MLA.
 <br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV70 (2026)/Sparking_Innovation__Shaping_Communities.jpg">
 </div>
-<p><a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">RVHS Science Leaders Academy (SLA)</a>
+<p>Click <a href="https://www.youtube.com/watch?v=pTr_Rl19lIA" rel="noopener nofollow" target="_blank">here</a> to
+learn more about SLA.</p>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Click <a href="https://www.youtube.com/watch?v=sJ2u42ylk-c" rel="noopener nofollow" target="_blank">here</a> to
+learn more about MLA.
 <br>
 <br>
 <br>
 </p>
+</div>
+</details>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/TESLA.png">
 </div>
