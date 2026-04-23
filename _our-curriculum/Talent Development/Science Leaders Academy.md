@@ -12,7 +12,11 @@ nurturing students who have a passion for scientific inquiry and innovation, as 
 
 From Secondary 3 to JC2, the SLA provides our science talents with authentic learning, research and leadership experiences which highlight the relevance and applications of STEM beyond the classroom. Such exposures are pivotal in developing 21st Century Competencies, such as critical, adaptive and inventive thinking, which empower our students to create innovative solutions to address real-world challenges. Through partnerships with local and overseas tertiary organisations, SLA extends the learning space for our students in science research, leading to opportunities for further education, scholarships, and careers in STEM. 
 
-creative and innovative leaders in science and technology. It provides learning, research and leadership opportunities for our high ability students who show a strong interest and passion in science, through three programmes:
+Our Objective
+
+The SLA aims to:
+* connect learning to real-world applications
+* foster curiosity and innovation by promoting critical thinking and problem-solving.
 
 **(a) Young Scientists @ Work Programme**<br> 
 Through internships that are at least three months long, students learn first-hand the work of scientists and experience research at laboratories of tertiary institutions, research institutes and industrial establishments.
