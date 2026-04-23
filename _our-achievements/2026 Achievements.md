@@ -302,10 +302,10 @@ and society, becoming changemakers ready to tackle global challenges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 Corps Achievement Award (CAA) (St. John Brigade)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gold Award</p>
 </td>
 </tr>
 <tr>
