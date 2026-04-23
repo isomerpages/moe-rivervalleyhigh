@@ -286,10 +286,10 @@ and society, becoming changemakers ready to tackle global challenges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC freestyle drill team</p>
+<p>NCC Freestyle Drill National Finals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd National Finals</p>
+<p>2nd placing</p>
 </td>
 </tr>
 <tr>
