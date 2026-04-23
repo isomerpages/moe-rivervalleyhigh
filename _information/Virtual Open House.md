@@ -375,7 +375,7 @@ learn more about BLA.</p>
 </div>
 </details>
 </div>
-<h4>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2026/" rel="noopener nofollow" target="_blank">here.</a></h4>
+<h4>For more information on the 2026 DSA Exercise, click <a href="/information/dsa-integrated-programme/dsa2026/" rel="noopener nofollow" target="_blank">here.</a><br></h4>
 <h4>For Frequently Asked Questions, click <a href="/information/faqs/" rel="noopener nofollow" target="_blank">here</a><a href="https://www.rivervalleyhigh.moe.edu.sg/information/faqs/" rel="noopener nofollow" target="_blank">.</a></h4>
 <h4>Click <a href="/2026-achievements/" rel="noopener nofollow" target="_blank">here</a> for 2026 Achievements.</h4>
 <h4>If you have any questions for us, click <a href="https://go.gov.sg/vihgform" rel="noopener nofollow" target="_blank">here</a> to ask us!<br></h4>
