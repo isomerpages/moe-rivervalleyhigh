@@ -32,15 +32,8 @@ variant: tiptap
 <p>What is the DSA exercise timeline like?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The actual dates for DSA 2026 have not been released yet, please look
-out for MOE's announcements in early May. For reference, you may look at
-the DSA 2025 timeline:</p>
-<p></p>
-<p>For DSA 2025 exercise, the online MOE application portal was opened from
-7th May (11am) to 3rd Jun (3pm). For RVHS, the shortlisted applicants were
-informed of their DSA test via email on specified dates in July and August
-by 11 July (Friday). All applicants were notified of the outcome of their
-application via email between 25 August and 4 September 2025.</p>
+<p>Application is via MOE online portal <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa/application</u></a> from
+6 May 2026, 11am to 2 June 2026, 4.30pm.</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +60,12 @@ on the application form.</p>
 trial / interview?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will be informed if they have been shortlisted and will
-be provided with the details via email by 11 July (Friday).</p>
+<p>Shortlisted applicants for RVHS DSA-Sec exercise 2026 for the respective
+DSA talent areas will be notified via email and be informed of the interview
+session on one of the following scheduled dates:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 July 2026 (Wed)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 July 2026 (Fri)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4, 5 August 2026 (Tues, Wed)</p>
 </td>
 </tr>
 <tr>
@@ -76,8 +73,9 @@ be provided with the details via email by 11 July (Friday).</p>
 <p>When will I know if I have been offered a place?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All shortlisted applicants will be notified of the outcome of their applications
-between 25 August and 4 September 2025 via email.</p>
+<p>All applicants for RVHS DSA-Sec Exercise 2026 will be notified of their
+outcomes (i.e. Confirmed Offer / Waiting list / Unsuccessful status) between
+17 August and 28 August 2026 via email.</p>
 </td>
 </tr>
 <tr>
@@ -133,8 +131,7 @@ to RVHS, all students in RV must take Higher Chinese Language from Sec
 <p>Where can I find the list of CCAs for DSA?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The 2025 DSA CCA list is available on our school website . The 2026 DSA
-CCA list will be published once the DSA Exercise commences.</p>
+<p>The 2026 DSA CCA list is available on our <a href="https://www.rivervalleyhigh.moe.edu.sg/information/dsa-integrated-programme/dsa2025/" rel="noopener nofollow" target="_blank">school website</a>.</p>
 </td>
 </tr>
 <tr>
@@ -156,14 +153,14 @@ do they have?</p>
 to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
+<p>Participate in the Secondary 1 (S1) posting process.</p>
 </li>
 <li>
 <p>Change their CCA if it is the chosen talent area</p>
 </li>
 <li>
-<p>Transfer to another school. They <strong>must</strong> commit to their chosen
-school for the duration of the programme.</p>
+<p>Transfer to another school after the release of the PSLE results. They <strong>must</strong> commit
+to their chosen school for the duration of the programme.</p>
 </li>
 </ul>
 <p></p>
@@ -282,16 +279,6 @@ will be taken into consideration for shortlisting. For Chinese Orchestra,
 the school will consider all musical instruments excluding guzheng and
 violin. For Concert Band, the school will consider all musical instruments
 excluding piano and violin.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If my child gets accepted for Drama through DSA, does it mean he/she has
-to do drama as a subject in RV?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Your child has to take up Drama as his/her CCA if he/she accepts the offer
-to come into RV via Drama.</p>
 </td>
 </tr>
 </tbody>
@@ -498,12 +485,12 @@ to handle a diverse range of commitments in CCAs and Academies.</p>
 <p>There are three training sessions per week for sports CCAs. Generally,
 training sessions are held on Tuesdays, Fridays and one other weekday.
 Each training session is 3 hours long, from 3pm to 6pm. Performing Arts
-CCAs are held on Tuesdays and Fridays, except for Chorale which conducts
-CCA on Wednesdays and Fridays. More practices are arranged only when there
-is a need to prepare for a competition or a performance. In such instances,
-parents and students will be notified at least two weeks in advance. Our
-students’ well-being is our priority, hence during the post-season and
-end-of-year examination period, CCA sessions will be phased down.</p>
+CCAs are held on Tuesdays and Fridays. More practices are arranged only
+when there is a need to prepare for a competition or a performance. In
+such instances, parents and students will be notified at least two weeks
+in advance. Our students’ well-being is our priority, hence during the
+post-season and end-of-year examination period, CCA sessions will be phased
+down.</p>
 </td>
 </tr>
 <tr>
@@ -767,15 +754,6 @@ students need to meet in order to be promoted to the next level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How does MOE's posting work?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please visit&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/how-posting-works" rel="noopener noreferrer nofollow" target="_blank">this site</a>&nbsp;to
-find out more.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>When will posting results be released?</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -869,10 +847,12 @@ including multiple bus routes serving the area.</p>
 <p>Can my child transfer out of RV after 4 years?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The IP is a six-year programme. Students are expected to fulfil their
-commitment to the school for the full duration, and transfers to other
-schools are strongly discouraged. In particular, transfers to other IP
-schools are not allowed, unless under exceptional circumstances.</p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school for the duration of the 6-year
+Integrated Programme, and participate in the activities related to the
+talent they are selected for from Sec 1 to Sec 4.&nbsp;Students are strongly
+encouraged to continue pursuing the same talent area when they are in Junior
+College.</p>
 </td>
 </tr>
 <tr>
@@ -909,10 +889,19 @@ RVIP DSA exercise. They will also have to pass MOE AEIS for their DSA results
 to take effect.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If my child is offered admission to a secondary school through DSA, does
+he need to meet the school’s cut-off-point for S1 posting?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE results must be eligible for <strong>Posting Group 3</strong> in order
+for a student to be posted to RVHS through DSA-Sec.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
 </details>
 </div>
-<p>If my child is offered admission to a secondary school through DSA, does
-he need to meet the school’s cut-off-point for S1 posting?</p>
+<p></p>

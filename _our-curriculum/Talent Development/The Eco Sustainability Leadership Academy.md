@@ -6,17 +6,32 @@ third_nav_title: Talent Development
 variant: tiptap
 ---
 <h2>Eco-Sustainability Leadership Academy</h2>
-<p>Established in 2015, The Eco-Sustainability Leadership Academy (TESLA)
-envisions its members to become knowledge leaders and proactive advocates
-who inspire actions in eco-sustainability. Through student-led initiatives
-that range from&nbsp; resource management to biodiversity conservation,
-TESLA develops leaders with the knowledge about environmental sustainability,
-as well as the passion to inspire sustainable practices in both the school
-and the community. To broaden the horizons of the members, TESLA provides
-opportunities for students for hands-on activities and exploration out
-in the real-world. TESLA is also a platform for outreach to the student
-body, spreading awareness about pressing environmental issues to involve
-the school in addressing them.&nbsp;</p>
+<h4>Our Vision</h4>
+<p>Nurturing knowledge leaders and proactive advocates who champion eco-sustainable
+practices.</p>
+<p>The Eco-Sustainability Leadership Academy (TESLA) is a cornerstone of
+environmental leadership in RVHS, equipping students with knowledge, skills,
+and mindset to create meaningful environmental change. Focusing on distinct
+aspects of sustainability, TESLA promotes eco-consciousness through weekly
+sessions, hands-on workshops, and outreach initiatives.</p>
+<p>Through this platform, student stewards grow in environmental awareness,
+advocacy, taking the lead in projects that cultivate a strong eco-culture
+both within the school and in the wider community.</p>
+<h4>Our Objective</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Raise awareness of local and global environment sustainability issues
+amongst youths</p>
+</li>
+<li>
+<p>Develop future environment leaders committed to driving change</p>
+</li>
+<li>
+<p>Engage youths effectively to create sustained and meaningful impact on
+the environment</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bonded_TESLA_Family_at_Eco_Trail.jpeg">
 </div>

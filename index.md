@@ -14,7 +14,18 @@ sections:
       key_highlights:
         - title: DSA-Secondary Exercise
           description: Click here
-          url: /information/dsa-integrated-programme/dsa2025/
+          url: /information/dsa-integrated-programme/dsa2026/
+        - title: Virtual Open House 25 April 2026
+          description: Click here
+          url: /virtual-open-house/
+  - infopic:
+      title: Virtual Open House on 25 April 2026
+      subtitle: Join us Online!
+      id: infopic
+      image: /images/virtual_open_house_s.png
+      alt: Image alt text
+      button: Visit our website here
+      url: /virtual-open-house/
   - infopic:
       title: RV 70morrow 七十•启示
       id: infopic
@@ -22,12 +33,6 @@ sections:
       url: /rv70morrow/
       alt: Image alt text
       image: /images/RVMorrowQRcodenew.png
-  - infopic:
-      title: Virtual Open House on 25 April 2026
-      subtitle: Join us Online!
-      id: infopic
-      image: /images/virtual_open_house_s.png
-      alt: Image alt text
   - infopic:
       title: Class of 2025
       subtitle: Congratulations!
