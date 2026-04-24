@@ -138,6 +138,16 @@ RV — come experience the RV Spirit for yourself!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png">
 </div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Wushu</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png">
+</div>
 <p><a href="https://www.youtube.com/watch?v=Tlm9dXyeMeI" rel="noopener nofollow" target="_blank">Discipline and Resilience - Our RVHS Wushu Experience</a>
 </p>
 </div>
