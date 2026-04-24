@@ -485,12 +485,12 @@ to handle a diverse range of commitments in CCAs and Academies.</p>
 <p>There are three training sessions per week for sports CCAs. Generally,
 training sessions are held on Tuesdays, Fridays and one other weekday.
 Each training session is 3 hours long, from 3pm to 6pm. Performing Arts
-CCAs are held on Tuesdays and Fridays, except for Chorale which conducts
-CCA on Wednesdays and Fridays. More practices are arranged only when there
-is a need to prepare for a competition or a performance. In such instances,
-parents and students will be notified at least two weeks in advance. Our
-students’ well-being is our priority, hence during the post-season and
-end-of-year examination period, CCA sessions will be phased down.</p>
+CCAs are held on Tuesdays and Fridays. More practices are arranged only
+when there is a need to prepare for a competition or a performance. In
+such instances, parents and students will be notified at least two weeks
+in advance. Our students’ well-being is our priority, hence during the
+post-season and end-of-year examination period, CCA sessions will be phased
+down.</p>
 </td>
 </tr>
 <tr>
