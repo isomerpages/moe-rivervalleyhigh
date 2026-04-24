@@ -82,7 +82,7 @@ RV — come experience the RV Spirit for yourself!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Basketball.png">
 </div>
-<p><a href="" rel="noopener nofollow" target="_blank">RVHS Basketball Giving our best shot</a>
+<p><a href="https://www.youtube.com/watch?v=nkaik7fks2E&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">RVHS Basketball Giving our best shot</a>
 </p>
 </div>
 </details>
