@@ -72,8 +72,7 @@ RV — come experience the RV Spirit for yourself!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Badminton.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=-Z5jBukvKlQ" rel="noopener nofollow" target="_blank">How RVHS Badminton transformed us beyond the court</a>
-</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -89,9 +88,14 @@ RV — come experience the RV Spirit for yourself!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Netball</summary>
+<summary>Floorball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/floorball_2.png">
+</div>
+<p><a href="https://www.youtube.com/watch?v=-Z5jBukvKlQ" rel="noopener nofollow" target="_blank">How RVHS Badminton transformed us beyond the court</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
