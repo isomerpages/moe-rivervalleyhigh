@@ -60,6 +60,7 @@ will be able to get a feel of the spaces and environment that our students
 call home every day.</p>
 <p><u>Performance Details</u>
 <br>📅 9 May 2026 🕐 5.50pm – 7.50pm or 7.50pm – 9.50pm</p>
+<p>Scan the QR code to get your tickets</p>
 <p>Your RV journey could start here. We look forward to welcoming you to
 RV — come experience the RV Spirit for yourself!</p>
 <p></p>
