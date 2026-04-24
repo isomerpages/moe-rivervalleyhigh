@@ -239,7 +239,7 @@ RV — come experience the RV Spirit for yourself!</p>
 <h4>Clubs and Societies</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>EL Debate</summary>
+<summary>English Debate</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
