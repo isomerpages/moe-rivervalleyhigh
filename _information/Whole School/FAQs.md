@@ -902,7 +902,8 @@ to take effect.</p>
 he need to meet the school’s cut-off-point for S1 posting?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PSLE results must be eligible for <strong>Posting Group 3</strong> in order
+for a student to be posted to RVHS through DSA-Sec.</p>
 </td>
 </tr>
 </tbody>
