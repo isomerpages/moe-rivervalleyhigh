@@ -127,18 +127,18 @@ RV — come experience the RV Spirit for yourself!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=OQBzcBegUkA" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces</a>
-</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Wushu</summary>
+<summary>Volleyball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Wushu.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Volleyball.png">
 </div>
-<p></p>
+<p><a href="https://www.youtube.com/watch?v=OQBzcBegUkA" rel="noopener nofollow" target="_blank">RVHS Volleyball - All about aces</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
