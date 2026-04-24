@@ -76,14 +76,13 @@ RV — come experience the RV Spirit for yourself!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Floorball</summary>
+<summary>Basketball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/floorball_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/Basketball.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=9AeKik2i3dA" rel="noopener nofollow" target="_blank">RVHS Floorball - Beneath the blade</a>
+<p><a href="" rel="noopener nofollow" target="_blank">RVHS Basketball Giving our best shot</a>
 </p>
 </div>
 </details>
