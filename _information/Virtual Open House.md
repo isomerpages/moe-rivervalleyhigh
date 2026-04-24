@@ -10,7 +10,7 @@ description: ""
 </div>
 <h4>Click <a href="https://www.youtube.com/watch?v=5dfP8p7mm64&amp;source_ve_path=OTY3MTQ&amp;embeds_referring_euri=https%3A%2F%2Fwww.rivervalleyhigh.moe.edu.sg%2F" rel="noopener nofollow" target="_blank">here </a>to view Our RV Story Video</h4>
 <hr>
-<h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message from our Principal</a></h4>
+<h4>Your Journey Starts Here - <a href="https://www.youtube.com/watch?v=2_bKBz_Tuv8" rel="noopener nofollow" target="_blank">A Message From Our Principal</a></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/resizedP_s_photo_for_virtual_open_house.png">
 </div>
@@ -60,6 +60,7 @@ will be able to get a feel of the spaces and environment that our students
 call home every day.</p>
 <p><u>Performance Details</u>
 <br>📅 9 May 2026 🕐 5.50pm – 7.50pm or 7.50pm – 9.50pm</p>
+<p>Scan the QR code to get your tickets</p>
 <p>Your RV journey could start here. We look forward to welcoming you to
 RV — come experience the RV Spirit for yourself!</p>
 <p></p>
@@ -239,7 +240,7 @@ RV — come experience the RV Spirit for yourself!</p>
 <h4>Clubs and Societies</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>EL Debate</summary>
+<summary>English Debate</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
