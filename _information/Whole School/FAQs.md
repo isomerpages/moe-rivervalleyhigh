@@ -847,10 +847,12 @@ including multiple bus routes serving the area.</p>
 <p>Can my child transfer out of RV after 4 years?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The IP is a six-year programme. Students are expected to fulfil their
-commitment to the school for the full duration, and transfers to other
-schools are strongly discouraged. In particular, transfers to other IP
-schools are not allowed, unless under exceptional circumstances.</p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school for the duration of the 6-year
+Integrated Programme, and participate in the activities related to the
+talent they are selected for from Sec 1 to Sec 4.&nbsp;Students are strongly
+encouraged to continue pursuing the same talent area when they are in Junior
+College.</p>
 </td>
 </tr>
 <tr>
