@@ -19,13 +19,6 @@ sections:
           description: Click here
           url: /virtual-open-house/
   - infopic:
-      title: RV 70morrow 七十•启示
-      id: infopic
-      button: Click here to learn more about RV70morrow and Purchase Tickets
-      url: /rv70morrow/
-      alt: Image alt text
-      image: /images/RVMorrowQRcodenew.png
-  - infopic:
       title: Virtual Open House on 25 April 2026
       subtitle: Join us Online!
       id: infopic
@@ -33,6 +26,13 @@ sections:
       alt: Image alt text
       button: Visit our website here
       url: /virtual-open-house/
+  - infopic:
+      title: RV 70morrow 七十•启示
+      id: infopic
+      button: Click here to learn more about RV70morrow and Purchase Tickets
+      url: /rv70morrow/
+      alt: Image alt text
+      image: /images/RVMorrowQRcodenew.png
   - infopic:
       title: Class of 2025
       subtitle: Congratulations!
