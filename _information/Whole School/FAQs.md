@@ -754,15 +754,6 @@ students need to meet in order to be promoted to the next level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How does MOE's posting work?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please visit&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/how-posting-works" rel="noopener noreferrer nofollow" target="_blank">this site</a>&nbsp;to
-find out more.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>When will posting results be released?</p>
 </td>
 <td rowspan="1" colspan="1">
