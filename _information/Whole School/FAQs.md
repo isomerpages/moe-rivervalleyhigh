@@ -896,10 +896,18 @@ RVIP DSA exercise. They will also have to pass MOE AEIS for their DSA results
 to take effect.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If my child is offered admission to a secondary school through DSA, does
+he need to meet the school’s cut-off-point for S1 posting?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
 </details>
 </div>
-<p>If my child is offered admission to a secondary school through DSA, does
-he need to meet the school’s cut-off-point for S1 posting?</p>
+<p></p>
