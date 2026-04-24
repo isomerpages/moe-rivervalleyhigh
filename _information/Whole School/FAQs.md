@@ -281,16 +281,6 @@ violin. For Concert Band, the school will consider all musical instruments
 excluding piano and violin.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If my child gets accepted for Drama through DSA, does it mean he/she has
-to do drama as a subject in RV?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Your child has to take up Drama as his/her CCA if he/she accepts the offer
-to come into RV via Drama.</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
