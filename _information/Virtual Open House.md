@@ -91,21 +91,18 @@ RV — come experience the RV Spirit for yourself!</p>
 <details class="isomer-details">
 <summary>Netball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Netball</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/netball.png">
 </div>
 <p><a href="https://www.youtube.com/watch?v=hd1_T0zUl6k" rel="noopener nofollow" target="_blank">RVHS Netball - Shooting the shot!</a>
 </p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Softball</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/softball.png">
-</div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
