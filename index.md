@@ -31,6 +31,8 @@ sections:
       id: infopic
       image: /images/virtual_open_house_s.png
       alt: Image alt text
+      button: Visit our website here
+      url: /virtual-open-house/
   - infopic:
       title: Class of 2025
       subtitle: Congratulations!
