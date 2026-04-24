@@ -271,7 +271,7 @@ RV — come experience the RV Spirit for yourself!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/SLDA.png">
 </div>
-<p><a href="https://www.youtube.com/watch?v=HAC7iG4nXew" rel="noopener nofollow" target="_blank">RVHS Student Leader Development Academy</a>
+<p><a href="https://www.youtube.com/watch?v=lXKW_yJW9vw" rel="noopener nofollow" target="_blank">RVHS Student Leader Development Academy</a>
 </p>
 </div>
 </details>
