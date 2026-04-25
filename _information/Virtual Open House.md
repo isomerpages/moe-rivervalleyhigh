@@ -21,7 +21,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Virtual Open House/White_Modern_Back_To_School_Photo_Collage_Landscape_2_.jpg">
 </div>
-<h4>Follow us @rivervalleysg!</h4>
+<h4>Follow us @rivervalleysg</h4>
 <p></p>
 <p></p>
 <hr>
