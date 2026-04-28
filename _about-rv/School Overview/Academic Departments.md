@@ -206,8 +206,7 @@ excellence and reflective practice.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/photo1670414526.jpeg">
 </div>
-<p><strong>REQUIRE JACKSON'S INPUT VIDEO</strong>
-</p>
+<p></p>
 <p>双文化2019学习之旅</p>
 <p>自立化中学于2006年开办双文化课程以来，双文化课程一直都是我校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提升学生对学习东西文化的热忱，扎根本土，放眼世界。</p>
 <p>成立双文化领袖学研中心，是为整合现有课程活动，并加强我校双文化人才的遴选机制与培养计划。一个真正的双文化人，须具备三方面的知识与技能（简称“<strong>PAC</strong>”），缺一不可。</p>
