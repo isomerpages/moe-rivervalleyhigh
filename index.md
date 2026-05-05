@@ -18,6 +18,9 @@ sections:
         - title: Virtual Open House 25 April 2026
           description: Click here
           url: /virtual-open-house/
+        - title: DSA-JC Exercise
+          description: Click here
+          url: /information/dsa-jc/
   - infopic:
       title: RV 70morrow 七十•启示
       id: infopic
