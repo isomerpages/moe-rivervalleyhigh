@@ -74,7 +74,9 @@ to 11 August 2026. All applicants will receive notification from the school
 by Friday 3 July 2026 if they are shortlisted for Direct School Admission
 (DSA) selection. All shortlisted applicants who have participated in the
 selection will be informed of the outcome between 28 July and 11 August
-2026.</p>
+2026.
+<br>
+</p>
 <h4>Enquiries</h4>
 <ul data-tight="true" class="tight">
 <li>
