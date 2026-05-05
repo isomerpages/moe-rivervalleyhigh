@@ -66,8 +66,8 @@ proficiency and an e-portfolio in any of these domains:
 on both their demonstrated and potential ability to ensure that they benefit
 from the rigorous curriculum offered at RVHS.</p>
 <p><strong>Important Information (2026)*:</strong> 
-<br>Application for RVHS DSA-JC application starts from 6 May 2026 and will
-end on 29 June 2026 via the following link <a href="https://go.gov.sg/2026rvhsdsajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026rvhsdsajc</a>
+<br>Application for RVHS DSA-JC application period starts from 6 May 2026
+and will end on 29 June 2026 via the following link <a href="https://go.gov.sg/2026rvhsdsajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026rvhsdsajc</a>
 <br>
 <br>RVHS will conduct our DSA-JC selection tests and interviews from 29 June
 to 11 August 2026. All applicants will receive notification from the school
