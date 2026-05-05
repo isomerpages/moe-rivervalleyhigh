@@ -73,15 +73,8 @@ end on 29 June 2026 via the following link <a href="https://go.gov.sg/2026rvhsds
 to 11 August 2026. All applicants will receive notification from the school
 by Friday 3 July 2026 if they are shortlisted for Direct School Admission
 (DSA) selection. All shortlisted applicants who have participated in the
-selection will be informed of the outcome between 30 July and 12 Aug 2025.</p>
-<p>Selection tests and interviews: 29 Jun - 11 Aug.</p>
-<p>Rcv notification for selection tests by 3 Jul.</p>
-<p>Informed of outcome: 28 Jul - 11 Aug
-<br>
-<br>7 May 2025 and will end on 30 June 2025 via the following link <a href="https://go.gov.sg/2025rvhsdsajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025rvhsdsajc</a>.</p>
-<p></p>
-<p><strong>*Information on application details will be updated on 5 May 2026.</strong>
-</p>
+selection will be informed of the outcome between 28 July and 11 August
+2026.</p>
 <h4>Enquiries</h4>
 <ul data-tight="true" class="tight">
 <li>
