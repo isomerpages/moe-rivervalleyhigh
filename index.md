@@ -22,28 +22,22 @@ sections:
           description: Click here
           url: /information/dsa-jc/
   - infopic:
-      title: RV 70morrow 七十•启示
-      id: infopic
-      button: Click here to learn more about RV70morrow and Purchase Tickets
-      url: /rv70morrow/
-      alt: Image alt text
-      image: /images/RVMorrowQRcodenew.png
-  - infopic:
       title: Virtual Open House on 25 April 2026
-      subtitle: Join us Online!
+      subtitle: Join us online!
       id: infopic
-      image: /images/virtual_open_house_s.png
-      alt: Image alt text
-      button: Visit our website here
+      button: Visit our Website here
       url: /virtual-open-house/
+      alt: Image alt text
+      image: /images/virtual_open_house_s.png
   - infopic:
-      title: Class of 2025
-      subtitle: Congratulations!
+      title: RV70
+      subtitle: Celebrating
       id: infopic
       button: Read More
-      url: /2025-gce-a-level-results/
-      image: /images/2025 A Lvl  Distinction/IMG_4442.jpg
+      image: /images/RV70 (2026)/RV70_banner_for_emails.jpg
       alt: Image alt text
+      url: /rv70/
+      description: Learn more about RV70 and hear our stories.
   - infobar:
       title: Our RV Story
       id: infobar
@@ -55,14 +49,13 @@ sections:
         src="https://www.youtube.com/embed/5dfP8p7mm64?si=Q_1F-MXDNhb5uTwf"
         height="315" width="560"></iframe>
   - infopic:
-      title: RV70
-      subtitle: Celebrating
+      title: Class of 2025
+      subtitle: Congratulations!
       id: infopic
       button: Read More
-      image: /images/RV70 (2026)/RV70_banner_for_emails.jpg
+      url: /2025-gce-a-level-results/
+      image: /images/2025 A Lvl  Distinction/IMG_4442.jpg
       alt: Image alt text
-      url: /rv70/
-      description: Learn more about RV70 and hear our stories.
   - infopic:
       title: Check out our School Facilities
       subtitle: Our Spaces
