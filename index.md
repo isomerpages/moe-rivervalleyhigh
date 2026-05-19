@@ -26,7 +26,7 @@ sections:
       subtitle: Join us online!
       id: infopic
       button: Visit our Website here
-      url: i
+      url: /virtual-open-house/
       alt: Image alt text
       image: /images/virtual_open_house_s.png
   - infopic:
