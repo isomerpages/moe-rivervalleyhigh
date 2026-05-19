@@ -22,6 +22,14 @@ sections:
           description: Click here
           url: /information/dsa-jc/
   - infopic:
+      title: Virtual Open House on 25 April 2026
+      subtitle: Join us online!
+      id: infopic
+      button: Visit our Website here
+      url: i
+      alt: Image alt text
+      image: /images/virtual_open_house_s.png
+  - infopic:
       title: RV70
       subtitle: Celebrating
       id: infopic
@@ -90,11 +98,4 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
-  - infopic:
-      title: Virtual Open House on 25 April 2026
-      subtitle: Join us online!
-      id: infopic
-      button: Visit our Website here
-      url: i
-      alt: Image alt text
 ---
