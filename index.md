@@ -90,4 +90,11 @@ sections:
       subtitle: Celebrating RVIANS
       id: resources
       button: Read More
+  - infopic:
+      title: Virtual Open House on 25 April 2026
+      subtitle: Join us online!
+      id: infopic
+      button: Visit our Website here
+      url: i
+      alt: Image alt text
 ---
