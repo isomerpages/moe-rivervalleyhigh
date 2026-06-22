@@ -11,9 +11,9 @@ Y.LEAD is an acronym for “Youth. Leverage Educate Actuate Develop”. The semi
 
 Organised by our JC1 students, this seminar provides the platform for our students to:
 
-•	take action to develop a deeper understanding of issues affecting Singapore and the world
-•	learn from others’ experiences and embrace diverse perspectives
-•	develop values-based leadership skills and be empowered to become future leaders who can make a positive contribution to the community
+* take action to develop a deeper understanding of issues affecting Singapore and the world
+* learn from others’ experiences and embrace diverse perspectives
+* develop values-based leadership skills and be empowered to become future leaders who can make a positive contribution to the community
 
 The participants attend panel discussions, investigative journeys and participate in leadership exploration. The seminar also provides networking opportunities for our students as they get to interact with student leaders from other schools.
 
