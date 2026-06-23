@@ -42,29 +42,6 @@ description: ""
 </div>
 <h4><a href="https://www.youtube.com/watch?v=TzA7g6nAm7E&amp;feature=youtu.be" rel="noopener nofollow" target="_blank">Watch</a> this video to learn more about our vibrant CCAs!</h4>
 <hr>
-<h4>Watch Our Performing Arts In Action!</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/RVMorrowQRcodenew.png">
-</div>
-<p>RVHS offers DSA through the performing arts for students who demonstrate
-passion and potential in this area. If you wonder what the performing arts
-at RVHS looks like, come watch "RV, 70morrow", our school's first-ever
-promenade theatre production and experience firsthand the talent, dedication
-and creativity of our performing arts students. From theatre to dance to
-music, our CCAs will come together to bring to life the stories and spirit
-that have defined RVHS across seven decades — and this is the performing
-arts community that you might be joining.</p>
-<p><u>Explore Our Campus</u>
-<br>As "RV, 70morrow" takes you on a journey through our school campus, you
-will be able to get a feel of the spaces and environment that our students
-call home every day.</p>
-<p><u>Performance Details</u>
-<br>📅 9 May 2026 🕐 5.50pm – 7.50pm or 7.50pm – 9.50pm</p>
-<p>Scan the QR code to get your tickets</p>
-<p>Your RV journey could start here. We look forward to welcoming you to
-RV — come experience the RV Spirit for yourself!</p>
-<p></p>
-<p></p>
 <h4>Sports</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
