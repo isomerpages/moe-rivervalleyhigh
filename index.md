@@ -26,7 +26,7 @@ sections:
       id: infobar
       description: All staff will be away for Staff Development on Friday, 26 June
         2026. The General Office will be closed. For urgent matters, kindly call
-        9372 3221. Thank you.
+        65678115. Thank you.
   - infopic:
       title: Virtual Open House on 25 April 2026
       subtitle: Join us online!
