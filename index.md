@@ -21,12 +21,6 @@ sections:
         - title: DSA-JC Exercise
           description: Click here
           url: /information/dsa-jc/
-  - infobar:
-      title: Staff Development on 26 June 2026
-      id: infobar
-      description: All staff will be away for Staff Development on Friday, 26 June
-        2026. The General Office will be closed. For urgent matters, kindly call
-        65678115. Thank you.
   - infopic:
       title: Virtual Open House on 25 April 2026
       subtitle: Join us online!
