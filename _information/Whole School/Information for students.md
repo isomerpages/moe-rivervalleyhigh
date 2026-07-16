@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Whole School
 ---
+<p><strong>RVHS Incident Reporting Form</strong>
+<br>Click <a href="https://go.gov.sg/rvhsreporting" rel="noopener nofollow" target="_blank">here</a> to
+report bullying incidents.</p>
 <p><strong>Morning Assembly</strong>
 <br>Morning Assembly starts at 9 am on Monday and 8 am from Tues-Fri. Students
 must be at the assembly area or classrooms punctually at 9 am on Monday
