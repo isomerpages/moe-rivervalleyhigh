@@ -21,6 +21,13 @@ sections:
         - title: DSA-JC Exercise
           description: Click here
           url: /information/dsa-jc/
+  - infobar:
+      title: Student Recognition Awards
+      subtitle: Catch them going good!
+      id: infobar
+      description: Nominations close 31 July 2026
+      button: Click here
+      url: ..
   - infopic:
       title: Virtual Open House on 25 April 2026
       subtitle: Join us online!
