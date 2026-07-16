@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: Nominations close 31 July 2026
       button: Click here
-      url: ..
+      url: /student-recognition-awards/
   - infopic:
       title: Virtual Open House on 25 April 2026
       subtitle: Join us online!
