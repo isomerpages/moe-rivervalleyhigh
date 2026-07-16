@@ -26,7 +26,7 @@ sections:
       subtitle: Catch them going good!
       id: infobar
       description: Nominations close 31 July 2026
-      button: Click here
+      button: Nominate Now
       url: /student-recognition-awards/
   - infopic:
       title: Virtual Open House on 25 April 2026
