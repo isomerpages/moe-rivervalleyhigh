@@ -23,7 +23,7 @@ sections:
           url: /information/dsa-jc/
   - infobar:
       title: Student Recognition Awards
-      subtitle: Catch them going good!
+      subtitle: Catch them doing good!
       id: infobar
       description: Nominations close 31 July 2026
       button: Nominate Now
