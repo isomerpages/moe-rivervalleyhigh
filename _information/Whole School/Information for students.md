@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Whole School
 ---
-<p><strong>RVHS Incident Reporting Form</strong>
-<br>Click <a href="https://go.gov.sg/rvhsreporting" rel="noopener nofollow" target="_blank">here</a> to
-report bullying incidents.</p>
 <p><strong>Morning Assembly</strong>
 <br>Morning Assembly starts at 9 am on Monday and 8 am from Tues-Fri. Students
 must be at the assembly area or classrooms punctually at 9 am on Monday
@@ -46,5 +43,7 @@ flow, please do not wait at the drop-off points.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Traffic_Flow_inside_RVHS_Jan_2025.png">
 </div>
 <p>&nbsp;</p>
-<p></p>
+<p><strong>RVHS Incident Reporting Form</strong>
+<br>Click <a href="https://go.gov.sg/rvhsreporting" rel="noopener nofollow" target="_blank">here</a> to
+report bullying incidents.</p>
 <p>&nbsp;</p>
